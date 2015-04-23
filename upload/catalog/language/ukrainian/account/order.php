@@ -1,36 +1,41 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']         = 'История заказов';
+$_['heading_title']         = 'Історія замовлень';
 
 // Text
-$_['text_account']          = 'Личный Кабинет';
-$_['text_order']            = 'Заказ';
-$_['text_order_detail']     = 'Детали заказа';
-$_['text_invoice_no']       = '№ Счета:';
-$_['text_order_id']         = '№ Заказа:';
+$_['text_account']          = 'Особистий Кабінет';
+$_['text_order']            = 'Замовлення';
+$_['text_order_detail']     = 'Деталі замовлення';
+$_['text_invoice_no']       = '№ Рахунка:';
+$_['text_order_id']         = '№ Замовлення:';
 $_['text_status']           = 'Статус:';
-$_['text_date_added']       = 'Добавлено:';
-$_['text_customer']         = 'Покупатель:';
-$_['text_shipping_address'] = 'Адрес доставки';
-$_['text_shipping_method']  = 'Способ доставки:';
-$_['text_payment_address']  = 'Платёжный адрес';
-$_['text_payment_method']   = 'Способ оплаты:';
-$_['text_products']         = 'Наименований товаров:';
-$_['text_total']            = 'Всего:';
-$_['text_comment']          = 'Комментарий к заказу';
-$_['text_history']          = 'История заказа';
-$_['text_success']          = 'Товары из заказа #%s успешно добавлены в Вашу корзину!';
-$_['text_empty']            = 'Вы еще не совершали покупок!';
-$_['text_error']            = 'Запрошенный заказ не найден!';
+$_['text_date_added']       = 'Додано:';
+$_['text_customer']         = 'Покупець:';
+$_['text_shipping_address'] = 'Адреса доставки';
+$_['text_shipping_method']  = 'Спосіб доставки:';
+$_['text_payment_address']  = 'Платіжна адреса';
+$_['text_payment_method']   = 'Спосіб оплати:';
+$_['text_products']         = 'Назва товару:';
+$_['text_total']            = 'Всього:';
+$_['text_comment']          = 'Коментар до замовлення';
+$_['text_history']          = 'Історія замовлення';
+$_['text_success']          = 'Товари з замовлення #%s успішно додані в Вашу корзину!';
+$_['text_empty']            = 'Ви ще не здійснювали покупок!';
+$_['text_error']            = 'Запитанне замовлення не знайдено!';
 
 // Column
-$_['column_name']           = 'Название товара';
+$_['column_name']           = 'Назва товару';
 $_['column_model']          = 'Модель';
-$_['column_quantity']       = 'Количество';
-$_['column_price']          = 'Цена';
-$_['column_total']          = 'Всего:';
-$_['column_action']         = 'Выберите действие:';
-$_['column_date_added']     = 'Добавлено';
+$_['column_quantity']       = 'Кількість';
+$_['column_price']          = 'Ціна';
+$_['column_total']          = 'Всього:';
+$_['column_action']         = 'Виберіть дію:';
+$_['column_date_added']     = 'Додано';
 $_['column_status']         = 'Статус';
-$_['column_comment']        = 'Комментарий';
+$_['column_comment']        = 'Коментар';
 ?>
