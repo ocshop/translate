@@ -1,4 +1,4 @@
-# Перевод для OCSHOP.CMS, OpenCart, OcStore.
+## Украинский перевод 1.5.6.4 для OCSHOP.CMS, OpenCart, OcStore.
 
 ## Скачать OCSHOP.CMS.
 
