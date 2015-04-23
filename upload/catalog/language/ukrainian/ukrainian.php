@@ -1,6 +1,11 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Locale
-$_['code']                  = 'ru';
+$_['code']                  = 'uk';
 $_['direction']             = 'ltr';
 $_['date_format_short']     = 'd.m.Y';
 $_['date_format_long']      = 'l d F Y';
@@ -9,55 +14,55 @@ $_['decimal_point']         = '.';
 $_['thousand_point']        = '';
 
 // Text
-$_['text_home']             = '<i class="fa fa-home"></i>Главная';
-$_['text_yes']              = 'Да';
-$_['text_no']               = 'Нет';
-$_['text_none']             = ' --- Не выбрано --- ';
-$_['text_select']           = ' --- Выберите --- ';
-$_['text_all_zones']        = 'Все зоны';
-$_['text_pagination']       = 'Показано с {start} по {end} из {total} (всего {pages} страниц)';
+$_['text_home']             = '<i class="fa fa-home"></i>Головна';
+$_['text_yes']              = 'Так';
+$_['text_no']               = 'Ні';
+$_['text_none']             = ' --- Немає --- ';
+$_['text_select']           = ' --- Оберіть --- ';
+$_['text_all_zones']        = 'Усі зони';
+$_['text_pagination']       = 'Показано с {start} по {end} із {total} (всього {pages} сторінок)';
 $_['text_separator']        = ' &raquo; ';
 
 // Buttons
-$_['button_add_address']    = 'Добавить адрес';
+$_['button_add_address']    = 'Додати адресу';
 $_['button_back']           = 'Назад';
-$_['button_continue']       = 'Продолжить';
-$_['button_cart']           = 'Купить';
-$_['button_compare']        = 'В сравнение';
+$_['button_continue']       = 'Продовжити';
+$_['button_cart']           = 'Купити';
+$_['button_compare']        = 'До порівняння';
 $_['button_wishlist']       = 'В закладки';
-$_['button_checkout']       = 'Оформление заказа';
-$_['button_confirm']        = 'Подтверждение заказа';
-$_['button_coupon']         = 'Применение купона';
-$_['button_delete']         = 'Удалить';
-$_['button_download']       = 'Скачать';
-$_['button_edit']           = 'Редактировать';
-$_['button_filter']         = 'Уточнение поиска';
-$_['button_new_address']    = 'Новый адрес';
-$_['button_change_address'] = 'Изменить адрес';
-$_['button_reviews']        = 'Отзывы';
-$_['button_write']          = 'Написать отзыв';
-$_['button_login']          = 'Войти';
-$_['button_update']         = 'Обновить';
-$_['button_remove']         = 'Удалить';
-$_['button_reorder']        = 'Дополнительный заказ';
-$_['button_return']         = 'Возврат товара';
-$_['button_shopping']       = 'Продолжить покупки';
-$_['button_search']         = 'Поиск';
-$_['button_shipping']       = 'Применить Доставку';
-$_['button_guest']          = 'Оформление заказа без регистрации';
-$_['button_view']           = 'Просмотр';
-$_['button_voucher']        = 'Применить подарочный сертификат';
-$_['button_upload']         = 'Загрузить файл';
-$_['button_reward']         = 'Применить бонусные баллы';
-$_['button_quote']          = 'Узнать цены';
+$_['button_checkout']       = 'Оформити';
+$_['button_confirm']        = 'Підтвердження замовлення';
+$_['button_coupon']         = 'Застосування купона';
+$_['button_delete']         = 'Видалити';
+$_['button_download']       = 'Завантажити';
+$_['button_edit']           = 'Редагувати';
+$_['button_filter']         = 'Уточнити пошук';
+$_['button_new_address']    = 'Нова адреса';
+$_['button_change_address'] = 'Змінити адресу';
+$_['button_reviews']        = 'Відгуки';
+$_['button_write']          = 'Написати відгук';
+$_['button_login']          = 'Увійти';
+$_['button_update']         = 'Оновити';
+$_['button_remove']         = 'Видалити';
+$_['button_reorder']        = 'Додаткове замовлення';
+$_['button_return']         = 'Повернення товару';
+$_['button_shopping']       = 'Продовжити покупки';
+$_['button_search']         = 'Пошук';
+$_['button_shipping']       = 'Підтвердити доставку';
+$_['button_guest']          = 'Оформлення замовлення без реєстрації';
+$_['button_view']           = 'Перегляд';
+$_['button_voucher']        = 'Застосувати подарунковий сертифікат';
+$_['button_upload']         = 'Завантажити файл';
+$_['button_reward']         = 'Застосувати бонусні бали';
+$_['button_quote']          = 'Дізнатися ціни';
 
 // Error
-$_['error_upload_1']        = 'Загружаемый на сервер файл превышает параметр upload_max_filesize в php.ini!';
-$_['error_upload_2']        = 'Загружаемый на сервер файл превышает параметр MAX_FILE_SIZE который определен в HTML форме!';
-$_['error_upload_3']        = 'Загружаемый на сервер файл был загружен не полностью!';
-$_['error_upload_4']        = 'Файл не был загружен!';
-$_['error_upload_6']        = 'Отсутсвует временная папка!';
-$_['error_upload_7']        = 'Не удалось записать файл на диск!';
-$_['error_upload_8']        = 'Загружаемый на сервер файл не подходит по расширению!';
-$_['error_upload_999']      = 'Неизвестная ошибка!';
+$_['error_upload_1']        = 'Завантажений на сервер файл перевищує параметр upload_max_filesize в php.ini!';
+$_['error_upload_2']        = 'Завантажений на сервер файл перевищує параметр MAX_FILE_SIZE який визначений в HTML формі!';
+$_['error_upload_3']        = 'Завантажений на сервер файл був завантажений неповністю!';
+$_['error_upload_4']        = 'Файл не був завантажений!';
+$_['error_upload_6']        = 'Відсутня тимчасова папка!';
+$_['error_upload_7']        = 'Не вдалося записати файл на диск!';
+$_['error_upload_8']        = 'Завантажений на сервер файл не підходить по розширенню!';
+$_['error_upload_999']      = 'Невідома помилка!';
 ?>
