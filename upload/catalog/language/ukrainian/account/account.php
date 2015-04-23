@@ -1,21 +1,26 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']      = 'Личный Кабинет';
+$_['heading_title']      = 'Особистий Кабінет';
 
 // Text
-$_['text_account']       = 'Личный Кабинет';
-$_['text_my_account']    = 'Моя учетная запись';
-$_['text_my_orders']     = 'Мои заказы';
-$_['text_my_newsletter'] = 'Подписка';
-$_['text_edit']          = 'Изменить контактную информацию';
-$_['text_password']      = 'Изменить свой пароль';
-$_['text_address']       = 'Изменить мои адреса';
-$_['text_wishlist']      = 'Изменить закладки';
-$_['text_order']         = 'История заказов';
-$_['text_download']      = 'Файлы для скачивания';
-$_['text_reward']        = 'Бонусные баллы';
-$_['text_return']        = 'Запросы на возврат';
-$_['text_transaction']   = 'История фин. операций';
-$_['text_newsletter']    = 'Подписаться или отказаться от подписки на рассылку новостей';
-$_['text_recurring']     = 'Регулярные платежи';
+$_['text_account']       = 'Особистий Кабінет';
+$_['text_my_account']    = 'Мій обліковий запис';
+$_['text_my_orders']     = 'Мої замовлення';
+$_['text_my_newsletter'] = 'Підписка';
+$_['text_edit']          = 'Змінити контактну інформацію';
+$_['text_password']      = 'Змінити свій пароль';
+$_['text_address']       = 'Змінити мої адреси';
+$_['text_wishlist']      = 'Змінити закладки';
+$_['text_order']         = 'Історія замовлень';
+$_['text_download']      = 'Файли для скачування';
+$_['text_reward']        = 'Бонусні бали';
+$_['text_return']        = 'Запити на повернення';
+$_['text_transaction']   = 'Історія фін. операцій';
+$_['text_newsletter']    = 'Підписатися або відмовитися від підписки на розсилку новин';
+$_['text_recurring']     = 'Регулярні платежі';
 ?>
