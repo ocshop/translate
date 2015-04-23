@@ -1,14 +1,19 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']   = 'Файлы для скачивания';
+$_['heading_title']   = 'Файли для скачування';
 
 // Text
-$_['text_account']    = 'Личный Кабинет';
-$_['text_downloads']  = 'Файлы для скачивания';
-$_['text_order']      = '№ заказа:';
-$_['text_date_added'] = 'Добавлено:';
-$_['text_name']       = 'Имя:';
-$_['text_remaining']  = 'Осталось:';
-$_['text_size']       = 'Размер:';
-$_['text_empty']      = 'Нет доступных файлов для скачивания!';
+$_['text_account']    = 'Особистий Кабінет';
+$_['text_downloads']  = 'Файли для скачування';
+$_['text_order']      = '№ замовлення:';
+$_['text_date_added'] = 'Додано:';
+$_['text_name']       = 'Ім’я:';
+$_['text_remaining']  = 'Залишилося:';
+$_['text_size']       = 'Розмір:';
+$_['text_empty']      = 'Немає доступних файлів для скачування!';
 ?>
