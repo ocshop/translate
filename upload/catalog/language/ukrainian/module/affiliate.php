@@ -1,16 +1,21 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']    = 'Партнерский раздел';
+$_['heading_title']    = 'Партнерський розділ';
 
 // Text
-$_['text_register']    = 'Регистрация';
-$_['text_login']       = 'Вход';
-$_['text_logout']      = 'Выход';
-$_['text_forgotten']   = 'Забыли пароль?';
-$_['text_account']     = 'Моя информация';
-$_['text_edit']        = 'Редактировать персональную информацию';
+$_['text_register']    = 'Реєстрація';
+$_['text_login']       = 'Вхід';
+$_['text_logout']      = 'Вихід';
+$_['text_forgotten']   = 'Забули пароль?';
+$_['text_account']     = 'Моя інформація';
+$_['text_edit']        = 'Змінити контактну інформацію';
 $_['text_password']    = 'Пароль';
-$_['text_payment']     = 'Способы оплаты';
-$_['text_tracking']    = 'Реферальный код';
-$_['text_transaction'] = 'Операции';
+$_['text_payment']     = 'Способи оплати';
+$_['text_tracking']    = 'Реферальний код';
+$_['text_transaction'] = 'Операції';
 ?>
