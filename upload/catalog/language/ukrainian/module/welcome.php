@@ -1,3 +1,8 @@
 <?php
-$_['heading_title'] = 'Добро пожаловать в %s';
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
+$_['heading_title'] = 'Ласкаво просимо в %s';
 ?>
