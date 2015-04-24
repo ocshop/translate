@@ -1,7 +1,12 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title'] = 'Запрашиваемая страница не найдена!';
+$_['heading_title'] = 'Запитувана сторінка не знайдена!';
 
 // Text
-$_['text_error']    = 'Запрашиваемая страница не найдена!';
+$_['text_error']    = 'Запитувана сторінка не знайдена!';
 ?>
