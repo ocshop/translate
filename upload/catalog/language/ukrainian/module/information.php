@@ -1,8 +1,13 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title'] = 'Информация';
+$_['heading_title'] = 'Інформація';
 
 // Text
-$_['text_contact']  = 'Связаться с нами';
-$_['text_sitemap']  = 'Карта сайта';
+$_['text_contact']  = 'Зв’язатися з нами';
+$_['text_sitemap']  = 'Мапа сайту';
 ?>
