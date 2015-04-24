@@ -1,37 +1,42 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Text
-$_['text_new_subject']          = '%s - заказ %s';
-$_['text_new_greeting']         = 'Благодарим за интерес к товарам %s. Ваш заказ получен и поступил в обработку.';
-$_['text_new_received']         = 'Вы получили заказ.';
-$_['text_new_link']          	= 'Для просмотра Вашего заказа перейдите по ссылке:';
-$_['text_new_order_detail']     = 'Детализация заказа';
-$_['text_new_instruction']      = 'Инструкции';
-$_['text_new_order_id']         = '№ заказа:';
-$_['text_new_date_added']       = 'Дата заказа:';
-$_['text_new_order_status']     = 'Состояние заказа:';
-$_['text_new_payment_method']   = 'Способ оплаты:';
-$_['text_new_shipping_method']  = 'Способ доставки:';
+$_['text_new_subject']          = '%s - замовлення %s';
+$_['text_new_greeting']         = 'Дякуємо за інтерес до товарів %s. Ваше замовлення отримано і поступило в обробку.';
+$_['text_new_received']         = 'Ви отримали замовлення.';
+$_['text_new_link']          	= 'Для перегляду Вашого замовлення перейдіть за посиланням:';
+$_['text_new_order_detail']     = 'Деталізація замовлення';
+$_['text_new_instruction']      = 'Інструкції';
+$_['text_new_order_id']         = '№ замовлення:';
+$_['text_new_date_added']       = 'Дата замовлення:';
+$_['text_new_order_status']     = 'Стан замовлення:';
+$_['text_new_payment_method']   = 'Спосіб оплати:';
+$_['text_new_shipping_method']  = 'Спосіб доставки:';
 $_['text_new_email']  			= 'E-mail:';
 $_['text_new_telephone']  		= 'Телефон:';
-$_['text_new_ip']  				= 'IP-адрес:';
-$_['text_new_payment_address']  = 'Платёжный адрес';
-$_['text_new_shipping_address'] = 'Адрес доставки';
-$_['text_new_products']         = 'Товары';
+$_['text_new_ip']  				= 'IP-адреса:';
+$_['text_new_payment_address']  = 'Платіжна адреса';
+$_['text_new_shipping_address'] = 'Адреса доставки';
+$_['text_new_products']         = 'Товари';
 $_['text_new_product']          = 'Товар';
 $_['text_new_model']            = 'Модель';
-$_['text_new_quantity']         = 'Количество';
-$_['text_new_price']            = 'Цена';
-$_['text_new_order_total']      = 'Заказ итого:';
-$_['text_new_total']            = 'Итого:';
-$_['text_new_download']         = 'После подтверждения оплаты, чтобы скачать товар, перейдите по ссылке:';
-$_['text_new_comment']          = 'Комментарий к Вашему заказу:';
-$_['text_new_footer']           = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';
-$_['text_new_powered']          = 'Работает на: <a href="http://ocshop.net/">OCSHOP.CMS</a>.';
-$_['text_update_subject']       = '%s - Заказ изменен %s';
-$_['text_update_order']         = '№ заказа';
-$_['text_update_date_added']    = 'Дата заказа:';
-$_['text_update_order_status']  = 'Ваш Заказ обновлен со следующим статусом:';
-$_['text_update_comment']       = 'Комментарий к Вашему заказу:';
-$_['text_update_link']          = 'Для просмотра заказа нажмите по ссылке ниже:';
-$_['text_update_footer']        = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';
+$_['text_new_quantity']         = 'Кількість';
+$_['text_new_price']            = 'Ціна';
+$_['text_new_order_total']      = 'Замовлення разом:';
+$_['text_new_total']            = 'Разом:';
+$_['text_new_download']         = 'Після підтвердження оплати, щоб скачати товар, перейдіть за посиланням:';
+$_['text_new_comment']          = 'Коментар до Вашого замовлення:';
+$_['text_new_footer']           = 'Якщо у Вас є які-небудь питання, дайте відповідь на це повідомлення.';
+$_['text_new_powered']          = 'Працює на: <a href="http://ocshop.net/">OCSHOP.CMS</a>.';
+$_['text_update_subject']       = '%s - Замовлення змінено %s';
+$_['text_update_order']         = '№ замовлення';
+$_['text_update_date_added']    = 'Дата замовлення:';
+$_['text_update_order_status']  = 'Ваше Замовлення оновлено з наступним статусом:';
+$_['text_update_comment']       = 'Коментар до Вашого замовлення:';
+$_['text_update_link']          = 'Для перегляду замовлення натисніть по посиланню нижче:';
+$_['text_update_footer']        = 'Якщо у Вас є які-небудь питання, дайте відповідь на це повідомлення.';
 ?>
