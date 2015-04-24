@@ -18,7 +18,7 @@ $_['text_your_password']   = 'Ваш пароль';
 $_['text_agree']           = 'Я прочитав <a class="colorbox" href="%s" alt="%s"><b>%s</b></a> і згоден з умовами';
 
 // Entry
-$_['entry_firstname']      = 'Ім’я:';
+$_['entry_firstname']      = 'Ім’я, По батькові:';
 $_['entry_lastname']       = 'Прізвище:';
 $_['entry_email']          = 'E-Mail:';
 $_['entry_telephone']      = 'Телефон:';

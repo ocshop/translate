@@ -1,44 +1,49 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']                  = 'Оформление заказа';
+$_['heading_title']                  = 'Оформлення замовлення';
 
 // Text
 $_['text_cart']                      = 'Корзина покупок';
-$_['text_checkout_option']           = 'Шаг 1: Способ оформления заказа';
-$_['text_checkout_account']          = 'Шаг 2: Профиль &amp; Платежная информация';
-$_['text_checkout_payment_address']  = 'Шаг 2: Платежная информация';
-$_['text_checkout_shipping_address'] = 'Шаг 3: Адрес доставки';
-$_['text_checkout_shipping_method']  = 'Шаг 4: Способ доставки';
-$_['text_checkout_payment_method']   = 'Шаг 5: Способ оплаты';
-$_['text_checkout_confirm']          = 'Шаг 6: Подтверждение заказа';
-$_['text_modify']                    = 'Изменить &raquo;';
-$_['text_new_customer']              = 'Новый покупатель';
-$_['text_returning_customer']        = 'Зарегистрированный пользователь';
-$_['text_checkout']                  = 'Опции Оформления заказа:';
-$_['text_i_am_returning_customer']   = 'Я совершал здесь покупки ранее и регистрировался';
-$_['text_register']                  = 'Регистрация';
-$_['text_guest']                     = 'Оформить заказ без регистрации';
-$_['text_register_account']          = 'Создание учётной записи поможет делать покупки быстрее и удобнее, не внося одни и те же данные многократно (адрес доставки, имя, телефон и тому подобное). Вы также сможете отслеживать статус своего заказа, пользоваться Закладками, видеть свои предыдущие заказы, накапливать бонусные баллы (на них тоже можно купить товары!) или получить скидку как наш постоянный покупатель.';
-$_['text_forgotten']                 = 'Забыли пароль?';
-$_['text_your_details']              = 'Личные данные';
-$_['text_your_address']              = 'Адрес';
+$_['text_checkout_option']           = 'Крок 1: Спосіб оформлення замовлення';
+$_['text_checkout_account']          = 'Крок 2: Профіль &amp; Платіжна інформація';
+$_['text_checkout_payment_address']  = 'Крок 2: Платіжна інформація';
+$_['text_checkout_shipping_address'] = 'Крок 3: Адреса доставки';
+$_['text_checkout_shipping_method']  = 'Крок 4: Спосіб доставки';
+$_['text_checkout_payment_method']   = 'Крок 5: Спосіб оплати';
+$_['text_checkout_confirm']          = 'Крок 6: Підтвердження замовлення';
+$_['text_modify']                    = 'Змінити &raquo;';
+$_['text_new_customer']              = 'Новий покупець';
+$_['text_returning_customer']        = 'Зареєстрований покупець';
+$_['text_checkout']                  = 'Опції Оформлення замовлення:';
+$_['text_i_am_returning_customer']   = 'Я здійснював тут покупки раніше і реєструвався';
+$_['text_register']                  = 'Реєстрація';
+$_['text_guest']                     = 'Оформити замовлення без реєстрації';
+$_['text_register_account']          = 'Створення облікового запису допомагає робити покупки швидше і зручніше, не вносячи одні й ті ж дані багаторазово (адресу доставки, ім’я, телефон тощо). Ви також зможете відслідковувати статус свого замовлення, користуватися Закладками, бачити свої попередні замовлення, накопичувати бонусні бали (на них теж можна купити товари!) Або отримати знижку як наш постійний покупець.';
+$_['text_forgotten']                 = 'Забули пароль?';
+$_['text_your_details']              = 'Особисті дані';
+$_['text_your_address']              = 'Адреса';
 $_['text_your_password']             = 'Пароль';
-$_['text_agree']                     = 'Я прочитал(-а) <a class="colorbox" href="%s" alt="%s"><b>%s</b></a> и согласен(-на) с условиями';
-$_['text_address_new']               = 'Я хочу использовать новый адрес';
-$_['text_address_existing']          = 'Я хочу использовать существующий адрес';
-$_['text_shipping_method']           = 'Выберите удобный способ доставки для этого заказа:';
-$_['text_payment_method']            = 'Выберите способ оплаты для этого заказа:';
-$_['text_comments']                  = 'Вы можете добавить комментарий к своему заказу:';
+$_['text_agree']                     = 'Я прочитав(-а) <a class="colorbox" href="%s" alt="%s"><b>%s</b></a> і згоден (-на) з умовами';
+$_['text_address_new']               = 'Я хочу використовувати нову адресу';
+$_['text_address_existing']          = 'Я хочу використовувати існуючу адресу';
+$_['text_shipping_method']           = 'Оберіть зручний спосіб доставки для цього замовлення:';
+$_['text_payment_method']            = 'Оберіть спосіб оплати для цього замовлення:';
+$_['text_comments']                  = 'Ви можете додати коментар до свого замовлення:';
 
 // Column
-$_['column_name']                    = 'Название товара';
+$_['column_name']                    = 'Назва товару';
 $_['column_model']                   = 'Модель';
-$_['column_quantity']                = 'Количество';
-$_['column_price']                   = 'Цена';
-$_['column_total']                   = 'Итого';
+$_['column_quantity']                = 'Кількість';
+$_['column_price']                   = 'Ціна';
+$_['column_total']                   = 'Разом';
 
 // Entry
-$_['entry_email_address']            = 'E-Mail Адрес:';
+$_['entry_email_address']            = 'E-Mail Адреса:';
 $_['entry_email']                    = 'E-Mail:';
 $_['entry_password']                 = 'Пароль:';
 $_['entry_confirm']                  = 'Подтверждение пароля:';
@@ -50,8 +55,8 @@ $_['entry_company']                  = 'Компания:';
 $_['entry_customer_group']           = 'Группа покупателей:';
 $_['entry_company_id']               = 'Регистрационный номер компании:';
 $_['entry_tax_id']                   = 'Налоговый номер:';
-$_['entry_address_1']                = 'Адрес:';
-$_['entry_address_2']                = 'Адрес (продолжение):';
+$_['entry_address_1']                = 'Адреса:';
+$_['entry_address_2']                = 'Адреса (продолжение):';
 $_['entry_postcode']                 = 'Индекс:';
 $_['entry_city']                     = 'Город:';
 $_['entry_country']                  = 'Страна:';
