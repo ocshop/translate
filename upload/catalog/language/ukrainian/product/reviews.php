@@ -1,7 +1,12 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title'] = 'Отзывы покупателей';
+$_['heading_title'] = 'Відгуки покупців';
 
 // Text
-$_['text_empty'] = 'Нет ниодного отзыва!';
+$_['text_empty'] = 'Немає жодного відгуку!';
 ?>
