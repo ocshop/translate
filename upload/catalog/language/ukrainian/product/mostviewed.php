@@ -1,34 +1,39 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']     = 'Популярные Товары';
+$_['heading_title']     = 'Популярні Товари';
 
 // Text
-$_['text_empty']        = 'Нет Популярных Товаров.';
-$_['text_quantity']     = 'Количество:';
-$_['text_manufacturer'] = 'Производитель:';
+$_['text_empty']        = 'Немає Популярних Товарів.';
+$_['text_quantity']     = 'Кількість:';
+$_['text_manufacturer'] = 'Виробник:';
 $_['text_model']        = 'Модель:'; 
-$_['text_points']       = 'Бонусные баллы:'; 
-$_['text_price']        = 'Цена:'; 
-$_['text_tax']          = 'Без НДС:';
-$_['text_reviews']      = 'Отзывов: %s'; 
-$_['text_compare']      = 'Сравнение товаров (%s)'; 
+$_['text_points']       = 'Бонусні бали:'; 
+$_['text_price']        = 'Ціна:'; 
+$_['text_tax']          = 'Без ПДВ:';
+$_['text_reviews']      = 'Відгуків: %s'; 
+$_['text_compare']      = 'Порівняння товарів (%s)'; 
 $_['text_display']      = 'Вид:';
 $_['text_list']         = 'Списком';
-$_['text_grid']         = 'Таблицей';
-$_['text_sort']         = 'Сортировка:';
-$_['text_default']      = 'По умолчанию';
-$_['text_name_asc']     = 'Наименование (А -&gt; Я)';
-$_['text_name_desc']    = 'Наименование (Я -&gt; А)';
-$_['text_price_asc']    = 'Цена (по возрастанию)';
-$_['text_price_desc']   = 'Цена (по убыванию)';
-$_['text_rating_asc']   = 'Рейтинг (по возрастанию)';
-$_['text_rating_desc']  = 'Рейтинг (по убыванию)';
-$_['text_viewed_asc']   = 'Популярность (по возрастанию)';
-$_['text_viewed_desc']  = 'Популярность (по убыванию)';
+$_['text_grid']         = 'Таблицею';
+$_['text_sort']         = 'Сортування:';
+$_['text_default']      = 'За замовчуванням';
+$_['text_name_asc']     = 'Найменування (А -&gt; Я)';
+$_['text_name_desc']    = 'Найменування (Я -&gt; А)';
+$_['text_price_asc']    = 'Ціна (за зростанням)';
+$_['text_price_desc']   = 'Ціна (за спаданням)';
+$_['text_rating_asc']   = 'Рейтинг (за зростанням)';
+$_['text_rating_desc']  = 'Рейтинг (за спаданням)';
+$_['text_viewed_asc']   = 'Популярність (за зростанням)';
+$_['text_viewed_desc']  = 'Популярність (за спаданням)';
 $_['text_model_asc']    = 'Модель (А -&gt; Я)';
 $_['text_model_desc']   = 'Модель (Я -&gt; А)';
-$_['text_date_asc']     = 'Дата (по возрастанию)';
-$_['text_date_desc']    = 'Дата (по убыванию)';
-$_['text_limit']        = 'Показать:';
-$_['text_benefits']     = 'Преимущества:';
+$_['text_date_asc']     = 'Дата (за зростанням)';
+$_['text_date_desc']    = 'Дата (за спаданням)';
+$_['text_limit']        = 'Показати:';
+$_['text_benefits']     = 'Переваги:'
 ?>
