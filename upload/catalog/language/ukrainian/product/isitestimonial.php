@@ -1,38 +1,43 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']  	= 'Отзывы о Магазине';
-$_['isi_testimonial'] 	= 'Отзыв отправлен';
+$_['heading_title']  	= 'Відгуки про Магазин';
+$_['isi_testimonial'] 	= 'Відгук відправлений';
 
 // Text 
-$_['text_message']   	= '<p>Ваш отзыв успешно отправлен!</p>';
-$_['text_note']      	= '<span style="color: #FF0000;">Важно:</span> HTML не переводиться!';
-$_['text_average']      = 'Средний балл:';
-$_['text_stars']        = '%s из 5!';
-$_['text_conditions'] 	= 'Здесь Вы можете оставить свой отзыв о работе магазина или задать вопрос.';
-$_['text_add'] 		= 'Появились новые отзывы.';
-$_['button_send'] 	= 'Отправить';
+$_['text_message']   	= '<p>Ваш відгук успішно відправлений!</p>';
+$_['text_note']      	= '<span style="color: #FF0000;">Важливо:</span> HTML не підтримується!';
+$_['text_average']      = 'Середній бал:';
+$_['text_stars']        = '%s з 5!';
+$_['text_conditions'] 	= 'Тут Ви можете залишити свій відгук про роботу магазину або задати питання.';
+$_['text_add'] 			= 'З’явилися нові відгуки.';
+$_['button_send'] 		= 'Відправити';
 
 
 // Entry Fields
-$_['entry_name']     	= 'Имя:';
-$_['entry_city']     	= 'Город:';
-$_['entry_email']    	= 'E-Mail (не для публикации):';
+$_['entry_name']     	= 'Ім’я:';
+$_['entry_city']     	= 'Місто:';
+$_['entry_email']    	= 'E-Mail (не для публікації):';
 $_['entry_title']	 	= 'Тема:';
-$_['entry_enquiry']  	= 'Сообщение:';
-$_['entry_captcha']  	= 'Введите код:';
+$_['entry_enquiry']  	= 'Повідомлення:';
+$_['entry_captcha']  	= 'Введіть код:';
 $_['entry_rating']      = 'Рейтинг:';
-$_['entry_good']        = 'Отлично';
-$_['entry_bad']         = 'Плохо';
+$_['entry_good']        = 'Відмінно';
+$_['entry_bad']         = 'Погано';
 
 
 // Email
-$_['email_subject']  	= 'Запрос %s';
+$_['email_subject']  	= 'Запит %s';
 
 // Errors
-$_['error_name']     	= 'Имя должно быть от 3 до 32 символов!';
-$_['error_title']     	= 'Тема должна быть от 3 до 64 символов!';
-$_['error_email']    	= 'Неправильный E-Mail!';
-$_['error_enquiry']  	= 'Сообщение должно быть от 1 до 1000 символов!';
-$_['error_captcha']  	= 'Проверочный код не совпадает!';
+$_['error_name']     	= 'Ім’я повинно бути від 1 до 32 символів!';
+$_['error_title']     	= 'Тема повинна бути від 1 до 32 символів!';
+$_['error_email']    	= 'E-Mail введено невірно!';
+$_['error_enquiry']  	= 'Текст відгуку має бути від 1 до 1000 символів!';
+$_['error_captcha']  	= 'Код, вказаний на картинці, введено невірно!';
 
 ?>
