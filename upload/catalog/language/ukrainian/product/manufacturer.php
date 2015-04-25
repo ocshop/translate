@@ -1,33 +1,38 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']     = 'Найдите свой любимый бренд';
+$_['heading_title']     = 'Знайдіть свій улюблений бренд';
 
 // Text
 $_['text_brand']        = 'Бренд';
-$_['text_index']        = 'Алфавитный указатель:';
-$_['text_error']        = 'Производитель не найден!';
-$_['text_empty']        = 'Товары данного производителя отсутствуют.';
-$_['text_quantity']     = 'Кол-во:';
-$_['text_manufacturer'] = 'Производитель:';
+$_['text_index']        = 'Алфавітний покажчик:';
+$_['text_error']        = 'Виробник не знайдений!';
+$_['text_empty']        = 'Товари даного виробника відсутні.';
+$_['text_quantity']     = 'Кількість:';
+$_['text_manufacturer'] = 'Виробник:';
 $_['text_model']        = 'Модель:';
-$_['text_points']       = 'Бонусные баллы:';
-$_['text_price']        = 'Цена:';
-$_['text_tax']          = 'Без НДС:';
-$_['text_reviews']      = 'На основе %s отзывов.';
-$_['text_compare']      = 'Сравнение товаров (%s)';
+$_['text_points']       = 'Бонусні бали:'; 
+$_['text_price']        = 'Ціна:'; 
+$_['text_tax']          = 'Без ПДВ:';
+$_['text_reviews']  	= 'На підставі %s відгуків.';
+$_['text_compare']      = 'Порівняння товарів (%s)'; 
 $_['text_display']      = 'Вид:';
-$_['text_list']         = 'Список';
-$_['text_grid']         = 'Сетка';
-$_['text_sort']         = 'Сортировка:';
-$_['text_default']      = 'По умолчанию';
-$_['text_name_asc']     = 'Название (А - Я)';
-$_['text_name_desc']    = 'Название (Я - А)';
-$_['text_price_asc']    = 'Цена (низкая &gt; высокая)';
-$_['text_price_desc']   = 'Цена (высокая &gt; низкая)';
-$_['text_rating_asc']   = 'Рейтинг (начиная с низкого)';
-$_['text_rating_desc']  = 'Рейтинг (начиная с высокого)';
-$_['text_model_asc']    = 'Модель (А- Я)';
-$_['text_model_desc']   = 'Модель (Я - А)';
-$_['text_limit']        = 'Показать:';
-$_['text_benefits']     = 'Преимущества:';
+$_['text_list']         = 'Списком';
+$_['text_grid']         = 'Таблицею';
+$_['text_sort']         = 'Сортування:';
+$_['text_default']      = 'За замовчуванням';
+$_['text_name_asc']     = 'Найменування (А -&gt; Я)';
+$_['text_name_desc']    = 'Найменування (Я -&gt; А)';
+$_['text_price_asc']    = 'Ціна (за зростанням)';
+$_['text_price_desc']   = 'Ціна (за спаданням)';
+$_['text_rating_asc']   = 'Рейтинг (за зростанням)';
+$_['text_rating_desc']  = 'Рейтинг (за спаданням)';
+$_['text_model_asc']    = 'Модель (А -&gt; Я)';
+$_['text_model_desc']   = 'Модель (Я -&gt; А)';
+$_['text_limit']        = 'Показати:';
+$_['text_benefits']     = 'Переваги:';
 ?>
