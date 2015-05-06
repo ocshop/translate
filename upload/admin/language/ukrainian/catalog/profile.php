@@ -1,45 +1,53 @@
 <?php
 
-$_['heading_title'] = 'Профили';
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
 
-$_['button_insert'] = 'Добавить';
-$_['button_copy'] = 'Копировать';
-$_['button_delete'] = 'Удалить';
-$_['button_remove'] = 'Удалить';
+// Heading
+$_['heading_title'] 			= 'Профілі';
 
-$_['text_no_results'] = 'Нет данных!';
-$_['text_remove'] = 'Удалить';
-$_['text_edit'] = 'Редактировать';
-$_['text_enabled'] = 'Включен';
-$_['text_disabled'] = 'Отключен';
-$_['text_success'] = 'Профили успешно обновлены!';
+// Button
+$_['button_insert'] 			= 'Додати';
+$_['button_copy'] 				= 'Копіювати';
+$_['button_delete'] 			= 'Видалити';
+$_['button_remove'] 			= 'Видалити';
 
-$_['text_day'] = 'День';
-$_['text_week'] = 'Неделя';
-$_['text_semi_month'] = 'Пол месяца';
-$_['text_month'] = 'Месяц';
-$_['text_year'] = 'Год';
+// Text
+$_['text_no_results'] 			= 'Немає даних!';
+$_['text_remove'] 				= 'Видалити';
+$_['text_edit'] 				= 'Редагувати';
+$_['text_enabled'] 				= 'Увімкнено';
+$_['text_disabled'] 			= 'Відключений';
+$_['text_success'] 				= 'Профілі успішно оновлені!';
+$_['text_day'] 					= 'День';
+$_['text_week'] 				= 'Тиждень';
+$_['text_semi_month'] 			= 'Пол місяця';
+$_['text_month'] 				= 'Місяць';
+$_['text_year'] 				= 'Рік';
+$_['text_recurring_help']    	= 'Повторення виставлення рахунку розраховуються шляхом множення частоти на цикл<br />Наприклад, якщо ви використовуєте частоту "тиждень" і цикл "2", то користувачеві буде виставлений рахунок кожні 2 тижні. <br />Тривалість - кількість оплат, які користувач повинен зробити. Встановіть в 0, якщо Ви захочете скасувати платежі.';
 
-$_['entry_name'] = 'Имя:';
-$_['entry_sort_order'] = 'Порядок сортировки:';
-$_['entry_price'] = 'Цена:';
-$_['entry_duration'] = 'Длительность:';
-$_['entry_status'] = 'Статус:';
-$_['entry_cycle'] = 'Цикл:';
-$_['entry_frequency'] = 'Частота:';
-$_['entry_trial_price'] = 'Триал цена:';
-$_['entry_trial_duration'] = 'Триал длительность:';
-$_['entry_trial_status'] = 'Триал статус:';
-$_['entry_trial_cycle'] = 'Триал цикл:';
-$_['entry_trial_frequency'] = 'Триал частота:';
+// Entry
+$_['entry_name'] 				= 'Ім’я:';
+$_['entry_sort_order'] 			= 'Порядок сортування:';
+$_['entry_price'] 				= 'Ціна:';
+$_['entry_duration'] 			= 'Длительность:';
+$_['entry_status'] 				= 'Статус:';
+$_['entry_cycle'] 				= 'Цикл:';
+$_['entry_frequency'] 			= 'Частота:';
+$_['entry_trial_price'] 		= 'Тріал ціна:';
+$_['entry_trial_duration'] 		= 'Тріал тривалість:';
+$_['entry_trial_status'] 		= 'Тріал статус:';
+$_['entry_trial_cycle'] 		= 'Тріал цикл:';
+$_['entry_trial_frequency'] 	= 'Тріал частота:';
 
-$_['column_name'] = 'Имя';
-$_['column_sort_order'] = 'Порядок сотрировки';
-$_['column_action'] = 'Действие';
+// Column
+$_['column_name'] 				= 'Ім’я';
+$_['column_sort_order'] 		= 'Порядок сортування';
+$_['column_action'] 			= 'Дія';
 
-$_['error_warning'] = 'Пожалуйста проверьте форму на ошибки!';
-$_['error_permission'] = 'У вас нет привилегий для редактирования!';
-$_['error_name'] = 'Имя должно содержать от 3 до 255 символов!';
-
-$_['text_recurring_help']    = 'Повторения выставления счета расчитываются путем умножения частоты на цикл<br />Например, если вы используете частоту "неделя" и цикл "2", то пользователю будет выставлен счет каждые 2 недели. <br />Продолжительность - количество оплат, которые пользователь должен сделать. Установите в 0, если Вы захотите отменить платежи.';
+// Error
+$_['error_warning']          	= 'Уважно перевірте форму на помилки!';
+$_['error_permission'] 			= 'У Вас немає прав для редагування!';
+$_['error_name'] 				= 'Ім’я повинно бути від 3 до 255 символів!';
 ?>
