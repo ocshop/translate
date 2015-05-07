@@ -1,46 +1,51 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']         = 'Произвольные поля';
+$_['heading_title']         = 'Довільні поля';
 
 // Text
-$_['text_success']          = 'Поля обновлены!';
-$_['text_choose']           = 'Выберите';
+$_['text_success']          = 'Поля оновлені!';
+$_['text_choose']           = 'Оберіть';
 $_['text_select']           = 'Список';
-$_['text_radio']            = 'Переключатель';
-$_['text_checkbox']         = 'Флажок';
-$_['text_input']            = 'Поле ввода';
+$_['text_radio']            = 'Перемикач';
+$_['text_checkbox']         = 'Чекбокс';
+$_['text_input']            = 'Поле введення';
 $_['text_text']             = 'Текст';
-$_['text_textarea']         = 'Текстовая область';
+$_['text_textarea']         = 'Текстова область';
 $_['text_file']             = 'Файл';
 $_['text_date']             = 'Дата';
-$_['text_datetime']         = 'Дата и время';
-$_['text_time']             = 'Время';
-$_['text_customer']         = 'Клиент';
-$_['text_address']          = 'Адрес';
-$_['text_payment_address']  = 'Адрес платежа';
-$_['text_shipping_address'] = 'Адрес доставки';
+$_['text_datetime']         = 'Дата і час';
+$_['text_time']             = 'Час';
+$_['text_customer']         = 'Клієнт';
+$_['text_address']          = 'Адреса';
+$_['text_payment_address']  = 'Адреса платежу';
+$_['text_shipping_address'] = 'Адреса доставки';
 
 // Column
-$_['column_name']           = 'Название поля';
+$_['column_name']           = 'Назва поля';
 $_['column_type']           = 'Тип';
-$_['column_location']       = 'Расположение';
-$_['column_sort_order']     = 'Порядок сортировки';
-$_['column_action']         = 'действие';
+$_['column_location']       = 'Розташування';
+$_['column_sort_order']     = 'Порядок сортування';
+$_['column_action']         = 'Дія';
 
 // Entry
-$_['entry_name']           = 'Название поля:';
+$_['entry_name']           = 'Назва поля:';
 $_['entry_type']           = 'Тип:';
-$_['entry_value']          = 'Значение:';
-$_['entry_custom_value']   = 'Название значения:';
-$_['entry_required']       = 'Обязательный:';
-$_['entry_location']       = 'Расположение:';
-$_['entry_position']       = 'Позиция:';
-$_['entry_sort_order']     = 'Порядок сортировки:';
+$_['entry_value']          = 'Значення:';
+$_['entry_custom_value']   = 'Назва значення:';
+$_['entry_required']       = 'Обов’язковий:';
+$_['entry_location']       = 'Розташування:';
+$_['entry_position']       = 'Позиція:';
+$_['entry_sort_order']     = 'Порядок сортування:';
 
 // Error
-$_['error_permission']     = 'У вас нет привилегий для редактирования полей!';
-$_['error_name']           = 'Название опции должно содержать от 1 до 128 символов!';
-$_['error_type']           = 'Необходимо ввести значения опций!';
-$_['error_custom_value']   = 'Значение должно содержать от 1 до 128 символов!';
-$_['error_product']        = 'Поле не может быть удалено, так как оно связано с %s продуктами!';
+$_['error_permission']     = 'У вас немає прав для редагування полів!';
+$_['error_name']           = 'Назва опції має бути від 1 до 128 символів!';
+$_['error_type']           = 'Необхідно ввести значення опцій!';
+$_['error_custom_value']   = 'Значення має бути від 1 до 128 символів!';
+$_['error_product']        = 'Поле не може бути видалено, оскільки воно пов’язане з %s товарами!';
 ?>
