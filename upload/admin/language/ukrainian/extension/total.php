@@ -1,17 +1,22 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']     = 'Учитывать в заказе';
+$_['heading_title']     = 'Враховувати в замовленні';
 
 // Text
-$_['text_install']      = 'Установить';
-$_['text_uninstall']    = 'Удалить';
+$_['text_install']      = 'Встановити';
+$_['text_uninstall']    = 'Видалити';
 
 // Column
-$_['column_name']       = 'Учитывать в заказе';
+$_['column_name']       = 'Враховувати в замовленні';
 $_['column_status']     = 'Статус';
-$_['column_sort_order'] = 'Порядок сортировки';
-$_['column_action']     = 'Действие';
+$_['column_sort_order'] = 'Порядок сортування';
+$_['column_action']     = 'Дія';
 
 // Error
-$_['error_permission']  = 'У Вас нет прав для управления этим модулем!';
+$_['error_permission']  = 'У Вас немає прав для управління цим модулем!';
 ?>
