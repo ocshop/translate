@@ -1,17 +1,22 @@
 <?php
-// header
-$_['heading_title']  = 'Сброс пароля';
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
+// Heading
+$_['heading_title']  = 'Скидання пароля';
 
 // Text
-$_['text_reset']     = 'Сброс пароля!';
-$_['text_password']  = 'Введите новый пароль!';
-$_['text_success']   = 'Ваш пароль успешно обновлен!';
+$_['text_reset']     = 'Скидання пароля!';
+$_['text_password']  = 'Введіть новий пароль!';
+$_['text_success']   = 'Ваш пароль успішно оновлений!';
 
 // Entry
 $_['entry_password'] = 'Пароль:';
-$_['entry_confirm']  = 'Подтвердите пароль:';
+$_['entry_confirm']  = 'Підтвердіть пароль:';
 
 // Error
-$_['error_password'] = 'пароль должен быть от 5 до 20 символов!';
-$_['error_confirm']  = 'Пароли не совпадают!';
+$_['error_password'] = 'Пароль має бути від 5 до 20 символів!';
+$_['error_confirm']  = 'Паролі не співпадають!';
 ?>
