@@ -1,44 +1,49 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']                = 'Обзор';
+$_['heading_title']                = 'Огляд';
 
 // Text
-$_['text_overview']                = 'Краткий обзор';
+$_['text_overview']                = 'Краткий огляд';
 $_['text_statistics']              = 'Статистика';
-$_['text_latest_10_orders']        = 'Последние 15 заказов';
-$_['text_total_sale']              = 'Всего продано на сумму:';
-$_['text_total_sale_year']         = 'Всего продано в этом году на сумму:';
-$_['text_total_order']             = 'Всего заказов:';
-$_['text_total_customer']          = 'Всего покупателей:';
-$_['text_total_customer_approval'] = 'Покупателей, ожидающих подтверждения:';
-$_['text_total_review_approval']   = 'Отзывов, ожидающих подтверждения:';
-$_['text_total_affiliate']          = 'Количество партнёров:';
-$_['text_total_affiliate_approval'] = 'Партнёров, ожидающих подтверждения:';
+$_['text_latest_10_orders']        = 'Останні 15 замовлень';
+$_['text_total_sale']              = 'Всього продано на суму:';
+$_['text_total_sale_year']         = 'Всього продано в цьому році на суму:';
+$_['text_total_order']             = 'Усього замовлень:';
+$_['text_total_customer']          = 'Всього покупців:';
+$_['text_total_customer_approval'] = 'Покупців, які очікують підтвердження:';
+$_['text_total_review_approval']   = 'Відгукі, які очікують підтвердження:';
+$_['text_total_affiliate']          = 'Кількість партнерів:';
+$_['text_total_affiliate_approval'] = 'Партнерів, які очікують підтвердження:';
 $_['text_day']                     = 'За день';
-$_['text_week']                    = 'За неделю';
-$_['text_month']                   = 'За месяц';
-$_['text_year']                    = 'За год';
-$_['text_order']                   = 'Всего заказов';
-$_['text_customer']                = 'Всего покупателей';
+$_['text_week']                    = 'За тиждень';
+$_['text_month']                   = 'За місяць';
+$_['text_year']                    = 'За рік';
+$_['text_order']                   = 'Усього замовлень';
+$_['text_customer']                = 'Всього покупців';
 
 // Column
-$_['column_order']                 = '№ заказа';
-$_['column_customer']              = 'Покупатель';
+$_['column_order']                 = '№ замовлення';
+$_['column_customer']              = 'Покупець';
 $_['column_status']                = 'Статус';
-$_['column_date_added']            = 'Добавлено';
-$_['column_total']                 = 'Итого';
-$_['column_firstname']             = 'Имя';
-$_['column_lastname']              = 'Фамилия';
-$_['column_action']                = 'Действие';
+$_['column_date_added']            = 'Додано';
+$_['column_total']                 = 'Разом';
+$_['column_firstname']             = 'Ім’я';
+$_['column_lastname']              = 'Прізвище';
+$_['column_action']                = 'Дія';
 
 // Entry
-$_['entry_range']                  = 'Выбор диапазона:';
+$_['entry_range']                  = 'Вибір діапазону:';
 
 // Error
-$_['error_install']                 = 'Установочная папка до сих пор существует! Она должна быть удалена по соображениям безопасности.';
-$_['error_image']                   = 'Папка с картинками %s недоступна для записи!';
-$_['error_image_cache']             = 'Папка для закэшированных картинок %s недоступна для записи!';
-$_['error_cache']                   = 'Папка кэша %s недоступна для записи!';
-$_['error_download']                = 'Папка для загрузок %s недоступна для записи!';
-$_['error_logs']                    = 'Папка для логов %s недоступна для записи!';
+$_['error_install']                 = 'Установча папка досі існує! Вона повинна бути вилучена з міркувань безпеки.';
+$_['error_image']                   = 'Папка з картинками %s недоступна для запису!';
+$_['error_image_cache']             = 'Папка для закешованих картинок %s недоступна для запису!';
+$_['error_cache']                   = 'Папка кеша %s недоступна для запису!';
+$_['error_download']                = 'Папка для завантажень %s недоступна для запису!';
+$_['error_logs']                    = 'Папка для логів %s недоступна для запису!';
 ?>
