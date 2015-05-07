@@ -1,11 +1,16 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Text
-$_['text_approve_subject']      = '%s - Ваш партнерский аккаунт активирован!';
-$_['text_approve_welcome']      = 'Добро пожаловать и спасибо за регистрацию на %s!';
-$_['text_approve_login']        = 'Ваш аккаунт создан и Вы можете войти используя Ваш E-mail и пароль, посетив наш сайт по адресу:';
-$_['text_approve_services']     = 'После входа Вы сможете получить адрес партнерской ссылки.';
-$_['text_approve_thanks']       = 'Спасибо,';
-$_['text_transaction_subject']  = '%s - Партнерское вознаграждение.';
-$_['text_transaction_received'] = 'Вы получили %s!';
-$_['text_transaction_total']    = 'Общая сумма Ваших партнерских вознаграждений %s.';
+$_['text_approve_subject']      = '%s - Ваш партнерський аккаунт активований!';
+$_['text_approve_welcome']      = 'Ласкаво просимо і дякуємо за реєстрацію на %s!';
+$_['text_approve_login']        = 'Ваш аккаунт створений і Ви можете увійти використовуючи Ваш E-mail і пароль, відвідавши наш сайт за адресою:';
+$_['text_approve_services']     = 'Після входу Ви зможете отримати адресу партнерського посилання.';
+$_['text_approve_thanks']       = 'Дякуємо,';
+$_['text_transaction_subject']  = '%s - Партнерська винагорода.';
+$_['text_transaction_received'] = 'Ви отримали %s!';
+$_['text_transaction_total']    = 'Загальна сума Ваших партнерських винагород %s.';
 ?>
