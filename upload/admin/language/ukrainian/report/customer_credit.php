@@ -1,16 +1,21 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']         = 'Отчет по кредиту покупателей';
+$_['heading_title']         = 'Звіт по кредиту покупців';
 
 // Column
-$_['column_customer']       = 'Имя покупателя';
+$_['column_customer']       = 'Ім’я покупця';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа покупателя';
+$_['column_customer_group'] = 'Група покупця';
 $_['column_status']         = 'Статус';
-$_['column_total']          = 'Итого';
-$_['column_action']         = 'Действие';
+$_['column_total']      	= 'Разом';
+$_['column_action']     	= 'Дія';
 
 // Entry
-$_['entry_date_start']      = 'Дата начала:';
-$_['entry_date_end']        = 'Дата окончания:';
+$_['entry_date_start']  	= 'Дата початку:';
+$_['entry_date_end']    	= 'Дата закінчення:';
 ?>
