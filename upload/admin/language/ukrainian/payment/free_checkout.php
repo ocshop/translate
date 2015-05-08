@@ -1,16 +1,21 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']      = 'Free Checkout';
+$_['heading_title']      = 'Безкоштовне замовлення';
 
 // Text
-$_['text_payment']       = 'Payment';
-$_['text_success']       = 'Success: You have modified Free Checkout payment module!';
+$_['text_payment']       = 'Оплата';
+$_['text_success']       = 'Налаштування модуля оновлені!';
 
 // Entry
-$_['entry_order_status'] = 'Order Status:';
-$_['entry_status']       = 'Status:';
-$_['entry_sort_order']   = 'Sort Order:';
+$_['entry_order_status'] = 'Статус замовлення після оплати:';
+$_['entry_status']       = 'Статус:';
+$_['entry_sort_order']   = 'Порядок сортування:';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']   = 'У Вас немає прав для управління цим модулем!';
 ?>
