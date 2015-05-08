@@ -1,30 +1,34 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']       = 'Вы смотрели';
+$_['heading_title']       	= 'Ви дивилися';
 
 // Text
-$_['text_module']         = 'Модули';
-$_['text_success']        = 'Настройки модуля обновлены!';
-$_['text_content_top']    = 'Содержание шапки';
-$_['text_content_bottom'] = 'Содержание подвала';
-$_['text_column_left']    = 'Левая колонка';
-$_['text_column_right']   = 'Правая колонка';
-$_['text_yes']            = 'Да';
-$_['text_no']             = 'Нет';
-$_['text_attention']      = 'Добавьте модуль для схемы product/product (%s)<br/>Если при этом вы не желаете, чтобы он отображался на странице товара, установите параметр <b>%s</b> в значение <b>%s</b>';
+$_['text_module']         	= 'Модулі';
+$_['text_success']        	= 'Модуль успішно оновлено!';
+$_['text_content_top']    	= 'Верх сторінки';
+$_['text_content_bottom'] 	= 'Низ сторінки';
+$_['text_column_left']    	= 'Ліва колонка';
+$_['text_column_right']   	= 'Права колонка';
+$_['text_yes']            	= 'Так';
+$_['text_no']             	= 'Ні';
+$_['text_attention']      	= 'Додайте модуль для схеми product/product (%s)<br/>Якщо при цьому ви не бажаєте, щоб він відображався на сторінці товару, встановіть параметр <b>%s</b> в значення <b>%s</b>';
 
 // Entry
-$_['entry_count']         = 'Отображать не больше:';
-$_['entry_image']         = 'Изображение (Ширина x Высота):';
-$_['entry_layout']        = 'Схема:';
-$_['entry_position']      = 'Расположение:';
-$_['entry_status']        = 'Статус:';
-$_['entry_sort_order']    = 'Порядок сортировки:';
-$_['entry_show_on_product'] = 'Показывать на странице товара:';
+$_['entry_count']         	= 'Ліміт:';
+$_['entry_image']         	= 'Зображення (Ширина x Висота):';
+$_['entry_layout']        	= 'Схема:';
+$_['entry_position']      	= 'Розташування:';
+$_['entry_status']        	= 'Статус:';
+$_['entry_sort_order']    	= 'Порядок сортування:';
+$_['entry_show_on_product'] = 'Показувати на сторінці товару:';
 
 // Error 
-$_['error_permission']    = 'У Вас нет прав для управления этим модулем!';
-$_['error_image']         = 'Введите рамеры изображения!';
-$_['error_layout']        = 'Для работы модуль должен быть включен для схемы %s (product/product)! Или выключите его ткаже для других схем!';
-
+$_['error_permission']    	= 'У Вас немає прав для зміни модуля!';
+$_['error_image']         	= 'Введіть розміри зображення!';
+$_['error_layout']        	= 'Для роботи модуль повинен бути включений для схеми %s (product/product)! Або вимкніть його ткаже для інших схем!';
 ?>
