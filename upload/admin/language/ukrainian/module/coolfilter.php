@@ -1,38 +1,43 @@
 <?php
-// Heading
-$_['heading_title']       = 'Фильтр товаров - CoolFilter';
 
-$_['text_enable']		  = 'Включен';
-$_['text_disable']		  = 'Отключен';
-$_['text_module']         = 'Модули';
-$_['text_content_top']    = 'Содержание шапки';
-$_['text_content_bottom'] = 'Содержание подвала';
-$_['text_column_left']    = 'Левая колонка';
-$_['text_column_right']   = 'Правая колонка';
-$_['fiter_view_style']    = 'Стиль фильтра';
-$_['filter_default']      = 'По умолчанию';
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
+// Heading
+$_['heading_title']       = 'Фільтр товарів - CoolFilter';
+
+$_['text_enable']		  = 'Включений';
+$_['text_disable']		  = 'Відключений';
+$_['text_module']         = 'Модулі';
+$_['text_content_top']    = 'Верх сторінки';
+$_['text_content_bottom'] = 'Низ сторінки';
+$_['text_column_left']    = 'Ліва колонка';
+$_['text_column_right']   = 'Права колонка';
+$_['fiter_view_style']    = 'Стиль фільтра';
+$_['filter_default']      = 'За замовчуванням';
 $_['filter_select']       = 'Список';
-$_['filter_accordion']    = 'Аккордион';
+$_['filter_accordion']    = 'Акордеон';
 $_['filter_spoiler']      = 'Спойлер';
 
 // Entry
-$_['entry_count_enabled'] = 'Количество товаров:';
+$_['entry_count_enabled'] = 'Кількість товарів:';
 $_['entry_layout']        = 'Схема:';
-$_['entry_coolfilter_group']  = 'Группа филтров:';
-$_['entry_position']      = 'Расположение:';
+$_['entry_coolfilter_group']  = 'Група фільтрів:';
+$_['entry_position']      = 'Розташування:';
 $_['entry_status']        = 'Статус:';
-$_['entry_sort_order']    = 'Порядок сортировки:';
+$_['entry_sort_order']    = 'Порядок сортування:';
 
 // Info
-$_['info_count_enabled']  = 'Для магазинов с большим количеством товаров, позволяет значительно увеличить скорость загрузки.';
+$_['info_count_enabled']  = 'Для магазинів з великою кількістю товарів, дозволяє значно збільшити швидкість завантаження.';
 
 // Buttons
-$_['button_create']       = 'Установить таблицы';
+$_['button_create']       = 'Встановити таблиці';
 
 // Text
-$_['text_module']         = 'Модули';
-$_['text_success']        = 'Настройки модуля обновлены!';
+$_['text_module']         = 'Модулі';
+$_['text_success']        = 'Модуль успішно оновлено!';
 
 // Error
-$_['error_permission']    = 'У Вас нет прав для изменения модуля "Фильтр"!';
+$_['error_permission']    = 'У Вас немає прав для зміни модуля!';
 ?>
