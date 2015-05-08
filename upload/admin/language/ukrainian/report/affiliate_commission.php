@@ -1,17 +1,22 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']     = 'Отчет по комиссиям партнеров';
+$_['heading_title']     = 'Звіт по комісіям партнерів';
 
 // Column
-$_['column_affiliate']  = 'Имя партнера';
+$_['column_affiliate']  = 'Ім’я партнера';
 $_['column_email']      = 'E-Mail';
 $_['column_status']     = 'Статус';
-$_['column_commission'] = 'Комиссия';
-$_['column_orders']     = 'Кол-во заказов';
-$_['column_total']      = 'Итого';
-$_['column_action']     = 'Действие';
+$_['column_commission'] = 'Комісія';
+$_['column_orders']     = 'Кількість замовлень';
+$_['column_total']      = 'Разом';
+$_['column_action']     = 'Дія';
 
 // Entry
-$_['entry_date_start']  = 'Дата начала:';
-$_['entry_date_end']    = 'Дата окончания:';
+$_['entry_date_start']  = 'Дата початку:';
+$_['entry_date_end']    = 'Дата закінчення:';
 ?>
