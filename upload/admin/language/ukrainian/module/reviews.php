@@ -1,29 +1,34 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']       = 'Последние Отзывы';
+$_['heading_title']       = 'Останні Відгуки';
 
 // Text
-$_['text_module']         = 'Модули';
-$_['text_success']        = 'Настройки модуля обновлены!';
-$_['text_content_top']    = 'Содержание шапки';
-$_['text_content_bottom'] = 'Содержание подвала';
-$_['text_column_left']    = 'Левая колонка';
-$_['text_column_right']   = 'Правая колонка';
-$_['text_random']    	  = 'Случайные';
-$_['text_latest']         = 'Последние';
+$_['text_module']         = 'Модулі';
+$_['text_success']        = 'Модуль успішно оновлено!';
+$_['text_content_top']    = 'Верх сторінки';
+$_['text_content_bottom'] = 'Низ сторінки';
+$_['text_column_left']    = 'Ліва колонка';
+$_['text_column_right']   = 'Права колонка';
+$_['text_random']    	  = 'Випадкові';
+$_['text_latest']         = 'Останні';
 
 // Entry
 $_['entry_type']          = 'Тип:';
 $_['entry_header']        = 'Заголовок:';
-$_['entry_limit']         = 'Лимит:';
-$_['entry_text_limit']    = 'Лимит текста:';
-$_['entry_image']         = 'Изображение (Ширина x Высота):';
+$_['entry_limit']         = 'Ліміт:';
+$_['entry_text_limit']    = 'Ліміт тексту:';
+$_['entry_image']         = 'Зображення (Ширина x Висота):';
 $_['entry_layout']        = 'Схема:';
-$_['entry_position']      = 'Расположение:';
+$_['entry_position']      = 'Розташування:';
 $_['entry_status']        = 'Статус:';
-$_['entry_sort_order']    = 'Порядок сортировки:';
+$_['entry_sort_order']    = 'Порядок сортування:';
 
 // Error
-$_['error_permission']    = 'У Вас нет прав для управления этим модулем!';
-$_['error_image']         = 'Введите рамеры изображения!';
+$_['error_permission']    = 'У Вас немає прав для зміни модуля!';
+$_['error_image']         = 'Введіть розміри зображення!';
 ?>
