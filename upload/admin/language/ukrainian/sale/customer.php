@@ -1,74 +1,79 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']         = 'Покупатели';
+$_['heading_title']         = 'Покупці';
 
 // Text
-$_['text_success']          = 'Вы изменили данные о покупателях!';
-$_['text_default']          = 'По умолчанию';
-$_['text_approved']         = 'Вы активировали %s аккаунт!';
-$_['text_wait']             = 'Подождите!';
+$_['text_success']          = 'Ви змінили дані про покупців!';
+$_['text_default']          = 'За замовчуванням';
+$_['text_approved']         = 'Ви активували %s аккаунт!';
+$_['text_wait']             = 'Зачекайте!';
 $_['text_balance']          = 'Баланс:';
-$_['text_add_ban_ip']       = 'Добавить в  Blacklist';
-$_['text_remove_ban_ip']    = 'Удалить из Blacklist';
+$_['text_add_ban_ip']       = 'Додати в Blacklist';
+$_['text_remove_ban_ip']    = 'Видалити з Blacklist';
 
 // Column
-$_['column_name']           = 'Имя покупателя';
+$_['column_name']           = 'Ім’я покупця';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа покупателей';
+$_['column_customer_group'] = 'Група покупців';
 $_['column_status']         = 'Статус';
-$_['column_login']          = 'Залогиниться в магазине';
-$_['column_approved']       = 'Активирован';
-$_['column_date_added']     = 'Дата добавления';
-$_['column_comment']        = 'Комментарий';
-$_['column_description']    = 'Описание';
-$_['column_amount']         = 'Сумма';
-$_['column_points']         = 'Баллы';
+$_['column_login']          = 'Залогуватись в магазині';
+$_['column_approved']       = 'Активований';
+$_['column_date_added']     = 'Дата додавання';
+$_['column_comment']        = 'Коментар';
+$_['column_description']    = 'Опис';
+$_['column_amount']         = 'Сума';
+$_['column_points']         = 'Бали';
 $_['column_ip']             = 'IP';
-$_['column_total']          = 'Общая сумма';
-$_['column_action']         = 'Действие';
+$_['column_total']          = 'Загальна сума';
+$_['column_action']         = 'Дія';
 
 // Entry
-$_['entry_firstname']       = 'Имя, Отчество:';
-$_['entry_lastname']        = 'Фамилия:';
+$_['entry_firstname']       = 'Ім’я, По батькові:';
+$_['entry_lastname']        = 'Прізвище:';
 $_['entry_email']           = 'E-Mail:';
 $_['entry_telephone']       = 'Телефон:';
 $_['entry_fax']             = 'Факс:';
-$_['entry_newsletter']      = 'Подписка на новости:';
-$_['entry_customer_group']  = 'Группа покупателей:';
+$_['entry_newsletter']      = 'Підписка на новини:';
+$_['entry_customer_group']  = 'Група покупців:';
 $_['entry_status']          = 'Статус:';
 $_['entry_password']        = 'Пароль:';
-$_['entry_confirm']         = 'Подтверждение:';
-$_['entry_company']         = 'Компания:';
-$_['entry_company_id']      = 'Регистрационный номер:';
-$_['entry_tax_id']          = 'Налоговый номер компании:';
-$_['entry_address_1']       = 'Адрес 1:';
-$_['entry_address_2']       = 'Адрес 2:';
-$_['entry_city']            = 'Город:';
-$_['entry_postcode']        = 'Индекс:';
-$_['entry_country']         = 'Страна:';
-$_['entry_zone']            = 'Регион / Область:';
-$_['entry_default']         = 'Адрес по умолчанию:';
-$_['entry_comment']         = 'Комментарий:';
-$_['entry_description']     = 'Описание:';
-$_['entry_amount']          = 'Сумма:';
-$_['entry_points']          = 'Баллы:<br /><span class="help">Используйте минус для уменьшения баллов.</span>';
+$_['entry_confirm']         = 'Підтвердження:';
+$_['entry_company']         = 'Компанія:';
+$_['entry_company_id']      = 'Реєстраційний номер:';
+$_['entry_tax_id']          = 'Податковий номер компанії:';
+$_['entry_address_1']       = 'Адреса 1:';
+$_['entry_address_2']       = 'Адреса 2:';
+$_['entry_city']            = 'Місто:';
+$_['entry_postcode']        = 'Індекс:';
+$_['entry_country']         = 'Країна:';
+$_['entry_zone']            = 'Регіон / Область:';
+$_['entry_default']         = 'Адреса за замовчуванням:';
+$_['entry_comment']         = 'Коментар:';
+$_['entry_description']     = 'Опис:';
+$_['entry_amount']          = 'Сума:';
+$_['entry_points']          = 'Бали:<br /><span class="help">Використовуйте мінус для зменшення балів.</span>';
 
 // Error
-$_['error_warning']         = 'Внимательно проверьте форму на ошибки!';
-$_['error_permission']      = 'У Вас нет прав для изменения покупателей!';
-$_['error_exists']          = 'E-Mail адрес уже зарегистрирован!';
-$_['error_firstname']       = 'Имя должно быть от 1 до 32 символов!';
-$_['error_lastname']        = 'Фамилия должна быть от 1 до 32 символов!';
-$_['error_email']           = 'E-Mail адрес введен неверно!';
-$_['error_telephone']       = 'Телефон должен быть от 3 до 32 символов!';
-$_['error_password']        = 'Пароль должен быть от 4 до 20 символов!';
-$_['error_confirm']         = 'Пароли не совпадают!';
-$_['error_company_id']      = 'Требуется указать рег. номер компании!';
-$_['error_tax_id']          = 'Требуется указать налоговый номер компании!';
-$_['error_vat']             = 'Неправильный VAT number!';
-$_['error_address_1']       = 'Адрес должен быть от 4 до 128 символов!';
-$_['error_city']            = 'Город должен быть от 2 до 128 символов!';
-$_['error_postcode']        = 'Индекс должен быть от 2 до 10 символов для этой страны!';
-$_['error_country']         = 'Выберите страну!';
-$_['error_zone']            = 'Выберите регион / область!';
+$_['error_warning']         = 'Уважно перевірте форму на помилки!';
+$_['error_permission']      = 'У Вас немає прав для зміни покупців!';
+$_['error_exists']          = 'E-Mail адреса вже зареєстрована!';
+$_['error_firstname']       = 'Ім’я повинно бути від 1 до 32 символів!';
+$_['error_lastname']        = 'Прізвище повинно бути від 1 до 32 символів!';
+$_['error_email']           = 'E-Mail адреса введено невірно!';
+$_['error_telephone']       = 'Телефон повинен бути від 3 до 32 символів!';
+$_['error_password']        = 'Пароль повинен бути від 4 до 20 символів!';
+$_['error_confirm']         = 'Паролі не співпадають!';
+$_['error_company_id']      = 'Потрібно вказати рег. номер компанії!';
+$_['error_tax_id']          = 'Потрібно вказати податковий номер компанії!';
+$_['error_vat']             = 'Невірний VAT number!';
+$_['error_address_1']       = 'Адреса повинна бути від 4 до 128 символів!';
+$_['error_city']            = 'Місто має бути від 2 до 128 символів!';
+$_['error_postcode']        = 'Індекс повинен бути від 2 до 10 символів для цієї країни!';
+$_['error_country']         = 'Виберіть країну!';
+$_['error_zone']            = 'Оберіть регіон / область!';
 ?>
