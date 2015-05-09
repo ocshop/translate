@@ -1,20 +1,25 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']		= 'Отчет по купленным товарам';
+$_['heading_title']			= 'Звіт по куплених товарів';
 
 // Text
-$_['text_all_status']   = 'Все статусы';
+$_['text_all_status']       = 'Все статуси';
 
 // Column
-$_['column_date_start'] = 'Дата начала';
-$_['column_date_end']   = 'Дата окончания';
-$_['column_name']       = 'Название товара';
-$_['column_model']      = 'Модель';
-$_['column_quantity']   = 'Количество';
-$_['column_total']      = 'Итого';
+$_['column_date_start'] 	= 'Дата початку';
+$_['column_date_end']   	= 'Дата закінчення';
+$_['column_name']       	= 'Назва товару';
+$_['column_model']      	= 'Модель';
+$_['column_quantity']   	= 'Кількість';
+$_['column_total']      	= 'Разом';
 
 // Entry
-$_['entry_date_start']  = 'Дата начала:';
-$_['entry_date_end']    = 'Дата окончания:';
-$_['entry_status']      = 'Статус заказа:';
+$_['entry_date_start']  	= 'Дата початку:';
+$_['entry_date_end']    	= 'Дата закінчення:';
+$_['entry_status']          = 'Статус замовлення:';
 ?>
