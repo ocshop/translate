@@ -1,22 +1,27 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']         = 'Отчет по заказам покупателей';
+$_['heading_title']         = 'Звіт по замовленнях покупців';
 
 // Text
-$_['text_all_status']       = 'Все статусы';
+$_['text_all_status']       = 'Все статуси';
 
 // Column
-$_['column_customer']       = 'Имя покупателя';
+$_['column_customer']       = 'Ім’я покупця';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа покупателя';
+$_['column_customer_group'] = 'Група покупця';
 $_['column_status']         = 'Статус';
-$_['column_orders']         = 'Кол-во заказов';
-$_['column_products']       = 'Кол-во товаров';
-$_['column_total']          = 'Итого';
-$_['column_action']         = 'Действие';
+$_['column_orders']         = 'Кіл-ть замовлень';
+$_['column_products']       = 'Кіл-ть товарів';
+$_['column_total']      	= 'Разом';
+$_['column_action']     	= 'Дія';
 
 // Entry
-$_['entry_date_start']      = 'Дата начала:';
-$_['entry_date_end']        = 'Дата окончания:';
-$_['entry_status']          = 'Статус заказа:';
+$_['entry_date_start']  	= 'Дата початку:';
+$_['entry_date_end']    	= 'Дата закінчення:';
+$_['entry_status']          = 'Статус замовлення:';
 ?>
