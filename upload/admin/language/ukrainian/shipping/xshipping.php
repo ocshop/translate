@@ -1,22 +1,27 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']    = 'Конструктор доставки';
-$_['tab_general']    = 'Настройки';
-$_['tab_rate']    = 'Метод Доставки';
+$_['heading_title']    	 = 'Конструктор доставки';
+$_['tab_general']    	 = 'Налаштування';
+$_['tab_rate']    		 = 'Метод Доставки';
 
 // Text
-$_['text_shipping']    = 'Доставка';
-$_['text_success']     = 'Настройки модуля обновлены!';
+$_['text_shipping']    	 = 'Доставка';
+$_['text_success']     	 = 'Налаштування модуля оновлені!';
 
 // Entry 
-$_['entry_cost']       = 'Стоимость:';
-$_['entry_name']       = 'Название способа доставки:';
-$_['entry_free']       = 'Бесплатная доставка от суммы<br /> [0 нет]:';
-$_['entry_tax']        = 'Класс налога:';
-$_['entry_geo_zone']   = 'Географическая зона:';
-$_['entry_status']     = 'Статус:';
-$_['entry_sort_order'] = 'Порядок сортировки:';
+$_['entry_cost']       	 = 'Тарифи доставки:';
+$_['entry_name']       	 = 'Назва способу доставки:';
+$_['entry_free']       	 = 'Безкоштовна доставка від суми<br /> [0 нет]:';
+$_['entry_tax_class']    = 'Податковий клас:';
+$_['entry_geo_zone']     = 'Географічна зона:';
+$_['entry_status']       = 'Статус:';
+$_['entry_sort_order']   = 'Порядок сортування:';
 
 // Error
-$_['error_permission'] = 'У Вас нет прав для управления этим модулем!';
+$_['error_permission']   = 'У Вас немає прав для управління цим модулем!';
 ?>
