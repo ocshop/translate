@@ -1,52 +1,57 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']     			= 'Кэш Менеджер';
+$_['heading_title']     			= 'Кеш Менеджер';
 
 // Text
-$_['text_success_setting']      	= 'Настройки сохранены!';
-$_['text_success']      	        = 'Кэш удален!';
-$_['text_default']      			= 'По умолчанию';
-$_['text_type']         			= 'Секция';
+$_['text_success_setting']      	= 'Налаштування збережені!';
+$_['text_success']      	        = 'Кеш видалений!';
+$_['text_default']      			= 'За замовчуванням';
+$_['text_type']         			= 'Секція';
 $_['text_status']       			= 'Статус:';
-$_['text_lifetime']     			= 'Время жизни(секунд):';
-$_['text_flush']        			= 'Действие';
-$_['text_size']         			= 'Размер:';
-$_['text_total']         			= 'Общий размер:';
-$_['text_filename']         		= 'Имя файла:';
+$_['text_lifetime']     			= 'Час життя (секунд):';
+$_['text_flush']        			= 'Дія';
+$_['text_size']         			= 'Розмір:';
+$_['text_total']         			= 'Загальний розмір:';
+$_['text_filename']         		= 'Назва файлу:';
 
 //Buttons
-$_['button_clearcache']             = 'Удалить Кэш Изображений';
-$_['button_clearsystemcache']       = 'Удалить Системный Кэш';
-$_['button_clearvqmodcache']        = 'Удалить vQmod Кэш';
-$_['button_clear']                  = 'Удалить';
+$_['button_clearcache']             = 'Видалити Кеш Зображень';
+$_['button_clearsystemcache']       = 'Видалити Системний Кеш';
+$_['button_clearvqmodcache']        = 'Видалити vQmod Кеш';
+$_['button_clear']                  = 'Видалити';
 
 // Column
-$_['column_description']            = 'Описание';
-$_['column_action']     	        = 'Действие';
+$_['column_description']            = 'Опис';
+$_['column_action']     	        = 'Дія';
 
 // Description
-$_['image_description']       = 'Удаление Кэш файлов изображений расположенных на сервере в папке: home/image/cache/..';
-$_['system_description']     = 'Удаление Системных Кэш файлов расположенных на сервере в папке: home/system/cache/..';
-$_['vqmod_description']     = 'Удаление Vqmod Кэш файлов расположенных на сервере в папке: home/vqmod/vqcache/..';
+$_['image_description']       		= 'Видалення Кеш файлів зображень розташованих на сервері в папці: home/image/cache/..';
+$_['system_description']     		= 'Видалення Системних Кеш файлів розташованих на сервері в папці: home/system/cache/..';
+$_['vqmod_description']     		= 'Видалення vQmod Кеш файлів розташованих на сервері в папці: home/vqmod/vqcache/..';
 
 // Entry
-$_['entry_menu']           		   = 'Меню';
-$_['entry_category']       		   = 'Модуль Категорий';
-$_['entry_featured']       		   = 'Модуль Рекомендуемые';
-$_['entry_bestseller']      	   = 'Модуль Хиты Продаж';
-$_['entry_latest']      		   = 'Модуль Новинки';
-$_['entry_special']       		   = 'Модуль Акции';
-$_['entry_productcategory']        = 'Товары в Категории';
-$_['entry_productmanufacturer']    = 'Товары в Производителе';
-$_['entry_gzip']         		   = 'Уровень Сжатия:';
+$_['entry_menu']           		   	= 'Меню';
+$_['entry_category']       		   	= 'Модуль Категорій';
+$_['entry_featured']       		   	= 'Модуль Рекомендовані';
+$_['entry_bestseller']      	   	= 'Модуль Хіти Продажів';
+$_['entry_latest']      		   	= 'Модуль Новинки';
+$_['entry_special']       		   	= 'Модуль Акції';
+$_['entry_productcategory']        	= 'Товари в Категорії';
+$_['entry_productmanufacturer']    	= 'Товари в Виробнике';
+$_['entry_gzip']         		   	= 'Рівень Стиснення:';
 
 // Tabs
-$_['tab_settings']                 = 'Настройки';
-$_['tab_clean']                    = 'Удалить';
-$_['tab_filelist']                 = 'Список Файлов';
+$_['tab_settings']                 	= 'Налаштування';
+$_['tab_clean']                    	= 'Видалити';
+$_['tab_filelist']                 	= 'Список фото';
 
 
 
 // Error 
-$_['error_permission']  = 'У Вас нет прав для управления кэшем!';
+$_['error_permission'] 				= 'У Вас немає прав для управління цим модулем!';
 ?>
