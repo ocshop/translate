@@ -1,35 +1,40 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']     = 'Пользователи';
+$_['heading_title']     = 'Користувачі';
 
 // Text
-$_['text_success']      = 'Список пользователей обновлен!';
+$_['text_success']      = 'Список користувачів оновлено!';
 
 // Column
-$_['column_username']   = 'Логин';
+$_['column_username']   = 'Логін';
 $_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Добавлено';
-$_['column_action']     = 'Действие';
+$_['column_date_added'] = 'Додано';
+$_['column_action']     = 'Дія';
 
 // Entry
-$_['entry_username']   = 'Логин:';
+$_['entry_username']   = 'Логін:';
 $_['entry_password']   = 'Пароль:';
-$_['entry_confirm']    = 'Подтверждение:';
-$_['entry_firstname']  = 'Имя, Отчество:';
-$_['entry_lastname']   = 'Фамилия:';
+$_['entry_confirm']    = 'Підтвердження:';
+$_['entry_firstname']  = 'Ім’я, По батькові:';
+$_['entry_lastname']   = 'Прізвище:';
 $_['entry_email']      = 'E-Mail:';
-$_['entry_user_group'] = 'Группа пользователей:';
+$_['entry_user_group'] = 'Група користувачів:';
 $_['entry_status']     = 'Статус:';
-$_['entry_captcha']    = 'Введите код:';
+$_['entry_captcha']    = 'Введіть код:';
 
 // Error
-$_['error_permission'] = 'У Вас нет прав для изменения списка пользователей!';
-$_['error_account']    = 'Вы не можете удалить свой собственный аккаунт!';
-$_['error_exists']     = 'Имя пользователя уже используется!';
-$_['error_username']   = 'Имя пользователя должно быть от 3 до 20 символов!';
-$_['error_password']   = 'Пароль должен быть от 3 до 20 символов!';
-$_['error_confirm']    = 'Пароли не совпадают!';
-$_['error_firstname']  = 'Имя должно быть от 1 до 32 символов!';
-$_['error_lastname']   = 'Фамилия должна быть от 1 до 32 символов!';
-$_['error_captcha']    = 'Код не совпадает с кодом на картинке!';
+$_['error_permission'] = 'У Вас немає прав для зміни списку користувачів!';
+$_['error_account']    = 'Ви не можете видалити свій власний аккаунт!';
+$_['error_exists']     = 'Ім’я користувача вже використовується!';
+$_['error_username']   = 'Ім’я користувача має бути від 3 до 20 символів!';
+$_['error_password']   = 'Пароль повинен бути від 3 до 20 символів!';
+$_['error_confirm']    = 'Паролі не співпадають!';
+$_['error_firstname']  = 'Ім’я повинно бути від 1 до 32 символів!';
+$_['error_lastname']   = 'Прізвище повинно бути від 1 до 32 символів!';
+$_['error_captcha']    = 'Код не збігається з кодом на зображенні!';
 ?>
