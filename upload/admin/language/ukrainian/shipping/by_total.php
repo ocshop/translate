@@ -1,18 +1,23 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']      = 'Доставка в зависимости от суммы';
+$_['heading_title']      = 'Доставка в залежності від суми';
 
 // Text
 $_['text_shipping']      = 'Доставка';
-$_['text_success']       = 'Настройки модуля обновлены!';
+$_['text_success']       = 'Налаштування модуля оновлені!';
 
 // Entry
-$_['entry_rate']         = 'Расценки:<br /><span class="help">Например: 500:10.00,700:12.00 Сумма:Цена,Сумма:Цена, и т.д.</span>';
-$_['entry_tax_class']    = 'Налоговый класс:';
-$_['entry_geo_zone']     = 'Географическая зона:';
+$_['entry_rate']         = 'Розцінки:<br /><span class="help">Наприклад: 500:10.00,700:12.00 Сума: Ціна, Сума: Ціна, і т.д.</span>';
+$_['entry_tax_class']    = 'Податковий клас:';
+$_['entry_geo_zone']     = 'Географічна зона:';
 $_['entry_status']       = 'Статус:';
-$_['entry_sort_order']   = 'Порядок сортировки:';
+$_['entry_sort_order']   = 'Порядок сортування:';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+$_['error_permission']   = 'У Вас немає прав для управління цим модулем!';
 ?>
