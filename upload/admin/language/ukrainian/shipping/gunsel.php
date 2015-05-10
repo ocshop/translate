@@ -5,7 +5,7 @@
 // FORUM http://forum.ocshop.info
 
 // Heading
-$_['heading_title']    = 'Відправка Гюнсел';
+$_['heading_title']    					= 'Відправка Гюнсел';
 
 // Text 
 $_['text_shipping']      				= 'Доставка';
