@@ -1,17 +1,22 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Heading
-$_['heading_title']    = 'Бэкап / Восстановление';
+$_['heading_title']    = 'Бекап / Відновлення';
 
 // Text
-$_['text_backup']      = 'Архивировать базу данных';
-$_['text_success']     = 'База данных импортирована!';
+$_['text_backup']      = 'Архивировать базу даних';
+$_['text_success']     = 'База даних імпортована!';
 
 // Entry
-$_['entry_restore']    = 'Востановить базу данных:';
-$_['entry_backup']     = 'Бэкап:';
+$_['entry_restore']    = 'Відновити базу даних:';
+$_['entry_backup']     = 'Бекап:';
 
 // Error
-$_['error_permission'] = 'У Вас нет прав для управления этим модулем!';
-$_['error_backup']     = 'Надо выбрать хотя бы одну таблицу!';
-$_['error_empty']      = 'Загруженный файл пуст!';
+$_['error_permission'] = 'У Вас немає прав для управління цим модулем!';
+$_['error_backup']     = 'Треба вибрати хоча б одну таблицю!';
+$_['error_empty']      = 'Завантажений файл порожній!';
 ?>
