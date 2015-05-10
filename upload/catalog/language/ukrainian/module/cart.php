@@ -5,7 +5,7 @@
 // FORUM http://forum.ocshop.info
 
 // Heading 
-$_['heading_title'] = 'Корзина покупок';
+$_['heading_title'] = 'Кошик покупок';
 
 // Text
 $_['text_items']    = 'Товарів: %s (%s)';

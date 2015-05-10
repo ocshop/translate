@@ -8,7 +8,7 @@
 $_['heading_title']                  = 'Оформлення замовлення';
 
 // Text
-$_['text_cart']                      = 'Корзина покупок';
+$_['text_cart']                      = 'Кошик покупок';
 $_['text_checkout_option']           = 'Крок 1: Спосіб оформлення замовлення';
 $_['text_checkout_account']          = 'Крок 2: Профіль &amp; Платіжна інформація';
 $_['text_checkout_payment_address']  = 'Крок 2: Платіжна інформація';

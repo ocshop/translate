@@ -7,7 +7,7 @@
 // Text
 $_['text_home']     = 'Головна';
 $_['text_wishlist'] = 'Закладки (%s)';
-$_['text_shopping_cart']  = 'Корзина покупок';
+$_['text_shopping_cart']  = 'Кошик покупок';
 $_['text_search']   = 'Пошук';
 $_['text_welcome']  = '<a href="%s"><i class="fa fa-user"></i>Вхід</a> або <a href="%s"><i class="fa fa-pencil"></i>зареєструватися</a>';
 $_['text_logged']   = 'Ви увійшли як <i class="fa fa-user"></i> <a href="%s">%s</a> <b>(</b> <a href="%s">Вихід</a> <b>)</b>';
