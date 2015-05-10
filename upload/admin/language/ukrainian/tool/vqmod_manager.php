@@ -1,34 +1,39 @@
 <?php
+
+// Ukrainian Localization OCSHOP.CMS 1.5.6.4.1 http://ocshop.net
+// BLOG http://ocshop.info
+// FORUM http://forum.ocshop.info
+
 // Button
 $_['button_backup']        = 'Backup';
-$_['button_cancel']        = 'Отменить';
-$_['button_clear']         = 'Очистить';
-$_['button_download_log']  = 'Download Log';
+$_['button_cancel']        = 'Скасувати';
+$_['button_clear']         = 'Очистити';
+$_['button_download_log']  = 'Завантажити Log';
 $_['button_vqcache_dump']  = 'vqcache Dump';
 
 // Heading
 $_['heading_title']        = 'vQmod Менеджер';
 
 // Columns
-$_['column_action']        = 'Включен / Выключен';
+$_['column_action']        = 'Увімкнено / Вимкнено';
 $_['column_author']        = 'Автор';
-$_['column_delete']        = 'Удалить';
-$_['column_file_name']     = 'Название файла';
-$_['column_id']            = 'Название / Описание';
+$_['column_delete']        = 'Видалити';
+$_['column_file_name']     = 'Назва файлу';
+$_['column_id']            = 'Назва / Опис';
 $_['column_status']        = 'Статус';
-$_['column_version']       = 'Версия';
-$_['column_vqmver']        = 'vQmod Версия';
+$_['column_version']       = 'Версія';
+$_['column_vqmver']        = 'vQmod Версія';
 
 // Entry
 $_['entry_author']         = 'Автор:'; // Change
-$_['entry_backup']         = 'Резервное копирование vQmod модификаций:';
-$_['entry_ext_store']      = 'Последняя версия:';
-$_['entry_ext_version']    = 'Версия vQmod Менеджера:';
-$_['entry_forum']          = 'Тема на форуме OpenCart:';
-$_['entry_license']        = 'Лицензия:';
-$_['entry_upload']         = 'Загрузить vQmod модификацию:';
-$_['entry_vqcache']        = 'vQmod Кэш:';
-$_['entry_vqmod_path']     = 'VQMod Путь:';
+$_['entry_backup']         = 'Резервне копіювання vQmod модифікацій:';
+$_['entry_ext_store']      = 'Остання версія:';
+$_['entry_ext_version']    = 'Версія vQmod Менеджера:';
+$_['entry_forum']          = 'Тема на форумі OpenCart:';
+$_['entry_license']        = 'Ліцензія:';
+$_['entry_upload']         = 'Завантажити vQmod модифікацію:';
+$_['entry_vqcache']        = 'vQmod Кеш:';
+$_['entry_vqmod_path']     = 'VQMod Шлях:';
 $_['entry_website']        = 'Вебсайт:';
 
 // Text Highlighting
@@ -93,36 +98,36 @@ $_['setting_protected_files'] = 'Protected Files:';
 $_['setting_usecache']        = 'useCache:<br /><span class="help">Deprecated as of VQMod 2.1.7</span>';
 
 // Success
-$_['success_clear_vqcache'] = 'Готово: vQmod кэш очищен!';
-$_['success_clear_log']     = 'Готово: VQMod журнал ошибок очищен!';
-$_['success_delete']        = 'Готово: VQMod модификация удалена!';
-$_['success_install']       = 'Готово: VQMod модификация включена!';
-$_['success_uninstall']     = 'Готово: VQMod модификация выключена!';
-$_['success_upload']        = 'Готово: VQMod модификация загружена!';
+$_['success_clear_vqcache'] = 'Готово: vQmod кеш очищено!';
+$_['success_clear_log']     = 'Готово: VQMod журнал помилок очищено!';
+$_['success_delete']        = 'Готово: VQMod модифікація видалена!';
+$_['success_install']       = 'Готово: VQMod модифікація включена!';
+$_['success_uninstall']     = 'Готово: VQMod модифікація вимкнена!';
+$_['success_upload']        = 'Готово: VQMod модифікація завантажена!';
 
 // Tabs
-$_['tab_about']             = 'Информация';
-$_['tab_error_log']         = 'Журнал ошибок';
-$_['tab_settings']          = 'Настройки и обслуживание';
-$_['tab_scripts']           = 'VQMod Модификации';
+$_['tab_about']             = 'Інформація';
+$_['tab_error_log']         = 'Журнал помилок';
+$_['tab_settings']          = 'Налаштування та обслуговування';
+$_['tab_scripts']           = 'VQMod Модифікації';
 
 // Text
 $_['text_autodetect']       = 'VQMod appears to be installed at the following path.  Press Save to confirm path and complete installation.';
 $_['text_autodetect_fail']  = 'Unable to detect VQMod installation.  Please download and install the <a href="http://code.google.com/p/vqmod/downloads/list" target="_blank">latest version</a> or enter the non-standard server installation path.';
 $_['text_cachetime']        = '%s seconds';
-$_['text_delete']           = 'Удалить';
-$_['text_disabled']         = 'Выключен';
-$_['text_enabled']          = 'Включен';
-$_['text_install']          = 'Включить';
+$_['text_delete']           = 'Видалити';
+$_['text_disabled']         = 'Вимкнено';
+$_['text_enabled']          = 'Увімкнено';
+$_['text_install']          = 'Увімкнути';
 $_['text_module']           = 'Module';
 $_['text_no_results']       = 'No VQMod scripts were found!';
 $_['text_separator']        = ' &rarr; ';
 $_['text_success']          = 'Готово: You have modified module VQMod Manager!';
 $_['text_unavailable']      = '&mdash;';
-$_['text_uninstall']        = 'Выключить';
-$_['text_upload']           = 'Загрузить';
+$_['text_uninstall']        = 'Вимкнути';
+$_['text_upload']           = 'Завантажити';
 $_['text_usecache_help']    = 'useCache is deprecated as of VQMod 2.1.7'; // @TODO
-$_['text_vqcache_help']     = 'Очищает содержимое каталога vqcache и удаляет mods.cache файл. Некоторые системные файлы всегда будет присутствовать даже после очистки кэша.';
+$_['text_vqcache_help']     = 'Очищає вміст каталогу vqcache і видаляє mods.cache файл. Деякі системні файли завжди будуть присутні навіть після очищення кеша.';
 
 // Version
 $_['vqmod_manager_author']  = 'rph';
