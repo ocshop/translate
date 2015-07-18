@@ -21,7 +21,7 @@ $_['text_date_search']				= 'Search by date';
 $_['text_searching']				= 'Searching';
 $_['text_name']						= 'Name';
 $_['text_buyer_info']				= 'Buyer information';
-$_['text_view']						= 'View';
+$_['text_view']						= 'Просмотр';
 $_['text_format']					= 'Format';
 
 // Entry

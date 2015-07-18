@@ -8,7 +8,7 @@
 
 $_['heading_title'] 							= 'Регулярные платежи';
 $_['button_continue'] 							= 'Продолжить';
-$_['button_view'] 								= 'View';
+$_['button_view'] 								= 'Просмотр';
 $_['text_empty'] 								= 'No recurring payments found';
 $_['text_product'] 								= 'Product: ';
 $_['text_order'] 								= 'Order: ';
