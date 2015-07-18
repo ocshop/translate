@@ -1,15 +1,22 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Партнерский раздел';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_payment']     = 'Payment Options';
-$_['text_tracking']    = 'Affiliate Tracking';
-$_['text_transaction'] = 'Transactions';
+$_['text_register']    = 'Регистрация';
+$_['text_login']       = 'Вход';
+$_['text_logout']      = 'Выход';
+$_['text_forgotten']   = 'Забыли пароль?';
+$_['text_account']     = 'Моя информация';
+$_['text_edit']        = 'Редактировать информацию';
+$_['text_password']    = 'Пароль';
+$_['text_payment']     = 'Способы оплаты';
+$_['text_tracking']    = 'Реферальный код';
+$_['text_transaction'] = 'Операции';
