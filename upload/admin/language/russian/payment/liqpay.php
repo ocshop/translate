@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'LIQPAY';
 
 // Text
-$_['text_payment']		 = 'Payment';
+$_['text_payment']		 = 'Платеж';
 $_['text_success']		 = 'Success: You have modified LIQPAY account details!';
 $_['text_edit']          = 'Edit LIQPAY';
 $_['text_pay']			 = 'LIQPAY';
@@ -13,11 +13,11 @@ $_['text_liqpay']		 = '<img src="view/image/payment/liqpay.png" alt="LIQPAY" tit
 // Entry
 $_['entry_merchant']	 = 'Merchant ID';
 $_['entry_signature']	 = 'Signature';
-$_['entry_type']		 = 'Type';
+$_['entry_type']		 = 'Тип';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
+$_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Sort Order';
 
 // Help

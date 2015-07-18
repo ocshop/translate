@@ -3,7 +3,7 @@
 $_['heading_title']					= 'Globalpay Remote';
 
 // Text
-$_['text_payment']					= 'Payment';
+$_['text_payment']					= 'Платеж';
 $_['text_success']					= 'Success: You have modified Globalpay account details!';
 $_['text_edit']                     = 'Edit Globalpay Remote';
 $_['text_card_type']				= 'Card type';
@@ -41,9 +41,9 @@ $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 $_['text_globalpay_remote']			= '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
-$_['text_column_amount']			= 'Amount';
-$_['text_column_type']				= 'Type';
-$_['text_column_date_added']		= 'Created';
+$_['text_column_amount']			= 'Итого';
+$_['text_column_type']				= 'Тип';
+$_['text_column_date_added']		= 'Создан';
 
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';
@@ -52,7 +52,7 @@ $_['entry_rebate_password']			= 'Rebate password';
 $_['entry_total']					= 'Total';
 $_['entry_sort_order']				= 'Sort order';
 $_['entry_geo_zone']				= 'Geo zone';
-$_['entry_status']					= 'Status';
+$_['entry_status']					= 'Статус';
 $_['entry_debug']					= 'Debug logging';
 $_['entry_auto_settle']				= 'Settlement type';
 $_['entry_tss_check']				= 'TSS checks';

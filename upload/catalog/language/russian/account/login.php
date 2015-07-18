@@ -3,7 +3,7 @@
 $_['heading_title']                = 'Account Login';
 
 // Text
-$_['text_account']                 = 'Account';
+$_['text_account']                 = 'Аккаунт';
 $_['text_login']                   = 'Login';
 $_['text_new_customer']            = 'New Customer';
 $_['text_register']                = 'Register Account';

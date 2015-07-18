@@ -18,25 +18,25 @@ $_['text_file']             = 'File';
 $_['text_date']             = 'Date';
 $_['text_datetime']         = 'Date &amp; Time';
 $_['text_time']             = 'Time';
-$_['text_account']          = 'Account';
+$_['text_account']          = 'Аккаунт';
 $_['text_address']          = 'Address';
 
 // Column
 $_['column_name']           = 'Custom Field Name';
 $_['column_location']       = 'Location';
-$_['column_type']           = 'Type';
+$_['column_type']           = 'Тип';
 $_['column_sort_order']     = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Действие';
 
 // Entry
 $_['entry_name']            = 'Custom Field Name';
 $_['entry_location']        = 'Location';
-$_['entry_type']            = 'Type';
+$_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Value';
 $_['entry_custom_value']    = 'Custom Field Value Name';
 $_['entry_customer_group']  = 'Customer Group';
 $_['entry_required']        = 'Required';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Sort Order';
 
 // Help

@@ -3,7 +3,7 @@
 $_['heading_title']			= 'Authorize.Net (SIM)';
 
 // Text
-$_['text_payment']			= 'Payment';
+$_['text_payment']			= 'Платеж';
 $_['text_success']			= 'Success: You have modified Authorize.Net (SIM) account details!';
 $_['text_edit']             = 'Edit Authorize.Net (SIM)';
 $_['text_authorizenet_sim']	= '<a onclick="window.open(\'http://reseller.authorize.net/application/?id=5561142\');"><img src="view/image/payment/authorizenet.png" alt="Authorize.Net" title="Authorize.Net" style="border: 1px solid #EEEEEE;" /></a>';
@@ -17,7 +17,7 @@ $_['entry_test']			= 'Test Mode';
 $_['entry_total']			= 'Total';
 $_['entry_order_status']	= 'Order Status';
 $_['entry_geo_zone']		= 'Geo Zone';
-$_['entry_status']			= 'Status';
+$_['entry_status']			= 'Статус';
 $_['entry_sort_order']		= 'Sort Order';
 
 // Help

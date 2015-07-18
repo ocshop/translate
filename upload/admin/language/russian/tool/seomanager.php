@@ -12,7 +12,7 @@ $_['button_clear_cache'] = 'Reset cache';
 // Column
 $_['column_query']       = 'URL';
 $_['column_keyword']     = 'SEO URL';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Действие';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify module SEO Manager!';

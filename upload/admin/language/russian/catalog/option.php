@@ -23,11 +23,11 @@ $_['text_time']           = 'Time';
 // Column
 $_['column_name']         = 'Option Name';
 $_['column_sort_order']   = 'Sort Order';
-$_['column_action']       = 'Action';
+$_['column_action']       = 'Действие';
 
 // Entry
 $_['entry_name']          = 'Option Name';
-$_['entry_type']          = 'Type';
+$_['entry_type']          = 'Тип';
 $_['entry_option_value']  = 'Option Value Name';
 $_['entry_image']         = 'Image';
 $_['entry_sort_order']    = 'Sort Order';

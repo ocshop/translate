@@ -68,11 +68,11 @@ $_['text_picklist']              = 'Dispatch Note';
 // Column
 $_['column_order_id']            = 'Order ID';
 $_['column_customer']            = 'Customer';
-$_['column_status']              = 'Status';
+$_['column_status']              = 'Статус';
 $_['column_date_added']          = 'Date Added';
 $_['column_date_modified']       = 'Date Modified';
 $_['column_total']               = 'Total';
-$_['column_product']             = 'Product';
+$_['column_product']             = 'Товар';
 $_['column_model']               = 'Model';
 $_['column_quantity']            = 'Quantity';
 $_['column_price']               = 'Unit Price';
@@ -80,7 +80,7 @@ $_['column_comment']             = 'Comment';
 $_['column_notify']              = 'Customer Notified';
 $_['column_location']            = 'Location';
 $_['column_reference']           = 'Reference';
-$_['column_action']              = 'Action';
+$_['column_action']              = 'Действие';
 $_['column_weight']              = 'Product weight';
 
 // Entry
@@ -110,7 +110,7 @@ $_['entry_from_name']            = 'Senders Name';
 $_['entry_from_email']           = 'Senders Email';
 $_['entry_theme']                = 'Gift Certificate Theme';
 $_['entry_message']              = 'Message';
-$_['entry_amount']               = 'Amount';
+$_['entry_amount']               = 'Итого';
 $_['entry_affiliate']            = 'Affiliate';
 $_['entry_order_status']         = 'Order Status';
 $_['entry_notify']               = 'Notify Customer';

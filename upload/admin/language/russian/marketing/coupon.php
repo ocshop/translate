@@ -16,17 +16,17 @@ $_['column_code']         = 'Code';
 $_['column_discount']     = 'Discount';
 $_['column_date_start']   = 'Date Start';
 $_['column_date_end']     = 'Date End';
-$_['column_status']       = 'Status';
+$_['column_status']       = 'Статус';
 $_['column_order_id']     = 'Order ID';
 $_['column_customer']     = 'Customer';
-$_['column_amount']       = 'Amount';
+$_['column_amount']       = 'Итого';
 $_['column_date_added']   = 'Date Added';
-$_['column_action']       = 'Action';
+$_['column_action']       = 'Действие';
 
 // Entry
 $_['entry_name']          = 'Coupon Name';
 $_['entry_code']          = 'Code';
-$_['entry_type']          = 'Type';
+$_['entry_type']          = 'Тип';
 $_['entry_discount']      = 'Discount';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
@@ -37,7 +37,7 @@ $_['entry_date_start']    = 'Date Start';
 $_['entry_date_end']      = 'Date End';
 $_['entry_uses_total']    = 'Uses Per Coupon';
 $_['entry_uses_customer'] = 'Uses Per Customer';
-$_['entry_status']        = 'Status';
+$_['entry_status']        = 'Статус';
 
 // Help
 $_['help_code']           = 'The code the customer enters to get the discount.';

@@ -11,7 +11,7 @@ $_['text_edit']         = 'Edit Attribute Group';
 // Column
 $_['column_name']       = 'Attribute Group Name';
 $_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'Attribute Group Name';

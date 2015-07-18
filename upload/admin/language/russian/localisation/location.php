@@ -14,7 +14,7 @@ $_['text_geocode']     = 'Geocode was not successful for the following reason:';
 // Column
 $_['column_name']      = 'Store Name';
 $_['column_address']   = 'Address';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_name']       = 'Store Name';

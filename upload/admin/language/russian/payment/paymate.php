@@ -3,7 +3,7 @@
 $_['heading_title']					= 'Paymate';
 
 // Text
-$_['text_payment']					= 'Payment';
+$_['text_payment']					= 'Платеж';
 $_['text_success']					= 'Success: You have modified Paymate account details!';
 $_['text_edit']                     = 'Edit Paymate';
 $_['text_paymate']					= '<img src="view/image/payment/paymate.png" alt="Paymate" title="Paymate" style="border: 1px solid #EEEEEE;" />';
@@ -15,7 +15,7 @@ $_['entry_test']					= 'Test Mode';
 $_['entry_total']					= 'Total';
 $_['entry_order_status']			= 'Order Status';
 $_['entry_geo_zone']				= 'Geo Zone';
-$_['entry_status']					= 'Status';
+$_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Sort Order';
 
 // Help

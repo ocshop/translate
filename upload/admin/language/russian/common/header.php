@@ -4,7 +4,7 @@ $_['heading_title']        = 'OpenCart';
 
 // Text
 $_['text_order']           = 'Orders';
-$_['text_order_status']    = 'Pending';
+$_['text_order_status']    = 'Ожидает';
 $_['text_complete_status'] = 'Completed';
 $_['text_customer']        = 'Customers';
 $_['text_online']          = 'Customers Online';
@@ -28,7 +28,7 @@ $_['text_new_category']    = 'Category';
 $_['text_new_customer']    = 'Customer';
 $_['text_new_download']    = 'Download';
 $_['text_new_manufacturer']= 'Manufacturer';
-$_['text_new_product']     = 'Product';
+$_['text_new_product']     = 'Товар';
 
 $_['button_clearallcache']        = 'Delete the entire cache';
 $_['button_clearcache']           = 'Delete Cache Images';

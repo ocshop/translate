@@ -29,7 +29,7 @@ $_['entry_start_selling'] 			= 'Start Selling';
 $_['column_name'] 					= 'Name';
 $_['column_image'] 					= 'Image';
 $_['column_model'] 					= 'Model';
-$_['column_status'] 				= 'Status';
+$_['column_status'] 				= 'Статус';
 $_['column_matches'] 				= 'Matches';
 $_['column_result'] 				= 'Result';
 

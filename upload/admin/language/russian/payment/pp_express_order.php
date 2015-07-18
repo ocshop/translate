@@ -17,12 +17,12 @@ $_['success_transaction_resent']	= 'Transaction was successfully resent';
 
 // Column
 $_['column_trans_id']				= 'Transaction ID';
-$_['column_amount']					= 'Amount';
+$_['column_amount']					= 'Итого';
 $_['column_type']					= 'Payment type';
-$_['column_status']					= 'Status';
+$_['column_status']					= 'Статус';
 $_['column_pend_reason']			= 'Pending reason';
-$_['column_date_added']				= 'Created';
-$_['column_action']					= 'Action';
+$_['column_date_added']				= 'Создан';
+$_['column_action']					= 'Действие';
 
 // Button
 $_['button_void']					= 'Void';

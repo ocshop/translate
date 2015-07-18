@@ -3,7 +3,7 @@
 $_['heading_title']					= 'Sage Payment Solutions (US)';
 
 // Text
-$_['text_payment']					= 'Payment';
+$_['text_payment']					= 'Платеж';
 $_['text_success']					= 'Success: You have modified SagePay account details!';
 $_['text_edit']                     = 'Edit Sage Payment Solutions (US)';
 
@@ -13,7 +13,7 @@ $_['entry_merchant_key']			= 'Merchant Key';
 $_['entry_total']					= 'Total';
 $_['entry_order_status']			= 'Order Status';
 $_['entry_geo_zone']				= 'Geo Zone';
-$_['entry_status']					= 'Status';
+$_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Sort Order';
 
 // Help

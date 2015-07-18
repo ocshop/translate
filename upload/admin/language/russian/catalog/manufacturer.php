@@ -15,7 +15,7 @@ $_['text_amount']        = 'Fixed Amount';
 $_['column_name']        = 'Manufacturer Name';
 $_['column_sort_order']  = 'Sort Order';
 $_['column_noindex']         = 'Index';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Manufacturer Name';
@@ -29,7 +29,7 @@ $_['entry_keyword']    	     = 'SEO Keyword';
 $_['entry_image']    	     = 'Image';
 $_['entry_sort_order']  	 = 'Sort Order';
 $_['entry_noindex']          = 'Index';
-$_['entry_type']        	 = 'Type';
+$_['entry_type']        	 = 'Тип';
 
 // Help
 $_['help_keyword']       = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';

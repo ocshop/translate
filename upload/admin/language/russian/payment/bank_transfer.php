@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'Bank Transfer';
 
 // Text
-$_['text_payment']		 = 'Payment';
+$_['text_payment']		 = 'Платеж';
 $_['text_success']		 = 'Success: You have modified bank transfer details!';
 $_['text_edit']          = 'Edit Bank Transfer';
 
@@ -12,7 +12,7 @@ $_['entry_bank']		 = 'Bank Transfer Instructions';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
+$_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Sort Order';
 
 // Help

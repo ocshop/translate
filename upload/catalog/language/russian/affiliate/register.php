@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Affiliate Program';
 
 // Text
-$_['text_account']              = 'Account';
+$_['text_account']              = 'Аккаунт';
 $_['text_register']             = 'Affiliate Register';
 $_['text_account_already']      = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
 $_['text_signup']               = 'To create an affiliate account, fill in the form below ensuring you complete all the required fields:';

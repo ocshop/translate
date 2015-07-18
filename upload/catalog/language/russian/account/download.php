@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Account Downloads';
 
 // Text
-$_['text_account']      = 'Account';
+$_['text_account']      = 'Аккаунт';
 $_['text_downloads']    = 'Downloads';
 $_['text_empty']        = 'You have not made any previous downloadable orders!';
 

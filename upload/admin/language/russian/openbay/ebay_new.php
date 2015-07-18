@@ -152,7 +152,7 @@ $_['tab_feature']              		= 'Features';
 $_['tab_ebay_catalog']              = 'eBay catalog';
 $_['tab_description']          		= 'Description';
 $_['tab_price']                		= 'Price &amp; details';
-$_['tab_payment']              		= 'Payment';
+$_['tab_payment']              		= 'Платеж';
 $_['tab_returns']              		= 'Returns';
 
 // Help

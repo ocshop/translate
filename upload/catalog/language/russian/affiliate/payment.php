@@ -3,8 +3,8 @@
 $_['heading_title']             = 'Payment Method';
 
 // Text
-$_['text_account']              = 'Account';
-$_['text_payment']              = 'Payment';
+$_['text_account']              = 'Аккаунт';
+$_['text_payment']              = 'Платеж';
 $_['text_your_payment']         = 'Payment Information';
 $_['text_your_password']        = 'Your Password';
 $_['text_cheque']               = 'Cheque';

@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'Globalpay Redirect';
 
 // Text
-$_['text_payment']				  	 = 'Payment';
+$_['text_payment']				  	 = 'Платеж';
 $_['text_success']					 = 'Success: You have modified Globalpay account details!';
 $_['text_edit']                      = 'Edit Globalpay Redirect';
 $_['text_live']						 = 'Live';
@@ -37,9 +37,9 @@ $_['text_order_ref']				 = 'Order ref';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Операции'';
-$_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
-$_['text_column_date_added']		 = 'Created';
+$_['text_column_amount']			 = 'Итого';
+$_['text_column_type']				 = 'Тип';
+$_['text_column_date_added']		 = 'Создан';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';
@@ -52,7 +52,7 @@ $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Total';
 $_['entry_sort_order']				 = 'Sort order';
 $_['entry_geo_zone']				 = 'Geo zone';
-$_['entry_status']					 = 'Status';
+$_['entry_status']					 = 'Статус';
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_live_demo']				 = 'Live / Demo';
 $_['entry_auto_settle']				 = 'Settlement type';

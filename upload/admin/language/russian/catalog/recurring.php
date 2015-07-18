@@ -27,13 +27,13 @@ $_['entry_trial_duration']	= 'Trial duration';
 $_['entry_trial_status']	= 'Trial status';
 $_['entry_trial_cycle']	    = 'Trial cycle';
 $_['entry_trial_frequency']	= 'Trial frequency';
-$_['entry_status']			= 'Status';
+$_['entry_status']			= 'Статус';
 $_['entry_sort_order']		= 'Sort Order';
 
 // Column
 $_['column_name']			= 'Name';
 $_['column_sort_order']	    = 'Sort Order';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Действие';
 
 // Error
 $_['error_warning']         = 'Warning: Please check the form carefully for errors!';

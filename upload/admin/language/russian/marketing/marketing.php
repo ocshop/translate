@@ -14,7 +14,7 @@ $_['column_code']       = 'Code';
 $_['column_clicks']     = 'Clicks';
 $_['column_orders']     = 'Orders';
 $_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'Campaign Name';

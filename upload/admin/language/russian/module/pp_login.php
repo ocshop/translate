@@ -19,7 +19,7 @@ $_['entry_button']         = 'Button Colour';
 $_['entry_seamless']       = 'Allow "Seamless Checkout"';
 $_['entry_locale']         = 'Locale';
 $_['entry_return_url']     = 'Return URL';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'Статус';
 
 //Help
 $_['help_sandbox']         = 'Use sandbox (testing) environment?';

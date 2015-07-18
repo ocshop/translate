@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Product Returns';
 
 // Text
-$_['text_account']       = 'Account';
+$_['text_account']       = 'Аккаунт';
 $_['text_return']        = 'Return Information';
 $_['text_return_detail'] = 'Return Details';
 $_['text_description']   = 'Please complete the form below to request an RMA number.';
@@ -23,7 +23,7 @@ $_['text_agree']         = 'I have read and agree to the <a href="%s" class="agr
 // Column
 $_['column_return_id']   = 'Return ID';
 $_['column_order_id']    = 'Order ID';
-$_['column_status']      = 'Status';
+$_['column_status']      = 'Статус';
 $_['column_date_added']  = 'Date Added';
 $_['column_customer']    = 'Customer';
 $_['column_product']     = 'Product Name';
@@ -33,7 +33,7 @@ $_['column_price']       = 'Price';
 $_['column_opened']      = 'Opened';
 $_['column_comment']     = 'Comment';
 $_['column_reason']      = 'Reason';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_order_id']     = 'Order ID';

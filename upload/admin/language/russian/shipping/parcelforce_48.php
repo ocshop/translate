@@ -15,7 +15,7 @@ $_['entry_display_insurance'] = 'Display Insurance';
 $_['entry_display_time']      = 'Display Delivery Time';
 $_['entry_tax_class']         = 'Tax Class';
 $_['entry_geo_zone']          = 'Geo Zone';
-$_['entry_status']            = 'Status';
+$_['entry_status']            = 'Статус';
 $_['entry_sort_order']        = 'Sort Order';
 
 // Help

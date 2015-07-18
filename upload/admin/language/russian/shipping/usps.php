@@ -67,7 +67,7 @@ $_['entry_display_weight']  = 'Display Delivery Weight';
 $_['entry_weight_class']    = 'Weight Class';
 $_['entry_tax']             = 'Tax Class';
 $_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Sort Order';
 $_['entry_debug']      		= 'Debug Mode';
 

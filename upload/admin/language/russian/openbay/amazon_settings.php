@@ -38,7 +38,7 @@ $_['text_refurbished'] 					= 'Refurbished';
 $_['error_permission']         			= 'You do not have access to this module';
 
 // Entry
-$_['entry_status']                 		= 'Status';
+$_['entry_status']                 		= 'Статус';
 $_['entry_token']                    	= 'Token';
 $_['entry_string1']              		= 'Encryption String 1';
 $_['entry_string2']              		= 'Encryption String 2';

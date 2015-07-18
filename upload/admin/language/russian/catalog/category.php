@@ -14,7 +14,7 @@ $_['text_category_total']    = 'Total Categories: ';
 $_['column_name']            = 'Category Name';
 $_['column_sort_order']      = 'Sort Order';
 $_['column_noindex']         = 'Index';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Category Name';
@@ -31,7 +31,7 @@ $_['entry_image']            = 'Image';
 $_['entry_top']              = 'Top';
 $_['entry_column']           = 'Columns';
 $_['entry_sort_order']       = 'Sort Order';
-$_['entry_status']           = 'Status';
+$_['entry_status']           = 'Статус';
 $_['entry_noindex']          = 'Index';
 $_['entry_layout']           = 'Layout Override';
 

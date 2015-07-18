@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Order History';
 
 // Text
-$_['text_account']          = 'Account';
+$_['text_account']          = 'Аккаунт';
 $_['text_order']            = 'Order Information';
 $_['text_order_detail']     = 'Order Details';
 $_['text_invoice_no']       = 'Invoice No.:';
@@ -28,7 +28,7 @@ $_['column_model']          = 'Model';
 $_['column_quantity']       = 'Quantity';
 $_['column_price']          = 'Price';
 $_['column_total']          = 'Total';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Действие';
 $_['column_date_added']     = 'Date Added';
 $_['column_status']         = 'Order Status';
 $_['column_comment']        = 'Comment';

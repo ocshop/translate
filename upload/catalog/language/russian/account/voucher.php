@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Purchase a Gift Certificate';
 
 // Text
-$_['text_account']     = 'Account';
+$_['text_account']     = 'Аккаунт';
 $_['text_voucher']     = 'Gift Voucher';
 $_['text_description'] = 'This gift certificate will be emailed to the recipient after your order has been paid for.';
 $_['text_agree']       = 'I understand that gift certificates are non-refundable.';
@@ -17,7 +17,7 @@ $_['entry_from_name']  = 'Your Name';
 $_['entry_from_email'] = 'Your e-mail';
 $_['entry_theme']      = 'Gift Certificate Theme';
 $_['entry_message']    = 'Message';
-$_['entry_amount']     = 'Amount';
+$_['entry_amount']     = 'Итого';
 
 // Help
 $_['help_message']     = 'Optional';

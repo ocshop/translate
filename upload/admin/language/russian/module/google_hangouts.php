@@ -9,7 +9,7 @@ $_['text_edit']        = 'Edit Google Hangouts Module';
 
 // Entry
 $_['entry_code']       = 'Google Talk Code';
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Help
 $_['help_code']        = 'Goto <a href="https://developers.google.com/+/hangouts/button" target="_blank">Create a Google Hangout chatback badge</a> and copy &amp; paste the generated code into the text box.';

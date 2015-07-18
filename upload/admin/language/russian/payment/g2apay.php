@@ -3,7 +3,7 @@
 $_['heading_title']				 		 = 'G2APay';
 
 // Text
-$_['text_payment']				 		 = 'Payment';
+$_['text_payment']				 		 = 'Платеж';
 $_['text_success']				 		 = 'Success: You have modified the G2APay details.';
 $_['text_edit']					 		 = 'Edit G2APay';
 $_['text_g2apay']				 		 = '<a href="https://pay.g2a.com/" target="_blank"><img src="view/image/payment/g2apay.png" alt="G2APay" title="G2APay" style="border: 1px solid #EEEEEE;" /></a>';
@@ -17,7 +17,7 @@ $_['entry_ipn_url']				 		 = 'IPN URL:';
 $_['entry_total']				 		 = 'Total';
 
 $_['entry_geo_zone']			 		 = 'Geo Zone';
-$_['entry_status']				 		 = 'Status';
+$_['entry_status']				 		 = 'Статус';
 $_['entry_sort_order']			 		 = 'Sort Order';
 $_['entry_debug']				 		 = 'Debug logging';
 
@@ -42,7 +42,7 @@ $_['error_permission']			 		 = 'Warning: You do not have permission to modify G2
 $_['error_email']				 		 = 'E-Mail Required!';
 $_['error_secret']				 		 = 'Secret Required!';
 $_['error_api_hash']			 		 = 'API Hash Required!';
-$_['entry_status']				 		 = 'Status';
+$_['entry_status']				 		 = 'Статус';
 $_['entry_order_status']		 		 = 'Order Status';
 
 // Order page - payment tab
@@ -52,8 +52,8 @@ $_['text_order_ref']			 		 = 'Order ref';
 $_['text_order_total']			 		 = 'Total authorised';
 $_['text_total_released']		 		 = 'Total released';
 $_['text_transactions']			 		 = 'Операции'';
-$_['text_column_amount']		 		 = 'Amount';
-$_['text_column_type']			 		 = 'Type';
+$_['text_column_amount']		 		 = 'Итого';
+$_['text_column_type']			 		 = 'Тип';
 $_['text_column_date_added']	 		 = 'Added';
 $_['text_refund_ok']			 		 = 'Refund was successfully requested';
 $_['text_refund_ok_order']		 		 = 'Refund was successfully requested, amount fully refunded';

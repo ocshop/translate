@@ -8,7 +8,7 @@ $_['text_success']     = 'Success: You have modified PayPal Express Checkout But
 $_['text_edit']        = 'Edit PayPal Express Checkout Button Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify PayPal Express Checkout Button module!';

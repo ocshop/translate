@@ -11,7 +11,7 @@ $_['text_edit']        = 'Edit Banned IP';
 // Column
 $_['column_ip']        = 'IP';
 $_['column_customer']  = 'Customers';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_ip']         = 'IP';

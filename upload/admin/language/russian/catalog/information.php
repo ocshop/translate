@@ -13,7 +13,7 @@ $_['text_default']           = 'Default';
 $_['column_title']           = 'Information Title';
 $_['column_sort_order']	     = 'Sort Order';
 $_['column_noindex']         = 'Index';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_title']            = 'Information Title';
@@ -25,7 +25,7 @@ $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_keyword']          = 'SEO Keyword';
 $_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
+$_['entry_status']           = 'Статус';
 $_['entry_noindex']          = 'Index';
 $_['entry_sort_order']       = 'Sort Order';
 $_['entry_layout']           = 'Layout Override';

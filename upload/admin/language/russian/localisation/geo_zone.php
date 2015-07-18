@@ -11,7 +11,7 @@ $_['text_edit']          = 'Edit Geo Zone';
 // Column
 $_['column_name']        = 'Geo Zone Name';
 $_['column_description'] = 'Description';
-$_['column_action']      = 'Action';
+$_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_name']         = 'Geo Zone Name';

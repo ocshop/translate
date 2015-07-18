@@ -11,9 +11,9 @@ $_['text_list']         = 'Modification List';
 $_['column_name']       = 'Modification Name';
 $_['column_author']     = 'Author';
 $_['column_version']    = 'Version';
-$_['column_status']     = 'Status';
+$_['column_status']     = 'Статус';
 $_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify modifications!';

@@ -12,7 +12,7 @@ $_['text_edit']              = 'Edit Attribute';
 $_['column_name']            = 'Attribute Name';
 $_['column_attribute_group'] = 'Attribute Group';
 $_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']            = 'Attribute Name';

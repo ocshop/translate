@@ -10,7 +10,7 @@ $_['text_add']                         = 'Add Store';
 $_['text_edit']                        = 'Edit Store';
 $_['text_items']                       = 'Items';
 $_['text_tax']                         = 'Taxes';
-$_['text_account']                     = 'Account';
+$_['text_account']                     = 'Аккаунт';
 $_['text_checkout']                    = 'Checkout';
 $_['text_stock']                       = 'Stock';
 $_['text_shipping']                    = 'Shipping Address';
@@ -19,7 +19,7 @@ $_['text_payment']                     = 'Payment Address';
 // Column
 $_['column_name']                      = 'Store Name';
 $_['column_url']	                   = 'Store URL';
-$_['column_action']                    = 'Action';
+$_['column_action']                    = 'Действие';
 
 // Entry
 $_['entry_url']                        = 'Store URL';

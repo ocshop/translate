@@ -3,7 +3,7 @@
 $_['heading_title']					 = 'PayPal Express Checkout';
 
 // Text
-$_['text_payment']				  	 = 'Payment';
+$_['text_payment']				  	 = 'Платеж';
 $_['text_success']				 	 = 'Success: You have modified PayPal Express Checkout account details!';
 $_['text_edit']                      = 'Edit PayPal Express Checkout';
 $_['text_pp_express']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -26,7 +26,7 @@ $_['entry_sandbox_signature']		 = 'API Sandbox Signature';
 $_['entry_test']					 = 'Test (Sandbox) Mode';
 $_['entry_method']					 = 'Transaction Method';
 $_['entry_geo_zone']				 = 'Geo Zone';
-$_['entry_status']					 = 'Status';
+$_['entry_status']					 = 'Статус';
 $_['entry_sort_order']				 = 'Sort Order';
 $_['entry_icon_sort_order']			 = 'Icon Sort Order';
 $_['entry_debug']					 = 'Debug logging';

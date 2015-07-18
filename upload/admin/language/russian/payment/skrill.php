@@ -3,7 +3,7 @@
 $_['heading_title']			  = 'Skrill';
 
 // Text
-$_['text_payment']			  = 'Payment';
+$_['text_payment']			  = 'Платеж';
 $_['text_success']			  = 'Success: You have modified the Skrill details.';
 $_['text_edit']               = 'Edit Skrill';
 $_['text_skrill']	     	  = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
@@ -18,7 +18,7 @@ $_['entry_canceled_status']	  = 'Canceled Status';
 $_['entry_failed_status']	  = 'Failed Status';
 $_['entry_chargeback_status'] = 'Chargeback Status';
 $_['entry_geo_zone']		  = 'Geo Zone';
-$_['entry_status']			  = 'Status';
+$_['entry_status']			  = 'Статус';
 $_['entry_sort_order']		  = 'Sort Order';
 
 // Help

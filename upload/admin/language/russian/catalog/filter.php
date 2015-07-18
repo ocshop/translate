@@ -11,7 +11,7 @@ $_['text_edit']         = 'Edit Filter';
 // Column
 $_['column_group']      = 'Filter Group';
 $_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_group']       = 'Filter Group Name';

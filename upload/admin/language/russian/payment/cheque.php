@@ -3,7 +3,7 @@
 $_['heading_title']		 = 'Cheque / Money Order';
 
 // Text
-$_['text_payment']		 = 'Payment';
+$_['text_payment']		 = 'Платеж';
 $_['text_success']		 = 'Success: You have modified cheque / money order account details!';
 $_['text_edit']          = 'Edit Cheque / Money Order';
 
@@ -12,7 +12,7 @@ $_['entry_payable']		 = 'Payable To';
 $_['entry_total']		 = 'Total';
 $_['entry_order_status'] = 'Order Status';
 $_['entry_geo_zone']	 = 'Geo Zone';
-$_['entry_status']		 = 'Status';
+$_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Sort Order';
 
 // Help
