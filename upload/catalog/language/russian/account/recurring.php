@@ -9,7 +9,7 @@ $_['text_quantity'] = 'Quantity: ';
 $_['text_account'] = 'Account';
 $_['text_action'] = 'Action';
 $_['text_recurring'] = 'Recurring payment';
-$_['text_transactions'] = 'Transactions';
+$_['text_transactions'] = 'Операции'';
 $_['button_return'] = 'Return';
 $_['text_empty_transactions'] = 'No transactions for this recurring profile';
 
