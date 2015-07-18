@@ -9,10 +9,10 @@
 $_['heading_title'] 							= 'Регулярные платежи';
 $_['button_continue'] 							= 'Продолжить';
 $_['button_view'] 								= 'Просмотр';
-$_['text_empty'] 								= 'No recurring payments found';
-$_['text_product'] 								= 'Product: ';
-$_['text_order'] 								= 'Order: ';
-$_['text_quantity'] 							= 'Quantity: ';
+$_['text_empty'] 								= 'Не найден платежный профиль';
+$_['text_product'] 								= 'Товар:';
+$_['text_order'] 								= 'Заказ:';
+$_['text_quantity'] 							= 'Количество: ';
 $_['text_account'] 								= 'Account';
 $_['text_action'] 								= 'Action';
 $_['text_recurring'] 							= 'Recurring payment';
