@@ -33,7 +33,7 @@ $_['text_year']                = 'year';
 
 // Entry
 $_['entry_qty']                = 'Qty';
-$_['entry_name']               = 'Your Name';
+$_['entry_name']               = 'Ваше имя';
 $_['entry_review']             = 'Your Review';
 $_['entry_rating']             = 'Rating';
 $_['entry_good']               = 'Good';

@@ -11,7 +11,7 @@ $_['text_refund']					= 'Refund';
 $_['entry_transaction_id']			= 'Transaction ID';
 $_['entry_full_refund']				= 'Full refund';
 $_['entry_amount']					= 'Итого';
-$_['entry_message']					= 'Message';
+$_['entry_message']					= 'Сообщение';
 
 // Button
 $_['button_refund']					= 'Issue refund';
