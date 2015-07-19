@@ -1,12 +1,19 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'My Account Information';
+$_['heading_title']     = 'Моя информация';
 
 // Text
 $_['text_account']      = 'Аккаунт';
 $_['text_edit']         = 'Редактировать информацию';
 $_['text_your_details'] = 'Ваша учетная запись';
-$_['text_your_address'] = 'Your Address';
+$_['text_your_address'] = 'Ваш Адрес';
 $_['text_success']      = 'Ваша учетная запись была успешно обновлена!';
 
 // Entry

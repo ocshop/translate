@@ -7,7 +7,7 @@ $_['text_account']         = 'Аккаунт';
 $_['text_register']        = 'Register';
 $_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
 $_['text_your_details']    = 'Ваша учетная запись';
-$_['text_your_address']    = 'Your Address';
+$_['text_your_address']    = 'Ваш Адрес';
 $_['text_newsletter']      = 'Рассылка';
 $_['text_your_password']   = 'Ваш пароль';
 $_['text_agree']           = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
