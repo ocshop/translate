@@ -87,8 +87,8 @@ $_['error_country']                  = 'Пожалуйста, укажите с�
 $_['error_zone']                     = 'Пожалуйста, укажите регион / область!';
 $_['error_agree']                    = 'Warning: You must agree to the %s!';
 $_['error_address']                  = 'Warning: You must select address!';
-$_['error_shipping']                 = 'Warning: Shipping method required!';
+$_['error_shipping']                 = 'Укажите метод доставки!';
 $_['error_no_shipping']              = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_payment']                  = 'Warning: Payment method required!';
+$_['error_payment']                  = 'Укажите метод оплаты!';
 $_['error_no_payment']               = 'Warning: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_custom_field']             = '%s required!';
+$_['error_custom_field']             = '%s необходим!';

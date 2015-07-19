@@ -9,6 +9,6 @@ $_['text_success']  = 'Success: Your reward points discount has been applied!';
 $_['entry_reward']  = 'Points to use (Max %s)';
 
 // Error
-$_['error_reward']  = 'Warning: Please enter the amount of reward points to use!';
-$_['error_points']  = 'Warning: You don\'t have %s reward points!';
-$_['error_maximum'] = 'Warning: The maximum number of points that can be applied is %s!';
+$_['error_reward']  = 'Укажите количество бонусных баллов, которые хотите использовать!';
+$_['error_points']  = 'У Вас нет %s бонусных баллов!';
+$_['error_maximum'] = 'Максимальное количество бонусных баллов, которые могут быть использованы, составляет %s!';

@@ -4,7 +4,7 @@ $_['heading_title']    = 'Shopping Cart';
 
 // Text
 $_['text_success']     = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
-$_['text_remove']      = 'Success: You have modified your shopping cart!';
+$_['text_remove']      = 'Корзина покупок обновлена!';
 $_['text_login']       = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
 $_['text_items']       = '%s item(s) - %s';
 $_['text_points']      = 'Reward Points: %s';
@@ -35,8 +35,8 @@ $_['column_price']          = 'Цена за единицу товара';
 $_['column_total']          = 'Всего';
 
 // Error
-$_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';
+$_['error_stock']            = 'Товары, отмеченные ***, недоступны в нужном количестве или отсутствуют на складе!';
 $_['error_minimum']          = 'Minimum order amount for %s is %s!';
-$_['error_required']         = '%s required!';
+$_['error_required']         = '%s необходим!';
 $_['error_product']          = 'Warning: There are no products in your cart!';
 $_['error_recurring_required'] = 'Please select a payment recurring!';
