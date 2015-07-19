@@ -153,7 +153,7 @@ $_['tab_ebay_catalog']              = 'eBay catalog';
 $_['tab_description']          		= 'Описание';
 $_['tab_price']                		= 'Price &amp; details';
 $_['tab_payment']              		= 'Платеж';
-$_['tab_returns']              		= 'Returns';
+$_['tab_returns']              		= 'Возврат товара';
 
 // Help
 $_['help_quantity_reserve']         = 'Enter a lower amount if you want to maintain a lower stock level on eBay';

@@ -19,7 +19,7 @@ $_['text_date']             = 'Date';
 $_['text_datetime']         = 'Date &amp; Time';
 $_['text_time']             = 'Time';
 $_['text_account']          = 'Аккаунт';
-$_['text_address']          = 'Address';
+$_['text_address']          = 'Адрес';
 
 // Column
 $_['column_name']           = 'Custom Field Name';

@@ -8,22 +8,22 @@ $_['text_list']        = 'Store Location List';
 $_['text_add']         = 'Add Store Location';
 $_['text_edit']        = 'Edit Store Location';
 $_['text_default']     = 'Default';
-$_['text_time']        = 'Opening Times';
+$_['text_time']        = 'Режим работы';
 $_['text_geocode']     = 'Geocode was not successful for the following reason:';
 
 // Column
 $_['column_name']      = 'Store Name';
-$_['column_address']   = 'Address';
+$_['column_address']   = 'Адрес';
 $_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_name']       = 'Store Name';
-$_['entry_address']    = 'Address';
+$_['entry_address']    = 'Адрес';
 $_['entry_geocode']    = 'Geocode';
 $_['entry_telephone']  = 'Телефон';
 $_['entry_fax']        = 'Факс';
 $_['entry_image']      = 'Изображение';
-$_['entry_open']       = 'Opening Times';
+$_['entry_open']       = 'Режим работы';
 $_['entry_comment']    = 'Комментарий';
 
 // Help

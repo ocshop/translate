@@ -5,7 +5,7 @@ $_['text_openbay']                      = 'OpenBay Pro';
 $_['text_ebay']                         = 'eBay';
 
 //Tabs
-$_['tab_returns']          				= 'Returns';
+$_['tab_returns']          				= 'Возврат товара';
 $_['tab_template']         				= 'Template';
 $_['tab_gallery']          				= 'Gallery';
 $_['tab_settings']         				= 'Settings';
@@ -86,7 +86,7 @@ $_['text_profile_action']       		= 'Действие';
 
 // Profile types
 $_['text_type_shipping']       			= 'Shipping';
-$_['text_type_returns']       			= 'Returns';
+$_['text_type_returns']       			= 'Возврат товара';
 $_['text_type_template']       			= 'Template &amp; gallery';
 $_['text_type_general']       			= 'General settings';
 

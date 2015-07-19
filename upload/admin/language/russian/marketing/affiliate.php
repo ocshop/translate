@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']             = 'Affiliates';
+$_['heading_title']             = 'Партнёрская программа';
 
 // Text
 $_['text_success']              = 'Success: You have modified affiliates!';

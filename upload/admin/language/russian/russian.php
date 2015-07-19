@@ -25,7 +25,7 @@ $_['text_pagination']               = 'Showing %d to %d of %d (%d Pages)';
 $_['text_loading']                  = 'Loading...';
 $_['text_no_results']               = 'No results!';
 $_['text_confirm']                  = 'Are you sure?';
-$_['text_home']                     = 'Home';
+$_['text_home']                     = 'Главная';
 
 // Button
 $_['button_add']                    = 'Add New';
@@ -86,7 +86,7 @@ $_['button_credit_remove']          = 'Remove Credit';
 $_['button_ip_add']                 = 'Add IP';
 $_['button_parent']                 = 'Parent';
 $_['button_folder']                 = 'New Folder';
-$_['button_search']                 = 'Search';
+$_['button_search']                 = 'Поиск';
 $_['button_view']                   = 'Просмотр';
 $_['button_install']                = 'Install';
 $_['button_uninstall']              = 'Uninstall';
@@ -97,7 +97,7 @@ $_['button_currency']               = 'Refresh Currency Values';
 $_['button_apply']                  = 'Apply';
 
 // Tab
-$_['tab_address']                   = 'Address';
+$_['tab_address']                   = 'Адрес';
 $_['tab_additional']                = 'Additional';
 $_['tab_admin']                     = 'Admin';
 $_['tab_attribute']                 = 'Attribute';
@@ -125,7 +125,7 @@ $_['tab_product']                   = 'Products';
 $_['tab_reward']                    = 'Бонусные баллы';
 $_['tab_shipping']                  = 'Shipping Details';
 $_['tab_total']                     = 'Totals';
-$_['tab_transaction']               = 'Операции'';
+$_['tab_transaction']               = 'Операции';
 $_['tab_voucher']                   = 'Vouchers';
 $_['tab_sale']                      = 'Sales';
 $_['tab_marketing']                 = 'Marketing';

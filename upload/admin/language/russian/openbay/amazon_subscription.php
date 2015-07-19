@@ -32,4 +32,4 @@ $_['column_price']                    	= 'Цена';
 
 // Buttons
 $_['button_change_plan']              	= 'Change plan';
-$_['button_register']                 	= 'Register';
+$_['button_register']                 	= 'Регистрация';
