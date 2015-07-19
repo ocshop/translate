@@ -19,7 +19,7 @@ $_['text_i_am_returning_customer']   = 'I am a returning customer';
 $_['text_register']                  = 'Register Account';
 $_['text_guest']                     = 'Guest Checkout';
 $_['text_register_account']          = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_forgotten']                 = 'Forgotten Password';
+$_['text_forgotten']                 = 'Забытый пароль?';
 $_['text_your_details']              = 'Ваша учетная запись';
 $_['text_your_address']              = 'Your Address';
 $_['text_your_password']             = 'Your Password';
@@ -48,7 +48,7 @@ $_['column_price']                   = 'Цена за единицу товар�
 $_['column_total']                   = 'Всего';
 
 // Entry
-$_['entry_email_address']            = 'E-Mail Address';
+$_['entry_email_address']            = 'E-Mail Адрес';
 $_['entry_email']                    = 'E-Mail';
 $_['entry_password']                 = 'Password';
 $_['entry_confirm']                  = 'Password Confirm';
