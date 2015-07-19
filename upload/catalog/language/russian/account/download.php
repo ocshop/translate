@@ -1,14 +1,21 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'Account Downloads';
+$_['heading_title']     = 'Файлы для скачивания';
 
 // Text
-$_['text_account']      = 'Аккаунт';
-$_['text_downloads']    = 'Downloads';
-$_['text_empty']        = 'You have not made any previous downloadable orders!';
+$_['text_account']      = 'Личный Кабинет';
+$_['text_downloads']    = 'Файлы для скачивания';
+$_['text_empty']        = 'Нет доступных файлов для скачивания!';
 
 // Column
 $_['column_order_id']   = '№ Заказа';
-$_['column_name']       = 'Name';
-$_['column_size']       = 'Size';
+$_['column_name']       = 'Название';
+$_['column_size']       = 'Размер';
 $_['column_date_added'] = 'Добавлено';
