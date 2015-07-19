@@ -13,5 +13,5 @@ $_['text_special']      = 'Specials';
 $_['text_account']      = 'My Account';
 $_['text_order']        = 'История заказа';
 $_['text_wishlist']     = 'Wish List';
-$_['text_newsletter']   = 'Newsletter';
+$_['text_newsletter']   = 'Рассылка';
 $_['text_powered']      = 'Powered By <a href="http://ocshop.info">OCSHOP.CMS</a><br /> %s &copy; %s';
