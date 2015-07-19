@@ -49,7 +49,7 @@ $_['text_has_saved_listings'] 		= 'This product has one or more saved listings t
 $_['text_edit_heading'] 			= 'Edit listing';
 
 // Columns
-$_['column_image'] 					= 'Image';
+$_['column_image'] 					= 'Изображение';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'Цена';
 $_['column_action'] 				= 'Действие';

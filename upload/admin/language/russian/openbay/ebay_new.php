@@ -88,7 +88,7 @@ $_['text_compatible']        		= 'Compatible options';
 $_['text_loading_compatibility']    = 'Loading compatibility options';
 
 // Column
-$_['column_stock_total']      		= 'In stock';
+$_['column_stock_total']      		= 'В наличии';
 $_['column_stock_col_qty']          = 'To list';
 $_['column_stock_col_qty_reserve']  = 'Reserved';
 $_['column_price_ex_tax']           = 'Excluding tax';
@@ -96,7 +96,7 @@ $_['column_price_inc_tax']          = 'Including tax';
 $_['column_stock_col_comb']         = 'Combination';
 $_['column_price']          		= 'Цена';
 $_['column_stock_col_enabled']      = 'Enabled';
-$_['column_thumb']      			= 'Image';
+$_['column_thumb']      			= 'Изображение';
 $_['column_img_size']      			= 'Size';
 $_['column_template_image']         = 'Template image';
 $_['column_ebay_image']         	= 'eBay image';

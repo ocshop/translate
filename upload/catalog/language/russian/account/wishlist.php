@@ -1,20 +1,27 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title'] = 'My Wish List';
+$_['heading_title'] = 'Мои закладки';
 
 // Text
-$_['text_account']  = 'Аккаунт';
-$_['text_instock']  = 'In Stock';
-$_['text_wishlist'] = 'Wish List (%s)';
-$_['text_login']    = 'You must <a href="%s">login</a> or <a href="%s">create an account</a> to save <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_success']  = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">wish list</a>!';
-$_['text_remove']   = 'Success: You have modified your wish list!';
-$_['text_empty']    = 'Your wish list is empty.';
+$_['text_account']  = 'Личный Кабинет';
+$_['text_instock']  = 'В наличии';
+$_['text_wishlist'] = 'Закладки (%s)';
+$_['text_login']    = 'Необходимо войти в <a href="%s">Личный Кабинет</a> или <a href="%s">создать учетную запись</a>, чтобы сохранить товар <a href="%s">%s</a> в свои <a href="%s">закладки</a>!';
+$_['text_success']  = 'Товар <a href="%s">%s</a> был добавлен в <a href="%s">закладки</a>!';
+$_['text_remove']   = 'Закладки успешно обновлены!';
+$_['text_empty']    = 'Ваши закладки пусты.';
 
 // Column
-$_['column_image']  = 'Image';
+$_['column_image']  = 'Изображение';
 $_['column_name']   = 'Название товара';
 $_['column_model']  = 'Модель';
-$_['column_stock']  = 'Stock';
-$_['column_price']  = 'Unit Price';
+$_['column_stock']  = 'Наличие';
+$_['column_price']  = 'Цена за единицу товара';
 $_['column_action'] = 'Действие';

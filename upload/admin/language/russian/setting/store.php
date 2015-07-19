@@ -12,7 +12,7 @@ $_['text_items']                       = 'Items';
 $_['text_tax']                         = 'Taxes';
 $_['text_account']                     = 'Аккаунт';
 $_['text_checkout']                    = 'Checkout';
-$_['text_stock']                       = 'Stock';
+$_['text_stock']                       = 'Наличие';
 $_['text_shipping']                    = 'Адрес доставки';
 $_['text_payment']                     = 'Платёжный адрес';
 
@@ -31,7 +31,7 @@ $_['entry_geocode']                    = 'Geocode';
 $_['entry_email']                      = 'E-Mail';
 $_['entry_telephone']                  = 'Телефон';
 $_['entry_fax']                        = 'Факс';
-$_['entry_image']                      = 'Image';
+$_['entry_image']                      = 'Изображение';
 $_['entry_open']                       = 'Opening Times';
 $_['entry_comment']                    = 'Комментарий';
 $_['entry_location']                   = 'Store Location';

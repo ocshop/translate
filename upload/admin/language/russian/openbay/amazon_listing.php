@@ -54,7 +54,7 @@ $_['text_spain'] 					= 'Spain';
 $_['text_united_kingdom'] 			= 'United Kingdom';
 
 // Columns
-$_['column_image'] 					= 'Image';
+$_['column_image'] 					= 'Изображение';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'Цена';
 $_['column_action'] 				= 'Действие';

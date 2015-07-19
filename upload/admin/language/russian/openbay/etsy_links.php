@@ -14,7 +14,7 @@ $_['text_no_links']           	= 'You have no products linked to Etsy items';
 // Columns
 $_['column_product']			= 'Название товара';
 $_['column_item_id']			= 'Etsy ID';
-$_['column_store_stock']		= 'Stock';
+$_['column_store_stock']		= 'Наличие';
 $_['column_etsy_stock']			= 'Etsy Stock';
 $_['column_status']				= 'Link Status';
 $_['column_action']				= 'Действие';

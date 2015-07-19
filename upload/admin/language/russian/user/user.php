@@ -22,7 +22,7 @@ $_['entry_confirm']    	= 'Confirm';
 $_['entry_firstname']  	= 'Имя';
 $_['entry_lastname']   	= 'Фамилия';
 $_['entry_email']      	= 'E-Mail';
-$_['entry_image']      	= 'Image';
+$_['entry_image']      	= 'Изображение';
 $_['entry_status']     	= 'Статус';
 
 // Error

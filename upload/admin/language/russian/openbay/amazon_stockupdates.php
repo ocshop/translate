@@ -17,4 +17,4 @@ $_['column_date_requested']           	= 'Date requested';
 $_['column_date_updated']             	= 'Date updated';
 $_['column_status']                   	= 'Статус';
 $_['column_sku']                      	= 'Amazon SKU';
-$_['column_stock']                    	= 'Stock';
+$_['column_stock']                    	= 'Наличие';

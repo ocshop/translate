@@ -27,11 +27,11 @@ $_['text_payment_description'] 	              = '%s every %d %s(s) for %d paymen
 $_['text_payment_until_canceled_description'] = '%s every %d %s(s) until canceled';
 
 // Column
-$_['column_image']          = 'Image';
+$_['column_image']          = 'Изображение';
 $_['column_name']           = 'Название товара';
 $_['column_model']          = 'Модель';
 $_['column_quantity']       = 'Количество';
-$_['column_price']          = 'Unit Price';
+$_['column_price']          = 'Цена за единицу товара';
 $_['column_total']          = 'Всего';
 
 // Error

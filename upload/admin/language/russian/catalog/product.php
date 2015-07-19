@@ -18,7 +18,7 @@ $_['text_amount']            = 'Fixed Amount';
 // Column
 $_['column_name']            = 'Название товара';
 $_['column_model']           = 'Модель';
-$_['column_image']           = 'Image';
+$_['column_image']           = 'Изображение';
 $_['column_price']           = 'Цена';
 $_['column_quantity']        = 'Количество';
 $_['column_status']          = 'Статус';
@@ -60,7 +60,7 @@ $_['entry_length_class']     = 'Length Class';
 $_['entry_length']           = 'Length';
 $_['entry_width']            = 'Width';
 $_['entry_height']           = 'Height';
-$_['entry_image']            = 'Image';
+$_['entry_image']            = 'Изображение';
 $_['entry_customer_group']   = 'Customer Group';
 $_['entry_date_start']       = 'Date Start';
 $_['entry_date_end']         = 'Date End';

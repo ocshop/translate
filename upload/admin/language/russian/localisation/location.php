@@ -22,7 +22,7 @@ $_['entry_address']    = 'Address';
 $_['entry_geocode']    = 'Geocode';
 $_['entry_telephone']  = 'Телефон';
 $_['entry_fax']        = 'Факс';
-$_['entry_image']      = 'Image';
+$_['entry_image']      = 'Изображение';
 $_['entry_open']       = 'Opening Times';
 $_['entry_comment']    = 'Комментарий';
 

@@ -44,7 +44,7 @@ $_['text_year']                      = 'year';
 $_['column_name']                    = 'Название товара';
 $_['column_model']                   = 'Модель';
 $_['column_quantity']                = 'Количество';
-$_['column_price']                   = 'Unit Price';
+$_['column_price']                   = 'Цена за единицу товара';
 $_['column_total']                   = 'Всего';
 
 // Entry
