@@ -8,7 +8,7 @@ $_['text_success']       = 'Success: You have modified Australia Post shipping!'
 $_['text_edit']          = 'Edit Australia Post Shipping';
 
 // Entry
-$_['entry_postcode']     = 'Post Code';
+$_['entry_postcode']     = 'Почтовый индекс';
 $_['entry_express']      = 'Express Postage';
 $_['entry_standard']     = 'Standard Postage';
 $_['entry_display_time'] = 'Display Delivery Time';

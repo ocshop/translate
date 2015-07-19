@@ -11,13 +11,13 @@ $_['text_edit']              = 'Edit Zone';
 // Column
 $_['column_name']            = 'Zone Name';
 $_['column_code']            = 'Zone Code';
-$_['column_country']         = 'Country';
+$_['column_country']         = 'Страна';
 $_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Zone Name';
 $_['entry_code']             = 'Zone Code';
-$_['entry_country']          = 'Country';
+$_['entry_country']          = 'Страна';
 $_['entry_status']           = 'Статус';
 
 // Error

@@ -8,13 +8,13 @@ $_['text_shipping']        = 'Enter your destination to get a shipping estimate.
 $_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
 
 // Entry
-$_['entry_country']        = 'Country';
-$_['entry_zone']           = 'Region / State';
-$_['entry_postcode']       = 'Post Code';
+$_['entry_country']        = 'Страна';
+$_['entry_zone']           = 'Регион / Область';
+$_['entry_postcode']       = 'Почтовый индекс';
 
 // Error
-$_['error_postcode']       = 'Postcode must be between 2 and 10 characters!';
-$_['error_country']        = 'Please select a country!';
-$_['error_zone']           = 'Please select a region / state!';
+$_['error_postcode']       = 'Индекс должен быть от 2 до 10 символов!';
+$_['error_country']        = 'Пожалуйста, укажите страну!';
+$_['error_zone']           = 'Пожалуйста, укажите регион / область!';
 $_['error_shipping']       = 'Warning: Shipping method required!';
 $_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
