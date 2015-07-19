@@ -49,7 +49,7 @@ $_['text_column_date_added']		= 'Создан';
 $_['entry_merchant_id']				= 'Merchant ID';
 $_['entry_secret']					= 'Shared secret';
 $_['entry_rebate_password']			= 'Rebate password';
-$_['entry_total']					= 'Total';
+$_['entry_total']					= 'Всего';
 $_['entry_sort_order']				= 'Sort order';
 $_['entry_geo_zone']				= 'Geo zone';
 $_['entry_status']					= 'Статус';
@@ -79,7 +79,7 @@ $_['help_card_data_status']			= 'Logs last 4 cards digits, expire, name, type an
 // Tab
 $_['tab_api']					    = 'API Details';
 $_['tab_account']				    = 'Accounts';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_order_status']				= 'Статус';
 $_['tab_payment']					= 'Payment Settings';
 
 // Button

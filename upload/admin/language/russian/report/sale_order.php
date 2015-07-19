@@ -16,10 +16,10 @@ $_['column_date_end']   = 'Date End';
 $_['column_orders']     = 'No. Orders';
 $_['column_products']   = 'No. Products';
 $_['column_tax']        = 'Tax';
-$_['column_total']      = 'Total';
+$_['column_total']      = 'Всего';
 
 // Entry
 $_['entry_date_start']  = 'Date Start';
 $_['entry_date_end']    = 'Date End';
 $_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Order Status';
+$_['entry_status']      = 'Статус';

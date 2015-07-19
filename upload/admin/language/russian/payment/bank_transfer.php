@@ -9,8 +9,8 @@ $_['text_edit']          = 'Edit Bank Transfer';
 
 // Entry
 $_['entry_bank']		 = 'Bank Transfer Instructions';
-$_['entry_total']		 = 'Total';
-$_['entry_order_status'] = 'Order Status';
+$_['entry_total']		 = 'Всего';
+$_['entry_order_status'] = 'Статус';
 $_['entry_geo_zone']	 = 'Geo Zone';
 $_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Sort Order';

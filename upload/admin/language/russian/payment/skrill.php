@@ -11,8 +11,8 @@ $_['text_skrill']	     	  = '<a href="https://www.moneybookers.com/partners/?p=O
 // Entry
 $_['entry_email']			  = 'E-Mail';
 $_['entry_secret']		      = 'Secret';
-$_['entry_total']			  = 'Total';
-$_['entry_order_status']	  = 'Order Status';
+$_['entry_total']			  = 'Всего';
+$_['entry_order_status']	  = 'Статус';
 $_['entry_pending_status']	  = 'Pending Status ';
 $_['entry_canceled_status']	  = 'Canceled Status';
 $_['entry_failed_status']	  = 'Failed Status';

@@ -45,7 +45,7 @@ $_['column_name']                    = 'Название товара';
 $_['column_model']                   = 'Модель';
 $_['column_quantity']                = 'Количество';
 $_['column_price']                   = 'Unit Price';
-$_['column_total']                   = 'Total';
+$_['column_total']                   = 'Всего';
 
 // Entry
 $_['entry_email_address']            = 'E-Mail Address';

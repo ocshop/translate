@@ -30,7 +30,7 @@ $_['entry_status']					 = 'Статус';
 $_['entry_sort_order']				 = 'Sort Order';
 $_['entry_icon_sort_order']			 = 'Icon Sort Order';
 $_['entry_debug']					 = 'Debug logging';
-$_['entry_total']					 = 'Total';
+$_['entry_total']					 = 'Всего';
 $_['entry_currency']				 = 'Default currency';
 $_['entry_recurring_cancellation']	 = 'Allow customers to cancel recurring payments';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status';
@@ -53,7 +53,7 @@ $_['entry_page_colour']				 = 'Page background colour';
 // Tab
 $_['tab_general']					 = 'General';
 $_['tab_api']				         = 'API Details';
-$_['tab_order_status']				 = 'Order status';
+$_['tab_order_status']				 = 'Статус';
 $_['tab_checkout']					 = 'Checkout';
 
 // Help

@@ -8,7 +8,7 @@ $_['text_success']		 = 'Success: You have modified Free Checkout payment module!
 $_['text_edit']          = 'Edit Free Checkout';
 
 // Entry
-$_['entry_order_status'] = 'Order Status';
+$_['entry_order_status'] = 'Статус';
 $_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Sort Order';
 

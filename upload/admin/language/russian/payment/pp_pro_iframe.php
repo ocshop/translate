@@ -119,7 +119,7 @@ $_['column_action']					= 'Действие';
 
 // Tab
 $_['tab_settings']					= 'Settings';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_order_status']				= 'Статус';
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 
 // Entry
@@ -127,7 +127,7 @@ $_['entry_username']				= 'API Username';
 $_['entry_password']				= 'API Password';
 $_['entry_signature']				= 'API Signature';
 $_['entry_test']					= 'Test Mode';
-$_['entry_total']					= 'Total';
+$_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Order Status:';
 $_['entry_geo_zone']				= 'Geo Zone:';
 $_['entry_status']					= 'Статус:';

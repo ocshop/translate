@@ -33,7 +33,7 @@ $_['column_actions']				= 'Actions';
 
 // Tab
 $_['tab_settings']					= 'Settings';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_order_status']				= 'Статус';
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 
 // Entry
@@ -43,8 +43,8 @@ $_['entry_password']				= 'Password';
 $_['entry_partner']					= 'Partner';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
-$_['entry_total']					= 'Total';
-$_['entry_order_status']			= 'Order Status';
+$_['entry_total']					= 'Всего';
+$_['entry_order_status']			= 'Статус';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Sort Order';

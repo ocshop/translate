@@ -11,7 +11,7 @@ $_['column_email']      = 'E-Mail';
 $_['column_status']     = 'Статус';
 $_['column_commission'] = 'Commission';
 $_['column_orders']     = 'No. Orders';
-$_['column_total']      = 'Total';
+$_['column_total']      = 'Всего';
 $_['column_action']     = 'Действие';
 
 // Entry

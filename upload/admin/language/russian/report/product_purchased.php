@@ -12,9 +12,9 @@ $_['column_date_end']   = 'Date End';
 $_['column_name']       = 'Название товара';
 $_['column_model']      = 'Модель';
 $_['column_quantity']   = 'Количество';
-$_['column_total']      = 'Total';
+$_['column_total']      = 'Всего';
 
 // Entry
 $_['entry_date_start']  = 'Date Start';
 $_['entry_date_end']    = 'Date End';
-$_['entry_status']      = 'Order Status';
+$_['entry_status']      = 'Статус';

@@ -32,7 +32,7 @@ $_['column_name']           = 'Название товара';
 $_['column_model']          = 'Модель';
 $_['column_quantity']       = 'Количество';
 $_['column_price']          = 'Unit Price';
-$_['column_total']          = 'Total';
+$_['column_total']          = 'Всего';
 
 // Error
 $_['error_stock']            = 'Products marked with *** are not available in the desired quantity or not in stock!';

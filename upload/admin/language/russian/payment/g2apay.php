@@ -14,14 +14,14 @@ $_['entry_api_hash']		     		 = 'API Hash';
 $_['entry_environment']			 		 = 'Environment';
 $_['entry_secret_token']		 		 = 'Secret Token';
 $_['entry_ipn_url']				 		 = 'IPN URL:';
-$_['entry_total']				 		 = 'Total';
+$_['entry_total']				 		 = 'Всего';
 
 $_['entry_geo_zone']			 		 = 'Geo Zone';
 $_['entry_status']				 		 = 'Статус';
 $_['entry_sort_order']			 		 = 'Sort Order';
 $_['entry_debug']				 		 = 'Debug logging';
 
-$_['entry_order_status']				 = 'Order Status';
+$_['entry_order_status']				 = 'Статус';
 $_['entry_complete_status']				 = 'Complete Status:';
 $_['entry_rejected_status']				 = 'Rejected Status:';
 $_['entry_cancelled_status']			 = 'Canceled Status:';
@@ -35,7 +35,7 @@ $_['help_debug']				 		 = 'Enabling debug will write sensitive data to a log fil
 
 // Tab
 $_['tab_settings']				 		 = 'Settings';
-$_['tab_order_status']				 	 = 'Order Status';
+$_['tab_order_status']				 	 = 'Статус';
 
 // Error
 $_['error_permission']			 		 = 'Warning: You do not have permission to modify G2APay!';
@@ -43,7 +43,7 @@ $_['error_email']				 		 = 'E-Mail Required!';
 $_['error_secret']				 		 = 'Secret Required!';
 $_['error_api_hash']			 		 = 'API Hash Required!';
 $_['entry_status']				 		 = 'Статус';
-$_['entry_order_status']		 		 = 'Order Status';
+$_['entry_order_status']		 		 = 'Статус';
 
 // Order page - payment tab
 $_['text_payment_info']			 		 = 'Payment information';

@@ -13,8 +13,8 @@ $_['text_tax']                         = 'Taxes';
 $_['text_account']                     = 'Аккаунт';
 $_['text_checkout']                    = 'Checkout';
 $_['text_stock']                       = 'Stock';
-$_['text_shipping']                    = 'Shipping Address';
-$_['text_payment']                     = 'Payment Address';
+$_['text_shipping']                    = 'Адрес доставки';
+$_['text_payment']                     = 'Платёжный адрес';
 
 // Column
 $_['column_name']                      = 'Store Name';
@@ -56,7 +56,7 @@ $_['entry_account']                    = 'Account Terms';
 $_['entry_cart_weight']                = 'Display Weight on Cart Page';
 $_['entry_checkout_guest']             = 'Guest Checkout';
 $_['entry_checkout']                   = 'Checkout Terms';
-$_['entry_order_status']               = 'Order Status';
+$_['entry_order_status']               = 'Статус';
 $_['entry_stock_display']              = 'Display Stock';
 $_['entry_stock_checkout']             = 'Stock Checkout';
 $_['entry_logo']                       = 'Store Logo';

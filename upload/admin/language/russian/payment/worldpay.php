@@ -18,8 +18,8 @@ $_['text_void_ok']				 = 'Void was successful, order status updated to voided';
 // Entry
 $_['entry_service_key']			 = 'Service Key';
 $_['entry_client_key']			 = 'Client Key';
-$_['entry_total']				 = 'Total';
-$_['entry_order_status']		 = 'Order Status';
+$_['entry_total']				 = 'Всего';
+$_['entry_order_status']		 = 'Статус';
 $_['entry_geo_zone']			 = 'Geo Zone';
 $_['entry_status']				 = 'Статус';
 $_['entry_sort_order']			 = 'Sort Order';
@@ -52,7 +52,7 @@ $_['help_cron_job_url']			 = 'Set a cron job to call this URL';
 
 // Tab
 $_['tab_settings']				 = 'Settings';
-$_['tab_order_status']			 = 'Order Status';
+$_['tab_order_status']			 = 'Статус';
 
 // Error
 $_['error_permission']			 = 'Warning: You do not have permission to modify payment Worldpay!';

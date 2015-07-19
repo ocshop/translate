@@ -14,8 +14,8 @@ $_['text_liqpay']		 = '<img src="view/image/payment/liqpay.png" alt="LIQPAY" tit
 $_['entry_merchant']	 = 'Merchant ID';
 $_['entry_signature']	 = 'Signature';
 $_['entry_type']		 = 'Тип';
-$_['entry_total']		 = 'Total';
-$_['entry_order_status'] = 'Order Status';
+$_['entry_total']		 = 'Всего';
+$_['entry_order_status'] = 'Статус';
 $_['entry_geo_zone']	 = 'Geo Zone';
 $_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Sort Order';

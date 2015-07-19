@@ -39,7 +39,7 @@ $_['text_flp_merchant_area']                  = 'Please login to <a href="http:/
 $_['entry_status']                            = 'Статус';
 $_['entry_key']                               = 'API Key';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
+$_['entry_order_status']                      = 'Статус';
 $_['entry_review_status']                     = 'Review Status';
 $_['entry_approve_status']                    = 'Approve Status';
 $_['entry_reject_status']                     = 'Reject Status';

@@ -15,7 +15,7 @@ $_['entry_email']					 = 'E-Mail';
 $_['entry_test']					 = 'Sandbox Mode';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_debug']					 = 'Debug Mode';
-$_['entry_total']					 = 'Total';
+$_['entry_total']					 = 'Всего';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status';
 $_['entry_completed_status']		 = 'Completed Status';
 $_['entry_denied_status']			 = 'Denied Status';
@@ -32,7 +32,7 @@ $_['entry_sort_order']				 = 'Sort Order';
 
 // Tab
 $_['tab_general']					 = 'General';
-$_['tab_order_status']       		 = 'Order Status';
+$_['tab_order_status']       		 = 'Статус';
 
 // Help
 $_['help_test']						 = 'Use the live or testing (sandbox) gateway server to process transactions?';
