@@ -18,7 +18,7 @@ $_['text_trial']			= 'Trial Profile';
 
 // Entry
 $_['entry_name']			= 'Name';
-$_['entry_price']			= 'Price';
+$_['entry_price']			= 'Цена';
 $_['entry_duration']		= 'Duration';
 $_['entry_cycle']			= 'Cycle';
 $_['entry_frequency']		= 'Frequency';

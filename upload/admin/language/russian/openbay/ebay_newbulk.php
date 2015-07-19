@@ -30,7 +30,7 @@ $_['text_profile_generic']          = 'Generic profile';
 
 //Text
 $_['text_title']                    = 'Title';
-$_['text_price']                    = 'Price';
+$_['text_price']                    = 'Цена';
 $_['text_stock']                    = 'Stock';
 $_['text_search']                   = 'Search';
 $_['text_loading']                  = 'Loading details';

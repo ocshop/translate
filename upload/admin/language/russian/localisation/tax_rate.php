@@ -15,7 +15,7 @@ $_['column_name']          = 'Tax Name';
 $_['column_rate']          = 'Tax Rate';
 $_['column_type']          = 'Тип';
 $_['column_geo_zone']      = 'Geo Zone';
-$_['column_date_added']    = 'Date Added';
+$_['column_date_added']    = 'Добавлено';
 $_['column_date_modified'] = 'Date Modified';
 $_['column_action']        = 'Действие';
 

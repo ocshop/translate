@@ -17,9 +17,9 @@ $_['column_to']         = 'To';
 $_['column_theme']      = 'Theme';
 $_['column_amount']     = 'Итого';
 $_['column_status']     = 'Статус';
-$_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_date_added'] = 'Date Added';
+$_['column_order_id']   = '№ Заказа';
+$_['column_customer']   = 'Клиент';
+$_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -43,6 +43,6 @@ $_['error_exists']      = 'Warning: Voucher code is already in use!';
 $_['error_code']        = 'Code must be between 3 and 10 characters!';
 $_['error_to_name']     = 'Recipient\'s Name must be between 1 and 64 characters!';
 $_['error_from_name']   = 'Your Name must be between 1 and 64 characters!';
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
+$_['error_email']       = 'E-Mail адрес введен неверно!';
 $_['error_amount']      = 'Amount must be greater than or equal to 1!';
 $_['error_order']       = 'Warning: This voucher cannot be deleted as it is part of an <a href="%s">order</a>!';

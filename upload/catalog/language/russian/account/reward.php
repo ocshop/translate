@@ -3,7 +3,7 @@
 $_['heading_title']      = 'Your Reward Points';
 
 // Column
-$_['column_date_added']  = 'Date Added';
+$_['column_date_added']  = 'Добавлено';
 $_['column_description'] = 'Description';
 $_['column_points']      = 'Points';
 

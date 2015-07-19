@@ -13,7 +13,7 @@ $_['column_product']    = 'Товар';
 $_['column_author']     = 'Author';
 $_['column_rating']     = 'Rating';
 $_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -22,7 +22,7 @@ $_['entry_author']      = 'Author';
 $_['entry_rating']      = 'Rating';
 $_['entry_status']      = 'Статус';
 $_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Добавлено';
 
 // Help
 $_['help_product']      = '(Autocomplete)';

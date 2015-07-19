@@ -4,8 +4,8 @@ $_['text_success']       = 'You have successfully modified customers';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
+$_['error_firstname']    = 'Имя должно быть от 1 до 32 символов!';
+$_['error_lastname']     = 'Фамилия должна быть от 1 до 32 символов!';
+$_['error_email']        = 'E-Mail адрес введен неверно!';
+$_['error_telephone']    = 'Номер телефона должен быть от 3 до 32 символов!';
 $_['error_custom_field'] = '%s required!';

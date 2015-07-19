@@ -11,7 +11,7 @@ $_['text_upload']       = 'Your file was successfully uploaded!';
 
 // Column
 $_['column_name']       = 'Download Name';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 
 // Entry

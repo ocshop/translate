@@ -59,9 +59,9 @@ $_['entry_date_to'] = 'Date To';
 $_['entry_hour'] = 'Hour';
 $_['entry_minute'] = 'Minute';
 
-$_['column_order_id'] = 'Order ID';
+$_['column_order_id'] = '№ Заказа';
 $_['column_transaction_reference'] = 'Transaction reference';
-$_['column_customer'] = 'Customer';
+$_['column_customer'] = 'Клиент';
 $_['column_total'] = 'Total';
 $_['column_currency'] = 'Currency';
 $_['column_settle_status'] = 'Settle status';

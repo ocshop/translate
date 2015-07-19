@@ -16,24 +16,24 @@ $_['text_percent']           = 'Percentage';
 $_['text_amount']            = 'Fixed Amount';
 
 // Column
-$_['column_name']            = 'Product Name';
-$_['column_model']           = 'Model';
+$_['column_name']            = 'Название товара';
+$_['column_model']           = 'Модель';
 $_['column_image']           = 'Image';
-$_['column_price']           = 'Price';
-$_['column_quantity']        = 'Quantity';
+$_['column_price']           = 'Цена';
+$_['column_quantity']        = 'Количество';
 $_['column_status']          = 'Статус';
 $_['column_noindex']         = 'Index';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Product Name';
+$_['entry_name']             = 'Название товара';
 $_['entry_description']      = 'Description';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_h1'] 	     = 'HTML Tag H1';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_keyword']          = 'SEO Keyword';
-$_['entry_model']            = 'Model';
+$_['entry_model']            = 'Модель';
 $_['entry_sku']              = 'SKU';
 $_['entry_upc']              = 'UPC';
 $_['entry_ean']              = 'EAN';
@@ -45,10 +45,10 @@ $_['entry_shipping']         = 'Requires Shipping';
 $_['entry_manufacturer']     = 'Manufacturer';
 $_['entry_store']            = 'Stores';
 $_['entry_date_available']   = 'Date Available';
-$_['entry_quantity']         = 'Quantity';
+$_['entry_quantity']         = 'Количество';
 $_['entry_minimum']          = 'Minimum Quantity';
 $_['entry_stock_status']     = 'Out Of Stock Status';
-$_['entry_price']            = 'Price';
+$_['entry_price']            = 'Цена';
 $_['entry_tax_class']        = 'Tax Class';
 $_['entry_points']           = 'Points';
 $_['entry_option_points']    = 'Points';
@@ -106,7 +106,7 @@ $_['help_noindex']           = 'indexing in search engines Google, Yandex, Bing 
 // Error
 $_['error_warning']          = 'Warning: Please check the form carefully for errors!';
 $_['error_permission']       = 'Warning: You do not have permission to modify products!';
-$_['error_name']             = 'Product Name must be greater than 3 and less than 255 characters!';
+$_['error_name']             = 'Наименование товара  должно быть от 3 до 255 символов!';
 $_['error_meta_title']       = 'Meta Title must be greater than 0 and less than 255 characters!';
 $_['error_meta_h1'] 	     = 'HTML Tag H1 must be greater than 0 and less than 255 characters!';
 $_['error_model']            = 'Product Model must be greater than 1 and less than 64 characters!';

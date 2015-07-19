@@ -4,11 +4,11 @@ $_['heading_title']         = 'Order History';
 
 // Text
 $_['text_account']          = 'Аккаунт';
-$_['text_order']            = 'Order Information';
+$_['text_order']            = 'Информация о заказе';
 $_['text_order_detail']     = 'Order Details';
 $_['text_invoice_no']       = 'Invoice No.:';
-$_['text_order_id']         = 'Order ID:';
-$_['text_date_added']       = 'Date Added:';
+$_['text_order_id']         = '№ заказа:';
+$_['text_date_added']       = 'Добавлено:';
 $_['text_shipping_address'] = 'Shipping Address';
 $_['text_shipping_method']  = 'Shipping Method:';
 $_['text_payment_address']  = 'Payment Address';
@@ -20,18 +20,18 @@ $_['text_empty']            = 'You have not made any previous orders!';
 $_['text_error']            = 'The order you requested could not be found!';
 
 // Column
-$_['column_order_id']       = 'Order ID';
+$_['column_order_id']       = '№ Заказа';
 $_['column_product']        = 'No. of Products';
-$_['column_customer']       = 'Customer';
-$_['column_name']           = 'Product Name';
-$_['column_model']          = 'Model';
-$_['column_quantity']       = 'Quantity';
-$_['column_price']          = 'Price';
+$_['column_customer']       = 'Клиент';
+$_['column_name']           = 'Название товара';
+$_['column_model']          = 'Модель';
+$_['column_quantity']       = 'Количество';
+$_['column_price']          = 'Цена';
 $_['column_total']          = 'Total';
 $_['column_action']         = 'Действие';
-$_['column_date_added']     = 'Date Added';
+$_['column_date_added']     = 'Добавлено';
 $_['column_status']         = 'Order Status';
-$_['column_comment']        = 'Comment';
+$_['column_comment']        = 'Комментарий';
 
 // Error
 $_['error_reorder']         = '%s is not currently available to be reordered.';

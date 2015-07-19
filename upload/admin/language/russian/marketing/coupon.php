@@ -17,10 +17,10 @@ $_['column_discount']     = 'Discount';
 $_['column_date_start']   = 'Date Start';
 $_['column_date_end']     = 'Date End';
 $_['column_status']       = 'Статус';
-$_['column_order_id']     = 'Order ID';
-$_['column_customer']     = 'Customer';
+$_['column_order_id']     = '№ Заказа';
+$_['column_customer']     = 'Клиент';
 $_['column_amount']       = 'Итого';
-$_['column_date_added']   = 'Date Added';
+$_['column_date_added']   = 'Добавлено';
 $_['column_action']       = 'Действие';
 
 // Entry

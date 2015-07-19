@@ -13,9 +13,9 @@ $_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new
 
 // Column
 $_['column_affiliate']  = 'Affiliate';
-$_['column_comment']    = 'Comment';
+$_['column_comment']    = 'Комментарий';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Добавлено';
 
 // Entry
 $_['entry_affiliate']   = 'Affiliate';

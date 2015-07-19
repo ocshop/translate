@@ -20,11 +20,11 @@ $_['column_action']    = 'Действие';
 $_['entry_name']       = 'Store Name';
 $_['entry_address']    = 'Address';
 $_['entry_geocode']    = 'Geocode';
-$_['entry_telephone']  = 'Telephone';
+$_['entry_telephone']  = 'Телефон';
 $_['entry_fax']        = 'Fax';
 $_['entry_image']      = 'Image';
 $_['entry_open']       = 'Opening Times';
-$_['entry_comment']    = 'Comment';
+$_['entry_comment']    = 'Комментарий';
 
 // Help
 $_['help_geocode']     = 'Please enter your store location geocode manually.';
@@ -35,4 +35,4 @@ $_['help_comment']     = 'This field is for any special notes you would like to 
 $_['error_permission'] = 'Warning: You do not have permission to modify store locations!';
 $_['error_name']       = 'Store name must be at least 1 character!';
 $_['error_address']    = 'Address must be between 3 and 128 characters!';
-$_['error_telephone']  = 'Telephone must be between 3 and 32 characters!';
+$_['error_telephone']  = 'Номер телефона должен быть от 3 до 32 символов!';

@@ -13,7 +13,7 @@ $_['column_name']       = 'Campaign Name';
 $_['column_code']       = 'Code';
 $_['column_clicks']     = 'Clicks';
 $_['column_orders']     = 'Orders';
-$_['column_date_added'] = 'Date Added';
+$_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -21,7 +21,7 @@ $_['entry_name']        = 'Campaign Name';
 $_['entry_description'] = 'Campaign Description';
 $_['entry_code']        = 'Tracking Code';
 $_['entry_example']     = 'Examples';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Добавлено';
 
 // Help
 $_['help_code']         = 'The tracking code that will be used to marketing track campaigns.';
