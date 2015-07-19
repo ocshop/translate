@@ -1,9 +1,16 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title'] = 'Your Affiliate Account Has Been Created!';
+$_['heading_title'] = 'Учетная запись Партнера успешно создана!';
 
 // Text
-$_['text_message']  = '<p>Congratulations! Your new account has been successfully created!</p> <p>You are now a member of %s affiliates.</p> <p>If you have ANY questions about the operation of this affiliate system, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering for an affiliate account with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this affiliate system, please <a href="%s">contact the store owner</a>.</p>';
-$_['text_account']  = 'Аккаунт';
+$_['text_message']  = '<p>Поздравляем! Ваш Партнерский Аккаунт был успешно создан.</p> <p>Вы стали участником %s партнерской программы.</p> <p>Что бы задать любые вопросы о Партнерской программе свяжитесь с нами</p> <p>Письмо с подтверждением регистрации в партнерской программе отправлено на Ваш контактный E-Mail, в том случае если вы его не получили <a href="%s">воспользуйстесь формой обратной связи</a>.</p>';
+$_['text_approval'] = '<p>Благодарим за регистрацию нового Партнера %s!</p><p>Вы получите уведомление на email после активации учётной записи администрацией магазина.</p><p>Любые вопросы о Партнерской программе можно задать <a href="%s">администрации магазина</a>.</p>';
+$_['text_account']  = 'Кабинет Партнера';
 $_['text_success']  = 'Успешно';
