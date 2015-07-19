@@ -1,13 +1,20 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title'] = 'Use Coupon Code';
+$_['heading_title'] = 'Использовать Купон для получения скидки';
 
 // Text
-$_['text_success']  = 'Success: Your coupon discount has been applied!';
+$_['text_success']  = 'Купон успешно использован!';
 
 // Entry
-$_['entry_coupon']  = 'Enter your coupon here';
+$_['entry_coupon']  = 'Введите код Купона для получения скидки';
 
 // Error
-$_['error_coupon']  = 'Warning: Coupon is either invalid, expired or reached its usage limit!';
-$_['error_empty']   = 'Warning: Please enter a coupon code!';
+$_['error_coupon']  = 'Купон либо недействителен, либо истек срок его действия, либо достигнут предел его использования!';
+$_['error_empty']   = 'Необходимо ввести код купона!';

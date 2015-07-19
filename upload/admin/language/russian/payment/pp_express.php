@@ -54,7 +54,7 @@ $_['entry_page_colour']				 = 'Page background colour';
 $_['tab_general']					 = 'General';
 $_['tab_api']				         = 'API Details';
 $_['tab_order_status']				 = 'Статус';
-$_['tab_checkout']					 = 'Checkout';
+$_['tab_checkout']					 = 'Оформление заказа';
 
 // Help
 $_['help_ipn']						 = 'Required for subscriptions';

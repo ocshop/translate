@@ -1,11 +1,18 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']        = 'Estimate Shipping &amp; Taxes';
+$_['heading_title']        = 'Оценки стоимости доставки';
 
 // Text
-$_['text_success']         = 'Success: Your shipping estimate has been applied!';
-$_['text_shipping']        = 'Enter your destination to get a shipping estimate.';
-$_['text_shipping_method'] = 'Please select the preferred shipping method to use on this order.';
+$_['text_success']         = 'Расчет стоимости доставки успешно выполнен!';
+$_['text_shipping']        = 'Укажите ваш регион для оценки стоимости доставки.';
+$_['text_shipping_method'] = 'Выберите удобный способ доставки для этого заказа';
 
 // Entry
 $_['entry_country']        = 'Страна';
@@ -16,5 +23,5 @@ $_['entry_postcode']       = 'Почтовый индекс';
 $_['error_postcode']       = 'Индекс должен быть от 2 до 10 символов!';
 $_['error_country']        = 'Пожалуйста, укажите страну!';
 $_['error_zone']           = 'Пожалуйста, укажите регион / область!';
-$_['error_shipping']       = 'Укажите метод доставки!';
-$_['error_no_shipping']    = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_shipping']       = 'Необходимо указать способ доставки!';
+$_['error_no_shipping']    = 'Доставка по данному адресу невозможна. <a href="%s">Свяжитесь с нами</a>, и мы найдём решение проблемы!';

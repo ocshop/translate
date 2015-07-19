@@ -5,11 +5,11 @@ $_['heading_title']                = 'Account Login';
 // Text
 $_['text_account']                 = 'Аккаунт';
 $_['text_login']                   = 'Войти';
-$_['text_new_customer']            = 'New Customer';
-$_['text_register']                = 'Register Account';
+$_['text_new_customer']            = 'Новый покупатель';
+$_['text_register']                = 'Регистрация';
 $_['text_register_account']        = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
-$_['text_returning_customer']      = 'Returning Customer';
-$_['text_i_am_returning_customer'] = 'I am a returning customer';
+$_['text_returning_customer']      = 'Зарегистрированный пользователь';
+$_['text_i_am_returning_customer'] = 'Я совершал здесь покупки ранее и регистрировался';
 $_['text_forgotten']               = 'Забыли пароль?';
 
 // Entry

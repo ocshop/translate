@@ -14,9 +14,9 @@ $_['text_recent']                  = 'Latest Orders';
 $_['text_order']                   = 'Orders';
 $_['text_customer']                = 'Customers';
 $_['text_day']                     = 'Today';
-$_['text_week']                    = 'Week';
-$_['text_month']                   = 'Month';
-$_['text_year']                    = 'Year';
+$_['text_week']                    = 'неделя';
+$_['text_month']                   = 'месяц';
+$_['text_year']                    = 'год';
 $_['text_view']                    = 'View more...';
 
 // Error

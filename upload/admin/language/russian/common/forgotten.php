@@ -15,5 +15,5 @@ $_['entry_confirm']   = 'Confirm';
 
 // Error
 $_['error_email']     = 'E-Mail адрес не найден, проверьте и попробуйте ещё раз!';
-$_['error_password']  = 'Password must be between 3 and 20 characters!';
+$_['error_password']  = 'Пароль должен быть от 3 до 20 символов!';
 $_['error_confirm']   = 'Password and password confirmation do not match!';

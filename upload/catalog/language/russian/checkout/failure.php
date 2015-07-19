@@ -1,20 +1,27 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title'] = 'Ошибка оплаты!';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
+$_['text_basket']   = 'Корзина покупок';
+$_['text_checkout'] = 'Оформление заказа';
+$_['text_failure']  = 'Ошибка оплаты';
+$_['text_message']  = '<p>В процессе оплаты возникла ошибка. Из-за ошибки не удалось продолжить оформление заказа</p>
 
-<p>Possible reasons are:</p>
+<p>Возможные причины:</p>
 <ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
+  <li>Недостаточно средств</li>
+  <li>Проверка не удалось</li>
 </ul>
 
-<p>Please try to order again using a different payment method.</p>
+<p>Пожалуйста, попробуйте еще раз, используя другой способ оплаты.</p>
 
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
+<p>В случае повторения ошибки <a href="%s">свяжитесь с администрацией</a> и сообщите детали заказа.</p>
 ';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Register Account';
+$_['heading_title']        = 'Регистрация';
 
 // Text
 $_['text_account']         = 'Аккаунт';
@@ -13,7 +13,7 @@ $_['text_your_password']   = 'Ваш пароль';
 $_['text_agree']           = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
-$_['entry_customer_group'] = 'Customer Group';
+$_['entry_customer_group'] = 'Группа Покупателей';
 $_['entry_firstname']      = 'Имя';
 $_['entry_lastname']       = 'Фамилия';
 $_['entry_email']          = 'E-Mail';
@@ -44,4 +44,4 @@ $_['error_zone']           = 'Пожалуйста, укажите регион 
 $_['error_custom_field']   = '%s необходим!';
 $_['error_password']       = 'Пароль должен быть от 4 до 20 символов!';
 $_['error_confirm']        = 'Пароли не совпадают!';
-$_['error_agree']          = 'Warning: You must agree to the %s!';
+$_['error_agree']          = 'Вы должны прочитать и согласится с %s!';

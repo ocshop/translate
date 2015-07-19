@@ -1,44 +1,51 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']                  = 'Checkout';
+$_['heading_title']                  = 'Оформление заказа';
 
 // Text
-$_['text_cart']                      = 'Shopping Cart';
-$_['text_checkout_option']           = 'Step 1: Checkout Options';
-$_['text_checkout_account']          = 'Step 2: Account &amp; Billing Details';
-$_['text_checkout_payment_address']  = 'Step 2: Billing Details';
-$_['text_checkout_shipping_address'] = 'Step 3: Delivery Details';
-$_['text_checkout_shipping_method']  = 'Step 4: Delivery Method';
-$_['text_checkout_payment_method']   = 'Step 5: Payment Method';
-$_['text_checkout_confirm']          = 'Step 6: Confirm Order';
-$_['text_modify']                    = 'Modify &raquo;';
-$_['text_new_customer']              = 'New Customer';
-$_['text_returning_customer']        = 'Returning Customer';
-$_['text_checkout']                  = 'Checkout Options:';
-$_['text_i_am_returning_customer']   = 'I am a returning customer';
-$_['text_register']                  = 'Register Account';
-$_['text_guest']                     = 'Guest Checkout';
-$_['text_register_account']          = 'By creating an account you will be able to shop faster, be up to date on an order\'s status, and keep track of the orders you have previously made.';
+$_['text_cart']                      = 'Корзина покупок';
+$_['text_checkout_option']           = 'Шаг 1: Способ оформления заказа';
+$_['text_checkout_account']          = 'Шаг 2: Профиль &amp; Платежная информация';
+$_['text_checkout_payment_address']  = 'Шаг 2: Платежная информация';
+$_['text_checkout_shipping_address'] = 'Шаг 3: Адрес доставки';
+$_['text_checkout_shipping_method']  = 'Шаг 4: Способ доставки';
+$_['text_checkout_payment_method']   = 'Шаг 5: Способ оплаты';
+$_['text_checkout_confirm']          = 'Шаг 6: Подтверждение заказа';
+$_['text_modify']                    = 'Изменить &raquo;';
+$_['text_new_customer']              = 'Новый покупатель';
+$_['text_returning_customer']        = 'Зарегистрированный пользователь';
+$_['text_checkout']                  = 'Опции Оформления заказа:';
+$_['text_i_am_returning_customer']   = 'Я совершал здесь покупки ранее и регистрировался';
+$_['text_register']                  = 'Регистрация';
+$_['text_guest']                     = 'Оформить заказ без регистрации';
+$_['text_register_account']          = 'Создание учётной записи поможет делать покупки быстрее и удобнее. Вы также сможете отслеживать статус своего заказа, пользоваться Закладками, видеть свои предыдущие заказы или получить скидку как наш постоянный покупатель.';
 $_['text_forgotten']                 = 'Забыли пароль?';
 $_['text_your_details']              = 'Ваша учетная запись';
 $_['text_your_address']              = 'Ваш Адрес';
 $_['text_your_password']             = 'Ваш пароль';
-$_['text_agree']                     = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
-$_['text_address_new']               = 'I want to use a new address';
-$_['text_address_existing']          = 'I want to use an existing address';
-$_['text_shipping_method']           = 'Please select the preferred shipping method to use on this order.';
-$_['text_payment_method']            = 'Please select the preferred payment method to use on this order.';
-$_['text_comments']                  = 'Add Comments About Your Order';
-$_['text_recurring_item']            = 'Recurring Item';
-$_['text_payment_recurring']         = 'Payment Profile';
-$_['text_trial_description']         = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description']       = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']            = '%s every %d %s(s) until canceled';
-$_['text_day']                       = 'day';
-$_['text_week']                      = 'week';
-$_['text_semi_month']                = 'half-month';
-$_['text_month']                     = 'month';
-$_['text_year']                      = 'year';
+$_['text_agree']                     = 'Я прочитал <a href="%s" class="agree"><b>%s</b></a> и согласен с условиями';
+$_['text_address_new']               = 'Я хочу использовать новый адрес';
+$_['text_address_existing']          = 'Я хочу использовать существующий адрес';
+$_['text_shipping_method']           = 'Выберите удобный способ доставки для этого заказа';
+$_['text_payment_method']            = 'Выберите способ оплаты для этого заказа';
+$_['text_comments']                  = 'Вы можете добавить комментарий к своему заказу';
+$_['text_recurring_item']            = 'Периодические платежи';
+$_['text_payment_recurring']         = 'Платежный профиль';
+$_['text_trial_description']         = 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: %d;  Далее,  ';
+$_['text_payment_description']       = 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: %d';
+$_['text_payment_cancel'] 			 = 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: до отмены';
+$_['text_day']                       = 'день';
+$_['text_week']                      = 'неделя';
+$_['text_semi_month']                = 'полмесяца';
+$_['text_month']                     = 'месяц';
+$_['text_year']                      = 'год';
 
 // Column
 $_['column_name']                    = 'Название товара';
@@ -56,20 +63,20 @@ $_['entry_firstname']                = 'Имя';
 $_['entry_lastname']                 = 'Фамилия';
 $_['entry_telephone']                = 'Телефон';
 $_['entry_fax']                      = 'Факс';
-$_['entry_address']                  = 'Choose Address';
+$_['entry_address']                  = 'Выберите адрес';
 $_['entry_company']                  = 'Компания';
-$_['entry_customer_group']           = 'Customer Group';
+$_['entry_customer_group']           = 'Группа Покупателей';
 $_['entry_address_1']                = 'Адрес 1';
 $_['entry_address_2']                = 'Адрес 2';
 $_['entry_postcode']                 = 'Почтовый индекс';
 $_['entry_city']                     = 'Город';
 $_['entry_country']                  = 'Страна';
 $_['entry_zone']                     = 'Регион / Область';
-$_['entry_newsletter']               = 'I wish to subscribe to the %s newsletter.';
-$_['entry_shipping'] 	             = 'My delivery and billing addresses are the same.';
+$_['entry_newsletter']               = 'Я хочу подписаться на рассылку новостей %s.';
+$_['entry_shipping'] 	             = 'Мой адрес доставки совпадает с платёжным.';
 
 // Error
-$_['error_warning']                  = 'There was a problem while trying to process your order! If the problem persists please try selecting a different payment method or you can contact the store owner by <a href="%s">clicking here</a>.';
+$_['error_warning']                  = 'Возникла проблема при обработке вашего заказа! Если проблема возникает повторно, попробуйте выбрать другой способ оплаты или <a href="%s">свяжитесь с администратором магазина</a>.';
 $_['error_login']                    = 'Не найден введённый адрес E-Mail и/или пароль указан неправильно.';
 $_['error_attempts']                 = 'Ваша учетная запись превысила допустимое количество попыток входа в систему. Пожалуйста, попробуйте еще через 1 час.';
 $_['error_approved']                 = 'Вы сможете войти после проверки учётной записи администрацией магазина.';
@@ -78,17 +85,17 @@ $_['error_firstname']                = 'Имя должно быть от 1 до
 $_['error_lastname']                 = 'Фамилия должна быть от 1 до 32 символов!';
 $_['error_email']                    = 'E-Mail адрес введен неверно!';
 $_['error_telephone']                = 'Номер телефона должен быть от 3 до 32 символов!';
-$_['error_password']                 = 'Password must be between 3 and 20 characters!';
+$_['error_password']                 = 'Пароль должен быть от 3 до 20 символов!';
 $_['error_confirm']                  = 'Пароли не совпадают!';
 $_['error_address_1']                = 'Адрес должен быть от 3 до 128 символов!';
 $_['error_city']                     = 'Название города должно быть от 2 до 128 символов!';
 $_['error_postcode']                 = 'Индекс должен быть от 2 до 10 символов!';
 $_['error_country']                  = 'Пожалуйста, укажите страну!';
 $_['error_zone']                     = 'Пожалуйста, укажите регион / область!';
-$_['error_agree']                    = 'Warning: You must agree to the %s!';
-$_['error_address']                  = 'Warning: You must select address!';
-$_['error_shipping']                 = 'Укажите метод доставки!';
-$_['error_no_shipping']              = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
-$_['error_payment']                  = 'Укажите метод оплаты!';
-$_['error_no_payment']               = 'Warning: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['error_agree']                    = 'Вы должны прочитать и согласится с %s!';
+$_['error_address']                  = 'Необходимо указать адрес!';
+$_['error_shipping']                 = 'Необходимо указать способ доставки!';
+$_['error_no_shipping']              = 'Доставка по данному адресу невозможна. <a href="%s">Свяжитесь с нами</a>, и мы найдём решение проблемы!';
+$_['error_payment']                  = 'Необходимо указать способ оплаты!';
+$_['error_no_payment']               = 'Оплата по данному адресу невозможна. Пожалуйста, <a href="%s">свяжитесь с нами</a> для решения этого вопроса!';
 $_['error_custom_field']             = '%s необходим!';
