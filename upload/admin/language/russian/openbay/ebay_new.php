@@ -115,7 +115,7 @@ $_['entry_search_catalog']          = 'Search eBay catalog:';
 $_['entry_catalog']            		= 'Use default image';
 $_['entry_title']                   = 'Title';
 $_['entry_subtitle']                = 'Sub title';
-$_['entry_description']             = 'Description';
+$_['entry_description']             = 'Описание';
 $_['entry_profile_load']            = 'Load profile';
 $_['entry_template']                = 'Theme';
 $_['entry_image_gallery']           = 'Gallery image size';
@@ -150,7 +150,7 @@ $_['entry_vin']   					= 'Vehicle Identification Number';
 // Tab
 $_['tab_feature']              		= 'Features';
 $_['tab_ebay_catalog']              = 'eBay catalog';
-$_['tab_description']          		= 'Description';
+$_['tab_description']          		= 'Описание';
 $_['tab_price']                		= 'Price &amp; details';
 $_['tab_payment']              		= 'Платеж';
 $_['tab_returns']              		= 'Returns';

@@ -17,7 +17,7 @@ $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_title']       = 'Tax Class Title';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'Описание';
 $_['entry_rate']        = 'Tax Rate';
 $_['entry_based']       = 'Based On';
 $_['entry_geo_zone']    = 'Geo Zone';

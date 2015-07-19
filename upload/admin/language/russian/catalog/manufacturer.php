@@ -19,7 +19,7 @@ $_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Manufacturer Name';
-$_['entry_description']      = 'Description';
+$_['entry_description']      = 'Описание';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_h1'] 	     = 'HTML Tag H1';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';

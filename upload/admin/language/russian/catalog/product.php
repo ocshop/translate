@@ -27,7 +27,7 @@ $_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Название товара';
-$_['entry_description']      = 'Description';
+$_['entry_description']      = 'Описание';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_h1'] 	     = 'HTML Tag H1';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
@@ -50,8 +50,8 @@ $_['entry_minimum']          = 'Minimum Quantity';
 $_['entry_stock_status']     = 'Out Of Stock Status';
 $_['entry_price']            = 'Цена';
 $_['entry_tax_class']        = 'Tax Class';
-$_['entry_points']           = 'Points';
-$_['entry_option_points']    = 'Points';
+$_['entry_points']           = 'Бонусные баллы';
+$_['entry_option_points']    = 'Бонусные баллы';
 $_['entry_subtract']         = 'Subtract Stock';
 $_['entry_weight_class']     = 'Weight Class';
 $_['entry_weight']           = 'Weight';
@@ -80,7 +80,7 @@ $_['entry_filter']           = 'Filters';
 $_['entry_download']         = 'Файлы для скачивания';
 $_['entry_related']          = 'Related Products';
 $_['entry_tag']          	 = 'Product Tags';
-$_['entry_reward']           = 'Reward Points';
+$_['entry_reward']           = 'Бонусные баллы';
 $_['entry_layout']           = 'Layout Override';
 $_['entry_recurring']        = 'Recurring Profile';
 

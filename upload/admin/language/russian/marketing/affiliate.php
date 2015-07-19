@@ -23,7 +23,7 @@ $_['column_balance']            = 'Balance';
 $_['column_status']             = 'Статус';
 $_['column_approved']           = 'Approved';
 $_['column_date_added']         = 'Добавлено';
-$_['column_description']        = 'Description';
+$_['column_description']        = 'Описание';
 $_['column_amount']             = 'Итого';
 $_['column_action']             = 'Действие';
 
@@ -56,7 +56,7 @@ $_['entry_bank_swift_code']     = 'SWIFT Code';
 $_['entry_bank_account_name']   = 'Account Name';
 $_['entry_bank_account_number'] = 'Account Number';
 $_['entry_amount']              = 'Итого';
-$_['entry_description']         = 'Description';
+$_['entry_description']         = 'Описание';
 $_['entry_name']                = 'Affiliate Name';
 $_['entry_approved']            = 'Approved';
 $_['entry_date_added']          = 'Добавлено';
