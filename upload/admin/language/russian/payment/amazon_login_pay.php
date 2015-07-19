@@ -32,7 +32,7 @@ $_['text_amazon_login_pay']         = '<a href="http://go.amazonservices.com/ope
 $_['text_amazon_join']              = '<a href="http://go.amazonservices.com/opencart.html" target="_blank" title="Sign-up to Login and Pay with Amazon"><u>Sign-up to Login and Pay with Amazon</u></a>';
 $_['entry_login_pay_test']          = 'Test mode';
 $_['entry_login_pay_mode']          = 'Payment mode';
-$_['text_payment_info']				= 'Payment information';
+$_['text_payment_info']				= 'Платёжные реквизиты';
 $_['text_capture_ok']				= 'Capture was successful';
 $_['text_capture_ok_order']			= 'Capture was successful, authorization has been fully captured';
 $_['text_refund_ok']				= 'Refund was successfully requested';

@@ -7,7 +7,7 @@ $_['text_success']      = 'Success: You have modified payments!';
 $_['text_list']         = 'Payment List';
 
 // Column
-$_['column_name']       = 'Payment Method';
+$_['column_name']       = 'Способ оплаты';
 $_['column_status']     = 'Статус';
 $_['column_sort_order'] = 'Sort Order';
 $_['column_action']     = 'Действие';

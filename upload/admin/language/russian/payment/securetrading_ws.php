@@ -88,7 +88,7 @@ $_['button_show'] = 'Show';
 $_['button_download'] = 'Download';
 
 // Order page - payment tab
-$_['text_payment_info'] = 'Payment information';
+$_['text_payment_info'] = 'Платёжные реквизиты';
 $_['text_release_status'] = 'Payment released';
 $_['text_void_status'] = 'Reverse Authorisation';
 $_['text_rebate_status'] = 'Payment rebated';

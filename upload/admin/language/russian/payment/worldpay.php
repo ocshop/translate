@@ -60,7 +60,7 @@ $_['error_service_key']			 = 'Service Key Required!';
 $_['error_client_key']			 = 'Client Key Required!';
 
 // Order page - payment tab
-$_['text_payment_info']			 = 'Payment information';
+$_['text_payment_info']			 = 'Платёжные реквизиты';
 $_['text_refund_status']		 = 'Payment refund';
 $_['text_order_ref']			 = 'Order ref';
 $_['text_order_total']			 = 'Total authorised';

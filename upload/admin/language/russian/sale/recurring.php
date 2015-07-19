@@ -43,7 +43,7 @@ $_['entry_product']                        = 'Товар';
 $_['entry_quantity']                       = 'Количество';
 $_['entry_amount']                         = 'Итого';
 $_['entry_recurring']                      = 'Recurring Profile';
-$_['entry_payment_method']                 = 'Payment Method';
+$_['entry_payment_method']                 = 'Способ оплаты';
 
 // Error / Success
 $_['error_not_cancelled']                  = 'Error: %s';

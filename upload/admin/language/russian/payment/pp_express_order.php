@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_payment_info']				= 'Payment information';
+$_['text_payment_info']				= 'Платёжные реквизиты';
 $_['text_capture_status']			= 'Capture status';
 $_['text_amount_auth']				= 'Amount authorised';
 $_['text_amount_captured']			= 'Amount captured';
