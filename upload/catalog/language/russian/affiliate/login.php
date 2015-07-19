@@ -1,22 +1,29 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']                 = 'Affiliate Program';
+$_['heading_title']                 = 'Партнерская программа';
 
 // Text
-$_['text_account']                  = 'Аккаунт';
-$_['text_login']                    = 'Login';
-$_['text_description']              = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
-$_['text_new_affiliate']            = 'New Affiliate';
-$_['text_register_account']         = '<p>I am not currently an affiliate.</p><p>Click Continue below to create a new affiliate account. Please note that this is not connected in any way to your customer account.</p>';
-$_['text_returning_affiliate']      = 'Affiliate Login';
-$_['text_i_am_returning_affiliate'] = 'I am a returning affiliate.';
-$_['text_forgotten']                = 'Забытый пароль?';
+$_['text_account']                  = 'Кабинет Партнера';
+$_['text_login']                    = 'Войти';
+$_['text_description']              = '<p>%s. Партнерская программа совершенно бесплатна и позволяет участникам получать дополнительный доход путём размещения ссылок как на весь наш магазин %s, так и на отдельные товары. Каждая покупка, совершённая по партнерской ссылке, приносит агентскую комиссию. Стандартный размер комиссии составляет %s. </p><p> За подробной информацией обращайтесь на страницу информации для партнеров.</p>';
+$_['text_new_affiliate']            = 'Новый Партнер';
+$_['text_register_account']         = '<p>Я не являюсь партнером.</p><p>Нажмите кнопку ниже, чтобы создать учетную запись партнера. Обратите внимание, что эта учетная запись никак не связана с какой либо учетной записью покупателя!</p>';
+$_['text_returning_affiliate']      = 'Вход для партнеров';
+$_['text_i_am_returning_affiliate'] = 'Я уже зарегистрирован.';
+$_['text_forgotten']                = 'Забыли пароль?';
 
 // Entry
-$_['entry_email']                   = 'Affiliate E-Mail';
+$_['entry_email']                   = 'Партнерский E-Mail';
 $_['entry_password']                = 'Пароль';
 
 // Error
-$_['error_login']                   = 'Warning: No match for E-Mail Address and/or Password.';
-$_['error_attempts']                = 'Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.';
-$_['error_approved']                = 'Warning: Your account requires approval before you can login.';
+$_['error_login']                   = 'Не найден введённый адрес E-Mail и/или пароль указан неправильно.';
+$_['error_attempts']                = 'Ваша учетная запись превысила допустимое количество попыток входа в систему. Пожалуйста, попробуйте еще через 1 час.';
+$_['error_approved']                = 'Вы сможете войти после проверки учётной записи администрацией магазина.';
