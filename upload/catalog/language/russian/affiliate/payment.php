@@ -10,7 +10,7 @@ $_['text_your_password']        = 'Your Password';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Bank Transfer';
-$_['text_success']              = 'Success: Your account has been successfully updated.';
+$_['text_success']              = 'Ваша учетная запись была успешно обновлена!';
 
 // Entry
 $_['entry_tax']                 = 'Tax ID';

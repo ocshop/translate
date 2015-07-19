@@ -32,7 +32,7 @@ $_['entry_firstname']       = 'Имя';
 $_['entry_lastname']        = 'Фамилия';
 $_['entry_email']           = 'E-Mail';
 $_['entry_telephone']       = 'Телефон';
-$_['entry_fax']             = 'Fax';
+$_['entry_fax']             = 'Факс';
 $_['entry_newsletter']      = 'Newsletter';
 $_['entry_status']          = 'Статус';
 $_['entry_approved']        = 'Approved';
@@ -62,7 +62,7 @@ $_['help_points']           = 'Use minus to remove points';
 // Error
 $_['error_warning']         = 'Warning: Please check the form carefully for errors!';
 $_['error_permission']      = 'Warning: You do not have permission to modify customers!';
-$_['error_exists']          = 'Warning: E-Mail Address is already registered!';
+$_['error_exists']          = 'Такой E-Mail уже зарегистрирован!';
 $_['error_firstname']       = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']        = 'Фамилия должна быть от 1 до 32 символов!';
 $_['error_email']           = 'E-Mail адрес введен неверно!';

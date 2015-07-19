@@ -4,17 +4,17 @@ $_['heading_title']     = 'My Account Information';
 
 // Text
 $_['text_account']      = 'Аккаунт';
-$_['text_edit']         = 'Edit Information';
-$_['text_your_details'] = 'Your Personal Details';
+$_['text_edit']         = 'Редактировать информацию';
+$_['text_your_details'] = 'Ваша учетная запись';
 $_['text_your_address'] = 'Your Address';
-$_['text_success']      = 'Success: Your account has been successfully updated.';
+$_['text_success']      = 'Ваша учетная запись была успешно обновлена!';
 
 // Entry
 $_['entry_firstname']   = 'Имя';
 $_['entry_lastname']    = 'Фамилия';
 $_['entry_email']       = 'E-Mail';
 $_['entry_telephone']   = 'Телефон';
-$_['entry_fax']         = 'Fax';
+$_['entry_fax']         = 'Факс';
 $_['entry_company']     = 'Company';
 $_['entry_website']     = 'Web Site';
 $_['entry_address_1']   = 'Address 1';
@@ -25,7 +25,7 @@ $_['entry_country']     = 'Country';
 $_['entry_zone']        = 'Region / State';
 
 // Error
-$_['error_exists']      = 'Warning: E-Mail address is already registered!';
+$_['error_exists']      = 'Такой E-Mail уже зарегистрирован!';
 $_['error_firstname']   = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']    = 'Фамилия должна быть от 1 до 32 символов!';
 $_['error_email']       = 'E-Mail адрес введен неверно!';

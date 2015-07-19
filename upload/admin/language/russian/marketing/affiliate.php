@@ -32,7 +32,7 @@ $_['entry_firstname']           = 'Имя';
 $_['entry_lastname']            = 'Фамилия';
 $_['entry_email']               = 'E-Mail';
 $_['entry_telephone']           = 'Телефон';
-$_['entry_fax']                 = 'Fax';
+$_['entry_fax']                 = 'Факс';
 $_['entry_status']              = 'Статус';
 $_['entry_password']            = 'Password';
 $_['entry_confirm']             = 'Confirm';
@@ -68,7 +68,7 @@ $_['help_commission']           = 'Percentage the affiliate receives on each ord
 // Error
 $_['error_warning']             = 'Warning: Please check the form carefully for errors!';
 $_['error_permission']          = 'Warning: You do not have permission to modify affiliates!';
-$_['error_exists']              = 'Warning: E-Mail Address is already registered!';
+$_['error_exists']              = 'Такой E-Mail уже зарегистрирован!';
 $_['error_firstname']           = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']            = 'Фамилия должна быть от 1 до 32 символов!';
 $_['error_email']               = 'E-Mail адрес введен неверно!';
