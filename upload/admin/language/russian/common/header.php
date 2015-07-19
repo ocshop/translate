@@ -20,7 +20,7 @@ $_['text_help']            = 'Help';
 $_['text_homepage']        = 'Blog';
 $_['text_support']         = 'Support Forum';
 $_['text_documentation']   = 'Documentation';
-$_['text_logout']          = 'Logout';
+$_['text_logout']          = 'Выход';
 
 $_['text_search_options']  = 'Search Options';
 $_['text_new']  		   = 'New';
