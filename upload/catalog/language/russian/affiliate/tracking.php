@@ -1,15 +1,22 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Affiliate Tracking';
+$_['heading_title']    = 'Реферальные ссылки';
 
 // Text
-$_['text_account']     = 'Аккаунт';
-$_['text_description'] = 'To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL\'s linking to us. You can use the tools below to generate links to the %s web site.';
+$_['text_account']     = 'Кабинет Партнера';
+$_['text_description'] = 'Для того, чтобы получать агентское вознаграждение с покупок приводимых Вами покупателей, необходимо добавить в ссылку реферальный код. Воспользуйтесь генератором ссылок для сайта %s.';
 
 // Entry
-$_['entry_code']       = 'Your Tracking Code';
-$_['entry_generator']  = 'Tracking Link Generator';
-$_['entry_link']       = 'Tracking Link';
+$_['entry_code']       = 'Ваш Реферальный Код';
+$_['entry_generator']  = 'Генератор реферальных ссылок';
+$_['entry_link']       = 'Реферальная ссылка';
 
 // Help
-$_['help_generator']  = 'Type in the name of a product you would like to link to';
+$_['help_generator']  = 'Введите название товара, на который нужно создать ссылку';
