@@ -68,6 +68,6 @@ $_['entry_suffix']					= 'Suffix';
 $_['entry_status_all']				= 'All';
 $_['entry_status_pending']			= 'Ожидает';
 $_['entry_status_processing']		= 'Processing';
-$_['entry_status_success']			= 'Success';
+$_['entry_status_success']			= 'Успешно';
 $_['entry_status_denied']			= 'Denied';
 $_['entry_status_reversed']			= 'Reversed';
