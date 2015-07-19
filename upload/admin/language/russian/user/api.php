@@ -20,7 +20,7 @@ $_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_username']       = 'Username';
-$_['entry_password']       = 'Password';
+$_['entry_password']       = 'Пароль';
 $_['entry_status']         = 'Статус';
 $_['entry_ip']             = 'IP';
 

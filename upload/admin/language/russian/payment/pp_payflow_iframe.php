@@ -39,7 +39,7 @@ $_['tab_checkout_customisation']	= 'Checkout Customisation';
 // Entry
 $_['entry_vendor']					= 'Vendor';
 $_['entry_user']					= 'User';
-$_['entry_password']				= 'Password';
+$_['entry_password']				= 'Пароль';
 $_['entry_partner']					= 'Partner';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';

@@ -9,7 +9,7 @@ $_['text_forgotten'] = 'Забытый пароль?';
 
 // Entry
 $_['entry_username'] = 'Username';
-$_['entry_password'] = 'Password';
+$_['entry_password'] = 'Пароль';
 
 // Button
 $_['button_login']   = 'Login';

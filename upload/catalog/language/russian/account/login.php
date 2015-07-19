@@ -14,7 +14,7 @@ $_['text_forgotten']               = 'Забытый пароль?';
 
 // Entry
 $_['entry_email']                  = 'E-Mail Адрес';
-$_['entry_password']               = 'Password';
+$_['entry_password']               = 'Пароль';
 
 // Error
 $_['error_login']                  = 'Warning: No match for E-Mail Address and/or Password.';

@@ -9,7 +9,7 @@ $_['text_account_already'] = 'If you already have an account with us, please log
 $_['text_your_details']    = 'Ваша учетная запись';
 $_['text_your_address']    = 'Your Address';
 $_['text_newsletter']      = 'Рассылка';
-$_['text_your_password']   = 'Your Password';
+$_['text_your_password']   = 'Ваш пароль';
 $_['text_agree']           = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
@@ -27,8 +27,8 @@ $_['entry_city']           = 'Город';
 $_['entry_country']        = 'Страна';
 $_['entry_zone']           = 'Регион / Область';
 $_['entry_newsletter']     = 'Подписаться';
-$_['entry_password']       = 'Password';
-$_['entry_confirm']        = 'Password Confirm';
+$_['entry_password']       = 'Пароль';
+$_['entry_confirm']        = 'Подтвердите пароль';
 
 // Error
 $_['error_exists']         = 'Такой E-Mail уже зарегистрирован!';
@@ -42,6 +42,6 @@ $_['error_postcode']       = 'Индекс должен быть от 2 до 10 
 $_['error_country']        = 'Пожалуйста, укажите страну!';
 $_['error_zone']           = 'Пожалуйста, укажите регион / область!';
 $_['error_custom_field']   = '%s required!';
-$_['error_password']       = 'Password must be between 4 and 20 characters!';
-$_['error_confirm']        = 'Password confirmation does not match password!';
+$_['error_password']       = 'Пароль должен быть от 4 до 20 символов!';
+$_['error_confirm']        = 'Пароли не совпадают!';
 $_['error_agree']          = 'Warning: You must agree to the %s!';
