@@ -5,7 +5,7 @@ $_['heading_title']         = 'Custom Fields';
 // Text
 $_['text_success']          = 'Success: You have modified custom fields!';
 $_['text_list']             = 'Custom Field List';
-$_['text_add']              = 'Add Custom Field';
+$_['text_add']              = 'Добавить пользовательское поле';
 $_['text_edit']             = 'Edit Custom Field';
 $_['text_choose']           = 'Choose';
 $_['text_select']           = 'Select';

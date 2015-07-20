@@ -8,9 +8,9 @@ $_['text_add']                   = 'Add Order';
 $_['text_edit']                  = 'Edit Order';
 $_['text_ip_add']                = 'You need to add your current IP %s to the default API allow list.';
 $_['text_order_detail']          = 'Детали заказа';
-$_['text_customer_detail']       = 'Customer Details';
+$_['text_customer_detail']       = 'Клиент';
 $_['text_option']                = 'Options';
-$_['text_store']                 = 'Store';
+$_['text_store']                 = 'Магазин';
 $_['text_date_added']            = 'Добавлено';
 $_['text_payment_method']        = 'Способ оплаты';
 $_['text_shipping_method']       = 'Shipping Method';
@@ -84,7 +84,7 @@ $_['column_action']              = 'Действие';
 $_['column_weight']              = 'Product weight';
 
 // Entry
-$_['entry_store']                = 'Store';
+$_['entry_store']                = 'Магазин';
 $_['entry_customer']             = 'Клиент';
 $_['entry_customer_group']       = 'Группа Покупателей';
 $_['entry_firstname']            = 'Имя';

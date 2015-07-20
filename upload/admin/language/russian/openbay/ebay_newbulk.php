@@ -14,7 +14,7 @@ $_['text_features']                 = 'Features';
 $_['text_catalog']                  = 'Select catalog';
 $_['text_catalog_search']           = 'Search catalog';
 $_['text_search_term']           	= 'Search term';
-$_['text_close']           			= 'Close';
+$_['text_close']           			= 'Закрыть';
 $_['text_bulk']           			= 'Create new listings in bulk';
 
 //Form options / text

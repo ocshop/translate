@@ -31,7 +31,7 @@ $_['entry_status']					 = 'Статус';
 $_['entry_sort_order']				 = 'Sort Order';
 
 // Tab
-$_['tab_general']					 = 'General';
+$_['tab_general']					 = 'Основное';
 $_['tab_order_status']       		 = 'Статус';
 
 // Help

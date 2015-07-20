@@ -9,7 +9,7 @@ $_['text_edit']                      = 'Edit PayPal Express Checkout';
 $_['text_pp_express']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Authorization';
 $_['text_sale']						 = 'Sale';
-$_['text_clear']					 = 'Clear';
+$_['text_clear']					 = 'Очистить';
 $_['text_browse']					 = 'Browse';
 $_['text_image_manager']			 = 'Image manager';
 $_['text_ipn']						 = 'IPN URL';
@@ -51,7 +51,7 @@ $_['entry_header_colour']			 = 'Header background colour';
 $_['entry_page_colour']				 = 'Page background colour';
 
 // Tab
-$_['tab_general']					 = 'General';
+$_['tab_general']					 = 'Основное';
 $_['tab_api']				         = 'API Details';
 $_['tab_order_status']				 = 'Статус';
 $_['tab_checkout']					 = 'Оформление заказа';

@@ -32,7 +32,7 @@ $_['text_variations'] 					= 'variations';
 $_['text_variations_stock'] 			= 'Наличие';
 $_['text_min']                      	= 'Min';
 $_['text_max']                      	= 'Max';
-$_['text_option']                   	= 'Option';
+$_['text_option']                   	= 'Опции';
 $_['text_list']              			= 'Product List';
 
 // Entry

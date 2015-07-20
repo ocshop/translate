@@ -9,7 +9,7 @@ $_['text_list']        = 'Upload List';
 
 // Entry
 $_['entry_restore']    = 'Restore Backup';
-$_['entry_backup']     = 'Backup';
+$_['entry_backup']     = 'Бэкап';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify backups!';

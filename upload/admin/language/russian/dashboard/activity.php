@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']                = 'Recent Activity';
+$_['heading_title']                = 'Последняя Активность';
 
 // Text
 $_['text_customer_address_add']    = '<a href="customer_id=%d">%s</a> added a new address.';

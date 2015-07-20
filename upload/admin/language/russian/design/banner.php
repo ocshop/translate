@@ -5,7 +5,7 @@ $_['heading_title']      = 'Banners';
 // Text
 $_['text_success']       = 'Success: You have modified banners!';
 $_['text_list']          = 'Banner List';
-$_['text_add']           = 'Add Banner';
+$_['text_add']           = 'Добавить баннер';
 $_['text_edit']          = 'Edit Banner';
 $_['text_default']       = 'По умолчанию';
 
@@ -17,7 +17,7 @@ $_['column_action']      = 'Действие';
 // Entry
 $_['entry_name']         = 'Banner Name';
 $_['entry_title']        = 'Title';
-$_['entry_link']         = 'Link';
+$_['entry_link']         = 'Ссылка';
 $_['entry_image']        = 'Изображение';
 $_['entry_status']       = 'Статус';
 $_['entry_sort_order']   = 'Sort Order';

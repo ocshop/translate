@@ -19,7 +19,7 @@ $_['text_netherlands']				= 'The Netherlands';
 // Entry
 $_['entry_merchant']				= 'Klarna Merchant ID';
 $_['entry_secret']					= 'Klarna Secret';
-$_['entry_server']					= 'Server';
+$_['entry_server']					= 'Сервер';
 $_['entry_total']					= 'Всего';
 $_['entry_pending_status']			= 'Pending Status';
 $_['entry_accepted_status']			= 'Accepted Status';
