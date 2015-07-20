@@ -1,8 +1,15 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
-$_['text_subject']  = 'You have been sent a gift voucher from %s';
-$_['text_greeting'] = 'Congratulations, You have received a Gift Certificate worth %s';
-$_['text_from']     = 'This Gift Certificate has been sent to you by %s';
-$_['text_message']  = 'With a message saying';
-$_['text_redeem']   = 'To redeem this Gift Certificate, write down the redemption code which is <b>%s</b> then click on the the link below and purchase the product you wish to use this gift voucher on. You can enter the gift voucher code on the shopping cart page before you click checkout.';
-$_['text_footer']   = 'Please reply to this e-mail if you have any questions.';
+$_['text_subject']  = 'Вы отправили Подарочный Сертификат %s';
+$_['text_greeting'] = 'Поздравляем, Вы получили Подарочный Сертификат от %s';
+$_['text_from']     = 'Вы получили Подарочный Сертификат от %s';
+$_['text_message']  = 'С сообщением, в котором говорится';
+$_['text_redeem']   = 'Чтобы воспользоваться этим Подарочным Сертификатом сохраните код <b>%s</b>, затем перейдите в магазин по ссылке ниже и закажите товары, которые Вам понравятся. Вы можете ввести код подарочного сертификата на странице просмотра корзины перед тем как начнете оформление заказа.';
+$_['text_footer']   = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';

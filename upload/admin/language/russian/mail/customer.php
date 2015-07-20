@@ -1,10 +1,10 @@
 <?php
 // Text
 $_['text_approve_subject']      = '%s - Your Account has been activated!';
-$_['text_approve_welcome']      = 'Welcome and thank you for registering at %s!';
-$_['text_approve_login']        = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
+$_['text_approve_welcome']      = 'Добро пожаловать в %s и благодарим Вас за регистрацию!!';
+$_['text_approve_login']        = 'Ваш аккаунт создан и Вы можете войти, используя свой E-mail и пароль, по ссылке:';
 $_['text_approve_services']     = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_approve_thanks']       = 'Thanks,';
+$_['text_approve_thanks']       = 'Спасибо,';
 $_['text_transaction_subject']  = '%s - Account Credit';
 $_['text_transaction_received'] = 'You have received %s credit!';
 $_['text_transaction_total']    = 'Your total amount of credit is now %s.' . "\n\n" . 'Your account credit will be automatically deducted from your next purchase.';

@@ -39,7 +39,7 @@ $_['text_accept_language']       = 'Accept Language';
 
 $_['text_order_id']              = '№ заказа:';
 $_['text_fax']                   = 'Fax:';
-$_['text_website']               = 'Web Site:';
+$_['text_website']               = 'Веб-сайт:';
 $_['text_invoice_no']            = '№ Счета:';
 $_['text_invoice_date']          = 'Invoice Date:';
 $_['text_sku']                   = 'SKU:';

@@ -1,21 +1,28 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
-$_['text_subject']		        = '%s - Affiliate Program';
-$_['text_welcome']		        = 'Thank you for joining the %s Affiliate Program!';
-$_['text_login']                = 'Your account has now been created and you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_approval']		        = 'Your account must be approved before you can login. Once approved you can log in by using your e-mail address and password by visiting our website or at the following URL:';
-$_['text_services']		        = 'Upon logging in, you will be able to generate tracking codes, track commission payments and edit your account information.';
-$_['text_thanks']		        = 'Thanks,';
+$_['text_subject']		        = '%s - Партнерская программа';
+$_['text_welcome']		        = 'Вы стали партнером нашего магазина %s!';
+$_['text_login']                = 'Ваш аккаунт создан и Вы можете войти, используя свой E-mail и пароль, по ссылке:';
+$_['text_approval']		        = 'Ваша учетная запись ожидает подтверждения. После подтверждения Вы сможете входить в партнерский раздел нашего сайта по ссылке:';
+$_['text_services']		        = 'В партнерском разделе Вы можете получить реферальный код и реферальные ссылки, отслеживать комиссионное вознаграждение и редактировать парметры учетной записи.';
+$_['text_thanks']		        = 'Спасибо,';
 $_['text_new_affiliate']        = 'Новый Партнер';
-$_['text_signup']		        = 'A new affiliate has signed up:';
-$_['text_store']		        = 'Store:';
-$_['text_firstname']	        = 'Firstname:';
-$_['text_lastname']		        = 'Lastname:';
-$_['text_company']		        = 'Company:';
+$_['text_signup']		        = 'Зарегистрирован новый партнер:';
+$_['text_store']		        = 'Магазин:';
+$_['text_firstname']	        = 'Имя:';
+$_['text_lastname']		        = 'Фамилия:';
+$_['text_company']		        = 'Компания:';
 $_['text_email']		        = 'E-Mail:';
-$_['text_telephone']	        = 'Telephone:';
-$_['text_website']		        = 'Web Site:';
+$_['text_telephone']	        = 'Телефон:';
+$_['text_website']		        = 'Веб-сайт:';
 $_['text_order_id']             = '№ заказа:';
-$_['text_transaction_subject']  = '%s - Affiliate Commission';
-$_['text_transaction_received'] = 'You have received %s commission!';
-$_['text_transaction_total']    = 'Your total amount of commission is now %s.';
+$_['text_transaction_subject']  = '%s - Партнерские Комиссионные';
+$_['text_transaction_received'] = 'Вы получили %s Комиссионных!';
+$_['text_transaction_total']    = 'Ваш баланс комиссионных %s.';

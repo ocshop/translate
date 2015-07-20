@@ -1,16 +1,23 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
-$_['text_subject']        = '%s - Thank you for registering';
-$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
-$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
-$_['text_services']       = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
-$_['text_thanks']         = 'Thanks,';
+$_['text_subject']        = '%s - Благодарим за регистрацию';
+$_['text_welcome']        = 'Добро пожаловать в %s и благодарим Вас за регистрацию!!';
+$_['text_login']          = 'Ваш аккаунт создан и Вы можете войти, используя свой E-mail и пароль, по ссылке:';
+$_['text_approval']       = 'Ваш аккаунт должен быть подтвержден до первого входа. После подтверждения Вы сможете входить в магазин, используя E-Mail и пароль, по ссылке:';
+$_['text_services']       = 'После регистрации на сайте Вы сможете воспользоваться дополнительными возможностями: просмотр истории заказов, печать счета, изменение информации Вашей учетной записи (адресов доставки, телефона для связи) и др. Вы также сможете накапливать при покупках призовые баллы, а для постоянных покупателей у нас предусмотрены скидки!';
+$_['text_thanks']         = 'Спасибо,';
 $_['text_new_customer']   = 'Новый покупатель';
-$_['text_signup']         = 'A new customer has signed up:';
-$_['text_website']        = 'Web Site:';
-$_['text_customer_group'] = 'Customer Group:';
-$_['text_firstname']      = 'First Name:';
-$_['text_lastname']       = 'Last Name:';
+$_['text_signup']         = 'Зарегистрировался новый покупатель:';
+$_['text_website']        = 'Веб-сайт:';
+$_['text_customer_group'] = 'Группа покупателей:';
+$_['text_firstname']      = 'Имя:';
+$_['text_lastname']       = 'Фамилия:';
 $_['text_email']          = 'E-Mail:';
-$_['text_telephone']      = 'Telephone:';
+$_['text_telephone']      = 'Телефон:';

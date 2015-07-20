@@ -1,35 +1,42 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
-$_['text_new_subject']          = '%s - Order %s';
-$_['text_new_greeting']         = 'Thank you for your interest in %s products. Your order has been received and will be processed once payment has been confirmed.';
-$_['text_new_received']         = 'You have received an order.';
-$_['text_new_link']             = 'To view your order click on the link below:';
+$_['text_new_subject']          = '%s - Заказ %s';
+$_['text_new_greeting']         = 'Благодарим за интерес к товарам %s. Ваш заказ получен и поступил в обработку.';
+$_['text_new_received']         = 'Вы получили заказ.';
+$_['text_new_link']             = 'Для просмотра Вашего заказа перейдите по ссылке:';
 $_['text_new_order_detail']     = 'Детали заказа';
-$_['text_new_instruction']      = 'Instructions';
+$_['text_new_instruction']      = 'Инструкции';
 $_['text_new_order_id']         = '№ заказа:';
 $_['text_new_date_added']       = 'Добавлено:';
-$_['text_new_order_status']     = 'Order Status:';
+$_['text_new_order_status']     = 'Состояние заказа:';
 $_['text_new_payment_method']   = 'Способ оплаты:';
 $_['text_new_shipping_method']  = 'Способ доставки:';
 $_['text_new_email']  			= 'E-mail:';
-$_['text_new_telephone']  		= 'Telephone:';
-$_['text_new_ip']  				= 'IP Address:';
+$_['text_new_telephone']  		= 'Телефон:';
+$_['text_new_ip']  				= 'IP-адрес:';
 $_['text_new_payment_address']  = 'Платёжный адрес';
 $_['text_new_shipping_address'] = 'Адрес доставки';
-$_['text_new_products']         = 'Products';
+$_['text_new_products']         = 'Товары';
 $_['text_new_product']          = 'Товар';
 $_['text_new_model']            = 'Модель';
 $_['text_new_quantity']         = 'Количество';
 $_['text_new_price']            = 'Цена';
-$_['text_new_order_total']      = 'Order Totals';
+$_['text_new_order_total']      = 'Заказ итого';
 $_['text_new_total']            = 'Всего';
-$_['text_new_download']         = 'Once your payment has been confirmed you can click on the link below to access your downloadable products:';
-$_['text_new_comment']          = 'The comments for your order are:';
-$_['text_new_footer']           = 'Please reply to this e-mail if you have any questions.';
-$_['text_update_subject']       = '%s - Order Update %s';
+$_['text_new_download']         = 'После подтверждения оплаты, чтобы скачать товар, перейдите по ссылке:';
+$_['text_new_comment']          = 'Комментарий к Вашему заказу:';
+$_['text_new_footer']           = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';
+$_['text_update_subject']       = '%s - Обновление Заказа %s';
 $_['text_update_order']         = '№ заказа:';
-$_['text_update_date_added']    = 'Date Ordered:';
-$_['text_update_order_status']  = 'Your order has been updated to the following status:';
-$_['text_update_comment']       = 'The comments for your order are:';
-$_['text_update_link']          = 'To view your order click on the link below:';
-$_['text_update_footer']        = 'Please reply to this email if you have any questions.';
+$_['text_update_date_added']    = 'Дата заказа:';
+$_['text_update_order_status']  = 'Ваш Заказ обновлен со следующим статусом:';
+$_['text_update_comment']       = 'Комментарий к Вашему заказу:';
+$_['text_update_link']          = 'Для просмотра Вашего заказа перейдите по ссылке:';
+$_['text_update_footer']        = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';
