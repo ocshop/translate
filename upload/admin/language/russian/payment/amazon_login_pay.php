@@ -108,4 +108,4 @@ $_['error_data_missing'] 			= 'Required data is missing';
 // Buttons
 $_['button_capture']				= 'Capture';
 $_['button_refund']					= 'Refund';
-$_['button_cancel']					= 'Cancel';
+$_['button_cancel']					= 'Отмена';

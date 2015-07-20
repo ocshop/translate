@@ -106,7 +106,7 @@ $_['help_notify_buyer']        		= 'Notify the user with the default new order e
 $_['help_measurement']        		= 'Choose what measurement system you want to use for listings';
 
 // Buttons
-$_['button_update']             	= 'Update';
+$_['button_update']             	= 'Обновить';
 $_['button_repair_links']    		= 'Repair item links';
 
 // Error

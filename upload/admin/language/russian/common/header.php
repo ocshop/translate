@@ -11,7 +11,7 @@ $_['text_online']          = 'Customers Online';
 $_['text_approval']        = 'Pending approval';
 $_['text_product']         = 'Товары';
 $_['text_stock']           = 'Out of stock';
-$_['text_review']          = 'Reviews';
+$_['text_review']          = 'Отзывы';
 $_['text_return']          = 'Возврат товара';
 $_['text_affiliate']       = 'Партнёрская программа';
 $_['text_store']           = 'Stores';
@@ -26,7 +26,7 @@ $_['text_search_options']  = 'Search Options';
 $_['text_new']  		   = 'New';
 $_['text_new_category']    = 'Category';
 $_['text_new_customer']    = 'Клиент';
-$_['text_new_download']    = 'Download';
+$_['text_new_download']    = 'Скачать';
 $_['text_new_manufacturer']= 'Manufacturer';
 $_['text_new_product']     = 'Товар';
 

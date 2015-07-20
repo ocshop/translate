@@ -13,7 +13,7 @@ $_['heading_payment']			= 'Please select a payment method';
 $_['heading_confirm']			= 'Order summary';
 
 // Text
-$_['text_back']					= 'Back';
+$_['text_back']					= 'Назад';
 $_['text_cart']					= 'Cart';
 $_['text_confirm']				= 'Подтвердить';
 $_['text_continue']				= 'Продолжить';

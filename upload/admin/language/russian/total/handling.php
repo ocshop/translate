@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Handling Fee';
+$_['heading_title']    = 'Оплата обработки заказа';
 
 // Text
 $_['text_total']       = 'Заказ итого';

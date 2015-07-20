@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Low Order Fee';
+$_['heading_title']    = 'Дополнительная оплата при минимальном заказе';
 
 // Text
 $_['text_total']       = 'Заказ итого';

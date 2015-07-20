@@ -13,7 +13,7 @@ $_['text_remove']          = 'Removing temporary files!';
 $_['text_clear']           = 'Success: You have cleared all temporary files!';
 
 // Entry
-$_['entry_upload']         = 'Upload File';
+$_['entry_upload']         = 'Загрузить файл';
 $_['entry_overwrite']      = 'Files that will be overwritten';
 $_['entry_progress']       = 'Progress';
 
@@ -24,7 +24,7 @@ $_['help_upload']          = 'Requires a modification file with extension ".ocmo
 $_['error_permission']     = 'Warning: You do not have permission to modify extensions!';
 $_['error_temporary']      = 'Warning: There are some temporary files that require deleting. Click the clear button to remove them!';
 $_['error_upload']         = 'File could not be uploaded!';
-$_['error_filetype']       = 'Invalid file type!';
+$_['error_filetype']       = 'Неправильный тип файла!';
 $_['error_file']           = 'File could not be found!';
 $_['error_unzip']          = 'Zip file could not be opened!';
 $_['error_code']           = 'Modification requires a unique ID code!';

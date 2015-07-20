@@ -85,7 +85,7 @@ $_['help_total'] = 'The checkout total the order must reach before this payment 
 $_['button_reverse_authorisation'] = 'Reverse Authorisation';
 $_['button_refund'] = 'Refund';
 $_['button_show'] = 'Show';
-$_['button_download'] = 'Download';
+$_['button_download'] = 'Скачать';
 
 // Order page - payment tab
 $_['text_payment_info'] = 'Платёжные реквизиты';

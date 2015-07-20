@@ -40,7 +40,7 @@ $_['column_matches']				= 'Matches';
 $_['column_result'] 				= 'Result';
 
 // Button
-$_['button_list'] 					= 'List';
+$_['button_list'] 					= 'Список';
 
 // Error
 $_['error_product_sku'] 			= 'Product must have an SKU';

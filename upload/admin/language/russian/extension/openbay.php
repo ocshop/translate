@@ -4,7 +4,7 @@ $_['heading_title']        				= 'OpenBay Pro';
 
 // Buttons
 $_['button_retry']						= 'Retry';
-$_['button_update']						= 'Update';
+$_['button_update']						= 'Обновить';
 $_['button_patch']						= 'Patch';
 $_['button_ftp_test']					= 'Test connection';
 $_['button_faq']						= 'View FAQ topic';

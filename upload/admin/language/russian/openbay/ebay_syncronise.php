@@ -5,7 +5,7 @@ $_['text_openbay']              = 'OpenBay Pro';
 $_['text_ebay']                 = 'eBay';
 
 // Buttons
-$_['button_update']				= 'Update';
+$_['button_update']				= 'Обновить';
 
 // Entry
 $_['entry_sync_categories']     = 'Get eBay categories';
