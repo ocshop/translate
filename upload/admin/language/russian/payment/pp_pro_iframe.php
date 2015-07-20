@@ -169,5 +169,5 @@ $_['error_password']				= 'Password Required!';
 $_['error_timeout']					= 'Request timed out';
 $_['error_transaction_missing']		= 'Could not find the transaction';
 $_['error_missing_data']			= 'Missing data';
-$_['error_general']					= 'There was an error';
+$_['error_general']					= 'Возникла ошибка';
 $_['error_capture_amt']				= 'Enter an amount to capture';

@@ -1,8 +1,15 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
-$_['text_title']				= 'Credit or Debit Card';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_wait']					= 'Please wait!';
+$_['text_title']				= 'Кредитные и Дебетовые карты';
+$_['text_credit_card']			= 'Информация платежной карты';
+$_['text_wait']					= 'Пожалуйста, подождите!';
 $_['text_result']				= 'Result';
 $_['text_message']				= 'Сообщение';
 $_['text_cvn_result']			= 'CVN result';
@@ -35,16 +42,16 @@ $_['text_3d_s9']				= 'Invalid Response From ACS, no liability shift';
 $_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
 
 // Entry
-$_['entry_cc_type']				= 'Card type';
-$_['entry_cc_number']			= 'Card number';
+$_['entry_cc_type']				= 'Тип карты';
+$_['entry_cc_number']			= 'Номер карты';
 $_['entry_cc_name']				= 'Cardholder name';
-$_['entry_cc_expire_date']		= 'Card expiry date';
-$_['entry_cc_cvv2']				= 'Card security code (CVV2)';
-$_['entry_cc_issue']			= 'Card issue number';
+$_['entry_cc_expire_date']		= 'Дата окончания срока действия карты';
+$_['entry_cc_cvv2']				= 'Код безопасности (CVV2)';
+$_['entry_cc_issue']			= 'Код карты (Issue)';
 
 // Help
-$_['help_start_date']			= '(if available)';
-$_['help_issue']				= '(for Maestro and Solo cards only)';
+$_['help_start_date']			= '(если известно)';
+$_['help_issue']				= '(только для Maestro и Solo карт)';
 
 // Error
 $_['error_card_number']			= 'Please check your card number is valid';

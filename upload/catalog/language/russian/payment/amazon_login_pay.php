@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']				= 'Login and Pay with Amazon';
 $_['heading_address']			= 'Please choose a delivery address';
@@ -8,7 +15,7 @@ $_['heading_confirm']			= 'Order summary';
 // Text
 $_['text_back']					= 'Back';
 $_['text_cart']					= 'Cart';
-$_['text_confirm']				= 'Confirm';
+$_['text_confirm']				= 'Подтвердить';
 $_['text_continue']				= 'Продолжить';
 $_['text_lpa']					= 'Login and Pay with Amazon';
 $_['text_enter_coupon']			= 'Enter your coupon code here. If you don\'t have one, leave it empty.';

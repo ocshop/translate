@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']             = 'Summary';
+$_['heading_title']             = 'Краткое описание';
 $_['text_openbay']              = 'OpenBay Pro';
 $_['text_ebay']                 = 'eBay';
 

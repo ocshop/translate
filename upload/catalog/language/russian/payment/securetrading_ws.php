@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 $_['text_title'] = 'Credit / Debit card';
 $_['text_card_details'] = 'Card details';
 $_['text_wait'] = 'Processing your payment';
@@ -19,11 +26,11 @@ $_['text_transaction_declined'] = 'Your bank has declined the transaction. Pleas
 $_['text_transaction_failed'] = 'Could not process the payment. Please check the details you provided.';
 $_['text_connection_error'] = 'Please try again later or use a different payment method.';
 
-$_['entry_type'] = 'Card type';
-$_['entry_number'] = 'Card number';
+$_['entry_type'] = 'Тип карты';
+$_['entry_number'] = 'Номер карты';
 $_['entry_expire_date'] = 'Expiry date';
 $_['entry_cvv2'] = 'Security Code (CVV2)';
 
-$_['button_confirm'] = 'Confirm';
+$_['button_confirm'] = 'Подтвердить';
 
 $_['error_failure'] = 'Could not complete transaction. Please try again later or use a different payment method.';

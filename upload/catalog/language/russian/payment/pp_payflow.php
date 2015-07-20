@@ -1,10 +1,17 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
 $_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
-$_['text_credit_card']			= 'Credit Card Details';
-$_['text_start_date']			= '(if available)';
-$_['text_issue']				= '(for Maestro and Solo cards only)';
-$_['text_wait']					= 'Please wait!';
+$_['text_credit_card']			= 'Информация платежной карты';
+$_['text_start_date']			= '(если известно)';
+$_['text_issue']				= '(только для Maestro и Solo карт)';
+$_['text_wait']					= 'Пожалуйста, подождите!';
 
 // Entry
 $_['entry_cc_owner']			= 'Card Owner:';

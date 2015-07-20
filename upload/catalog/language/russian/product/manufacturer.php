@@ -1,27 +1,34 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'Find Your Favorite Brand';
+$_['heading_title']     = 'Производители';
 
 // Text
-$_['text_brand']        = 'Brand';
-$_['text_index']        = 'Brand Index:';
-$_['text_error']        = 'Brand not found!';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Модель' (A - Z)';
-$_['text_model_desc']   = 'Модель' (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_brand']        = 'Производитель';
+$_['text_index']        = 'Алфавитный указатель';
+$_['text_error']        = 'Производитель не найден!';
+$_['text_empty']        = 'Товары данного производителя отсутствуют.';
+$_['text_quantity']     = 'Кол-во:';
+$_['text_manufacturer'] = 'Производитель:';
+$_['text_model']        = 'Модель:';
+$_['text_points']       = 'Бонусные баллы:';
+$_['text_price']        = 'Цена:';
+$_['text_tax']          = 'Без НДС:';
+$_['text_compare']      = 'Сравнение товаров (%s)';
+$_['text_sort']         = 'Сортировка:';
+$_['text_default']      = 'По умолчанию';
+$_['text_name_asc']     = 'Название (А - Я)';
+$_['text_name_desc']    = 'Название (Я - А)';
+$_['text_price_asc']    = 'Цена (низкая &gt; высокая)';
+$_['text_price_desc']   = 'Цена (высокая &gt; низкая)';
+$_['text_rating_asc']   = 'Рейтинг (начиная с низкого)';
+$_['text_rating_desc']  = 'Рейтинг (начиная с высокого)';
+$_['text_model_asc']    = 'Модель (А - Я)';
+$_['text_model_desc']   = 'Модель (Я - А)';
+$_['text_limit']        = 'Показать:';

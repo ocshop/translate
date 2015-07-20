@@ -3,7 +3,7 @@
 $_['heading_title']					= 'View Transaction';
 
 // Text
-$_['text_pp_express']				= 'PayPal Express Checkout';
+$_['text_pp_express']				= 'PayPal Express (включая Кредитные и Дебетовые карты)';
 $_['text_product_lines']			= 'Product lines';
 $_['text_ebay_txn_id']				= 'eBay transaction ID';
 $_['text_name']						= 'Name';

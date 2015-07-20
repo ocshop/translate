@@ -15,7 +15,7 @@ $_['column_date_start'] = 'Date Start';
 $_['column_date_end']   = 'Date End';
 $_['column_orders']     = 'No. Orders';
 $_['column_products']   = 'No. Products';
-$_['column_tax']        = 'Tax';
+$_['column_tax']        = 'Без НДС';
 $_['column_total']      = 'Всего';
 
 // Entry

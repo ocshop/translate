@@ -3,7 +3,7 @@
 $_['heading_title']         = 'United States Postal Service';
 
 // Text
-$_['text_shipping']         = 'Shipping';
+$_['text_shipping']         = 'Доставка';
 $_['text_success']          = 'Success: You have modified United States Postal Service!';
 $_['text_edit']             = 'Edit United States Postal Service Shipping';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
@@ -58,7 +58,7 @@ $_['entry_international']   = 'International Services';
 $_['entry_size']            = 'Размер';
 $_['entry_container']       = 'Container';
 $_['entry_machinable']      = 'Machinable';
-$_['entry_dimension']       = 'Dimensions (L x W x H)';
+$_['entry_dimension']       = 'Размеры (Д х Ш х В)';
 $_['entry_length']          = 'Length';
 $_['entry_height']          = 'Height';
 $_['entry_width']           = 'Width';

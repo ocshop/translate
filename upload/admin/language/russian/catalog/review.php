@@ -11,7 +11,7 @@ $_['text_edit']         = 'Edit Review';
 // Column
 $_['column_product']    = 'Товар';
 $_['column_author']     = 'Author';
-$_['column_rating']     = 'Rating';
+$_['column_rating']     = 'Рейтинг';
 $_['column_status']     = 'Статус';
 $_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
@@ -19,7 +19,7 @@ $_['column_action']     = 'Действие';
 // Entry
 $_['entry_product']     = 'Товар';
 $_['entry_author']      = 'Author';
-$_['entry_rating']      = 'Rating';
+$_['entry_rating']      = 'Рейтинг';
 $_['entry_status']      = 'Статус';
 $_['entry_text']        = 'Text';
 $_['entry_date_added']  = 'Добавлено';

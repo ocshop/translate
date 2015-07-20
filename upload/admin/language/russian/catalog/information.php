@@ -7,7 +7,7 @@ $_['text_success']           = 'Success: You have modified information!';
 $_['text_list']              = 'Information List';
 $_['text_add']               = 'Add Information';
 $_['text_edit']              = 'Редактировать информацию';
-$_['text_default']           = 'Default';
+$_['text_default']           = 'По умолчанию';
 
 // Column
 $_['column_title']           = 'Information Title';

@@ -35,7 +35,7 @@ $_['column_stock_reserve']			= 'Reserve';
 $_['column_stock_total']			= 'В наличии';
 $_['column_price']					= 'Цена';
 $_['column_status']					= 'Включен';
-$_['column_add']					= 'Add';
+$_['column_add']					= 'Добавить';
 $_['column_combination']			= 'Combination';
 
 // Help

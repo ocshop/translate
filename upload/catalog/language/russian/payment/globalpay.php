@@ -1,12 +1,19 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['text_title']				= 'Credit / Debit card (Globalpay)';
 
 // Button
-$_['button_confirm']			= 'Confirm';
+$_['button_confirm']			= 'Подтвердить';
 
 // Entry
-$_['entry_cc_type']				= 'Card Type';
+$_['entry_cc_type']				= 'Тип карты';
 
 // Text
 $_['text_success']				= 'Your payment has been authorised.';
@@ -25,8 +32,8 @@ $_['text_eci']					= 'ECI (3D secure) result';
 $_['text_tss']					= 'TSS result';
 $_['text_order_ref']			= 'Order ref';
 $_['text_timestamp']			= 'Timestamp';
-$_['text_card_type']			= 'Card type';
-$_['text_card_digits']			= 'Card number';
+$_['text_card_type']			= 'Тип карты';
+$_['text_card_digits']			= 'Номер карты';
 $_['text_card_exp']				= 'Card expire';
 $_['text_card_name']			= 'Card name';
 $_['text_3d_s1']				= 'Cardholder Not Enrolled, liability shift';

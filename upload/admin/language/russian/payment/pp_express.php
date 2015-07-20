@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']					 = 'PayPal Express Checkout';
+$_['heading_title']					 = 'PayPal Express (включая Кредитные и Дебетовые карты)';
 
 // Text
 $_['text_payment']				  	 = 'Платеж';

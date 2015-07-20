@@ -1,27 +1,34 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['express_text_title']      = 'Confirm order';
+$_['express_text_title']      = 'Подтверждение заказа';
 
 // Text
-$_['text_title']              = 'PayPal Express Checkout';
+$_['text_title']              = 'PayPal Express (включая Кредитные и Дебетовые карты)';
 $_['button_continue']         = 'Продолжить';
 $_['text_cart']               = 'Корзина покупок';
-$_['text_shipping_updated']   = 'Shipping service updated';
-$_['text_trial']              = '%s every %s %s for %s payments then ';
-$_['text_recurring']          = '%s every %s %s';
+$_['text_shipping_updated']   = 'Доставка обновлена';
+$_['text_trial']              = 'Сумма: %s; Периодичность: %s %s; Кол-во платежей: %s, Далее ';
+$_['text_recurring']          = 'Сумма: %s Периодичность: %s %s';
 $_['text_recurring_item']     = 'Периодические платежи';
-$_['text_length']             = ' for %s payments';
+$_['text_length']             = ' Кол-во платежей: %s';
 
 // Entry
-$_['express_entry_coupon']    = 'Enter your coupon here:';
+$_['express_entry_coupon']    = 'Введите код купона:';
 
 // Button
-$_['button_express_coupon']   = 'Add';
-$_['button_express_confirm']  = 'Confirm';
-$_['button_express_login']    = 'Continue to PayPal';
-$_['button_express_shipping'] = 'Update shipping';
-$_['button_cancel_recurring'] = 'Cancel payments';
+$_['button_express_coupon']   = 'Добавить';
+$_['button_express_confirm']  = 'Подтвердить';
+$_['button_express_login']    = 'Войти в PayPal';
+$_['button_express_shipping'] = 'Обновить доставку';
+$_['button_cancel_recurring'] = 'Отменить платежи';
 
 // Error
-$_['error_heading_title']	  = 'There was an error';
-$_['error_too_many_failures'] = 'Your payment has failed too many times';
+$_['error_heading_title']	  = 'Возникла ошибка';
+$_['error_too_many_failures'] = 'В процессе оплаты произошла ошибка';

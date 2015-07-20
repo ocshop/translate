@@ -11,7 +11,7 @@ $_['text_success']    = 'An email with a confirmation link has been sent your ad
 // Entry
 $_['entry_email']     = 'E-Mail Адрес';
 $_['entry_password']  = 'New Password';
-$_['entry_confirm']   = 'Confirm';
+$_['entry_confirm']   = 'Подтвердить';
 
 // Error
 $_['error_email']     = 'E-Mail адрес не найден, проверьте и попробуйте ещё раз!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shipping';
+$_['heading_title']    = 'Доставка';
 
 // Text
 $_['text_total']       = 'Заказ итого';

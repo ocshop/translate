@@ -7,7 +7,7 @@ $_['text_success']       = 'Success: You have modified manufacturers!';
 $_['text_list']          = 'Manufacturer List';
 $_['text_add']           = 'Add Manufacturer';
 $_['text_edit']          = 'Edit Manufacturer';
-$_['text_default']       = 'Default';
+$_['text_default']       = 'По умолчанию';
 $_['text_percent']       = 'Percentage';
 $_['text_amount']        = 'Fixed Amount';
 

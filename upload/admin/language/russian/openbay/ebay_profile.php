@@ -79,13 +79,13 @@ $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 wi
 
 //General profile options
 $_['text_profile_name']         		= 'Name';
-$_['text_profile_default']      		= 'Default';
+$_['text_profile_default']      		= 'По умолчанию';
 $_['text_profile_type']         		= 'Тип';
 $_['text_profile_desc']         		= 'Описание';
 $_['text_profile_action']       		= 'Действие';
 
 // Profile types
-$_['text_type_shipping']       			= 'Shipping';
+$_['text_type_shipping']       			= 'Доставка';
 $_['text_type_returns']       			= 'Возврат товара';
 $_['text_type_template']       			= 'Template &amp; gallery';
 $_['text_type_general']       			= 'General settings';

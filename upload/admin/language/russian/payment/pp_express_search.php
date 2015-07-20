@@ -16,7 +16,7 @@ $_['tbl_column_netamt']				= 'Net Amount';
 $_['tbl_column_action']				= 'Действие';
 
 // Text
-$_['text_pp_express']				= 'PayPal Express Checkout';
+$_['text_pp_express']				= 'PayPal Express (включая Кредитные и Дебетовые карты)';
 $_['text_date_search']				= 'Search by date';
 $_['text_searching']				= 'Searching';
 $_['text_name']						= 'Name';
@@ -41,7 +41,7 @@ $_['entry_trans_refund']			= 'Refund';
 $_['entry_trans_conv']				= 'Currency Conversion';
 $_['entry_trans_bal_trans']			= 'Balance Transfer';
 $_['entry_trans_reversal']			= 'Reversal';
-$_['entry_trans_shipping']			= 'Shipping';
+$_['entry_trans_shipping']			= 'Доставка';
 $_['entry_trans_bal_affect']		= 'Balance Affecting';
 $_['entry_trans_echeque']			= 'E Check';
 $_['entry_date']					= 'Date';

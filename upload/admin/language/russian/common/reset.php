@@ -9,7 +9,7 @@ $_['text_success']   = 'Ваш пароль успешно изменен!';
 
 // Entry
 $_['entry_password'] = 'Пароль';
-$_['entry_confirm']  = 'Confirm';
+$_['entry_confirm']  = 'Подтвердить';
 
 // Error
 $_['error_password'] = 'Password must be between 5 and 20 characters!';

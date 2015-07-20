@@ -51,10 +51,10 @@ $_['text_mpn']                   = 'MPN:';
 
 
 $_['text_missing']               = 'Missing Orders';
-$_['text_default']               = 'Default';
+$_['text_default']               = 'По умолчанию';
 $_['text_product']               = 'Add Product(s)';
 $_['text_voucher']               = 'Add Voucher(s)';
-$_['text_shipping']              = 'Shipping';
+$_['text_shipping']              = 'Доставка';
 $_['text_contact']               = 'Contact';
 
 $_['text_reward_added']          = 'Success: Reward points added!';
