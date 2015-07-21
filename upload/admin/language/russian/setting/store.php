@@ -3,8 +3,8 @@
 $_['heading_title']                    = 'Магазины';
 
 // Text
-$_['text_settings']                    = 'Settings';
-$_['text_success']                     = 'Success: You have modified Stores!';
+$_['text_settings']                    = 'Настройки';
+$_['text_success']                     = 'Настройки успешно изменены!';
 $_['text_list']                        = 'Store List';
 $_['text_add']                         = 'Добавить';
 $_['text_edit']                        = 'Редактирование';
@@ -71,8 +71,8 @@ $_['entry_image_compare']              = 'Compare Image Size';
 $_['entry_image_wishlist']             = 'Wish List Image Size';
 $_['entry_image_cart']                 = 'Cart Image Size';
 $_['entry_image_location']             = 'Store Image Size';
-$_['entry_width']                      = 'Width';
-$_['entry_height']                     = 'Height';
+$_['entry_width']                      = 'Ширина';
+$_['entry_height']                     = 'Высота';
 $_['entry_secure']                     = 'Use SSL';
 
 // Help

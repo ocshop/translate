@@ -4,7 +4,7 @@ $_['heading_title']                    = 'Настройки';
 
 // Text
 $_['text_stores']                      = 'Магазины';
-$_['text_success']                     = 'Success: You have modified settings!';
+$_['text_success']                     = 'Настройки успешно изменены!';
 $_['text_edit']                        = 'Настройки';
 $_['text_product']                     = 'Товары';
 $_['text_review']                      = 'Отзывы';
@@ -101,8 +101,8 @@ $_['entry_image_compare']              = 'Compare Image Size';
 $_['entry_image_wishlist']             = 'Wish List Image Size';
 $_['entry_image_cart']                 = 'Cart Image Size';
 $_['entry_image_location']             = 'Store Image Size';
-$_['entry_width']                      = 'Width';
-$_['entry_height']                     = 'Height';
+$_['entry_width']                      = 'Ширина';
+$_['entry_height']                     = 'Высота';
 $_['entry_ftp_hostname']               = 'FTP Host';
 $_['entry_ftp_port']                   = 'FTP Port';
 $_['entry_ftp_username']               = 'FTP Username';

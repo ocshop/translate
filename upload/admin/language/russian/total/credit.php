@@ -4,7 +4,7 @@ $_['heading_title']    = 'Кредит Магазина';
 
 // Text
 $_['text_total']       = 'Заказ итого';
-$_['text_success']     = 'Success: You have modified store credit total!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 
 // Entry

@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Payments';
 
 // Text
-$_['text_success']      = 'Success: You have modified payments!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Payment List';
 
 // Column

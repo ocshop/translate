@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Currencies';
 
 // Text
-$_['text_success']         = 'Success: You have modified currencies!';
+$_['text_success']         = 'Настройки успешно изменены!';
 $_['text_list']            = 'Currency List';
 $_['text_add']             = 'Добавить';
 $_['text_edit']            = 'Редактирование';

@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Заказ итого';
 
 // Text
-$_['text_success']      = 'Success: You have modified totals!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Order Total List';
 
 // Column

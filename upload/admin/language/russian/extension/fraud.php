@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Anti-Fraud';
 
 // Text
-$_['text_success']     = 'Success: You have modified anti-fraud!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_list']        = 'Anti-Fraud List';
 
 // Column

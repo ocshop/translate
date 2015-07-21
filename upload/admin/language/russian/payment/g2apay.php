@@ -34,7 +34,7 @@ $_['help_total']				 		 = 'The checkout total the order must reach before this p
 $_['help_debug']				 		 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 
 // Tab
-$_['tab_settings']				 		 = 'Settings';
+$_['tab_settings']				 		 = 'Настройки';
 $_['tab_order_status']				 	 = 'Статус';
 
 // Error

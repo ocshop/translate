@@ -4,7 +4,7 @@ $_['heading_title']    = 'Pickup From Store';
 
 // Text
 $_['text_shipping']    = 'Доставка';
-$_['text_success']     = 'Success: You have modified pickup from store!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 
 // Entry

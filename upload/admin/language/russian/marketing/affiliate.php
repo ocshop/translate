@@ -3,7 +3,7 @@
 $_['heading_title']             = 'Партнёрская программа';
 
 // Text
-$_['text_success']              = 'Success: You have modified affiliates!';
+$_['text_success']              = 'Настройки успешно изменены!';
 $_['text_approved']             = 'You have approved %s accounts!';
 $_['text_list']                 = 'Affiliate List';
 $_['text_add']                  = 'Добавить';

@@ -4,7 +4,7 @@ $_['heading_title']                            = 'Fedex';
 
 // Text
 $_['text_shipping']                            = 'Доставка';
-$_['text_success']                             = 'Success: You have modified Fedex shipping!';
+$_['text_success']                             = 'Настройки успешно изменены!';
 $_['text_edit']                                = 'Редактирование';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
@@ -53,8 +53,8 @@ $_['entry_service']                            = 'Services';
 $_['entry_dimension']                          = 'Box Dimensions (L x W x H)';
 $_['entry_length_class']                       = 'Length Class';
 $_['entry_length']                             = 'Length';
-$_['entry_width']                              = 'Width';
-$_['entry_height']                             = 'Height';
+$_['entry_width']                              = 'Ширина';
+$_['entry_height']                             = 'Высота';
 $_['entry_dropoff_type']                       = 'Drop Off Type';
 $_['entry_packaging_type']                     = 'Packaging Type';
 $_['entry_rate_type']                          = 'Rate Type';

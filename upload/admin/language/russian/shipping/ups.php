@@ -4,7 +4,7 @@ $_['heading_title']                = 'UPS';
 
 // Text
 $_['text_shipping']                = 'Доставка';
-$_['text_success']                 = 'Success: You have modified UPS shipping!';
+$_['text_success']                 = 'Настройки успешно изменены!';
 $_['text_edit']                    = 'Редактирование';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
@@ -74,8 +74,8 @@ $_['entry_weight_class']           = 'Weight Class';
 $_['entry_length_class']           = 'Length Class';
 $_['entry_dimension']			   = 'Размеры (Д х Ш х В)';
 $_['entry_length']                 = 'Length';
-$_['entry_height']                 = 'Height';
-$_['entry_width']                  = 'Width';
+$_['entry_height']                 = 'Высота';
+$_['entry_width']                  = 'Ширина';
 $_['entry_tax_class']              = 'Tax Class';
 $_['entry_geo_zone']               = 'Geo Zone';
 $_['entry_status']                 = 'Статус';

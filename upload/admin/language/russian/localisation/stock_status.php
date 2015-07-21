@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Stock Statuses';
 
 // Text
-$_['text_success']     = 'Success: You have modified stock statuses!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_list']        = 'Stock Status List';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';

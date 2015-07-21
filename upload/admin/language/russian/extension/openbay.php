@@ -10,7 +10,7 @@ $_['button_ftp_test']					= 'Test connection';
 $_['button_faq']						= 'View FAQ topic';
 
 // Tab
-$_['tab_setting']						= 'Settings';
+$_['tab_setting']						= 'Настройки';
 $_['tab_update']						= 'Software updates';
 $_['tab_update_v1']						= 'Easy updater';
 $_['tab_update_v2']						= 'Legacy updater';

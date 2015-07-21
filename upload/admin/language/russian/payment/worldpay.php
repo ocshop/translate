@@ -51,7 +51,7 @@ $_['help_webhook_url']			 = 'Set Worldpay webhooks to call this URL';
 $_['help_cron_job_url']			 = 'Set a cron job to call this URL';
 
 // Tab
-$_['tab_settings']				 = 'Settings';
+$_['tab_settings']				 = 'Настройки';
 $_['tab_order_status']			 = 'Статус';
 
 // Error

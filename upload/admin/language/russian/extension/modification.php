@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Modifications';
 
 // Text
-$_['text_success']      = 'Success: You have modified modifications!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_refresh']      = 'Whenever you enable / disable or delete a modification you need to click the refresh button to rebuild your modification cache!';
 $_['text_list']         = 'Modification List';
 

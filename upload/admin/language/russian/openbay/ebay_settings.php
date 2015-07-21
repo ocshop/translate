@@ -82,7 +82,7 @@ $_['entry_import_part_refund_id']	= 'Partially refunded status:';
 
 // Tabs
 $_['tab_api_info']					= 'API details';
-$_['tab_setup']						= 'Settings';
+$_['tab_setup']						= 'Настройки';
 $_['tab_defaults']					= 'Listing defaults';
 
 // Help

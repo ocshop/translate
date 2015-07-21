@@ -4,7 +4,7 @@ $_['heading_title']    = 'Klarna Fee';
 
 // Text
 $_['text_total']       = 'Заказ итого';
-$_['text_success']     = 'Success: You have modified Klarna fee total!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 $_['text_sweden']      = 'Sweden';
 $_['text_norway']      = 'Norway';

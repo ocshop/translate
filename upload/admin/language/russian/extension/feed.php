@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Feeds';
 
 // Text
-$_['text_success']     = 'Success: You have modified feeds!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_list']        = 'Feed List';
 
 // Column

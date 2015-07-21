@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Tax Classes';
 
 // Text
-$_['text_success']      = 'Success: You have modified tax classes!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Tax Class List';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';

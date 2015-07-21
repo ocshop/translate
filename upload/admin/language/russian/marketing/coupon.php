@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Coupons';
 
 // Text
-$_['text_success']        = 'Success: You have modified coupons!';
+$_['text_success']        = 'Настройки успешно изменены!';
 $_['text_list']           = 'Coupon List';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';
@@ -31,7 +31,7 @@ $_['entry_discount']      = 'Скидка';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';
 $_['entry_total']         = 'Total Amount';
-$_['entry_category']      = 'Category';
+$_['entry_category']      = 'Категории';
 $_['entry_product']       = 'Товары';
 $_['entry_date_start']    = 'Date Start';
 $_['entry_date_end']      = 'Date End';

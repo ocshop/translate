@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Customer Groups';
 
 // Text
-$_['text_success']      = 'Success: You have modified customer groups!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Customer Group List';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';

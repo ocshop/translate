@@ -5,7 +5,7 @@ $_['text_openbay']              = 'OpenBay Pro';
 $_['text_etsy']                 = 'Etsy';
 
 // Text
-$_['text_success']     			= 'Your settings have been saved';
+$_['text_success']     			= 'Настройки успешно изменены!';
 $_['text_status']         		= 'Статус';
 $_['text_account_ok']  			= 'Connection to Etsy OK';
 $_['text_api_other']            = 'Связи';

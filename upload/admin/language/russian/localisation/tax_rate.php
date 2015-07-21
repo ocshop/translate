@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Tax Rates';
 
 // Text
-$_['text_success']         = 'Success: You have modified tax rates!';
+$_['text_success']         = 'Настройки успешно изменены!';
 $_['text_list']            = 'Tax Rate List';
 $_['text_add']             = 'Добавить';
 $_['text_edit']            = 'Редактирование';

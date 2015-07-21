@@ -24,7 +24,7 @@ $_['text_logout']          	 = 'Выход';
 
 $_['text_search_options']  = 'Search Options';
 $_['text_new']  		   = 'New';
-$_['text_new_category']    = 'Category';
+$_['text_new_category']    = 'Категории';
 $_['text_new_customer']    = 'Клиент';
 $_['text_new_download']    = 'Скачать';
 $_['text_new_manufacturer']= 'Manufacturer';

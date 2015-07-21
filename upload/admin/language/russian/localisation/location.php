@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Store Locations';
 
 // Text
-$_['text_success']     = 'Success: You have modified store locations!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_list']        = 'Store Location List';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';

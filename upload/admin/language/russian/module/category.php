@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']    = 'Category';
+$_['heading_title']    = 'Категории';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified category module!';
+$_['text_module']      = 'Модули';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 
 // Entry

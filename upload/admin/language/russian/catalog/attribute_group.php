@@ -10,7 +10,7 @@
 $_['heading_title']     = 'Attribute Groups';
 
 // Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Attribute Group List';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';

@@ -1,7 +1,7 @@
 <?php
 $_['heading_title'] = 'Secure Trading Web Service';
 
-$_['tab_settings'] = 'Settings';
+$_['tab_settings'] = 'Настройки';
 $_['tab_myst'] = 'MyST';
 
 $_['text_securetrading_ws'] = '<a href="http://www.securetradingfs.com/partner/open-cart/" target="_blank"><img src="view/image/payment/secure_trading.png" alt="Secure Trading" title="Secure Trading" style="border: 1px solid #EEEEEE;" /></a>';
@@ -12,7 +12,7 @@ $_['text_wait_x_days'] = 'Wait %d days';
 $_['text_wait'] = 'Please wait.';
 $_['text_authorisation_reversed'] = 'Authorisation was successfully reversed';
 $_['text_refund_issued'] = 'Refund was successfully issued';
-$_['text_success'] = 'Success: You have modified Secure Trading Web Service module!';
+$_['text_success'] = 'Настройки успешно изменены!';
 $_['text_pending_settlement'] = 'Pending Settlement';
 $_['text_manual_settlement'] = 'Manual Settlement';
 $_['text_suspended'] = 'Заморожен';

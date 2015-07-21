@@ -10,7 +10,7 @@
 $_['heading_title']          = 'Товары';
 
 // Text
-$_['text_success']           = 'Success: You have modified products!';
+$_['text_success']           = 'Настройки успешно изменены!';
 $_['text_list']              = 'Product List';
 $_['text_add']               = 'Добавить';
 $_['text_edit']              = 'Редактирование';
@@ -65,8 +65,8 @@ $_['entry_weight']           = 'Вес';
 $_['entry_dimension']        = 'Размеры (Д х Ш х В)';
 $_['entry_length_class']     = 'Length Class';
 $_['entry_length']           = 'Length';
-$_['entry_width']            = 'Width';
-$_['entry_height']           = 'Height';
+$_['entry_width']            = 'Ширина';
+$_['entry_height']           = 'Высота';
 $_['entry_image']            = 'Изображение';
 $_['entry_customer_group']   = 'Группа Покупателей';
 $_['entry_date_start']       = 'Date Start';

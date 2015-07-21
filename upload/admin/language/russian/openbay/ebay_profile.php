@@ -8,7 +8,7 @@ $_['text_ebay']                         = 'eBay';
 $_['tab_returns']          				= 'Возврат товара';
 $_['tab_template']         				= 'Template';
 $_['tab_gallery']          				= 'Gallery';
-$_['tab_settings']         				= 'Settings';
+$_['tab_settings']         				= 'Настройки';
 
 //Shipping Profile
 $_['text_shipping_dispatch_country']    = 'Shipping from country';
@@ -66,8 +66,8 @@ $_['text_image_all_template']   		= 'Add all images to template';
 $_['text_image_exclude_default']		= 'Exclude default image';
 $_['text_image_exclude_default_help']	= 'Only for bulk listing feature! Will not include the default product image in theme image list';
 $_['text_confirm_delete']       		= 'Are you sure you want to delete the profile?';
-$_['text_width']      					= 'Width';
-$_['text_height']      					= 'Height';
+$_['text_width']      					= 'Ширина';
+$_['text_height']      					= 'Высота';
 $_['text_px']      						= 'px';
 $_['text_add']      					= 'Добавить';
 $_['text_edit']      					= 'Редактирование';

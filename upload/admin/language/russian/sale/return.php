@@ -3,7 +3,7 @@
 $_['heading_title']       = 'Product Returns';
 
 // Text
-$_['text_success']        = 'Success: You have modified returns!';
+$_['text_success']        = 'Настройки успешно изменены!';
 $_['text_list']           = 'Product Return List';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';

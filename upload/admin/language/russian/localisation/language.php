@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Languages';
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Language List';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';

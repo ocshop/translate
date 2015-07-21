@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Banned IPs';
 
 // Text
-$_['text_success']     = 'Success: You have modified customer banned IPs!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_list']        = 'Banned IP List';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';

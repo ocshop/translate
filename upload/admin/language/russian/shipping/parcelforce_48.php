@@ -4,7 +4,7 @@ $_['heading_title']           = 'Parcelforce 48';
 
 // Text
 $_['text_shipping']           = 'Доставка';
-$_['text_success']            = 'Success: You have modified Parcelforce 48 shipping!';
+$_['text_success']            = 'Настройки успешно изменены!';
 $_['text_edit']               = 'Редактирование';
 
 // Entry

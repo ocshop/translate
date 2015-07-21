@@ -10,7 +10,7 @@
 $_['heading_title']     = 'Filters';
 
 // Text
-$_['text_success']      = 'Success: You have modified filters!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Filter List';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';

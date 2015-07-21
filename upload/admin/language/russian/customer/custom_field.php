@@ -3,7 +3,7 @@
 $_['heading_title']         = 'Custom Fields';
 
 // Text
-$_['text_success']          = 'Success: You have modified custom fields!';
+$_['text_success']          = 'Настройки успешно изменены!';
 $_['text_list']             = 'Custom Field List';
 $_['text_add']              = 'Добавить';
 $_['text_edit']             = 'Редактирование';

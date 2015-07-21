@@ -3,7 +3,7 @@
 $_['heading_title']                        = 'Профили Периодичности';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
+$_['text_success']                         = 'Настройки успешно изменены!';
 $_['text_list']                            = 'Recurring Profile List';
 $_['text_add']                             = 'Добавить';
 $_['text_edit']                            = 'Редактирование';
@@ -48,4 +48,4 @@ $_['entry_payment_method']                 = 'Способ оплаты';
 // Error / Success
 $_['error_not_cancelled']                  = 'Error: %s';
 $_['error_not_found']                      = 'Could not cancel recurring profile';
-$_['text_cancelled']                    = 'Регулярный платеж был закрыт';
+$_['text_cancelled']                       = 'Регулярный платеж был закрыт';

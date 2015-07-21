@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Подарочные сертификаты';
 
 // Text
-$_['text_success']      = 'Success: You have modified vouchers!';
+$_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Gift Voucher List';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';

@@ -6,7 +6,7 @@ $_['heading_title']      = 'SEO Manager';
 $_['text_success']       = 'Success: You have modified SEO Keyword!';
 $_['text_success_clear'] = 'SEO URL cache successfully reset!';
 $_['text_default']       = 'По умолчанию';
-$_['text_module']	     = 'Modules';
+$_['text_module']	     = 'Модули';
 $_['button_clear_cache'] = 'Reset cache';
 
 // Column

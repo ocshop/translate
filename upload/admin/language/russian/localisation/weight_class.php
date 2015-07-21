@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Weight Classes';
 
 // Text
-$_['text_success']     = 'Success: You have modified weight classes!';
+$_['text_success']     = 'Настройки успешно изменены!';
 $_['text_list']        = 'Weight Class List';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';
