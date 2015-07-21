@@ -5,8 +5,8 @@ $_['heading_title']       = 'Layouts';
 // Text
 $_['text_success']        = 'Success: You have modified layouts!';
 $_['text_list']           = 'Layout List';
-$_['text_add']            = 'Add Layout';
-$_['text_edit']           = 'Edit Layout';
+$_['text_add']            = 'Добавить';
+$_['text_edit']           = 'Редактирование';
 $_['text_default']        = 'По умолчанию';
 $_['text_content_top']    = 'Content Top';
 $_['text_content_bottom'] = 'Content Bottom';
@@ -23,7 +23,7 @@ $_['entry_store']         = 'Магазин';
 $_['entry_route']         = 'Route';
 $_['entry_module']        = 'Модуль';
 $_['entry_position']      = 'Position';
-$_['entry_sort_order']    = 'Sort Order';
+$_['entry_sort_order']    = 'Порядок сортировки';
 
 // Error
 $_['error_permission']    = 'Warning: You do not have permission to modify layouts!';

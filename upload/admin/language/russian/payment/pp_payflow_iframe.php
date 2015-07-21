@@ -6,7 +6,7 @@ $_['heading_refund']				= 'Refund';
 // Text
 $_['text_payment']					= 'Платеж';
 $_['text_success']					= 'Success: You have modified PayPal Payflow Pro iFrame account details!';
-$_['text_edit']                     = 'Edit PayPal Payflow Pro iFrame';
+$_['text_edit']                     = 'Редактирование';
 $_['text_pp_payflow_iframe']		= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			= 'Authorization';
 $_['text_sale']						= 'Sale';
@@ -28,7 +28,7 @@ $_['help_checkout_method']			= 'Please use Redirect method if do not have SSL in
 $_['column_transaction_id']			= 'Transaction ID';
 $_['column_transaction_type']		= 'Transaction Type';
 $_['column_amount']					= 'Итого';
-$_['column_time']					= 'Time';
+$_['column_time']					= 'Время';
 $_['column_actions']				= 'Actions';
 
 // Tab
@@ -47,7 +47,7 @@ $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_sort_order']				= 'Порядок сортировки';
 $_['entry_transaction_id']			= 'Transaction ID';
 $_['entry_full_refund']				= 'Full refund';
 $_['entry_amount']					= 'Итого';

@@ -5,19 +5,19 @@ $_['heading_title']         = 'Custom Fields';
 // Text
 $_['text_success']          = 'Success: You have modified custom fields!';
 $_['text_list']             = 'Custom Field List';
-$_['text_add']              = 'Добавить пользовательское поле';
-$_['text_edit']             = 'Edit Custom Field';
-$_['text_choose']           = 'Choose';
-$_['text_select']           = 'Select';
-$_['text_radio']            = 'Radio';
-$_['text_checkbox']         = 'Checkbox';
-$_['text_input']            = 'Input';
-$_['text_text']             = 'Text';
-$_['text_textarea']         = 'Textarea';
-$_['text_file']             = 'File';
-$_['text_date']             = 'Date';
-$_['text_datetime']         = 'Date &amp; Time';
-$_['text_time']             = 'Time';
+$_['text_add']              = 'Добавить';
+$_['text_edit']             = 'Редактирование';
+$_['text_choose']           = 'Выбор';
+$_['text_select']           = 'Список';
+$_['text_radio']            = 'Переключатель';
+$_['text_checkbox']         = 'Флажок';
+$_['text_input']            = 'Поле ввода';
+$_['text_text']             = 'Текст';
+$_['text_textarea']         = 'Текстовая область';
+$_['text_file']             = 'Файл';
+$_['text_date']             = 'Дата';
+$_['text_datetime']         = 'Дата и время';
+$_['text_time']             = 'Время';
 $_['text_account']          = 'Аккаунт';
 $_['text_address']          = 'Адрес';
 
@@ -25,7 +25,7 @@ $_['text_address']          = 'Адрес';
 $_['column_name']           = 'Custom Field Name';
 $_['column_location']       = 'Location';
 $_['column_type']           = 'Тип';
-$_['column_sort_order']     = 'Sort Order';
+$_['column_sort_order']     = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
 // Entry
@@ -37,7 +37,7 @@ $_['entry_custom_value']    = 'Custom Field Value Name';
 $_['entry_customer_group']  = 'Группа Покупателей';
 $_['entry_required']        = 'Required';
 $_['entry_status']          = 'Статус';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help
 $_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';

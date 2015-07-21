@@ -5,7 +5,7 @@ $_['heading_title']					 = 'Globalpay Redirect';
 // Text
 $_['text_payment']				  	 = 'Платеж';
 $_['text_success']					 = 'Success: You have modified Globalpay account details!';
-$_['text_edit']                      = 'Edit Globalpay Redirect';
+$_['text_edit']                      = 'Редактирование';
 $_['text_live']						 = 'Live';
 $_['text_demo']						 = 'Demo';
 $_['text_card_type']				 = 'Тип карты';
@@ -50,7 +50,7 @@ $_['entry_merchant_id']				 = 'Merchant ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_rebate_password']			 = 'Rebate password';
 $_['entry_total']					 = 'Всего';
-$_['entry_sort_order']				 = 'Sort order';
+$_['entry_sort_order']				 = 'Порядок сортировки';
 $_['entry_geo_zone']				 = 'Geo zone';
 $_['entry_status']					 = 'Статус';
 $_['entry_debug']					 = 'Debug logging';

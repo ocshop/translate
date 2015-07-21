@@ -5,8 +5,8 @@ $_['heading_title']     = 'Подарочные сертификаты';
 // Text
 $_['text_success']      = 'Success: You have modified vouchers!';
 $_['text_list']         = 'Gift Voucher List';
-$_['text_add']          = 'Add Gift Voucher';
-$_['text_edit']         = 'Edit Gift Voucher';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 $_['text_sent']         = 'Success: Gift Voucher e-mail has been sent!';
 
 // Column

@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Settings';
+$_['heading_title']                    = 'Настройки';
 
 // Text
-$_['text_stores']                      = 'Stores';
+$_['text_stores']                      = 'Магазины';
 $_['text_success']                     = 'Success: You have modified settings!';
-$_['text_edit']                        = 'Edit Setting';
+$_['text_edit']                        = 'Настройки';
 $_['text_product']                     = 'Товары';
 $_['text_review']                      = 'Отзывы';
 $_['text_voucher']                     = 'Подарочные сертификаты';
@@ -247,5 +247,5 @@ $_['error_ftp_port']                   = 'FTP Port required!';
 $_['error_ftp_username']               = 'FTP Username required!';
 $_['error_ftp_password']               = 'FTP Password required!';
 $_['error_error_filename']             = 'Error Log Filename required!';
-$_['error_malformed_filename']	        = 'Error Malformed Log Filename!';
-$_['error_encryption']                 = 'Encryption Key must be between 3 and 32 characters!';
+$_['error_malformed_filename']	       = 'Error Malformed Log Filename!';
+$_['error_encryption']                 = 'Ключ шифрования должен быть от 32 до 1024 символов!';

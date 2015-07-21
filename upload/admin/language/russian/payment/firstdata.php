@@ -5,7 +5,7 @@ $_['heading_title']					 = 'First Data EMEA Connect (3DSecure enabled)';
 // Text
 $_['text_payment']					 = 'Платеж';
 $_['text_success']					 = 'Success: You have modified First Data account details!';
-$_['text_edit']                      = 'Edit First Data EMEA Connect (3DSecure enabled)';
+$_['text_edit']                      = 'Редактирование';
 $_['text_notification_url']			 = 'Notification URL';
 $_['text_live']						 = 'Live';
 $_['text_demo']						 = 'Demo';
@@ -37,7 +37,7 @@ $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['entry_merchant_id']				 = 'Store ID';
 $_['entry_secret']					 = 'Shared secret';
 $_['entry_total']					 = 'Всего';
-$_['entry_sort_order']				 = 'Sort order';
+$_['entry_sort_order']				 = 'Порядок сортировки';
 $_['entry_geo_zone']				 = 'Geo zone';
 $_['entry_status']					 = 'Статус';
 $_['entry_debug']					 = 'Debug logging';

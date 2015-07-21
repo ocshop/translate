@@ -5,7 +5,7 @@ $_['heading_title']    = 'Акции';
 // Text
 $_['text_module']      = 'Modules';
 $_['text_success']     = 'Success: You have modified module specials!';
-$_['text_edit']        = 'Edit Specials Module';
+$_['text_edit']        = 'Редактирование';
 
 // Entry
 $_['entry_name']       = 'Module Name';

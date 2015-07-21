@@ -4,7 +4,7 @@ $_['heading_title']     		  = 'Кэш Менеджер';
 
 // Text
 $_['text_module']       		  = 'Модули';
-$_['text_edit']         		  = 'Кэш Менеджер';
+$_['text_edit']         		  = 'Редактирование';
 $_['text_success']      		  = 'Кэш Удален!';
 $_['text_success_img']         	  = 'Кэш Изображений Удален!';
 $_['text_success_system']      	  = 'Системный Кэш Удален!';

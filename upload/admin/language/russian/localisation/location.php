@@ -5,8 +5,8 @@ $_['heading_title']    = 'Store Locations';
 // Text
 $_['text_success']     = 'Success: You have modified store locations!';
 $_['text_list']        = 'Store Location List';
-$_['text_add']         = 'Add Store Location';
-$_['text_edit']        = 'Edit Store Location';
+$_['text_add']         = 'Добавить';
+$_['text_edit']        = 'Редактирование';
 $_['text_default']     = 'По умолчанию';
 $_['text_time']        = 'Режим работы';
 $_['text_geocode']     = 'Geocode was not successful for the following reason:';

@@ -3,7 +3,7 @@
 $_['heading_title']					= 'Search Transactions';
 
 // Column
-$_['tbl_column_date']				= 'Date';
+$_['tbl_column_date']				= 'Дата';
 $_['tbl_column_type']				= 'Тип';
 $_['tbl_column_email']				= 'Email';
 $_['tbl_column_name']				= 'Name';
@@ -44,7 +44,7 @@ $_['entry_trans_reversal']			= 'Reversal';
 $_['entry_trans_shipping']			= 'Доставка';
 $_['entry_trans_bal_affect']		= 'Balance Affecting';
 $_['entry_trans_echeque']			= 'E Check';
-$_['entry_date']					= 'Date';
+$_['entry_date']					= 'Дата';
 $_['entry_date_start']				= 'Start';
 $_['entry_date_end']				= 'End';
 $_['entry_date_to']					= 'to';

@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title']                    = 'Stores';
+$_['heading_title']                    = 'Магазины';
 
 // Text
 $_['text_settings']                    = 'Settings';
 $_['text_success']                     = 'Success: You have modified Stores!';
 $_['text_list']                        = 'Store List';
-$_['text_add']                         = 'Add Store';
-$_['text_edit']                        = 'Edit Store';
+$_['text_add']                         = 'Добавить';
+$_['text_edit']                        = 'Редактирование';
 $_['text_items']                       = 'Items';
 $_['text_tax']                         = 'Taxes';
 $_['text_account']                     = 'Аккаунт';

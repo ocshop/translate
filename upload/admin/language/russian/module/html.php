@@ -5,7 +5,7 @@ $_['heading_title']     = 'HTML Content';
 // Text
 $_['text_module']       = 'Modules';
 $_['text_success']      = 'Success: You have modified HTML Content module!';
-$_['text_edit']         = 'Edit HTML Content Module';
+$_['text_edit']         = 'Редактирование';
 
 // Entry
 $_['entry_name']        = 'Module Name';

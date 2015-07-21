@@ -1,22 +1,29 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']     = 'Filters';
 
 // Text
 $_['text_success']      = 'Success: You have modified filters!';
 $_['text_list']         = 'Filter List';
-$_['text_add']          = 'Добавить фильтр';
-$_['text_edit']         = 'Edit Filter';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_group']      = 'Filter Group';
-$_['column_sort_order'] = 'Sort Order';
+$_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_group']       = 'Filter Group Name';
 $_['entry_name']        = 'Filter Name';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Error
 $_['error_permission']  = 'Warning: You do not have permission to modify filters!';

@@ -1,40 +1,47 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']       = 'Options';
+$_['heading_title']       = 'Опции';
 
 // Text
-$_['text_success']        = 'Success: You have modified options!';
-$_['text_list']           = 'Option List';
-$_['text_add']            = 'Добавить опцию';
-$_['text_edit']           = 'Edit Option';
-$_['text_choose']         = 'Choose';
-$_['text_select']         = 'Select';
-$_['text_radio']          = 'Radio';
-$_['text_checkbox']       = 'Checkbox';
+$_['text_success']        = 'Настройки успешно изменены!';
+$_['text_list']           = 'Список Опций';
+$_['text_add']            = 'Добавить';
+$_['text_edit']           = 'Редактирование';
+$_['text_choose']         = 'Выбор';
+$_['text_select']         = 'Список';
+$_['text_radio']          = 'Переключатель';
+$_['text_checkbox']       = 'Флажок';
 $_['text_image']          = 'Изображение';
-$_['text_input']          = 'Input';
-$_['text_text']           = 'Text';
-$_['text_textarea']       = 'Textarea';
-$_['text_file']           = 'File';
-$_['text_date']           = 'Date';
-$_['text_datetime']       = 'Date &amp; Time';
-$_['text_time']           = 'Time';
+$_['text_input']          = 'Поле ввода';
+$_['text_text']           = 'Текст';
+$_['text_textarea']       = 'Текстовая область';
+$_['text_file']           = 'Файл';
+$_['text_date']           = 'Дата';
+$_['text_datetime']       = 'Дата и время';
+$_['text_time']           = 'Время';
 
 // Column
-$_['column_name']         = 'Option Name';
-$_['column_sort_order']   = 'Sort Order';
+$_['column_name']         = 'Название опции';
+$_['column_sort_order']   = 'Порядок сортировки';
 $_['column_action']       = 'Действие';
 
 // Entry
-$_['entry_name']          = 'Option Name';
+$_['entry_name']          = 'Название опции';
 $_['entry_type']          = 'Тип';
-$_['entry_option_value']  = 'Option Value Name';
+$_['entry_option_value']  = 'Значение опции';
 $_['entry_image']         = 'Изображение';
-$_['entry_sort_order']    = 'Sort Order';
+$_['entry_sort_order']    = 'Порядок сортировки';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify options!';
-$_['error_name']          = 'Option Name must be between 1 and 128 characters!';
-$_['error_type']          = 'Warning: Option Values required!';
-$_['error_option_value']  = 'Option Value Name must be between 1 and 128 characters!';
-$_['error_product']       = 'Warning: This option cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']    = 'У вас не достаточно прав для внесения изменений!';
+$_['error_name']          = 'Название должно содержать от 1 до 128 символов!';
+$_['error_type']          = 'Не указано значение!';
+$_['error_option_value']  = 'Значение должно содержать от 1 до 128!';
+$_['error_product']       = 'Эту опцию нельзя удалить, так как она используется в %s товарах!';

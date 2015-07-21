@@ -5,7 +5,7 @@ $_['heading_title']					= 'Perpetual Payments';
 // Text
 $_['text_payment']					= 'Платеж';
 $_['text_success']					= 'Success: You have modified Perpetual Payments account details!';
-$_['text_edit']                     = 'Edit Perpetual Payments';
+$_['text_edit']                     = 'Редактирование';
 
 // Entry
 $_['entry_auth_id']					= 'Authorization ID';
@@ -15,7 +15,7 @@ $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help
 $_['help_test']						= 'Use this module in Test (YES) or Production mode (NO)?';

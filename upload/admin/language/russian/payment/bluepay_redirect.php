@@ -5,7 +5,7 @@ $_['heading_title']					= 'BluePay Redirect (Requires SSL)';
 // Text
 $_['text_payment']					= 'Платеж';
 $_['text_success']					= 'Success: You have modified BluePay Redirect account details!';
-$_['text_edit']                     = 'Edit BluePay Redirect (Requires SSL)';
+$_['text_edit']                     = 'Редактирование';
 $_['text_bluepay_redirect']			= '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Redirect" title="BluePay Redirect" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim']						= 'Simulator';
 $_['text_test']						= 'Test';
@@ -41,7 +41,7 @@ $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус';
 $_['entry_geo_zone']				= 'Geo Zone';
 $_['entry_status']					= 'Статус';
-$_['entry_sort_order']				= 'Sort Order';
+$_['entry_sort_order']				= 'Порядок сортировки';
 $_['entry_debug']					= 'Debug logging';
 $_['entry_card']					= 'Store Cards';
 

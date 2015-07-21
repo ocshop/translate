@@ -5,13 +5,13 @@ $_['heading_title']     = 'Languages';
 // Text
 $_['text_success']      = 'Success: You have modified languages!';
 $_['text_list']         = 'Language List';
-$_['text_add']          = 'Add Language';
-$_['text_edit']         = 'Edit Language';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_name']       = 'Language Name';
 $_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
+$_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -21,7 +21,7 @@ $_['entry_locale']      = 'Locale';
 $_['entry_image']       = 'Изображение';
 $_['entry_directory']   = 'Directory';
 $_['entry_status']      = 'Статус';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
 $_['help_code']         = 'Example: en. Do not change if this is your default language.';

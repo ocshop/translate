@@ -5,7 +5,7 @@ $_['heading_title']				 		 = 'G2APay';
 // Text
 $_['text_payment']				 		 = 'Платеж';
 $_['text_success']				 		 = 'Success: You have modified the G2APay details.';
-$_['text_edit']					 		 = 'Edit G2APay';
+$_['text_edit']					 		 = 'Редактирование';
 $_['text_g2apay']				 		 = '<a href="https://pay.g2a.com/" target="_blank"><img src="view/image/payment/g2apay.png" alt="G2APay" title="G2APay" style="border: 1px solid #EEEEEE;" /></a>';
 
 $_['entry_username']			 		 = 'Username';
@@ -18,7 +18,7 @@ $_['entry_total']				 		 = 'Всего';
 
 $_['entry_geo_zone']			 		 = 'Geo Zone';
 $_['entry_status']				 		 = 'Статус';
-$_['entry_sort_order']			 		 = 'Sort Order';
+$_['entry_sort_order']			 		 = 'Порядок сортировки';
 $_['entry_debug']				 		 = 'Debug logging';
 
 $_['entry_order_status']				 = 'Статус';

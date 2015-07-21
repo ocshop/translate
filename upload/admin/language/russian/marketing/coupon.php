@@ -5,10 +5,10 @@ $_['heading_title']       = 'Coupons';
 // Text
 $_['text_success']        = 'Success: You have modified coupons!';
 $_['text_list']           = 'Coupon List';
-$_['text_add']            = 'Add Coupon';
-$_['text_edit']           = 'Edit Coupon';
-$_['text_percent']        = 'Percentage';
-$_['text_amount']         = 'Fixed Amount';
+$_['text_add']            = 'Добавить';
+$_['text_edit']           = 'Редактирование';
+$_['text_percent']        = 'Процент';
+$_['text_amount']         = 'Фиксированная сумма';
 
 // Column
 $_['column_name']         = 'Coupon Name';

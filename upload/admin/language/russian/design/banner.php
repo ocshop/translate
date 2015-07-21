@@ -6,7 +6,7 @@ $_['heading_title']      = 'Banners';
 $_['text_success']       = 'Success: You have modified banners!';
 $_['text_list']          = 'Banner List';
 $_['text_add']           = 'Добавить баннер';
-$_['text_edit']          = 'Edit Banner';
+$_['text_edit']          = 'Редактирование';
 $_['text_default']       = 'По умолчанию';
 
 // Column
@@ -20,7 +20,7 @@ $_['entry_title']        = 'Title';
 $_['entry_link']         = 'Ссылка';
 $_['entry_image']        = 'Изображение';
 $_['entry_status']       = 'Статус';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_sort_order']   = 'Порядок сортировки';
 
 // Error
 $_['error_permission']   = 'Warning: You do not have permission to modify banners!';

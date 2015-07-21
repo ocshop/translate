@@ -4,7 +4,7 @@ $_['heading_title']					= 'PayPal Pro iFrame';
 
 // Text
 $_['text_success']					= 'Success: You have modified PayPal Pro iFrame account details!';
-$_['text_edit']                     = 'Edit PayPal Pro iFrame';
+$_['text_edit']                     = 'Редактирование';
 $_['text_pp_pro_iframe']			= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			= 'Authorization';
 $_['text_sale']						= 'Sale';
@@ -35,7 +35,7 @@ $_['text_coupon_amount']			= 'Coupon amount';
 $_['text_coupon_currency']			= 'Coupon currency';
 $_['text_loyalty_disc_amt']			= 'Loyalty card disc amount';
 $_['text_loyalty_currency']			= 'Loyalty card currency';
-$_['text_options_name']				= 'Options name';
+$_['text_options_name']				= 'Опции' name';
 $_['text_tax_amt']					= 'Tax amount';
 $_['text_currency_code']			= 'Currency code';
 $_['text_amount']					= 'Итого';

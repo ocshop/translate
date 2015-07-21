@@ -1,12 +1,19 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']     = 'Отзывы';
 
 // Text
 $_['text_success']      = 'Success: You have modified reviews!';
 $_['text_list']         = 'Review List';
-$_['text_add']          = 'Add Review';
-$_['text_edit']         = 'Edit Review';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_product']    = 'Товар';
@@ -21,7 +28,7 @@ $_['entry_product']     = 'Товар';
 $_['entry_author']      = 'Author';
 $_['entry_rating']      = 'Рейтинг';
 $_['entry_status']      = 'Статус';
-$_['entry_text']        = 'Text';
+$_['entry_text']        = 'Текст';
 $_['entry_date_added']  = 'Добавлено';
 
 // Help

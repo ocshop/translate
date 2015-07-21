@@ -1,11 +1,18 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']                           = 'FraudLabs Pro';
 
 // Text
 $_['text_fraud']                              = 'Anti-Fraud';
 $_['text_success']                            = 'Success: You have modified FraudLabs Pro!';
-$_['text_edit']                               = 'Settings';
+$_['text_edit']                               = 'Настройки';
 $_['text_signup']                             = 'FraudLabsPro is a fraud detection service. If you don\'t have a API key you can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a>.';
 $_['text_id']                                 = 'FraudLabs Pro ID';
 $_['text_ip_address']                         = 'IP Address';

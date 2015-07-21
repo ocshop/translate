@@ -5,7 +5,7 @@ $_['heading_title']         = 'Authorize.Net (AIM)';
 // Text
 $_['text_payment']          = 'Платеж';
 $_['text_success']          = 'Success: You have modified Authorize.Net (AIM) account details!';
-$_['text_edit']             = 'Edit Authorize.Net (AIM)';
+$_['text_edit']             = 'Редактирование';
 $_['text_test']             = 'Test';
 $_['text_live']             = 'Live';
 $_['text_authorization']    = 'Authorization';
@@ -23,7 +23,7 @@ $_['entry_total']           = 'Всего';
 $_['entry_order_status']    = 'Статус';
 $_['entry_geo_zone']        = 'Geo Zone';
 $_['entry_status']          = 'Статус';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help
 $_['help_total']            = 'The checkout total the order must reach before this payment method becomes active.';

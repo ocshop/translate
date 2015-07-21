@@ -5,8 +5,8 @@ $_['heading_title']     = 'Users';
 // Text
 $_['text_success']      = 'Success: You have modified users!';
 $_['text_list']         = 'User List';
-$_['text_add']          = 'Add User';
-$_['text_edit']         = 'Edit User';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_username']   = 'Username';

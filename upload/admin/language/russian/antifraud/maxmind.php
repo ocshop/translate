@@ -1,11 +1,18 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']                           = 'MaxMind Anti-Fraud';
 
 // Text
 $_['text_fraud']                              = 'Anti-Fraud';
 $_['text_success']                            = 'Success: You have modified MaxMind anti-fraud!';
-$_['text_edit']                               = 'Edit MaxMind Anti-Fraud';
+$_['text_edit']                               = 'Редактирование';
 $_['text_signup']                             = 'MaxMind is a fraud detection service. If you don\'t have a license key you can <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>sign up here</u></a>.';
 $_['text_country_match']                      = 'Country Match:';
 $_['text_country_code']                       = 'Country Code:';

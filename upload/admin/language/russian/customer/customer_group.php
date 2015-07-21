@@ -5,19 +5,19 @@ $_['heading_title']     = 'Customer Groups';
 // Text
 $_['text_success']      = 'Success: You have modified customer groups!';
 $_['text_list']         = 'Customer Group List';
-$_['text_add']          = 'Add Customer Group';
-$_['text_edit']         = 'Edit Customer Group';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_name']       = 'Customer Group Name';
-$_['column_sort_order'] = 'Sort Order';
+$_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'Customer Group Name';
 $_['entry_description'] = 'Описание';
 $_['entry_approval']    = 'Approve New Customers';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
 $_['help_approval']     = 'Customers must be approved by an administrator before they can login.';

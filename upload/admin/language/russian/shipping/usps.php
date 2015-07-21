@@ -5,7 +5,7 @@ $_['heading_title']         = 'United States Postal Service';
 // Text
 $_['text_shipping']         = 'Доставка';
 $_['text_success']          = 'Success: You have modified United States Postal Service!';
-$_['text_edit']             = 'Edit United States Postal Service Shipping';
+$_['text_edit']             = 'Редактирование';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
 $_['text_domestic_02']      = 'First-Class Mail Letter';
@@ -68,7 +68,7 @@ $_['entry_weight_class']    = 'Weight Class';
 $_['entry_tax']             = 'Tax Class';
 $_['entry_geo_zone']        = 'Geo Zone';
 $_['entry_status']          = 'Статус';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_sort_order']      = 'Порядок сортировки';
 $_['entry_debug']      		= 'Debug Mode';
 
 // Help

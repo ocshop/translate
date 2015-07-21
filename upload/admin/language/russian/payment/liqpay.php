@@ -5,7 +5,7 @@ $_['heading_title']		 = 'LIQPAY';
 // Text
 $_['text_payment']		 = 'Платеж';
 $_['text_success']		 = 'Success: You have modified LIQPAY account details!';
-$_['text_edit']          = 'Edit LIQPAY';
+$_['text_edit']          = 'Редактирование';
 $_['text_pay']			 = 'LIQPAY';
 $_['text_card']			 = 'Credit Card';
 $_['text_liqpay']		 = '<img src="view/image/payment/liqpay.png" alt="LIQPAY" title="LIQPAY" style="border: 1px solid #EEEEEE;" />';
@@ -18,7 +18,7 @@ $_['entry_total']		 = 'Всего';
 $_['entry_order_status'] = 'Статус';
 $_['entry_geo_zone']	 = 'Geo Zone';
 $_['entry_status']		 = 'Статус';
-$_['entry_sort_order']	 = 'Sort Order';
+$_['entry_sort_order']	 = 'Порядок сортировки';
 
 // Help
 $_['help_total']		 = 'The checkout total the order must reach before this payment method becomes active.';

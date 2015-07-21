@@ -1,45 +1,52 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']      = 'Manufacturers';
+$_['heading_title']      	 = 'Производители';
 
 // Text
-$_['text_success']       = 'Success: You have modified manufacturers!';
-$_['text_list']          = 'Manufacturer List';
-$_['text_add']           = 'Add Manufacturer';
-$_['text_edit']          = 'Edit Manufacturer';
-$_['text_default']       = 'По умолчанию';
-$_['text_percent']       = 'Percentage';
-$_['text_amount']        = 'Fixed Amount';
+$_['text_success']       	 = 'Настройки успешно изменены!';
+$_['text_list']          	 = 'Список Производителей';
+$_['text_add']           	 = 'Добавить';
+$_['text_edit']          	 = 'Редактирование';
+$_['text_default']       	 = 'По умолчанию';
+$_['text_percent']       	 = 'Процент';
+$_['text_amount']        	 = 'Фиксированная сумма';
 
 // Column
-$_['column_name']        = 'Manufacturer Name';
-$_['column_sort_order']  = 'Sort Order';
-$_['column_noindex']         = 'Index';
-$_['column_action']      = 'Действие';
+$_['column_name']        	 = 'Название Производителя';
+$_['column_sort_order']  	 = 'Порядок сортировки';
+$_['column_noindex']         = 'Индексация';
+$_['column_action']      	 = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Manufacturer Name';
+$_['entry_name']             = 'Название Производителя';
 $_['entry_description']      = 'Описание';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
 $_['entry_meta_h1'] 	     = 'HTML Tag H1';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_store']            = 'Stores';
-$_['entry_keyword']    	     = 'SEO Keyword';
+$_['entry_store']            = 'Магазины';
+$_['entry_keyword']    	     = 'SEO URL';
 $_['entry_image']    	     = 'Изображение';
-$_['entry_sort_order']  	 = 'Sort Order';
-$_['entry_noindex']          = 'Index';
+$_['entry_sort_order']  	 = 'Порядок сортировки';
+$_['entry_noindex']          = 'Индексация';
 $_['entry_type']        	 = 'Тип';
 
 // Help
-$_['help_keyword']       = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_noindex']           = 'indexing in search engines Google, Yandex, Bing and other';
+$_['help_keyword']       	 = 'Должно быть уникальным на всю систему, без пробелов и спецсимволов';
+$_['help_noindex']           = 'Индексация в поисковых системах Google, Yandex, Bing и других';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']   = 'Warning: You do not have permission to modify manufacturers!';
-$_['error_name']         = 'Manufacturer Name must be between 2 and 64 characters!';
-$_['error_product']      = 'Warning: This manufacturer cannot be deleted as it is currently assigned to %s products!';
-$_['error_meta_title']   = 'Meta Title must be greater than 0 and less than 255 characters!';
-$_['error_meta_h1']	     = 'HTML Tag H1 must be greater than 0 and less than 255 characters!';
-$_['error_keyword']      = 'SEO keyword already in use!';
+$_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
+$_['error_permission']   	 = 'У вас не достаточно прав для внесения изменений!';
+$_['error_name']         	 = 'Название должно содержать от 2 до 64 символов!';
+$_['error_product']      	 = 'Этого производителя нельзя удалить так как он используется в %s товарах!';
+$_['error_meta_title']   	 = 'Мета-тег Title должен содержать от 0 до 255 символов!';
+$_['error_meta_h1']	     	 = 'HTML-тег H1 должен быть от 0 до 255 символов!';
+$_['error_keyword']      	 = 'SEO URL уже используется!';

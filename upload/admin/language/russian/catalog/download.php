@@ -1,12 +1,19 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']     = 'Файлы для скачивания';
 
 // Text
 $_['text_success']      = 'Success: You have modified downloads!';
 $_['text_list']         = 'Download List';
-$_['text_add']          = 'Add Download';
-$_['text_edit']         = 'Edit Download';
+$_['text_add']          = 'Добавить';
+$_['text_edit']         = 'Редактирование';
 $_['text_upload']       = 'Файл успешно загружен!';
 
 // Column

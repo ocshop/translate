@@ -4,12 +4,12 @@ $_['heading_title']              = 'Orders';
 
 // Text
 $_['text_list']                  = 'Order List';
-$_['text_add']                   = 'Add Order';
-$_['text_edit']                  = 'Edit Order';
+$_['text_add']                   = 'Добавить';
+$_['text_edit']                  = 'Редактирование';
 $_['text_ip_add']                = 'You need to add your current IP %s to the default API allow list.';
 $_['text_order_detail']          = 'Детали заказа';
 $_['text_customer_detail']       = 'Клиент';
-$_['text_option']                = 'Options';
+$_['text_option']                = 'Опции';
 $_['text_store']                 = 'Магазин';
 $_['text_date_added']            = 'Добавлено';
 $_['text_payment_method']        = 'Способ оплаты';

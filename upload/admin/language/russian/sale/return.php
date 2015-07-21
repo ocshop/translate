@@ -5,8 +5,8 @@ $_['heading_title']       = 'Product Returns';
 // Text
 $_['text_success']        = 'Success: You have modified returns!';
 $_['text_list']           = 'Product Return List';
-$_['text_add']            = 'Add Product Return';
-$_['text_edit']           = 'Edit Product Return';
+$_['text_add']            = 'Добавить';
+$_['text_edit']           = 'Редактирование';
 $_['text_opened']         = 'Открыто';
 $_['text_unopened']       = 'Unopened';
 $_['text_order']          = 'Информация о заказе';

@@ -1,20 +1,27 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']			= 'Recurring Profiles';
+$_['heading_title']			= 'Профили Периодичности';
 
 // Text
-$_['text_success']          = 'Success: You have modified recurring profiles!';
-$_['text_list']             = 'Recurring Profile List';
-$_['text_add']              = 'Add Recurring Profile';
-$_['text_edit']             = 'Edit Recurring Profile';
+$_['text_success']          = 'Настройки успешно изменены!';
+$_['text_list']             = 'Список Профилей Периодичности';
+$_['text_add']              = 'Добавить';
+$_['text_edit']             = 'Редактирование';
 $_['text_day']				= 'день';
 $_['text_week']				= 'неделя';
-$_['text_semi_month']		= 'Semi Month';
+$_['text_semi_month']		= 'полмесяца';
 $_['text_month']			= 'месяц';
 $_['text_year']				= 'год';
-$_['text_recurring']	    = '<p><i class="fa fa-info-circle"></i> Recurring amounts are calculated by the frequency and cycles.</p><p>For example if you use a frequency of "week" and a cycle of "2", then the user will be billed every 2 weeks.</p><p>The duration is the number of times the user will make a payment, set this to 0 if you want payments until they are cancelled.</p>';
-$_['text_profile']			= 'Recurring Profile';
-$_['text_trial']			= 'Trial Profile';
+$_['text_recurring']	    = '<p><i class="fa fa-info-circle"></i> Повторения выставления счета расчитываются путем умножения частоты на цикл.</p><p>Например, если вы используете частоту "неделя" и цикл "2", то пользователю будет выставлен счет каждые 2 недели.</p><p>Продолжительность - количество оплат, которые пользователь должен сделать. Установите в 0, если Вы захотите отменить платежи.</p>';
+$_['text_profile']			= 'Профиль Периодичности';
+$_['text_trial']			= 'Триал профиль';
 
 // Entry
 $_['entry_name']			= 'Name';
@@ -28,11 +35,11 @@ $_['entry_trial_status']	= 'Trial status';
 $_['entry_trial_cycle']	    = 'Trial cycle';
 $_['entry_trial_frequency']	= 'Trial frequency';
 $_['entry_status']			= 'Статус';
-$_['entry_sort_order']		= 'Sort Order';
+$_['entry_sort_order']		= 'Порядок сортировки';
 
 // Column
 $_['column_name']			= 'Name';
-$_['column_sort_order']	    = 'Sort Order';
+$_['column_sort_order']	    = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
 // Error

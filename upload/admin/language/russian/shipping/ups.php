@@ -5,7 +5,7 @@ $_['heading_title']                = 'UPS';
 // Text
 $_['text_shipping']                = 'Доставка';
 $_['text_success']                 = 'Success: You have modified UPS shipping!';
-$_['text_edit']                    = 'Edit UPS Shipping';
+$_['text_edit']                    = 'Редактирование';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
 $_['text_customer_counter']        = 'Customer Counter';
@@ -79,7 +79,7 @@ $_['entry_width']                  = 'Width';
 $_['entry_tax_class']              = 'Tax Class';
 $_['entry_geo_zone']               = 'Geo Zone';
 $_['entry_status']                 = 'Статус';
-$_['entry_sort_order']             = 'Sort Order';
+$_['entry_sort_order']             = 'Порядок сортировки';
 $_['entry_debug']      			   = 'Debug Mode';
 
 // Help
