@@ -83,5 +83,5 @@ $_['help_transaction_id']                     = 'Click the link to view the deta
 $_['help_credits']                            = 'Balance of queries in your account after this transaction.';
 
 // Error
-$_['error_permission']                        = 'Warning: You do not have permission to modify FraudLabs Pro settings!';
+$_['error_permission']                        = 'У вас недостаточно прав для внесения изменений!';
 $_['error_key']		                          = 'License Key Required!';

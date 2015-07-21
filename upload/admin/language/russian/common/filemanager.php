@@ -12,7 +12,7 @@ $_['entry_search']     = 'Search..';
 $_['entry_folder']     = 'Folder Name';
 
 // Error
-$_['error_permission'] = 'Warning: Permission Denied!';
+$_['error_permission'] = 'Доступ Запрещен!';
 $_['error_filename']   = 'Warning: Filename must be a between 3 and 255!';
 $_['error_folder']     = 'Warning: Folder name must be a between 3 and 255!';
 $_['error_exists']     = 'Warning: A file or directory with the same name already exists!';

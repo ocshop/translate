@@ -162,7 +162,7 @@ $_['button_capture']				= 'Capture';
 $_['button_reauthorise']			= 'Reauthorise';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+$_['error_permission']				= 'У вас недостаточно прав для внесения изменений!';
 $_['error_sig']						= 'Signature Required!';
 $_['error_user']					= 'User Required!';
 $_['error_password']				= 'Password Required!';

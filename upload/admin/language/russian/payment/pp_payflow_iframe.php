@@ -45,7 +45,7 @@ $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
 $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус';
-$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_geo_zone']				= 'Географическая зона';
 $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Порядок сортировки';
 $_['entry_transaction_id']			= 'Transaction ID';
@@ -93,7 +93,7 @@ $_['button_void']					= 'Void';
 $_['button_capture']				= 'Capture';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+$_['error_permission']				= 'У вас недостаточно прав для внесения изменений!';
 $_['error_vendor']					= 'Vendor Required!';
 $_['error_user']					= 'User Required!';
 $_['error_password']				= 'Password Required!';

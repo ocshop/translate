@@ -12,4 +12,4 @@ $_['entry_admin']      = 'Admin Users Only';
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify store module!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

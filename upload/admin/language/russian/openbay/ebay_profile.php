@@ -95,7 +95,7 @@ $_['text_added']                		= 'New profile has been added';
 $_['text_updated']              		= 'Profile has been updated';
 
 //Errors
-$_['error_permission']        			= 'You do not have permission to edit profiles';
+$_['error_permission']        			= 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']           				= 'You must enter a profile name';
 $_['error_no_template']          		= 'Template ID does not exist';
 $_['error_missing_settings'] 			= 'You cannot add,edit or delete profiles until you syncronise your eBay settings';

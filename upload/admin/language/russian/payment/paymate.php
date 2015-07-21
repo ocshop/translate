@@ -14,7 +14,7 @@ $_['entry_password']				= 'Пароль';
 $_['entry_test']					= 'Test Mode';
 $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус';
-$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_geo_zone']				= 'Географическая зона';
 $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Порядок сортировки';
 
@@ -23,6 +23,6 @@ $_['help_password']					= 'Just use some random password. This will be used to m
 $_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment Paymate!';
+$_['error_permission']				= 'У вас недостаточно прав для внесения изменений!';
 $_['error_username']				= 'Paymate Username required!';
 $_['error_password']				= 'Password required!';

@@ -65,8 +65,8 @@ $_['entry_width']           = 'Ширина';
 $_['entry_display_time']    = 'Display Delivery Time';
 $_['entry_display_weight']  = 'Display Delivery Weight';
 $_['entry_weight_class']    = 'Weight Class';
-$_['entry_tax']             = 'Tax Class';
-$_['entry_geo_zone']        = 'Geo Zone';
+$_['entry_tax']             = 'Класс налога';
+$_['entry_geo_zone']        = 'Географическая зона';
 $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Порядок сортировки';
 $_['entry_debug']      		= 'Debug Mode';
@@ -79,7 +79,7 @@ $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']      		= 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_permission']      = 'У вас недостаточно прав для внесения изменений!';
 $_['error_user_id']         = 'User ID Required!';
 $_['error_postcode']        = 'Zip Code Required!';
 $_['error_width']        	= 'Укажите Ширину!';

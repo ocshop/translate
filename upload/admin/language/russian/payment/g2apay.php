@@ -16,7 +16,7 @@ $_['entry_secret_token']		 		 = 'Secret Token';
 $_['entry_ipn_url']				 		 = 'IPN URL:';
 $_['entry_total']				 		 = 'Всего';
 
-$_['entry_geo_zone']			 		 = 'Geo Zone';
+$_['entry_geo_zone']			 		 = 'Географическая зона';
 $_['entry_status']				 		 = 'Статус';
 $_['entry_sort_order']			 		 = 'Порядок сортировки';
 $_['entry_debug']				 		 = 'Debug logging';
@@ -38,7 +38,7 @@ $_['tab_settings']				 		 = 'Настройки';
 $_['tab_order_status']				 	 = 'Статус';
 
 // Error
-$_['error_permission']			 		 = 'Warning: You do not have permission to modify G2APay!';
+$_['error_permission']			 		 = 'У вас недостаточно прав для внесения изменений!';
 $_['error_email']				 		 = 'E-Mail Required!';
 $_['error_secret']				 		 = 'Secret Required!';
 $_['error_api_hash']			 		 = 'API Hash Required!';

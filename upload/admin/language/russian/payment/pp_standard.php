@@ -26,7 +26,7 @@ $_['entry_processed_status']		 = 'Processed Status';
 $_['entry_refunded_status']			 = 'Refunded Status';
 $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']			 = 'Voided Status';
-$_['entry_geo_zone']				 = 'Geo Zone';
+$_['entry_geo_zone']				 = 'Географическая зона';
 $_['entry_status']					 = 'Статус';
 $_['entry_sort_order']				 = 'Порядок сортировки';
 
@@ -40,5 +40,5 @@ $_['help_debug']			    	 = 'Logs additional information to the system log';
 $_['help_total']					 = 'The checkout total the order must reach before this payment method becomes active';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal!';
+$_['error_permission']				 = 'У вас недостаточно прав для внесения изменений!';
 $_['error_email']					 = 'E-Mail required!';

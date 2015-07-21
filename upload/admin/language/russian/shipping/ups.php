@@ -76,8 +76,8 @@ $_['entry_dimension']			   = 'Размеры (Д х Ш х В)';
 $_['entry_length']                 = 'Length';
 $_['entry_height']                 = 'Высота';
 $_['entry_width']                  = 'Ширина';
-$_['entry_tax_class']              = 'Tax Class';
-$_['entry_geo_zone']               = 'Geo Zone';
+$_['entry_tax_class']              = 'Класс налога';
+$_['entry_geo_zone']               = 'Географическая зона';
 $_['entry_status']                 = 'Статус';
 $_['entry_sort_order']             = 'Порядок сортировки';
 $_['entry_debug']      			   = 'Debug Mode';
@@ -105,7 +105,7 @@ $_['help_dimension']			   = 'This is assumed to be your average packing box size
 $_['help_debug']      			   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+$_['error_permission']             = 'У вас недостаточно прав для внесения изменений!';
 $_['error_key']                    = 'Access Key Required!';
 $_['error_username']               = 'Username Required!';
 $_['error_password']               = 'Password Required!';

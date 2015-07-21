@@ -23,7 +23,7 @@ $_['entry_server']					= 'Сервер';
 $_['entry_total']					= 'Всего';
 $_['entry_pending_status']			= 'Pending Status';
 $_['entry_accepted_status']			= 'Accepted Status';
-$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_geo_zone']				= 'Географическая зона';
 $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Порядок сортировки';
 
@@ -33,7 +33,7 @@ $_['help_secret']					= 'Shared secret to use with the Klarna service (provided 
 $_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment Klarna Part Payment!';
+$_['error_permission']				= 'У вас недостаточно прав для внесения изменений!';
 $_['error_pclass']					= 'Could not retrieve pClass for %s. Error Code: %s; Error Message: %s';
 $_['error_curl']					= 'Curl Error - Code: %d; Message: %s';
 $_['error_log']						= 'There were errors updating the module. Please check the log file.';

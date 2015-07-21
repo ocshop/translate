@@ -15,5 +15,5 @@ $_['column_keyword']     = 'SEO URL';
 $_['column_action']      = 'Действие';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify module SEO Manager!';
+$_['error_permission']   = 'У вас недостаточно прав для внесения изменений!';
 ?>

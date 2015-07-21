@@ -30,6 +30,6 @@ $_['help_locale']          = 'This is the PayPal locale setting for your store l
 $_['help_return_url']      = 'This needs to be added in the PayPal app configuration under app redirect URLs.';
 
 //Error
-$_['error_permission']     = 'Warning: You do not have permission to modify Log In with PayPal module!';
+$_['error_permission']     = 'У вас недостаточно прав для внесения изменений!';
 $_['error_client_id']      = 'Client ID required!';
 $_['error_secret']         = 'Secret required!';

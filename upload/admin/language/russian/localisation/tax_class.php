@@ -20,11 +20,11 @@ $_['entry_title']       = 'Tax Class Title';
 $_['entry_description'] = 'Описание';
 $_['entry_rate']        = 'Tax Rate';
 $_['entry_based']       = 'Based On';
-$_['entry_geo_zone']    = 'Geo Zone';
+$_['entry_geo_zone']    = 'Географическая зона';
 $_['entry_priority']    = 'Priority';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify tax classes!';
+$_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
 $_['error_title']       = 'Tax Class Title must be between 3 and 32 characters!';
 $_['error_description'] = 'Description must be between 3 and 255 characters!';
 $_['error_product']     = 'Warning: This tax class cannot be deleted as it is currently assigned to %s products!';

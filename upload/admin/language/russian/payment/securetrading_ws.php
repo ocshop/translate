@@ -42,7 +42,7 @@ $_['entry_refunded_order_status'] = 'Refunded order status';
 $_['entry_authorisation_reversed_order_status'] = 'Authorisation reversed order status';
 $_['entry_settle_status'] = 'Settlement status';
 $_['entry_settle_due_date'] = 'Settlement due date';
-$_['entry_geo_zone'] = 'Geo Zone';
+$_['entry_geo_zone'] = 'Географическая зона';
 $_['entry_sort_order'] = 'Порядок сортировки';
 $_['entry_status'] = 'Статус';
 $_['entry_total'] = 'Всего';
@@ -69,7 +69,7 @@ $_['column_status'] = 'Статус';
 $_['column_type'] = 'Тип';
 $_['column_payment_type'] = 'Payment type';
 
-$_['error_permission'] = 'You do not have permissions to modify this module';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
 $_['error_site_reference'] = 'Site Reference is required';
 $_['error_cards_accepted'] = 'Accepted cards is required';
 $_['error_username'] = 'Username is required';

@@ -15,7 +15,7 @@ $_['entry_display']					= 'Direct Checkout';
 $_['entry_test']					= 'Test Mode';
 $_['entry_total']					= 'Всего';
 $_['entry_order_status']			= 'Статус';
-$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_geo_zone']				= 'Географическая зона';
 $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Порядок сортировки';
 
@@ -24,6 +24,6 @@ $_['help_secret']					= 'The secret word to confirm transactions with (must be t
 $_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment 2Checkout!';
+$_['error_permission']				= 'У вас недостаточно прав для внесения изменений!';
 $_['error_account']					= 'Account No. Required!';
 $_['error_secret']					= 'Secret Word Required!';

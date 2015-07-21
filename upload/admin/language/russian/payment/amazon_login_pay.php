@@ -56,7 +56,7 @@ $_['text_confirm_cancel']			= 'Are you sure you want to cancel the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			= 'Are you sure you want to refund the payment?';
 $_['text_minimum_total']            = 'Minimum Order Total';
-$_['text_geo_zone']                 = 'Geo Zone';
+$_['text_geo_zone']                 = 'Географическая зона';
 $_['text_status']                   = 'Статус';
 $_['text_declined_codes']           = 'Test Decline Codes';
 $_['text_sort_order']               = 'Порядок сортировки';
@@ -94,7 +94,7 @@ $_['help_declined_codes']			= 'This is for testing purposes only';
 $_['tab_order_adjustment']          = 'Order Adjustment';
 
 // Errors
-$_['error_permission']              = 'You do not have permissions to modify this module';
+$_['error_permission']              = 'У вас недостаточно прав для внесения изменений!';
 $_['error_merchant_id']			    = 'Merchant ID is required';
 $_['error_access_key']			    = 'Access Key is required';
 $_['error_access_secret']		    = 'Secret Key is required';

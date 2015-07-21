@@ -25,6 +25,6 @@ $_['entry_status']         = 'Статус';
 $_['entry_ip']             = 'IP';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify APIs!';
+$_['error_permission']     = 'У вас недостаточно прав для внесения изменений!';
 $_['error_username']       = 'Username must be between 3 and 20 characters!';
 $_['error_password']       = 'Password must be between 3 and 256 characters!';

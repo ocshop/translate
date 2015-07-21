@@ -13,8 +13,8 @@ $_['entry_insurance']         = 'Parcelforce48 Compensation Rates';
 $_['entry_display_weight']    = 'Display Delivery Weight';
 $_['entry_display_insurance'] = 'Display Insurance';
 $_['entry_display_time']      = 'Display Delivery Time';
-$_['entry_tax_class']         = 'Tax Class';
-$_['entry_geo_zone']          = 'Geo Zone';
+$_['entry_tax_class']         = 'Класс налога';
+$_['entry_geo_zone']          = 'Географическая зона';
 $_['entry_status']            = 'Статус';
 $_['entry_sort_order']        = 'Порядок сортировки';
 
@@ -26,4 +26,4 @@ $_['help_display_insurance'] = 'Do you want to display the shipping insurance? (
 $_['help_display_time']      = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify Parcelforce 48 shipping!';
+$_['error_permission']        = 'У вас недостаточно прав для внесения изменений!';

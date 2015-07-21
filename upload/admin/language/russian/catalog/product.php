@@ -56,7 +56,7 @@ $_['entry_quantity']         = 'Количество';
 $_['entry_minimum']          = 'Minimum Quantity';
 $_['entry_stock_status']     = 'Out Of Stock Status';
 $_['entry_price']            = 'Цена';
-$_['entry_tax_class']        = 'Tax Class';
+$_['entry_tax_class']        = 'Класс налога';
 $_['entry_points']           = 'Бонусные баллы';
 $_['entry_option_points']    = 'Бонусные баллы';
 $_['entry_subtract']         = 'Subtract Stock';
@@ -111,8 +111,8 @@ $_['help_tag']          	 = 'comma separated';
 $_['help_noindex']           = 'Индексация в поисковых системах Google, Yandex, Bing и других';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify products!';
+$_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
+$_['error_permission']       = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']             = 'Наименование товара  должно быть от 3 до 255 символов!';
 $_['error_meta_title']       = 'Мета-тег Title должен содержать от 0 до 255 символов!';
 $_['error_meta_h1'] 	     = 'HTML-тег H1 должен быть от 0 до 255 символов!';

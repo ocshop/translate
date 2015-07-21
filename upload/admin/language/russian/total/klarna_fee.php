@@ -16,9 +16,9 @@ $_['text_netherlands'] = 'The Netherlands';
 // Entry
 $_['entry_total']      = 'Order Total';
 $_['entry_fee']        = 'Invoice Fee';
-$_['entry_tax_class']  = 'Tax Class';
+$_['entry_tax_class']  = 'Класс налога';
 $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Klarna fee total!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

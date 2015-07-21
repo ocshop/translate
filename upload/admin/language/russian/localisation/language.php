@@ -31,7 +31,7 @@ $_['help_directory']    = 'Name of the language directory (case-sensitive)';
 $_['help_status']       = 'Hide/Show it in language dropdown';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
+$_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']        = 'Language Name must be between 3 and 32 characters!';
 $_['error_code']        = 'Language Code must at least 2 characters!';
 $_['error_locale']      = 'Locale required!';

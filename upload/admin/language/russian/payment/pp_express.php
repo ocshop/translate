@@ -25,7 +25,7 @@ $_['entry_sandbox_password']		 = 'API Sandbox Password';
 $_['entry_sandbox_signature']		 = 'API Sandbox Signature';
 $_['entry_test']					 = 'Test (Sandbox) Mode';
 $_['entry_method']					 = 'Transaction Method';
-$_['entry_geo_zone']				 = 'Geo Zone';
+$_['entry_geo_zone']				 = 'Географическая зона';
 $_['entry_status']					 = 'Статус';
 $_['entry_sort_order']				 = 'Порядок сортировки';
 $_['entry_icon_sort_order']			 = 'Icon Sort Order';
@@ -64,7 +64,7 @@ $_['help_colour']					 = '6 character HTML colour code';
 $_['help_currency']					 = 'Used for transaction searches';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal Express Checkout!';
+$_['error_permission']				 = 'У вас недостаточно прав для внесения изменений!';
 $_['error_username']				 = 'API Username Required!';
 $_['error_password']				 = 'API Password Required!';
 $_['error_signature']				 = 'API Signature Required!';

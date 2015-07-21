@@ -23,5 +23,5 @@ $_['text_edit']      				= 'Редактирование';
 
 // Error
 $_['error_name']               		= 'You must enter a template name';
-$_['error_permission']            	= 'You do not have permission to edit templates';
+$_['error_permission']            	= 'У вас недостаточно прав для внесения изменений!';
 $_['error_no_template']             = 'Template ID does not exist';

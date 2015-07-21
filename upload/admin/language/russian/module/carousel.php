@@ -15,7 +15,7 @@ $_['entry_height']     = 'Высота';
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify carousel module!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']       = 'Module Name must be between 3 and 64 characters!';
 $_['error_width']      = 'Укажите Ширину!';
 $_['error_height']     = 'Укажите Высоту!';

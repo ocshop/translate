@@ -17,7 +17,7 @@ $_['entry_pending_status']	  = 'Pending Status ';
 $_['entry_canceled_status']	  = 'Canceled Status';
 $_['entry_failed_status']	  = 'Failed Status';
 $_['entry_chargeback_status'] = 'Chargeback Status';
-$_['entry_geo_zone']		  = 'Geo Zone';
+$_['entry_geo_zone']		  = 'Географическая зона';
 $_['entry_status']			  = 'Статус';
 $_['entry_sort_order']		  = 'Порядок сортировки';
 
@@ -25,5 +25,5 @@ $_['entry_sort_order']		  = 'Порядок сортировки';
 $_['help_total']			  = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']		  = 'Warning: You do not have permission to modify Skrill!';
+$_['error_permission']		  = 'У вас недостаточно прав для внесения изменений!';
 $_['error_email']			  = 'E-Mail Required!';

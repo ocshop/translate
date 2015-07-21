@@ -12,6 +12,6 @@ $_['entry_restore']    = 'Restore Backup';
 $_['entry_backup']     = 'Бэкап';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify backups!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
 $_['error_backup']     = 'Warning: You must select at least one table to backup!';
 $_['error_empty']      = 'Warning: The file you uploaded was empty!';

@@ -20,7 +20,7 @@ $_['entry_service_key']			 = 'Service Key';
 $_['entry_client_key']			 = 'Client Key';
 $_['entry_total']				 = 'Всего';
 $_['entry_order_status']		 = 'Статус';
-$_['entry_geo_zone']			 = 'Geo Zone';
+$_['entry_geo_zone']			 = 'Географическая зона';
 $_['entry_status']				 = 'Статус';
 $_['entry_sort_order']			 = 'Порядок сортировки';
 $_['entry_debug']				 = 'Debug logging';
@@ -55,7 +55,7 @@ $_['tab_settings']				 = 'Настройки';
 $_['tab_order_status']			 = 'Статус';
 
 // Error
-$_['error_permission']			 = 'Warning: You do not have permission to modify payment Worldpay!';
+$_['error_permission']			 = 'У вас недостаточно прав для внесения изменений!';
 $_['error_service_key']			 = 'Service Key Required!';
 $_['error_client_key']			 = 'Client Key Required!';
 

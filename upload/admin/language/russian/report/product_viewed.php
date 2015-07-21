@@ -13,4 +13,4 @@ $_['column_viewed']    = 'Viewed';
 $_['column_percent']   = 'Percent';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to reset product viewed report!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

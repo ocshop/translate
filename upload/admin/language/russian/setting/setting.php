@@ -217,8 +217,8 @@ $_['help_sms_copy']					   = 'Указывать через запятую, в �
 $_['help_sms_message']				   = 'Можно использовать теги:<br/>{ID} - номер заказа<br/>{DATE} - дата заказа<br/>{TIME} - время заказа<br/>{SUM} - сумма заказа<br/>{FIRST_NAME} - имя клиента<br/>{LAST_NAME} - фамилия клиента<br/>{PHONE} - телефон клиента';
 
 // Error
-$_['error_warning']                    = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']                 = 'Warning: You do not have permission to modify settings!';
+$_['error_warning']                    = 'Внимательно проверьте форму на ошибки!';
+$_['error_permission']                 = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']                       = 'Store Name must be between 3 and 32 characters!';
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';
 $_['error_address']                    = 'Store Address must be between 10 and 256 characters!';

@@ -43,8 +43,8 @@ $_['help_bottom']            = 'Display in the bottom footer.';
 $_['help_noindex']           = 'Индексация в поисковых системах Google, Yandex, Bing и других';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify information!';
+$_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
+$_['error_permission']       = 'У вас недостаточно прав для внесения изменений!';
 $_['error_title']            = 'Information Title must be between 3 and 64 characters!';
 $_['error_description']      = 'Description must be more than 3 characters!';
 $_['error_meta_title']       = 'Мета-тег Title должен содержать от 0 до 255 символов!';

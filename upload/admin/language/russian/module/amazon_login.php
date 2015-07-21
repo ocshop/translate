@@ -30,4 +30,4 @@ $_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 //Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Login with Amazon!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

@@ -14,4 +14,4 @@ $_['text_heading_listings']        	= 'Etsy listings';
 
 // Errors
 $_['error_generic_fail']			= 'An unknown error just happened!';
-$_['error_permission']				= 'You do not have permission to Etsy settings';
+$_['error_permission']				= 'У вас недостаточно прав для внесения изменений!';

@@ -26,7 +26,7 @@ $_['entry_image']      	= 'Изображение';
 $_['entry_status']     	= 'Статус';
 
 // Error
-$_['error_permission'] 	= 'Warning: You do not have permission to modify users!';
+$_['error_permission'] 	= 'У вас недостаточно прав для внесения изменений!';
 $_['error_account']    	= 'Warning: You can not delete your own account!';
 $_['error_exists']     	= 'Warning: Username is already in use!';
 $_['error_username']   	= 'Username must be between 3 and 20 characters!';

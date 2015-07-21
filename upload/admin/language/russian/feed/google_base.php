@@ -12,4 +12,4 @@ $_['entry_status']     = 'Статус';
 $_['entry_data_feed']  = 'Data Feed Url';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Base feed!';
+$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

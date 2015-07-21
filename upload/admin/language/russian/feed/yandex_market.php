@@ -27,5 +27,5 @@ $_['help_out_of_stock']       = 'При остатке на складе 0';
 $_['help_yandex_market']      = 'Тема на <a target="_blank" href="http://forum.ocshop.info/index.php?/files/file/40-yandexmarket-20/">Форуме</a>';
 
 // Error
-$_['error_permission']   = 'У Вас нет прав для управления этим модулем!';
+$_['error_permission']   	  = 'У вас недостаточно прав для внесения изменений!';
 ?>

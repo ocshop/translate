@@ -51,8 +51,8 @@ $_['entry_date_modified'] = 'Date Modified';
 $_['help_product']        = '(Autocomplete)';
 
 // Error
-$_['error_warning']       = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']    = 'Warning: You do not have permission to modify returns!';
+$_['error_warning']       = 'Внимательно проверьте форму на ошибки!';
+$_['error_permission']    = 'У вас недостаточно прав для внесения изменений!';
 $_['error_order_id']      = 'Не указан № заказа!';
 $_['error_firstname']     = 'Имя должно быть от 1 до 32 символов!';
 $_['error_lastname']      = 'Фамилия должна быть от 1 до 32 символов!';
