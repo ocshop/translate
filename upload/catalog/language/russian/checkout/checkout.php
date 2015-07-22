@@ -41,11 +41,11 @@ $_['text_payment_recurring']         = 'Платежный профиль';
 $_['text_trial_description']         = 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: %d;  Далее,  ';
 $_['text_payment_description']       = 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: %d';
 $_['text_payment_cancel'] 			 = 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: до отмены';
-$_['text_day']                       = 'день';
-$_['text_week']                      = 'неделя';
-$_['text_semi_month']                = 'полмесяца';
-$_['text_month']                     = 'месяц';
-$_['text_year']                      = 'год';
+$_['text_day']                       = 'День';
+$_['text_week']                      = 'Неделя';
+$_['text_semi_month']                = 'Полмесяца';
+$_['text_month']                     = 'Месяц';
+$_['text_year']                      = 'Год';
 
 // Column
 $_['column_name']                    = 'Название товара';

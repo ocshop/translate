@@ -1,22 +1,29 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Image Manager';
+$_['heading_title']    = 'Менеджер изображений';
 
 // Text
-$_['text_uploaded']    = 'Success: Your file has been uploaded!';
-$_['text_directory']   = 'Success: Directory created!';
-$_['text_delete']      = 'Success: Your file or directory has been deleted!';
+$_['text_uploaded']    = 'Файл загружен!';
+$_['text_directory']   = 'Директория создана!';
+$_['text_delete']      = 'Файл или Директория удалена!';
 
 // Entry
-$_['entry_search']     = 'Search..';
-$_['entry_folder']     = 'Folder Name';
+$_['entry_search']     = 'Поиск..';
+$_['entry_folder']     = 'Новая Папка';
 
 // Error
 $_['error_permission'] = 'Доступ Запрещен!';
-$_['error_filename']   = 'Warning: Filename must be a between 3 and 255!';
-$_['error_folder']     = 'Warning: Folder name must be a between 3 and 255!';
-$_['error_exists']     = 'Warning: A file or directory with the same name already exists!';
-$_['error_directory']  = 'Warning: Directory does not exist!';
-$_['error_filetype']   = 'Warning: Incorrect file type!';
-$_['error_upload']     = 'Warning: File could not be uploaded for an unknown reason!';
-$_['error_delete']     = 'Warning: You can not delete this directory!';
+$_['error_filename']   = 'Название файла должно содержать от 3 до 255 символов!';
+$_['error_folder']     = 'Название директории должно содержать от 3 до 255 символов!';
+$_['error_exists']     = 'Файл или директория с таким именем уже существует!';
+$_['error_directory']  = 'Выберите директорию!';
+$_['error_filetype']   = 'Некорректный тип файла!';
+$_['error_upload']     = 'Файл не может быть загружен по неизвестной причине!';
+$_['error_delete']     = 'Невозможно удалить директорию!';

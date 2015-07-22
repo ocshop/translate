@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customers';
+$_['heading_title']         = 'Клиенты';
 
 // Text
 $_['text_success']          = 'Настройки успешно изменены!';
@@ -68,7 +68,7 @@ $_['error_lastname']        = 'Фамилия должна быть от 1 до 
 $_['error_email']           = 'E-Mail адрес введен неверно!';
 $_['error_telephone']       = 'Номер телефона должен быть от 3 до 32 символов!';
 $_['error_password']        = 'Пароль должен быть от 4 до 20 символов!';
-$_['error_confirm']         = 'Password and password confirmation do not match!';
+$_['error_confirm']         = 'Пароли не совпадают!';
 $_['error_address_1']       = 'Адрес должен быть от 3 до 128 символов!';
 $_['error_city']            = 'Название города должно быть от 2 до 128 символов!';
 $_['error_postcode']        = 'Индекс должен быть от 2 до 10 символов!';

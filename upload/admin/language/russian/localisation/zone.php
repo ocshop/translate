@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']          = 'Zones';
+$_['heading_title']          = 'Регионы';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';

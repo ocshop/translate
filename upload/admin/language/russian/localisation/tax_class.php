@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Tax Classes';
+$_['heading_title']     = 'Налоговые Классы';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';

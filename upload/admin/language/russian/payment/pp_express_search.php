@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']					= 'Search Transactions';
+$_['heading_title']					= 'Поиск Транзакции';
 
 // Column
 $_['tbl_column_date']				= 'Дата';

@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Google Sitemap';
 
 // Text
-$_['text_feed']        = 'Feeds';
+$_['text_feed']        = 'Каналы Продвижения';
 $_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 

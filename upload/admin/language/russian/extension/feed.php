@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']    = 'Каналы Продвижения';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';

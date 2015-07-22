@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Payments';
+$_['heading_title']     = 'Оплата';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';

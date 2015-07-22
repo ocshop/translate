@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Modifications';
+$_['heading_title']     = 'Модификаторы';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';

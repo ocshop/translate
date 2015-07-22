@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Taxes';
+$_['heading_title']    = 'Налоги';
 
 // Text
 $_['text_total']       = 'Заказ итого';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Banners';
+$_['heading_title']      = 'Банеры';
 
 // Text
 $_['text_success']       = 'Настройки успешно изменены!';

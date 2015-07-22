@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Extension Installer';
+$_['heading_title']        = 'Установка Расширений';
 
 // Text
 $_['text_success']         = 'Success: You have installed your extension!';

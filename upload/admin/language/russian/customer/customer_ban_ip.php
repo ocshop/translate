@@ -10,7 +10,7 @@ $_['text_edit']        = 'Редактирование';
 
 // Column
 $_['column_ip']        = 'IP';
-$_['column_customer']  = 'Customers';
+$_['column_customer']  = 'Клиенты';
 $_['column_action']    = 'Действие';
 
 // Entry

@@ -18,10 +18,10 @@ $_['tab_patch']							= 'Patch';
 $_['tab_developer']						= 'Developer';
 
 // Text
-$_['text_dashboard']         			= 'Dashboard';
+$_['text_dashboard']         			= 'Панель состояния';
 $_['text_success']         				= 'Success: Settings have been saved';
 $_['text_products']          			= 'Items';
-$_['text_orders']          				= 'Orders';
+$_['text_orders']          				= 'Заказы';
 $_['text_manage']          				= 'Manage';
 $_['text_help']                     	= 'Help';
 $_['text_tutorials']                    = 'Tutorials';

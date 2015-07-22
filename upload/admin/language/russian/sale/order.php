@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']              = 'Orders';
+$_['heading_title']              = 'Заказы';
 
 // Text
 $_['text_list']                  = 'Order List';

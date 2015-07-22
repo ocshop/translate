@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Geo Zones';
+$_['heading_title']      = 'Географические Зоны';
 
 // Text
 $_['text_success']       = 'Настройки успешно изменены!';

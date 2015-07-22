@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'User Groups';
+$_['heading_title']     = 'Группы Пользователей';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';

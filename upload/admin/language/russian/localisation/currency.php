@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        = 'Currencies';
+$_['heading_title']        = 'Валюта';
 
 // Text
 $_['text_success']         = 'Настройки успешно изменены!';

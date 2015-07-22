@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Weight Classes';
+$_['heading_title']    = 'Единицы Веса';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';

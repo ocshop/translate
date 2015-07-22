@@ -1,9 +1,9 @@
 <?php
 // Heading
 $_['text_search_options']           = 'Search Options';
-$_['text_catalog']                  = 'Catalog';
-$_['text_customers']                = 'Customers';
-$_['text_orders']                   = 'Orders';
+$_['text_catalog']                  = 'Каталог';
+$_['text_customers']                = 'Клиенты';
+$_['text_orders']                   = 'Заказы';
 $_['text_products']                 = 'Товары';
 $_['text_categories']               = 'Категории';
 $_['text_manufacturers']            = 'Производители';

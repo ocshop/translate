@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Languages';
+$_['heading_title']     = 'Языки';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';

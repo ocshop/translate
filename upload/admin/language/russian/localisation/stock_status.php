@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Stock Statuses';
+$_['heading_title']    = 'Состояние на Складе';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';

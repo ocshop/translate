@@ -3,9 +3,9 @@
 $_['heading_title'] = 'Sales Analytics';
 
 // Text
-$_['text_order']    = 'Orders';
-$_['text_customer'] = 'Customers';
-$_['text_day']      = 'Today';
-$_['text_week']     = 'неделя';
-$_['text_month']    = 'месяц';
-$_['text_year']     = 'год';
+$_['text_order']    = 'Заказы';
+$_['text_customer'] = 'Клиенты';
+$_['text_day']      = 'Сегодня';
+$_['text_week']     = 'Неделя';
+$_['text_month']    = 'Месяц';
+$_['text_year']     = 'Год';

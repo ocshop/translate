@@ -9,7 +9,7 @@ $_['text_api_status']               	= 'API connection status';
 $_['text_api_ok']                   	= 'Connection OK, Auth OK';
 $_['text_api_auth_error']           	= 'Connection OK, Auth failed';
 $_['text_api_error']                	= 'Connection error';
-$_['text_order_statuses']           	= 'Order Statuses';
+$_['text_order_statuses']           	= 'Статус Заказов';
 $_['text_unshipped']                	= 'Unshipped';
 $_['text_partially_shipped']        	= 'Partially Shipped';
 $_['text_shipped']                  	= 'Shipped';
@@ -53,7 +53,7 @@ $_['entry_default_shipping']         	= 'Default shipping';
 // Tabs
 $_['tab_settings']            			= 'API details';
 $_['tab_listing']                  		= 'Listings';
-$_['tab_orders']                   		= 'Orders';
+$_['tab_orders']                   		= 'Заказы';
 
 // Help
 $_['help_import_tax']          			= 'Used if Amazon does not return tax information';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'SEO Manager';
+$_['heading_title']      = 'SEO Менеджер';
 
 // Text
 $_['text_success']       = 'Success: You have modified SEO Keyword!';

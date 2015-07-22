@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']     = 'Customer Groups';
+$_['heading_title']     = 'Группы Клиентов';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';

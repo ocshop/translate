@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Reasons';
+$_['heading_title']    = 'Причины Возврата';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';

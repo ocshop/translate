@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']           = 'Countries';
+$_['heading_title']           = 'Страны';
 
 // Text
 $_['text_success']            = 'Настройки успешно изменены!';

@@ -12,7 +12,7 @@ $_['text_edit']         = 'Редактирование';
 $_['column_name']       = 'Campaign Name';
 $_['column_code']       = 'Code';
 $_['column_clicks']     = 'Clicks';
-$_['column_orders']     = 'Orders';
+$_['column_orders']     = 'Заказы';
 $_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 

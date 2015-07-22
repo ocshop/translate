@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Order Statuses';
+$_['heading_title']    = 'Статус Заказов';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Return Actions';
+$_['heading_title']    = 'Операции Возврата';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';

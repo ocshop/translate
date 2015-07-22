@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Length Classes';
+$_['heading_title']    = 'Единицы Измерения';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
