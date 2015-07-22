@@ -29,5 +29,5 @@ $_['help_example']      = 'So the system can track refferals you neeed to add th
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']        = 'Campaign must be between 1 and 32 characters!';
+$_['error_name']        = 'Название должно содержать от 1 до 32 символов!';
 $_['error_code']        = 'Tracking Code required!';

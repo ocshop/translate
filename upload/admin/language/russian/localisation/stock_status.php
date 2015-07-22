@@ -17,5 +17,5 @@ $_['entry_name']       = 'Stock Status Name';
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']       = 'Stock Status Name must be between 3 and 32 characters!';
+$_['error_name']       = 'Название должно содержать от 3 до 32 символов!';
 $_['error_product']    = 'Warning: This stock status cannot be deleted as it is currently assigned to %s products!';

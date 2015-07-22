@@ -21,7 +21,7 @@ $_['column_product']       = 'Товар';
 $_['column_model']         = 'Модель';
 $_['column_status']        = 'Статус';
 $_['column_date_added']    = 'Добавлено';
-$_['column_date_modified'] = 'Date Modified';
+$_['column_date_modified'] = 'Изменено';
 $_['column_comment']       = 'Комментарий';
 $_['column_notify']        = 'Customer Notified';
 $_['column_action']        = 'Действие';
@@ -45,7 +45,7 @@ $_['entry_return_status'] = 'Return Status';
 $_['entry_notify']        = 'Notify Customer';
 $_['entry_return_id']     = '№ Запроса на возврат';
 $_['entry_date_added']    = 'Добавлено';
-$_['entry_date_modified'] = 'Date Modified';
+$_['entry_date_modified'] = 'Изменено';
 
 // Help
 $_['help_product']        = '(Autocomplete)';

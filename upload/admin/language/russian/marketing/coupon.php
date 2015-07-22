@@ -52,5 +52,5 @@ $_['help_uses_customer']  = 'The maximum number of times the coupon can be used 
 // Error
 $_['error_permission']    = 'У вас недостаточно прав для внесения изменений!';
 $_['error_exists']        = 'Warning: Coupon code is already in use!';
-$_['error_name']          = 'Coupon Name must be between 3 and 128 characters!';
+$_['error_name']          = 'Название должно содержать от 3 до 128 символов!';
 $_['error_code']          = 'Code must be between 3 and 10 characters!';

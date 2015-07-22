@@ -32,7 +32,7 @@ $_['help_status']       = 'Hide/Show it in language dropdown';
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']        = 'Language Name must be between 3 and 32 characters!';
+$_['error_name']        = 'Название должно содержать от 3 до 32 символов!';
 $_['error_code']        = 'Language Code must at least 2 characters!';
 $_['error_locale']      = 'Locale required!';
 $_['error_image']       = 'Image Filename must be between 3 and 64 characters!';

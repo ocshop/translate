@@ -45,5 +45,5 @@ $_['column_action']         = 'Действие';
 // Error
 $_['error_warning']         = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']		= 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']			= 'Profile Name must be greater than 3 and less than 255 characters!';
+$_['error_name']			= 'Название должно содержать от 3 до 255 символов!';
 $_['error_product']			= 'Warning: This recurring profile cannot be deleted as it is currently assigned to %s products!';

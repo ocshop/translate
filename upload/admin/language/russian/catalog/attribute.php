@@ -28,5 +28,5 @@ $_['entry_sort_order']      = 'Порядок сортировки';
 
 // Error
 $_['error_permission']      = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']            = 'Attribute Name must be between 3 and 64 characters!';
+$_['error_name']            = 'Название должно содержать от 3 до 64 символов!';
 $_['error_product']         = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';

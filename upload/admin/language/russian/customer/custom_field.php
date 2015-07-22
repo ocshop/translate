@@ -44,6 +44,6 @@ $_['help_sort_order']       = 'Use minus to count backwards from the last field 
 
 // Error
 $_['error_permission']      = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']            = 'Custom Field Name must be between 1 and 128 characters!';
+$_['error_name']            = 'Название должно содержать от 1 до 128 символов!';
 $_['error_type']            = 'Warning: Custom Field Values required!';
 $_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';

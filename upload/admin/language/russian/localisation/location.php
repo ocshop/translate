@@ -33,6 +33,6 @@ $_['help_comment']     = 'This field is for any special notes you would like to 
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']       = 'Store name must be at least 1 character!';
+$_['error_name']       = 'Название должно содержать минимум 1 символ!';
 $_['error_address']    = 'Адрес должен быть от 3 до 128 символов!';
 $_['error_telephone']  = 'Номер телефона должен быть от 3 до 32 символов!';

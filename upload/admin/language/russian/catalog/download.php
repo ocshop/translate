@@ -32,7 +32,7 @@ $_['help_mask']         = 'It is recommended that the filename and the mask are 
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']        = 'Download Name must be between 3 and 64 characters!';
+$_['error_name']        = 'Название должно содержать от 3 до 64 символов!';
 $_['error_upload']      = 'Необходимо загрузить файл!';
 $_['error_filename']    = 'Filename must be between 3 and 128 characters!';
 $_['error_exists']      = 'File does not exist!';

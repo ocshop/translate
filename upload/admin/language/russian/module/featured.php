@@ -20,6 +20,6 @@ $_['help_product']     = '(Autocomplete)';
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
+$_['error_name']       = 'Название должно содержать от 3 до 64 символов!';
 $_['error_width']      = 'Укажите Ширину!';
 $_['error_height']     = 'Укажите Высоту!';

@@ -70,7 +70,7 @@ $_['column_order_id']            = '№ Заказа';
 $_['column_customer']            = 'Клиент';
 $_['column_status']              = 'Статус';
 $_['column_date_added']          = 'Добавлено';
-$_['column_date_modified']       = 'Date Modified';
+$_['column_date_modified']       = 'Изменено';
 $_['column_total']               = 'Всего';
 $_['column_product']             = 'Товар';
 $_['column_model']               = 'Модель';
@@ -124,7 +124,7 @@ $_['entry_reward']               = 'Reward';
 $_['entry_order_id']             = '№ Заказа';
 $_['entry_total']                = 'Всего';
 $_['entry_date_added']           = 'Добавлено';
-$_['entry_date_modified']        = 'Date Modified';
+$_['entry_date_modified']        = 'Изменено';
 
 // Error
 $_['error_warning']              = 'Внимательно проверьте форму на ошибки!';

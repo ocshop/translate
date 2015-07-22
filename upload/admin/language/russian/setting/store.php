@@ -102,7 +102,7 @@ $_['help_secure']                      = 'To use SSL check with your host if a S
 // Error
 $_['error_warning']                    = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']                 = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']                       = 'Store Name must be between 3 and 32 characters!';
+$_['error_name']                       = 'Название должно содержать от 3 до 32 символов!';
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';
 $_['error_address']                    = 'Store Address must be between 10 and 256 characters!';
 $_['error_email']                      = 'E-Mail адрес введен неверно!';

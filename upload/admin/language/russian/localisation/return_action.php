@@ -17,5 +17,5 @@ $_['entry_name']       = 'Return Action Name';
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']       = 'Return Action Name must be between 3 and 64 characters!';
+$_['error_name']       = 'Название должно содержать от 3 до 64 символов!';
 $_['error_return']     = 'Warning: This return action cannot be deleted as it is currently assigned to %s returned products!';

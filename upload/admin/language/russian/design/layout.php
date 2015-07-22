@@ -27,7 +27,7 @@ $_['entry_sort_order']    = 'Порядок сортировки';
 
 // Error
 $_['error_permission']    = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']          = 'Layout Name must be between 3 and 64 characters!';
+$_['error_name']          = 'Название должно содержать от 3 до 64 символов!';
 $_['error_default']       = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
 $_['error_store']         = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
 $_['error_product']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';

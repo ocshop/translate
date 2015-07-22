@@ -28,4 +28,4 @@ $_['entry_sort_order']  = 'Порядок сортировки';
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
 $_['error_group']       = 'Filter Group Name must be between 1 and 64 characters!';
-$_['error_name']        = 'Filter Name must be between 1 and 64 characters!';
+$_['error_name']        = 'Название должно содержать от 1 до 64 символов!';
