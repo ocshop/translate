@@ -15,5 +15,5 @@ $_['column_total']      = 'Всего';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_date_start']  = 'Дата Начала';
+$_['entry_date_end']    = 'Дата Окончания';

@@ -24,21 +24,21 @@ $_['text_profile']			= 'Профиль Периодичности';
 $_['text_trial']			= 'Триал профиль';
 
 // Entry
-$_['entry_name']			= 'Name';
+$_['entry_name']			= 'Название';
 $_['entry_price']			= 'Цена';
-$_['entry_duration']		= 'Duration';
-$_['entry_cycle']			= 'Cycle';
-$_['entry_frequency']		= 'Frequency';
-$_['entry_trial_price']		= 'Trial price';
-$_['entry_trial_duration']	= 'Trial duration';
-$_['entry_trial_status']	= 'Trial status';
-$_['entry_trial_cycle']	    = 'Trial cycle';
-$_['entry_trial_frequency']	= 'Trial frequency';
+$_['entry_duration']		= 'Продолжительность';
+$_['entry_cycle']			= 'Цикл';
+$_['entry_frequency']		= 'Частота';
+$_['entry_trial_price']		= 'Цена';
+$_['entry_trial_duration']	= 'Продолжительность';
+$_['entry_trial_status']	= 'Статус';
+$_['entry_trial_cycle']	    = 'Цикл';
+$_['entry_trial_frequency']	= 'Частота';
 $_['entry_status']			= 'Статус';
 $_['entry_sort_order']		= 'Порядок сортировки';
 
 // Column
-$_['column_name']			= 'Name';
+$_['column_name']			= 'Название';
 $_['column_sort_order']	    = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
@@ -46,4 +46,4 @@ $_['column_action']         = 'Действие';
 $_['error_warning']         = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']		= 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']			= 'Название должно содержать от 3 до 255 символов!';
-$_['error_product']			= 'Warning: This recurring profile cannot be deleted as it is currently assigned to %s products!';
+$_['error_product']			= 'Профиль не может быть удален, так как он используется в %s товарах!';

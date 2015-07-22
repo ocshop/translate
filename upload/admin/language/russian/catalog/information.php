@@ -7,23 +7,23 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']          = 'Информация';
+$_['heading_title']          = 'Статьи';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';
-$_['text_list']              = 'Information List';
+$_['text_list']              = 'Список Статей';
 $_['text_add']               = 'Добавить';
 $_['text_edit']              = 'Редактирование';
 $_['text_default']           = 'По умолчанию';
 
 // Column
-$_['column_title']           = 'Information Title';
+$_['column_title']           = 'Название статьи';
 $_['column_sort_order']	     = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_title']            = 'Information Title';
+$_['entry_title']            = 'Название статьи';
 $_['entry_description']      = 'Описание';
 $_['entry_store']            = 'Магазины';
 $_['entry_meta_title'] 	     = 'Meta Tag Title';
@@ -31,27 +31,27 @@ $_['entry_meta_h1'] 	     = 'HTML Tag H1';
 $_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
 $_['entry_meta_description'] = 'Meta Tag Description';
 $_['entry_keyword']          = 'SEO URL';
-$_['entry_bottom']           = 'Bottom';
+$_['entry_bottom']           = 'Отображить в футере';
 $_['entry_status']           = 'Статус';
 $_['entry_noindex']          = 'Индексация';
 $_['entry_sort_order']       = 'Порядок сортировки';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_layout']           = 'Изменить макет';
 
 // Help
 $_['help_keyword']           = 'Должно быть уникальным на всю систему, без пробелов и спецсимволов';
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_bottom']            = 'Показывать в подвале \ футере магазина';
 $_['help_noindex']           = 'Индексация в поисковых системах Google, Yandex, Bing и других';
 
 // Error
 $_['error_warning']          = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']       = 'У вас недостаточно прав для внесения изменений!';
-$_['error_title']            = 'Information Title must be between 3 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
+$_['error_title']            = 'Название должно содержать от 3 до 64 символов!';
+$_['error_description']      = 'Описание должно быть больше 3 символов!';
 $_['error_meta_title']       = 'Мета-тег Title должен содержать от 0 до 255 символов!';
 $_['error_meta_h1']       	 = 'HTML-тег H1 должен быть от 0 до 255 символов!';
 $_['error_keyword']          = 'SEO URL уже используется!';
-$_['error_account']          = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'Warning: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'Warning: This information page cannot be deleted as its currently used by %s stores!';
+$_['error_account']          = 'Эту страницу нельзя удалить, так как она используется в Политике безопасности по умолчанию!';
+$_['error_checkout']         = 'Эту страницу нельзя удалить, так как она используется в Условиях соглашения по умолчанию!';
+$_['error_affiliate']        = 'Эту страницу нельзя удалить, так как она используется в Условиях партнерской программы!';
+$_['error_return']           = 'Эту страницу нельзя удалить, так как она используется в Условиях возврата товара !';
+$_['error_store']            = 'Эту страницу нельзя удалить, так как она используется в %s магазинах!';

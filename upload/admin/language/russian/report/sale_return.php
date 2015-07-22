@@ -11,12 +11,12 @@ $_['text_day']          = 'Days';
 $_['text_all_status']   = 'All Statuses';
 
 // Column
-$_['column_date_start'] = 'Date Start';
-$_['column_date_end']   = 'Date End';
+$_['column_date_start'] = 'Дата Начала';
+$_['column_date_end']   = 'Дата Окончания';
 $_['column_returns']    = 'No. Returns';
 
 // Entry
-$_['entry_date_start']  = 'Date Start';
-$_['entry_date_end']    = 'Date End';
+$_['entry_date_start']  = 'Дата Начала';
+$_['entry_date_end']    = 'Дата Окончания';
 $_['entry_group']       = 'Group By';
 $_['entry_status']      = 'Return Status';

@@ -9,7 +9,7 @@ $_['text_list']         = 'Modification List';
 
 // Column
 $_['column_name']       = 'Modification Name';
-$_['column_author']     = 'Author';
+$_['column_author']     = 'Автор';
 $_['column_version']    = 'Version';
 $_['column_status']     = 'Статус';
 $_['column_date_added'] = 'Добавлено';

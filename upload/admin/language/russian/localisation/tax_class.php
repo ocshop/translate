@@ -21,7 +21,7 @@ $_['entry_description'] = 'Описание';
 $_['entry_rate']        = 'Ставка Налога';
 $_['entry_based']       = 'Based On';
 $_['entry_geo_zone']    = 'Географическая зона';
-$_['entry_priority']    = 'Priority';
+$_['entry_priority']    = 'Приоритет';
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

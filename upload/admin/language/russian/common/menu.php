@@ -2,8 +2,8 @@
 // Text
 $_['text_affiliate']                   = 'Партнёрская программа';
 $_['text_api']                         = 'API';
-$_['text_attribute']                   = 'Attributes';
-$_['text_attribute_group']             = 'Attribute Groups';
+$_['text_attribute']                   = 'Характеристики';
+$_['text_attribute_group']             = 'Группы Характеристик';
 $_['text_backup']                      = 'Backup / Restore';
 $_['text_banner']                      = 'Banners';
 $_['text_menu']                        = 'Menus';
@@ -23,7 +23,7 @@ $_['text_seomanager'] 				   = 'SEO Manager';
 $_['text_error_log']                   = 'Error Logs';
 $_['text_extension']                   = 'Extensions';
 $_['text_feed']                        = 'Feeds';
-$_['text_filter']                      = 'Filters';
+$_['text_filter']                      = 'Фильтры';
 $_['text_fraud']                       = 'Anti-Fraud';
 $_['text_geo_zone']                    = 'Geo Zones';
 $_['text_information']                 = 'Информация';

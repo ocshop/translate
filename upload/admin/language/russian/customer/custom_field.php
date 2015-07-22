@@ -23,19 +23,19 @@ $_['text_address']          = 'Адрес';
 
 // Column
 $_['column_name']           = 'Custom Field Name';
-$_['column_location']       = 'Location';
+$_['column_location']       = 'Расположение';
 $_['column_type']           = 'Тип';
 $_['column_sort_order']     = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
 // Entry
 $_['entry_name']            = 'Custom Field Name';
-$_['entry_location']        = 'Location';
+$_['entry_location']        = 'Расположение';
 $_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Value';
 $_['entry_custom_value']    = 'Custom Field Value Name';
 $_['entry_customer_group']  = 'Группа Покупателей';
-$_['entry_required']        = 'Required';
+$_['entry_required']        = 'Необходимо';
 $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Порядок сортировки';
 

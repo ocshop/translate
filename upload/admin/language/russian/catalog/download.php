@@ -11,31 +11,31 @@ $_['heading_title']     = 'Файлы для скачивания';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Download List';
+$_['text_list']         = 'Список Файлов для Скачивания';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 $_['text_upload']       = 'Файл успешно загружен!';
 
 // Column
-$_['column_name']       = 'Download Name';
+$_['column_name']       = 'Название Загрузки';
 $_['column_date_added'] = 'Добавлено';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Download Name';
-$_['entry_filename']    = 'Filename';
-$_['entry_mask']        = 'Mask';
+$_['entry_name']        = 'Название Загрузки';
+$_['entry_filename']    = 'Имя файла';
+$_['entry_mask']        = 'Маска';
 
 // Help
-$_['help_filename']     = 'You can upload via the upload button or use FTP to upload to the download directory and enter the details below.';
-$_['help_mask']         = 'It is recommended that the filename and the mask are different to stop people trying to directly link to your downloads.';
+$_['help_filename']     = 'Вы можете закачать файл через кнопку выбора файла или по FTP, поместив его в папку "download" и введя информацию ниже.';
+$_['help_mask']         = 'Рекомендуется, чтобы имя файла и маска отличались, это не позволит получить прямой доступ к файлу.';
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']        = 'Название должно содержать от 3 до 64 символов!';
 $_['error_upload']      = 'Необходимо загрузить файл!';
-$_['error_filename']    = 'Filename must be between 3 and 128 characters!';
-$_['error_exists']      = 'File does not exist!';
-$_['error_mask']        = 'Mask must be between 3 and 128 characters!';
+$_['error_filename']    = 'Название файла должно содержать от 3 до 128 символов!';
+$_['error_exists']      = 'Файл не найден!';
+$_['error_mask']        = 'Маска должна содержать от 3 до 128 символов!';
 $_['error_filetype']    = 'Неправильный тип файла!';
-$_['error_product']     = 'Warning: This download cannot be deleted as it is currently assigned to %s products!';
+$_['error_product']     = 'Эту загрузку нельзя удалить, так как она используется в %s товарах!';

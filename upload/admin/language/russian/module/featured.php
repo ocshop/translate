@@ -16,7 +16,7 @@ $_['entry_height']     = 'Высота';
 $_['entry_status']     = 'Статус';
 
 // Help
-$_['help_product']     = '(Autocomplete)';
+$_['help_product']     = '(Автозаполнение)';
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

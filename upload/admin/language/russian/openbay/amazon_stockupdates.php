@@ -8,8 +8,8 @@ $_['text_amazon']						= 'Amazon EU';
 $_['text_empty']                    	= 'Нет данных!';
 
 // Entry
-$_['entry_date_start']               	= 'Date Start';
-$_['entry_date_end']                 	= 'Date End';
+$_['entry_date_start']               	= 'Дата Начала';
+$_['entry_date_end']                 	= 'Дата Окончания';
 
 // Column
 $_['column_ref']                      	= 'Ref';

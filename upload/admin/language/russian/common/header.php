@@ -27,7 +27,7 @@ $_['text_new']  		   = 'New';
 $_['text_new_category']    = 'Категории';
 $_['text_new_customer']    = 'Клиент';
 $_['text_new_download']    = 'Скачать';
-$_['text_new_manufacturer']= 'Manufacturer';
+$_['text_new_manufacturer']= 'Производитель';
 $_['text_new_product']     = 'Товар';
 
 $_['button_clearallcache']        = 'Delete the entire cache';

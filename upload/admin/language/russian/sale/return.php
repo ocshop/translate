@@ -48,7 +48,7 @@ $_['entry_date_added']    = 'Добавлено';
 $_['entry_date_modified'] = 'Изменено';
 
 // Help
-$_['help_product']        = '(Autocomplete)';
+$_['help_product']        = '(Автозаполнение)';
 
 // Error
 $_['error_warning']       = 'Внимательно проверьте форму на ошибки!';
