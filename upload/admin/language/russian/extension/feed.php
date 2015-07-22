@@ -1,13 +1,20 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']    = 'Каналы Продвижения';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
-$_['text_list']        = 'Feed List';
+$_['text_list']        = 'Список Каналов Продвижения';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
+$_['column_name']      = 'Название Канала Продвижения';
 $_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 

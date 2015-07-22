@@ -1,35 +1,42 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']       = 'Макеты';
 
 // Text
 $_['text_success']        = 'Настройки успешно изменены!';
-$_['text_list']           = 'Layout List';
+$_['text_list']           = 'Список Макетов';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';
 $_['text_default']        = 'По умолчанию';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_content_top']    = 'Верх страницы';
+$_['text_content_bottom'] = 'Низ страницы';
+$_['text_column_left']    = 'Левая колонка';
+$_['text_column_right']   = 'Правая колонка';
 
 // Column
-$_['column_name']         = 'Layout Name';
+$_['column_name']         = 'Название Макета';
 $_['column_action']       = 'Действие';
 
 // Entry
-$_['entry_name']          = 'Layout Name';
+$_['entry_name']          = 'Название Макета';
 $_['entry_store']         = 'Магазин';
-$_['entry_route']         = 'Route';
+$_['entry_route']         = 'Путь';
 $_['entry_module']        = 'Модуль';
-$_['entry_position']      = 'Position';
+$_['entry_position']      = 'Расположение';
 $_['entry_sort_order']    = 'Порядок сортировки';
 
 // Error
 $_['error_permission']    = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']          = 'Название должно содержать от 3 до 64 символов!';
-$_['error_default']       = 'Warning: This layout cannot be deleted as it is currently assigned as the default store layout!';
-$_['error_store']         = 'Warning: This layout cannot be deleted as it is currently assigned to %s stores!';
-$_['error_product']       = 'Warning: This layout cannot be deleted as it is currently assigned to %s products!';
-$_['error_category']      = 'Warning: This layout cannot be deleted as it is currently assigned to %s categories!';
-$_['error_information']   = 'Warning: This layout cannot be deleted as it is currently assigned to %s information pages!';
+$_['error_default']       = 'Этот макет не может быть удален, поскольку он используется в магазине по умолчанию!';
+$_['error_store']         = 'Этот макет не может быть удален, поскольку он используется в %s магазинах!';
+$_['error_product']       = 'Этот макет не может быть удален, поскольку он используется в %s товарах!';
+$_['error_category']      = 'Этот макет не может быть удален, поскольку он используется в %s категориях!';
+$_['error_information']   = 'Этот макет не может быть удален, поскольку он используется в %s страницах!';

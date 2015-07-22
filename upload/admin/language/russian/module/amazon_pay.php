@@ -25,7 +25,7 @@ $_['entry_button_type'] = 'Button Type';
 $_['entry_button_colour'] = 'Button Colour';
 $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
-$_['entry_position'] = 'Position';
+$_['entry_position'] = 'Расположение';
 $_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Порядок сортировки';
 

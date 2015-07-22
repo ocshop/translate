@@ -1,13 +1,20 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Антифрод';
+$_['heading_title']    = 'Борьба с мошенничеством';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
-$_['text_list']        = 'Anti-Fraud List';
+$_['text_list']        = 'Список Мошенников';
 
 // Column
-$_['column_name']      = 'Anti-Fraud Name';
+$_['column_name']      = 'Имя Мошенника';
 $_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 
