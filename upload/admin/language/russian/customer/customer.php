@@ -1,19 +1,26 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']         = 'Клиенты';
 
 // Text
 $_['text_success']          = 'Настройки успешно изменены!';
-$_['text_list']             = 'Customer List';
+$_['text_list']             = 'Список Клиентов';
 $_['text_add']              = 'Добавить';
 $_['text_edit']             = 'Редактирование';
 $_['text_default']          = 'По умолчанию';
-$_['text_balance']          = 'Balance';
-$_['text_add_ban_ip']       = 'Add Ban IP';
-$_['text_remove_ban_ip']    = 'Remove Ban IP';
+$_['text_balance']          = 'Баланс';
+$_['text_add_ban_ip']       = 'Добавить IP';
+$_['text_remove_ban_ip']    = 'Удалить IP';
 
 // Column
-$_['column_name']           = 'Customer Name';
+$_['column_name']           = 'Имя Клиента';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Группа Покупателей';
 $_['column_status']         = 'Статус';
@@ -23,7 +30,7 @@ $_['column_description']    = 'Описание';
 $_['column_amount']         = 'Итого';
 $_['column_points']         = 'Бонусные баллы';
 $_['column_ip']             = 'IP';
-$_['column_total']          = 'Total Accounts';
+$_['column_total']          = 'Общая сумма';
 $_['column_action']         = 'Действие';
 
 // Entry
@@ -35,15 +42,15 @@ $_['entry_telephone']       = 'Телефон';
 $_['entry_fax']             = 'Факс';
 $_['entry_newsletter']      = 'Рассылка';
 $_['entry_status']          = 'Статус';
-$_['entry_approved']        = 'Approved';
-$_['entry_safe']            = 'Safe';
+$_['entry_approved']        = 'Одобрить';
+$_['entry_safe']            = 'Безопасный';
 $_['entry_password']        = 'Пароль';
 $_['entry_confirm']         = 'Подтвердить';
 $_['entry_company']         = 'Компания';
 $_['entry_address_1']       = 'Адрес 1';
 $_['entry_address_2']       = 'Адрес 2';
 $_['entry_city']            = 'Город';
-$_['entry_postcode']        = 'Postcode';
+$_['entry_postcode']        = 'Индекс';
 $_['entry_country']         = 'Страна';
 $_['entry_zone']            = 'Регион / Область';
 $_['entry_default']         = 'Основной адрес';
@@ -51,13 +58,13 @@ $_['entry_comment']         = 'Комментарий';
 $_['entry_description']     = 'Описание';
 $_['entry_amount']          = 'Итого';
 $_['entry_points']          = 'Бонусные баллы';
-$_['entry_name']            = 'Customer Name';
+$_['entry_name']            = 'Имя Клиента';
 $_['entry_ip']              = 'IP';
-$_['entry_date_added']      = 'Добавлено';
+$_['entry_date_added']      = 'Дата Добавления';
 
 // Help
-$_['help_safe']             = 'Set to true to avoid this customer from being caught by the anti-fraud system';
-$_['help_points']           = 'Use minus to remove points';
+$_['help_safe']             = 'Установите значение Настоящий, в том случае если он был ошибочно определен системой по борьбе с мошенничеством';
+$_['help_points']           = 'Используйте минус для вычитания баллов, к примеру -100';
 
 // Error
 $_['error_warning']         = 'Внимательно проверьте форму на ошибки!';

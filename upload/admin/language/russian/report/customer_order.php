@@ -7,7 +7,7 @@ $_['text_list']             = 'Customer Orders List';
 $_['text_all_status']       = 'All Statuses';
 
 // Column
-$_['column_customer']       = 'Customer Name';
+$_['column_customer']       = 'Имя Клиента';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Группа Покупателей';
 $_['column_status']         = 'Статус';

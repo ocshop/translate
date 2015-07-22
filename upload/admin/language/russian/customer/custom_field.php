@@ -1,10 +1,17 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']         = 'Настраиваемые Поля';
 
 // Text
 $_['text_success']          = 'Настройки успешно изменены!';
-$_['text_list']             = 'Custom Field List';
+$_['text_list']             = 'Список Настраеваемых Полей';
 $_['text_add']              = 'Добавить';
 $_['text_edit']             = 'Редактирование';
 $_['text_choose']           = 'Выбор';
@@ -22,28 +29,28 @@ $_['text_account']          = 'Аккаунт';
 $_['text_address']          = 'Адрес';
 
 // Column
-$_['column_name']           = 'Custom Field Name';
+$_['column_name']           = 'Название Настраеваемого Поля';
 $_['column_location']       = 'Расположение';
 $_['column_type']           = 'Тип';
 $_['column_sort_order']     = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
 // Entry
-$_['entry_name']            = 'Custom Field Name';
+$_['entry_name']            = 'Название Настраеваемого Поля';
 $_['entry_location']        = 'Расположение';
 $_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Value';
-$_['entry_custom_value']    = 'Custom Field Value Name';
+$_['entry_custom_value']    = 'Значение поля';
 $_['entry_customer_group']  = 'Группа Покупателей';
 $_['entry_required']        = 'Необходимо';
 $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help
-$_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';
+$_['help_sort_order']       = 'Используйте минус, чтобы задать порядок сортировки выше.';
 
 // Error
 $_['error_permission']      = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']            = 'Название должно содержать от 1 до 128 символов!';
-$_['error_type']            = 'Warning: Custom Field Values required!';
-$_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';
+$_['error_type']            = 'Укажите значение!';
+$_['error_custom_value']    = 'Значение должно содержать от 3 до 128 символов!';

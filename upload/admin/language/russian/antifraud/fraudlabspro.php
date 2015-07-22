@@ -36,7 +36,7 @@ $_['text_score']                              = 'FraudLabsPro Score';
 $_['text_status']                             = 'FraudLabs Pro Status';
 $_['text_message']                            = 'Сообщение';
 $_['text_transaction_id']                     = 'Transaction ID';
-$_['text_credits']                     		  = 'Balance';
+$_['text_credits']                     		  = 'Баланс';
 $_['text_error']                              = 'Error:';
 $_['text_flp_upgrade']                        = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';
 $_['text_flp_merchant_area']                  = 'Please login to <a href="http://www.fraudlabspro.com/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
