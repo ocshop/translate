@@ -1,37 +1,44 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']        = 'Валюта';
 
 // Text
 $_['text_success']         = 'Настройки успешно изменены!';
-$_['text_list']            = 'Currency List';
+$_['text_list']            = 'Список Валют';
 $_['text_add']             = 'Добавить';
 $_['text_edit']            = 'Редактирование';
 
 // Column
-$_['column_title']         = 'Currency Title';
-$_['column_code']          = 'Code';
-$_['column_value']         = 'Value';
-$_['column_date_modified'] = 'Last Updated';
+$_['column_title']         = 'Название Валюты';
+$_['column_code']          = 'Код';
+$_['column_value']         = 'Значение';
+$_['column_date_modified'] = 'Дата Обновления';
 $_['column_action']        = 'Действие';
 
 // Entry
-$_['entry_title']          = 'Currency Title';
-$_['entry_code']           = 'Code';
-$_['entry_value']          = 'Value';
-$_['entry_symbol_left']    = 'Symbol Left';
-$_['entry_symbol_right']   = 'Symbol Right';
-$_['entry_decimal_place']  = 'Decimal Places';
+$_['entry_title']          = 'Название Валюты';
+$_['entry_code']           = 'Код';
+$_['entry_value']          = 'Значение';
+$_['entry_symbol_left']    = 'Символ Слева';
+$_['entry_symbol_right']   = 'Символ Справа';
+$_['entry_decimal_place']  = 'Количество знаков после запятой';
 $_['entry_status']         = 'Статус';
 
 // Help
-$_['help_code']            = 'Do not change if this is your default currency. Must be valid <a href="http://www.xe.com/iso4217.php" target="_blank">ISO code</a>.';
-$_['help_value']           = 'Set to 1.00000 if this is your default currency.';
+$_['help_code']            = 'Не изменяйте, если это ваша валюта по умолчанию. Код должен быть стандартным, см. <a href="http://www.xe.com/iso4217.php" target="_blank">список ISO кодов</a>.';
+$_['help_value']           = 'Установите 1.00000 если это валюта по умолчанию.';
 
 // Error
 $_['error_permission']     = 'У вас недостаточно прав для внесения изменений!';
-$_['error_title']          = 'Currency Title must be between 3 and 32 characters!';
-$_['error_code']           = 'Currency Code must contain 3 characters!';
-$_['error_default']        = 'Warning: This currency cannot be deleted as it is currently assigned as the default store currency!';
-$_['error_store']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']          = 'Warning: This currency cannot be deleted as it is currently assigned to %s orders!';
+$_['error_title']          = 'Название должно содержать от 3 до 32 символов!';
+$_['error_code']           = 'Код валюты должен состоять из 3 символов!';
+$_['error_default']        = 'Эту Валюту нельзя удалить, поскольку она используется по умолчанию!';
+$_['error_store']          = 'Эту Валюту нельзя удалить, поскольку она используется в %s магазинах!';
+$_['error_order']          = 'Эту Валюту нельзя удалить, поскольку она используется в %s заказах!';

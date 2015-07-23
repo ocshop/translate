@@ -17,17 +17,17 @@ $_['text_shipping']                    = 'Адрес доставки';
 $_['text_payment']                     = 'Платёжный адрес';
 
 // Column
-$_['column_name']                      = 'Store Name';
+$_['column_name']                      = 'Название Магазина';
 $_['column_url']	                   = 'Store URL';
 $_['column_action']                    = 'Действие';
 
 // Entry
 $_['entry_url']                        = 'Store URL';
 $_['entry_ssl']                        = 'SSL URL';
-$_['entry_name']                       = 'Store Name';
+$_['entry_name']                       = 'Название Магазина';
 $_['entry_owner']                      = 'Store Owner';
 $_['entry_address']                    = 'Адрес';
-$_['entry_geocode']                    = 'Geocode';
+$_['entry_geocode']                    = 'Геокод';
 $_['entry_email']                      = 'E-Mail';
 $_['entry_telephone']                  = 'Телефон';
 $_['entry_fax']                        = 'Факс';

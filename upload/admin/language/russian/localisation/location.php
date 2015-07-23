@@ -1,25 +1,32 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Store Locations';
+$_['heading_title']    = 'Местонахождения магазина';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
-$_['text_list']        = 'Store Location List';
+$_['text_list']        = 'Список Адресов Магазинов';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';
 $_['text_default']     = 'По умолчанию';
 $_['text_time']        = 'Режим работы';
-$_['text_geocode']     = 'Geocode was not successful for the following reason:';
+$_['text_geocode']     = 'Геокод не применен по следующим причинам:';
 
 // Column
-$_['column_name']      = 'Store Name';
+$_['column_name']      = 'Название Магазина';
 $_['column_address']   = 'Адрес';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_name']       = 'Store Name';
+$_['entry_name']       = 'Название Магазина';
 $_['entry_address']    = 'Адрес';
-$_['entry_geocode']    = 'Geocode';
+$_['entry_geocode']    = 'Геокод';
 $_['entry_telephone']  = 'Телефон';
 $_['entry_fax']        = 'Факс';
 $_['entry_image']      = 'Изображение';
@@ -27,9 +34,9 @@ $_['entry_open']       = 'Режим работы';
 $_['entry_comment']    = 'Комментарий';
 
 // Help
-$_['help_geocode']     = 'Please enter your store location geocode manually.';
-$_['help_open']        = 'Fill in your stores opening times.';
-$_['help_comment']     = 'This field is for any special notes you would like to tell the customer i.e. Store does not accept cheques.';
+$_['help_geocode']     = 'Пожалуйста, укажите геокод своего магазина вручную.';
+$_['help_open']        = 'Заполните время работы магазинов.';
+$_['help_comment']     = 'Это поле для любых специальных пометок, Которые вы хотели сообщить клиенту, например: что магазин не принимает чеки.';
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

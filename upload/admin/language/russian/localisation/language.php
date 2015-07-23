@@ -1,43 +1,50 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']     = 'Языки';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Language List';
+$_['text_list']         = 'Список Языков';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
+$_['column_name']       = 'Название Языка';
+$_['column_code']       = 'Код';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Language Name';
-$_['entry_code']        = 'Code';
-$_['entry_locale']      = 'Locale';
+$_['entry_name']        = 'Название Языка';
+$_['entry_code']        = 'Код';
+$_['entry_locale']      = 'Кодировка';
 $_['entry_image']       = 'Изображение';
-$_['entry_directory']   = 'Directory';
+$_['entry_directory']   = 'Директория';
 $_['entry_status']      = 'Статус';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help
-$_['help_code']         = 'Example: en. Do not change if this is your default language.';
-$_['help_locale']       = 'Example: en_US.UTF-8,en_US,en-gb,en_gb,english';
-$_['help_image']        = 'Example: gb.png';
-$_['help_directory']    = 'Name of the language directory (case-sensitive)';
-$_['help_status']       = 'Hide/Show it in language dropdown';
+$_['help_code']         = 'Например: ru. Не изменять, если язык установлен по умолчанию.';
+$_['help_locale']       = 'Например: ru_RU.UTF-8,ru_RU,ru_RU,russian';
+$_['help_image']        = 'Например ru.png';
+$_['help_directory']    = 'Название директории с переводом (с учетом регистра)';
+$_['help_status']       = 'Показывать/Скрывать в переключателе языков витрины магазина';
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']        = 'Название должно содержать от 3 до 32 символов!';
-$_['error_code']        = 'Language Code must at least 2 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_image']       = 'Image Filename must be between 3 and 64 characters!';
-$_['error_directory']   = 'Directory required!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_code']        = 'Код языка должен быть от 2 символов!';
+$_['error_locale']      = 'Необходим язык!';
+$_['error_image']       = 'Название изображения должно быть от 3 до 64 символов!';
+$_['error_directory']   = 'Необходимо указать каталог!';
+$_['error_default']     = 'Этот Язык нельзя удалить, поскольку он используется по умолчанию!';
+$_['error_admin']       = 'Этот Язык нельзя удалить, поскольку он используется как язык Администратора';
+$_['error_store']       = 'Этот Язык нельзя удалить, поскольку он используется в %s магазинах!';
+$_['error_order']       = 'Этот Язык нельзя удалить, поскольку он используется в %s заказах!';

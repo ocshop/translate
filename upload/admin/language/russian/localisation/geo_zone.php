@@ -1,26 +1,33 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']      = 'Географические Зоны';
 
 // Text
 $_['text_success']       = 'Настройки успешно изменены!';
-$_['text_list']          = 'Geo Zone List';
+$_['text_list']          = 'Список Географических Зон';
 $_['text_add']           = 'Добавить';
 $_['text_edit']          = 'Редактирование';
 
 // Column
-$_['column_name']        = 'Geo Zone Name';
+$_['column_name']        = 'Название Географической Зоны';
 $_['column_description'] = 'Описание';
 $_['column_action']      = 'Действие';
 
 // Entry
-$_['entry_name']         = 'Geo Zone Name';
+$_['entry_name']         = 'Название Географической Зоны';
 $_['entry_description']  = 'Описание';
 $_['entry_country']      = 'Страна';
-$_['entry_zone']         = 'Zone';
+$_['entry_zone']         = 'Регион / Область';
 
 // Error
 $_['error_permission']   = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']         = 'Название должно содержать от 3 до 32 символов!';
-$_['error_description']  = 'Description Name must be between 3 and 255 characters!';
-$_['error_tax_rate']     = 'Warning: This geo zone cannot be deleted as it is currently assigned to one or more tax rates!';
+$_['error_description']  = 'Описание должно быть от 3 до 255 символов!';
+$_['error_tax_rate']     = 'Эту географическую зону нельзя удалить, поскольку она используется в одной или нескольким налоговых ставках!';

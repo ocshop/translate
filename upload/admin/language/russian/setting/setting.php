@@ -26,10 +26,10 @@ $_['text_google_captcha']              = 'Google reCAPTCHA';
 $_['text_howtosms']          	       = 'How to';
 
 // Entry
-$_['entry_name']                       = 'Store Name';
+$_['entry_name']                       = 'Название Магазина';
 $_['entry_owner']                      = 'Store Owner';
 $_['entry_address']                    = 'Адрес';
-$_['entry_geocode']                    = 'Geocode';
+$_['entry_geocode']                    = 'Геокод';
 $_['entry_email']                      = 'E-Mail';
 $_['entry_telephone']                  = 'Телефон';
 $_['entry_fax']                        = 'Факс';

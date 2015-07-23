@@ -1,8 +1,15 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Text
-$_['text_subject']       = '%s - Return Update %s';
+$_['text_subject']       = '%s - Dозврат обновлен %s';
 $_['text_return_id']     = '№ запроса на возврат:';
-$_['text_date_added']    = 'Return Date:';
-$_['text_return_status'] = 'Your return has been updated to the following status:';
-$_['text_comment']       = 'The comments for your return are:';
+$_['text_date_added']    = 'Дата Dозврата:';
+$_['text_return_status'] = 'Актуальное состояние Вашего возврата:';
+$_['text_comment']       = 'Комментарии к Вашему возврату:';
 $_['text_footer']        = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';
