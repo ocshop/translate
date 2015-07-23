@@ -1,18 +1,25 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']       = 'Купоны';
 
 // Text
 $_['text_success']        = 'Настройки успешно изменены!';
-$_['text_list']           = 'Coupon List';
+$_['text_list']           = 'Список Купонов';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';
 $_['text_percent']        = 'Процент';
 $_['text_amount']         = 'Фиксированная сумма';
 
 // Column
-$_['column_name']         = 'Coupon Name';
-$_['column_code']         = 'Code';
+$_['column_name']         = 'Название Купона';
+$_['column_code']         = 'Код';
 $_['column_discount']     = 'Скидка';
 $_['column_date_start']   = 'Дата Начала';
 $_['column_date_end']     = 'Дата Окончания';
@@ -24,33 +31,33 @@ $_['column_date_added']   = 'Добавлено';
 $_['column_action']       = 'Действие';
 
 // Entry
-$_['entry_name']          = 'Coupon Name';
-$_['entry_code']          = 'Code';
+$_['entry_name']          = 'Название Купона';
+$_['entry_code']          = 'Код';
 $_['entry_type']          = 'Тип';
 $_['entry_discount']      = 'Скидка';
-$_['entry_logged']        = 'Customer Login';
-$_['entry_shipping']      = 'Free Shipping';
-$_['entry_total']         = 'Total Amount';
+$_['entry_logged']        = 'Авторизация Клиента';
+$_['entry_shipping']      = 'Бесплатная Доставка';
+$_['entry_total']         = 'Сумма';
 $_['entry_category']      = 'Категории';
 $_['entry_product']       = 'Товары';
 $_['entry_date_start']    = 'Дата Начала';
 $_['entry_date_end']      = 'Дата Окончания';
-$_['entry_uses_total']    = 'Uses Per Coupon';
-$_['entry_uses_customer'] = 'Uses Per Customer';
+$_['entry_uses_total']    = 'Количество Применений Купона';
+$_['entry_uses_customer'] = 'Количество Применений Одним Покупателем';
 $_['entry_status']        = 'Статус';
 
 // Help
-$_['help_code']           = 'The code the customer enters to get the discount.';
-$_['help_type']           = 'Percentage or Fixed Amount.';
-$_['help_logged']         = 'Customer must be logged in to use the coupon.';
-$_['help_total']          = 'The total amount that must be reached before the coupon is valid.';
-$_['help_category']       = 'Choose all products under selected category.';
-$_['help_product']        = 'Choose specific products the coupon will apply to. Select no products to apply coupon to entire cart.';
-$_['help_uses_total']     = 'The maximum number of times the coupon can be used by any customer. Leave blank for unlimited';
-$_['help_uses_customer']  = 'The maximum number of times the coupon can be used by a single customer. Leave blank for unlimited';
+$_['help_code']           = 'Код, который покупатель вводит для получения скидки.';
+$_['help_type']           = 'Проценты или фиксированная сумма.';
+$_['help_logged']         = 'Пользователь должен войти чтобы использовать купон.';
+$_['help_total']          = 'Минимальная сумма, начиная с которой купон действителен.';
+$_['help_category']       = 'Выберите все товары в указанной категории.';
+$_['help_product']        = 'Выбор конкретных товаров, к которым будет применяться купон. Выберите Нет, чтобы применить купон ко всей корзине.';
+$_['help_uses_total']     = 'Сколько раз максимально может использоваться купон. Для бесконечного использования оставить пустым.';
+$_['help_uses_customer']  = 'Сколько раз максимально может использоваться купон одним покупателем. Для бесконечного использования оставить пустым.';
 
 // Error
 $_['error_permission']    = 'У вас недостаточно прав для внесения изменений!';
-$_['error_exists']        = 'Warning: Coupon code is already in use!';
+$_['error_exists']        = 'Указанный код купона уже используется!';
 $_['error_name']          = 'Название должно содержать от 3 до 128 символов!';
-$_['error_code']          = 'Code must be between 3 and 10 characters!';
+$_['error_code']          = 'Код должен содержать от 3 до 10 символов!';

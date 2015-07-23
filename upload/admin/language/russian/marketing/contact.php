@@ -1,36 +1,43 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']        = 'Почта';
 
 // Text
-$_['text_success']         = 'Your message has been successfully sent!';
-$_['text_sent']            = 'Your message has been successfully sent to %s of %s recipients!';
-$_['text_list']            = 'Mail List';
+$_['text_success']         = 'Ваше сообщение отправлено!';
+$_['text_sent']            = 'Ваше сообщение было успешно отправлено %s из %s получателям!';
+$_['text_list']            = 'Список Рассылки';
 $_['text_default']         = 'По умолчанию';
-$_['text_newsletter']      = 'All Newsletter Subscribers';
-$_['text_customer_all']    = 'All Customers';
-$_['text_customer_group']  = 'Группа Покупателей';
+$_['text_newsletter']      = 'Подписчики на Новости';
+$_['text_customer_all']    = 'Все Клиенты';
+$_['text_customer_group']  = 'Группа Клиентов';
 $_['text_customer']        = 'Клиенты';
-$_['text_affiliate_all']   = 'All Affiliates';
-$_['text_affiliate']       = 'Партнёрская программа';
+$_['text_affiliate_all']   = 'Все Партнёры';
+$_['text_affiliate']       = 'Партнёры';
 $_['text_product']         = 'Товары';
 
 // Entry
-$_['entry_store']          = 'From';
-$_['entry_to']             = 'To';
+$_['entry_store']          = 'От';
+$_['entry_to']             = 'Кому';
 $_['entry_customer_group'] = 'Группа Покупателей';
 $_['entry_customer']       = 'Клиент';
-$_['entry_affiliate']      = 'Affiliate';
+$_['entry_affiliate']      = 'Партнёр';
 $_['entry_product']        = 'Товары';
-$_['entry_subject']        = 'Subject';
+$_['entry_subject']        = 'Тема';
 $_['entry_message']        = 'Сообщение';
 
 // Help
-$_['help_customer']       = 'Autocomplete';
-$_['help_affiliate']      = 'Autocomplete';
-$_['help_product']        = 'Send only to customers who have ordered products in the list. (Autocomplete)';
+$_['help_customer']       = '(Автозаполнение)';
+$_['help_affiliate']      = '(Автозаполнение)';
+$_['help_product']        = 'Отправить покупателям, которые уже заказали товары из списка. (Автодополнение)';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to send E-Mails!';
-$_['error_subject']        = 'E-Mail Subject required!';
-$_['error_message']        = 'E-Mail Message required!';
+$_['error_permission']     = 'У Вас нет прав для отправки сообщений!';
+$_['error_subject']        = 'Необходимо указать тему письма!';
+$_['error_message']        = 'Необходим текст сообщения!';
