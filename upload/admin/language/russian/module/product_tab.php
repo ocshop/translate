@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']       = 'Модуль Табы';
 
@@ -16,7 +23,7 @@ $_['entry_status']        = 'Статус';
 $_['featured_module']     = 'Модуль рекомендуемых';
 
 // Error
-$_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';
-$_['error_name']       = 'Название должно содержать от 3 до 64 символов!';
-$_['error_width']      = 'Необходимо указать ширину!';
-$_['error_height']     = 'Необходимо указать высоту!';
+$_['error_permission'] 	  = 'У вас недостаточно прав для внесения изменений!';
+$_['error_name']       	  = 'Название должно содержать от 3 до 64 символов!';
+$_['error_width']      	  = 'Необходимо указать ширину!';
+$_['error_height']     	  = 'Необходимо указать высоту!';

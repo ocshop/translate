@@ -1,6 +1,13 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'HTML Content';
+$_['heading_title']     = 'HTML контент';
 
 // Text
 $_['text_module']       = 'Модули';
@@ -9,7 +16,7 @@ $_['text_edit']         = 'Редактирование';
 
 // Entry
 $_['entry_name']        = 'Название Модуля';
-$_['entry_title']       = 'Heading Title';
+$_['entry_title']       = 'Заголовок';
 $_['entry_description'] = 'Описание';
 $_['entry_status']      = 'Статус';
 

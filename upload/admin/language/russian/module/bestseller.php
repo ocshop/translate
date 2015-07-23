@@ -1,6 +1,13 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Bestsellers';
+$_['heading_title']    = 'Хиты продаж';
 
 // Text
 $_['text_module']      = 'Модули';
@@ -10,7 +17,7 @@ $_['text_edit']        = 'Редактирование';
 // Entry
 $_['entry_name']       = 'Название Модуля';
 $_['entry_limit']      = 'Лимит';
-$_['entry_image']      = 'Image (W x H) and Resize Type';
+$_['entry_image']      = 'Изображение (Ширина x Высота)';
 $_['entry_width']      = 'Ширина';
 $_['entry_height']     = 'Высота';
 $_['entry_status']     = 'Статус';
