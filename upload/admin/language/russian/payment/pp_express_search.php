@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']					= 'Поиск Транзакции';
 
@@ -47,7 +54,7 @@ $_['entry_trans_echeque']			= 'E Check';
 $_['entry_date']					= 'Дата';
 $_['entry_date_start']				= 'Start';
 $_['entry_date_end']				= 'End';
-$_['entry_date_to']					= 'to';
+$_['entry_date_to']					= 'Кому';
 $_['entry_transaction']				= 'Transaction';
 $_['entry_transaction_type']		= 'Тип';
 $_['entry_transaction_status']		= 'Статус';

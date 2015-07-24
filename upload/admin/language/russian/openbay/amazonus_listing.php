@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title'] 				= 'New Amazon listing';
 $_['text_title_advanced'] 			= 'Advanced listing';
@@ -53,7 +60,7 @@ $_['column_image'] 					= 'Изображение';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'Цена';
 $_['column_action'] 				= 'Действие';
-$_['column_name'] 					= 'Название товара';
+$_['column_name'] 					= 'Название Товара';
 $_['column_model'] 					= 'Модель';
 $_['column_combination'] 			= 'Variant Combination';
 $_['column_sku_variant'] 			= 'Variant SKU';

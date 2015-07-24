@@ -19,7 +19,7 @@ $_['column_name']       = 'Название Модификатора';
 $_['column_author']     = 'Автор';
 $_['column_version']    = 'Версия';
 $_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Добавлено';
+$_['column_date_added'] = 'Дата Добавления';
 $_['column_action']     = 'Действие';
 
 // Error

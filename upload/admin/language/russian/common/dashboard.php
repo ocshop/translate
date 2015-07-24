@@ -11,15 +11,15 @@ $_['heading_title']                = 'Панель состояния';
 
 // Text
 $_['text_order_total']             = 'Заказов';
-$_['text_customer_total']          = 'Клиентов';
+$_['text_customer_total']          = 'Покупателей';
 $_['text_sale_total']              = 'Продаж';
-$_['text_online_total']            = 'Клиенты Онлайн';
+$_['text_online_total']            = 'Покупатели Онлайн';
 $_['text_map']                     = 'Карта Мира';
 $_['text_sale']                    = 'Аналитика Продаж';
 $_['text_activity']                = 'Последняя Активность';
 $_['text_recent']                  = 'Последнии Заказы';
 $_['text_order']                   = 'Заказы';
-$_['text_customer']                = 'Клиенты';
+$_['text_customer']                = 'Покупатели';
 $_['text_day']                     = 'Сегодня';
 $_['text_week']                    = 'Неделя';
 $_['text_month']                   = 'Месяц';

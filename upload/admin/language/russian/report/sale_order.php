@@ -1,25 +1,32 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'Sales Report';
+$_['heading_title']     = 'Отчет по продажам';
 
 // Text
-$_['text_list']         = 'Sales List';
-$_['text_year']         = 'Years';
-$_['text_month']        = 'Months';
-$_['text_week']         = 'Weeks';
-$_['text_day']          = 'Days';
-$_['text_all_status']   = 'All Statuses';
+$_['text_list']         = 'Список Продаж';
+$_['text_year']         = 'Годы';
+$_['text_month']        = 'Месяцы';
+$_['text_week']         = 'Недели';
+$_['text_day']          = 'Дни';
+$_['text_all_status']   = 'Все статусы';
 
 // Column
 $_['column_date_start'] = 'Дата Начала';
 $_['column_date_end']   = 'Дата Окончания';
-$_['column_orders']     = 'No. Orders';
-$_['column_products']   = 'No. Products';
-$_['column_tax']        = 'Без НДС';
-$_['column_total']      = 'Всего';
+$_['column_orders']     = 'Кол-во Заказов';
+$_['column_products']   = 'Кол-во товаров';
+$_['column_tax']        = 'Налог';
+$_['column_total']      = 'Итого';
 
 // Entry
 $_['entry_date_start']  = 'Дата Начала';
 $_['entry_date_end']    = 'Дата Окончания';
-$_['entry_group']       = 'Group By';
-$_['entry_status']      = 'Статус';
+$_['entry_group']       = 'Сортировать по';
+$_['entry_status']      = 'Статус заказа';

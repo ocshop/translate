@@ -62,9 +62,9 @@ $_['entry_voucher_max']                = 'Voucher Max';
 $_['entry_tax']                        = 'Display Prices With Tax';
 $_['entry_tax_default']                = 'Use Store Tax Address';
 $_['entry_tax_customer']               = 'Use Customer Tax Address';
-$_['entry_customer_online']            = 'Клиенты Онлайн';
+$_['entry_customer_online']            = 'Покупатели Онлайн';
 $_['entry_customer_group']             = 'Группа Покупателей';
-$_['entry_customer_group_display']     = 'Группы Клиентов';
+$_['entry_customer_group_display']     = 'Группы Покупателей';
 $_['entry_customer_price']             = 'Login Display Prices';
 $_['entry_login_attempts']             = 'Max Login Attempts';
 $_['entry_account']                    = 'Account Terms';
@@ -214,7 +214,7 @@ $_['help_google_captcha']              = 'Go to <a href="https://www.google.com/
 $_['help_sms_from']					   = 'Не более 11 символов, либо номер телефона до 15 цифр';
 $_['help_sms_to']					   = 'В международном формате, только цифры 7926xxxxxxx';
 $_['help_sms_copy']					   = 'Указывать через запятую, в международном формате, без разделителей 7926xxxxxxx';
-$_['help_sms_message']				   = 'Можно использовать теги:<br/>{ID} - номер заказа<br/>{DATE} - дата заказа<br/>{TIME} - время заказа<br/>{SUM} - сумма заказа<br/>{FIRST_NAME} - имя клиента<br/>{LAST_NAME} - фамилия клиента<br/>{PHONE} - телефон клиента';
+$_['help_sms_message']				   = 'Можно использовать теги:<br/>{ID} - Номер Заказа<br/>{DATE} - Дата Заказа<br/>{TIME} - Время Заказа<br/>{SUM} - Сумма Заказа<br/>{FIRST_NAME} - Имя Покупателя<br/>{LAST_NAME} - Фамилия Покупателя<br/>{PHONE} - Телефон Покупателя';
 
 // Error
 $_['error_warning']                    = 'Внимательно проверьте форму на ошибки!';
@@ -223,7 +223,7 @@ $_['error_name']                       = 'Название должно соде
 $_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';
 $_['error_address']                    = 'Store Address must be between 10 and 256 characters!';
 $_['error_email']                      = 'E-Mail адрес введен неверно!';
-$_['error_telephone']                  = 'Номер телефона должен быть от 3 до 32 символов!';
+$_['error_telephone']                  = 'Номер телефона должен содержать от 3 до 32 символов!';
 $_['error_meta_title']                 = 'Title must be between 3 and 32 characters!';
 $_['error_limit']       	           = 'Limit required!';
 $_['error_login_attempts']       	   = 'Login Attempts must be greater than 0!';
@@ -248,4 +248,4 @@ $_['error_ftp_username']               = 'FTP Username required!';
 $_['error_ftp_password']               = 'FTP Password required!';
 $_['error_error_filename']             = 'Error Log Filename required!';
 $_['error_malformed_filename']	       = 'Error Malformed Log Filename!';
-$_['error_encryption']                 = 'Ключ шифрования должен быть от 32 до 1024 символов!';
+$_['error_encryption']                 = 'Ключ шифрования должен содержать от 32 до 1024 символов!';

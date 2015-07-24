@@ -1,47 +1,54 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']              = 'Заказы';
 
 // Text
-$_['text_list']                  = 'Order List';
-$_['text_add']                   = 'Добавить';
+$_['text_list']                  = 'Список Заказов';
+$_['text_add']                   = 'Добавить Заказ';
 $_['text_edit']                  = 'Редактирование';
-$_['text_ip_add']                = 'You need to add your current IP %s to the default API allow list.';
+$_['text_ip_add']                = 'Вы должны добавить Ваш IP %s в список API по умолчанию.';
 $_['text_order_detail']          = 'Детали заказа';
-$_['text_customer_detail']       = 'Клиент';
+$_['text_customer_detail']       = 'Покупатель';
 $_['text_option']                = 'Опции';
 $_['text_store']                 = 'Магазин';
-$_['text_date_added']            = 'Добавлено';
+$_['text_date_added']            = 'Дата Добавления';
 $_['text_payment_method']        = 'Способ оплаты';
 $_['text_shipping_method']       = 'Способ Доставки';
-$_['text_customer']              = 'Клиент';
+$_['text_customer']              = 'Покупатель';
 $_['text_customer_group']        = 'Группа Покупателей';
 $_['text_email']                 = 'E-Mail';
 $_['text_telephone']             = 'Телефон';
-$_['text_invoice']               = 'Invoice';
+$_['text_invoice']               = 'Счет';
 $_['text_reward']                = 'Бонусные баллы';
-$_['text_affiliate']             = 'Affiliate';
-$_['text_order']                 = 'Order (#%s)';
-$_['text_payment_address']       = 'Платёжный адрес';
-$_['text_shipping_address']      = 'Shipping Adress';
-$_['text_comment']               = 'Customer Comment';
+$_['text_affiliate']             = 'Партнер';
+$_['text_order']                 = 'Заказ (#%s)';
+$_['text_payment_address']       = 'Адрес оплаты';
+$_['text_shipping_address']      = 'Адрес доставки';
+$_['text_comment']               = 'Комментарий';
 $_['text_history']               = 'История заказа';
-$_['text_history_add']           = 'Add Order History';
-$_['text_account_custom_field']  = 'Account Custom Fields';
-$_['text_payment_custom_field']  = 'Payment Address Custom Fields';
-$_['text_shipping_custom_field'] = 'Shipping Adress Custom Fields';
-$_['text_browser']               = 'Browser';
-$_['text_ip']                    = 'IP Address';
-$_['text_forwarded_ip']          = 'Forwarded IP';
-$_['text_user_agent']            = 'User Agent';
-$_['text_accept_language']       = 'Accept Language';
+$_['text_history_add']           = 'Добавить в Историю Заказа';
+$_['text_account_custom_field']  = 'Пользовательские Поля';
+$_['text_payment_custom_field']  = 'Адрес оплаты Пользовательские Поля';
+$_['text_shipping_custom_field'] = 'Адрес доставки Пользовательские Поля';
+$_['text_browser']               = 'Просмотр';
+$_['text_ip']                    = 'IP адрес';
+$_['text_forwarded_ip']          = 'Переадресованный IP';
+$_['text_user_agent']            = 'Броузер (User Agent)';
+$_['text_accept_language']       = 'Используемый Язык';
 
 
 $_['text_order_id']              = '№ заказа:';
-$_['text_fax']                   = 'Fax:';
+$_['text_fax']                   = 'Факс:';
 $_['text_website']               = 'Веб-сайт:';
 $_['text_invoice_no']            = '№ Счета:';
-$_['text_invoice_date']          = 'Invoice Date:';
+$_['text_invoice_date']          = 'Дата Выписки Счета:';
 $_['text_sku']                   = 'SKU:';
 $_['text_upc']                   = 'UPC:';
 $_['text_ean']                   = 'EAN:';
@@ -50,42 +57,42 @@ $_['text_isbn']                  = 'ISBN:';
 $_['text_mpn']                   = 'MPN:';
 
 
-$_['text_missing']               = 'Missing Orders';
+$_['text_missing']               = 'Потерянные Заказы';
 $_['text_default']               = 'По умолчанию';
-$_['text_product']               = 'Add Product(s)';
-$_['text_voucher']               = 'Add Voucher(s)';
+$_['text_product']               = 'Добавить Товар(ы)';
+$_['text_voucher']               = 'Добавить подарочный сертификат';
 $_['text_shipping']              = 'Доставка';
-$_['text_contact']               = 'Contact';
+$_['text_contact']               = 'Контакт';
 
-$_['text_reward_added']          = 'Success: Reward points added!';
-$_['text_reward_removed']        = 'Success: Reward points removed!';
-$_['text_commission_added']      = 'Success: Commission added!';
-$_['text_commission_removed']    = 'Success: Commission removed!';
-$_['text_restock']               = 'Success: Products have been restocked!';
+$_['text_reward_added']          = 'Бонусные баллы добавлены!';
+$_['text_reward_removed']        = 'Бонусные баллы удалены!';
+$_['text_commission_added']      = 'Комисиия добавлена!';
+$_['text_commission_removed']    = 'Комиссия удалена!';
+$_['text_restock']               = 'Товар возвращен на склад!';
 $_['text_upload']                = 'Файл успешно загружен!';
-$_['text_picklist']              = 'Dispatch Note';
+$_['text_picklist']              = 'Примечание';
 
 // Column
 $_['column_order_id']            = '№ Заказа';
-$_['column_customer']            = 'Клиент';
+$_['column_customer']            = 'Покупатель';
 $_['column_status']              = 'Статус';
-$_['column_date_added']          = 'Добавлено';
-$_['column_date_modified']       = 'Изменено';
-$_['column_total']               = 'Всего';
+$_['column_date_added']          = 'Дата Добавления';
+$_['column_date_modified']       = 'Дата Обновления';
+$_['column_total']               = 'Итого';
 $_['column_product']             = 'Товар';
 $_['column_model']               = 'Модель';
 $_['column_quantity']            = 'Количество';
 $_['column_price']               = 'Цена за единицу товара';
 $_['column_comment']             = 'Комментарий';
-$_['column_notify']              = 'Customer Notified';
+$_['column_notify']              = 'Покупатель Уведомлен';
 $_['column_location']            = 'Расположение';
-$_['column_reference']           = 'Reference';
+$_['column_reference']           = 'Ссылка';
 $_['column_action']              = 'Действие';
-$_['column_weight']              = 'Product weight';
+$_['column_weight']              = 'Вес товара';
 
 // Entry
 $_['entry_store']                = 'Магазин';
-$_['entry_customer']             = 'Клиент';
+$_['entry_customer']             = 'Покупатель';
 $_['entry_customer_group']       = 'Группа Покупателей';
 $_['entry_firstname']            = 'Имя';
 $_['entry_lastname']             = 'Фамилия';
@@ -101,32 +108,32 @@ $_['entry_postcode']             = 'Индекс';
 $_['entry_country']              = 'Страна';
 $_['entry_zone']                 = 'Регион / Область';
 $_['entry_zone_code']            = 'Region / State Code';
-$_['entry_product']              = 'Choose Product';
-$_['entry_option']               = 'Choose Option(s)';
+$_['entry_product']              = 'Выберите Товар';
+$_['entry_option']               = 'Выберите Вариант(-ы)';
 $_['entry_quantity']             = 'Количество';
 $_['entry_to_name']              = 'Имя Получателя';
-$_['entry_to_email']             = 'Recipient\'s Email';
-$_['entry_from_name']            = 'Senders Name';
-$_['entry_from_email']           = 'Senders Email';
+$_['entry_to_email']             = 'E-Mmail Получателя';
+$_['entry_from_name']            = 'Имя Отправителя';
+$_['entry_from_email']           = 'E-Mail отправителя';
 $_['entry_theme']                = 'Тема Подарочного сертификата';
 $_['entry_message']              = 'Сообщение';
 $_['entry_amount']               = 'Итого';
-$_['entry_affiliate']            = 'Affiliate';
+$_['entry_affiliate']            = 'Партнер';
 $_['entry_order_status']         = 'Статус';
-$_['entry_notify']               = 'Notify Customer';
+$_['entry_notify']               = 'Уведомить Gокупателя';
 $_['entry_comment']              = 'Комментарий';
 $_['entry_currency']             = 'Валюта';
 $_['entry_shipping_method']      = 'Способ Доставки';
 $_['entry_payment_method']       = 'Способ оплаты';
-$_['entry_coupon']               = 'Coupon';
-$_['entry_voucher']              = 'Voucher';
-$_['entry_reward']               = 'Reward';
+$_['entry_coupon']               = 'Купон';
+$_['entry_voucher']              = 'Подарочный Cертификат';
+$_['entry_reward']               = 'Бонусные Баллы';
 $_['entry_order_id']             = '№ Заказа';
 $_['entry_total']                = 'Всего';
-$_['entry_date_added']           = 'Добавлено';
-$_['entry_date_modified']        = 'Изменено';
+$_['entry_date_added']           = 'Дата Добавления';
+$_['entry_date_modified']        = 'Дата Обновления';
 
 // Error
 $_['error_warning']              = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']           = 'У вас недостаточно прав для внесения изменений!';
-$_['error_action']               = 'Warning: Could not complete this action!';
+$_['error_action']               = 'Невозможно завершить операцию!';

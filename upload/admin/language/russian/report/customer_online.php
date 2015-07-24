@@ -1,19 +1,26 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'Customers Online Report';
+$_['heading_title']     = 'Онлайн Посетители';
 
 // Text
-$_['text_list']         = 'Customers Online List';
-$_['text_guest']        = 'Guest';
+$_['text_list']         = 'Список Онлайн Посетителей';
+$_['text_guest']        = 'Гость';
 
 // Column
 $_['column_ip']         = 'IP';
-$_['column_customer']   = 'Клиент';
-$_['column_url']        = 'Last Page Visited';
-$_['column_referer']    = 'Referer';
-$_['column_date_added'] = 'Last Click';
+$_['column_customer']   = 'Покупатель';
+$_['column_url']        = 'Последняя посещенная страница';
+$_['column_referer']    = 'Откуда Пришёл';
+$_['column_date_added'] = 'Последний Клик';
 $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_ip']          = 'IP';
-$_['entry_customer']    = 'Клиент';
+$_['entry_customer']    = 'Покупатель';

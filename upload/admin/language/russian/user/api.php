@@ -12,8 +12,8 @@ $_['text_ip']              = 'Below you can create a list of IP\'s allowed to ac
 // Column
 $_['column_username']      = 'Username';
 $_['column_status']        = 'Статус';
-$_['column_date_added']    = 'Добавлено';
-$_['column_date_modified'] = 'Изменено';
+$_['column_date_added']    = 'Дата Добавления';
+$_['column_date_modified'] = 'Дата Обновления';
 $_['column_token']         = 'Token';
 $_['column_ip']            = 'IP';
 $_['column_action']        = 'Действие';

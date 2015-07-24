@@ -11,7 +11,7 @@ $_['text_success']           = 'Ваш заказ обновлен!';
 
 // Error
 $_['error_permission']       = 'Вы не имеете разрешения на доступ к API!';
-$_['error_customer']         = 'Укажите данные клиента!';
+$_['error_customer']         = 'Укажите данные Покупателя!';
 $_['error_payment_address']  = 'Укажите платежный адрес!';
 $_['error_payment_method']   = 'Необходимо указать способ оплаты!';
 $_['error_shipping_address'] = 'Укажите адрес доставки!';

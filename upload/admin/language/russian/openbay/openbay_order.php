@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']   			= 'Bulk order update';
 $_['text_openbay']              = 'OpenBay Pro';
@@ -31,5 +38,5 @@ $_['text_list']					= 'Order list';
 $_['entry_carrier']             = 'Carrier';
 $_['entry_tracking_no']         = 'Tracking';
 $_['entry_other']               = 'Other';
-$_['entry_date_added']          = 'Добавлено';
+$_['entry_date_added']          = 'Дата Добавления';
 $_['entry_order_channel']       = 'Order channel';

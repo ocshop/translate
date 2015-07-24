@@ -1,30 +1,37 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']       = 'Customer Activity Report';
+$_['heading_title']       = 'Отчет Активности Покупателей';
 
 // Text
-$_['text_list']           = 'Customer Activity List';
-$_['text_address_add']    = '<a href="customer_id=%d">%s</a> added a new address.';
-$_['text_address_edit']   = '<a href="customer_id=%d">%s</a> updated their address.';
-$_['text_address_delete'] = '<a href="customer_id=%d">%s</a> deleted one of their address.';
-$_['text_edit']           = '<a href="customer_id=%d">%s</a> updated their account details.';
-$_['text_forgotten']      = '<a href="customer_id=%d">%s</a> requested a new password.';
-$_['text_login']          = '<a href="customer_id=%d">%s</a> logged in.';
-$_['text_password']       = '<a href="customer_id=%d">%s</a> updated their account password.';
-$_['text_register']       = '<a href="customer_id=%d">%s</a> registered for an account.';
-$_['text_return_account'] = '<a href="customer_id=%d">%s</a> submitted a product return.';
-$_['text_return_guest']   = '%s submitted a product return.';
-$_['text_order_account']  = '<a href="customer_id=%d">%s</a> created a <a href="order_id=%d">new order</a>.';
-$_['text_order_guest']    = '%s created a <a href="order_id=%d">new order</a>.';
+$_['text_list']           = 'Список Активности Покупателей';
+$_['text_address_add']    = '<a href="customer_id=%d">%s</a> - добавлен новый адрес.';
+$_['text_address_edit']   = '<a href="customer_id=%d">%s</a> - обновлены адреса.';
+$_['text_address_delete'] = '<a href="customer_id=%d">%s</a> - удален один из адресов.';
+$_['text_edit']           = '<a href="customer_id=%d">%s</a> - обновлена информация аккаунта.';
+$_['text_forgotten']      = '<a href="customer_id=%d">%s</a> - запрос нового пароля.';
+$_['text_login']          = '<a href="customer_id=%d">%s</a> - выполнен вход.';
+$_['text_password']       = '<a href="customer_id=%d">%s</a> - обновлен пароль.';
+$_['text_register']       = '<a href="customer_id=%d">%s</a> - зарегистрирован новый покупатель';
+$_['text_return_account'] = '<a href="customer_id=%d">%s</a> - запрошен возврат товара.';
+$_['text_return_guest']   = '%s - запрошен возврат товара.';
+$_['text_order_account']  = '<a href="customer_id=%d">%s</a> <a href="order_id=%d"> - создал новый заказ</a>.';
+$_['text_order_guest']    = '%s <a href="order_id=%d"> - создал новый заказ</a>.';
 
 // Column
-$_['column_customer']     = 'Клиент';
+$_['column_customer']     = 'Покупатель';
 $_['column_comment']      = 'Комментарий';
 $_['column_ip']           = 'IP';
-$_['column_date_added']   = 'Добавлено';
+$_['column_date_added']   = 'Дата Добавления';
 
 // Entry
-$_['entry_customer']      = 'Клиент';
+$_['entry_customer']      = 'Покупатель';
 $_['entry_ip']            = 'IP';
 $_['entry_date_start']    = 'Дата Начала';
 $_['entry_date_end']      = 'Дата Окончания';

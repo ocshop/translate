@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']					= 'PayPal Pro iFrame';
 
@@ -114,7 +121,7 @@ $_['column_amount']					= 'Итого';
 $_['column_type']					= 'Payment type';
 $_['column_status']					= 'Статус';
 $_['column_pend_reason']			= 'Pending reason';
-$_['column_date_added']				= 'Создан';
+$_['column_date_added']				= 'Дата Добавления';
 $_['column_action']					= 'Действие';
 
 // Tab

@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']					 = 'Globalpay Redirect';
 
@@ -39,7 +46,7 @@ $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Операции';
 $_['text_column_amount']			 = 'Итого';
 $_['text_column_type']				 = 'Тип';
-$_['text_column_date_added']		 = 'Создан';
+$_['text_column_date_added']		 = 'Дата Добавления';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			 = 'Are you sure you want to rebate the payment?';

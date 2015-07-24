@@ -21,9 +21,9 @@ $_['text_amount']          = 'Фиксированная сумма';
 $_['column_name']          = 'Название Налога';
 $_['column_rate']          = 'Ставка Налога';
 $_['column_type']          = 'Тип';
-$_['column_geo_zone']      = 'Географическая зона';
-$_['column_date_added']    = 'Добавлено';
-$_['column_date_modified'] = 'Изменено';
+$_['column_geo_zone']      = 'Географическая Зона';
+$_['column_date_added']    = 'Дата Добавления';
+$_['column_date_modified'] = 'Дата Обновления';
 $_['column_action']        = 'Действие';
 
 // Entry

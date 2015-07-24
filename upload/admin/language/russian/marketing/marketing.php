@@ -20,7 +20,7 @@ $_['column_name']       = 'Название Компании';
 $_['column_code']       = 'Код';
 $_['column_clicks']     = 'Клики';
 $_['column_orders']     = 'Заказы';
-$_['column_date_added'] = 'Добавлено';
+$_['column_date_added'] = 'Дата Добавления';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -28,7 +28,7 @@ $_['entry_name']        = 'Название Компании';
 $_['entry_description'] = 'Описание Компании';
 $_['entry_code']        = 'Код Отслеживания';
 $_['entry_example']     = 'Примеры';
-$_['entry_date_added']  = 'Добавлено';
+$_['entry_date_added']  = 'Дата Добавления';
 
 // Help
 $_['help_code']         = 'Код отслеживания, который используется для отслеживания рекламных кампаний.';

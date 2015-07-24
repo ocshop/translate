@@ -20,7 +20,7 @@ $_['text_transactions'] 						= 'Операции';
 $_['button_return'] 							= 'Возврат';
 $_['text_empty_transactions'] 					= 'Нет переводов для этого профиля';
 
-$_['column_date_added'] 						= 'Создан';
+$_['column_date_added'] 						= 'Дата Добавления';
 $_['column_type'] 								= 'Тип';
 $_['column_amount'] 							= 'Итого';
 $_['column_status'] 							= 'Статус';
@@ -31,7 +31,7 @@ $_['column_recurring_id'] 						= 'ID Профиля';
 $_['text_recurring_detail'] 					= 'Детали регулярного платежа';
 $_['text_recurring_id'] 						= 'ID Профиля: ';
 $_['text_payment_method'] 						= 'Метод оплаты: ';
-$_['text_date_added'] 							= 'Создан: ';
+$_['text_date_added'] 							= 'Дата Добавления: ';
 $_['text_recurring_description'] 				= 'Описание: ';
 $_['text_status'] 								= 'Статус: ';
 $_['text_ref'] 									= 'Сноска: ';
@@ -43,7 +43,7 @@ $_['text_status_suspended'] 					= 'Заморожен';
 $_['text_status_expired'] 						= 'Истек';
 $_['text_status_pending'] 						= 'Ожидает';
 
-$_['text_transaction_date_added'] 				= 'Создан';
+$_['text_transaction_date_added'] 				= 'Дата Добавления';
 $_['text_transaction_payment'] 					= 'Платеж';
 $_['text_transaction_outstanding_payment'] 		= 'Непоступивший платеж';
 $_['text_transaction_skipped'] 					= 'Платеж пропущен';

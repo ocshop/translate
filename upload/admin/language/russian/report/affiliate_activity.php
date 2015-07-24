@@ -1,24 +1,31 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']     = 'Affiliate Activity Report';
+$_['heading_title']     = 'Отчет Партнерской Активности';
 
 // Text
-$_['text_list']         = 'Affiliate Activity List';
-$_['text_edit']         = '<a href="affiliate_id=%d">%s</a> updated their account details.';
-$_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> requested a new password.';
-$_['text_login']        = '<a href="affiliate_id=%d">%s</a> logged in.';
-$_['text_password']     = '<a href="affiliate_id=%d">%s</a> updated their account password.';
-$_['text_payment']      = '<a href="affiliate_id=%d">%s</a> updated their payment details.';
-$_['text_register']     = '<a href="affiliate_id=%d">%s</a> registered for a new account.';
+$_['text_list']         = 'Список Партнерской Активности';
+$_['text_edit']         = '<a href="affiliate_id=%d">%s</a> - обновлена информация аккаунта.';
+$_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> - запрос нового пароля.';
+$_['text_login']        = '<a href="affiliate_id=%d">%s</a> - выполнен вход.';
+$_['text_password']     = '<a href="affiliate_id=%d">%s</a> - обновлен пароль.';
+$_['text_payment']      = '<a href="affiliate_id=%d">%s</a> - обновлены платежные реквизиты.';
+$_['text_register']     = '<a href="affiliate_id=%d">%s</a> - зарегистрирован новый партнер.';
 
 // Column
-$_['column_affiliate']  = 'Affiliate';
+$_['column_affiliate']  = 'Партнер';
 $_['column_comment']    = 'Комментарий';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Добавлено';
+$_['column_date_added'] = 'Дата Добавления';
 
 // Entry
-$_['entry_affiliate']   = 'Affiliate';
+$_['entry_affiliate']   = 'Партнер';
 $_['entry_ip']          = 'IP';
 $_['entry_date_start']  = 'Дата Начала';
 $_['entry_date_end']    = 'Дата Окончания';

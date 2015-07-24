@@ -25,9 +25,9 @@ $_['column_date_start']   = 'Дата Начала';
 $_['column_date_end']     = 'Дата Окончания';
 $_['column_status']       = 'Статус';
 $_['column_order_id']     = '№ Заказа';
-$_['column_customer']     = 'Клиент';
+$_['column_customer']     = 'Покупатель';
 $_['column_amount']       = 'Итого';
-$_['column_date_added']   = 'Добавлено';
+$_['column_date_added']   = 'Дата Добавления';
 $_['column_action']       = 'Действие';
 
 // Entry
@@ -35,7 +35,7 @@ $_['entry_name']          = 'Название Купона';
 $_['entry_code']          = 'Код';
 $_['entry_type']          = 'Тип';
 $_['entry_discount']      = 'Скидка';
-$_['entry_logged']        = 'Авторизация Клиента';
+$_['entry_logged']        = 'Авторизация Покупателя';
 $_['entry_shipping']      = 'Бесплатная Доставка';
 $_['entry_total']         = 'Сумма';
 $_['entry_category']      = 'Категории';

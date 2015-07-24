@@ -1,18 +1,25 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']         = 'Customer Reward Points Report';
+$_['heading_title']         = 'Отчет по бонусным баллам покупателя';
 
 // Text
-$_['text_list']             = 'Customer Reward Points List';
+$_['text_list']             = 'Список Бонусных Баллов';
 
 // Column
-$_['column_customer']       = 'Имя Клиента';
+$_['column_customer']       = 'Имя Покупателя';
 $_['column_email']          = 'E-Mail';
 $_['column_customer_group'] = 'Группа Покупателей';
 $_['column_status']         = 'Статус';
 $_['column_points']         = 'Бонусные баллы';
-$_['column_orders']         = 'No. Orders';
-$_['column_total']          = 'Всего';
+$_['column_orders']         = 'Кол-во Заказов';
+$_['column_total']          = 'Итого';
 $_['column_action']         = 'Действие';
 
 // Entry

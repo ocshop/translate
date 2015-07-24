@@ -10,7 +10,7 @@
 $_['heading_title']      = 'Бонусные баллы';
 
 // Column
-$_['column_date_added']  = 'Добавлено';
+$_['column_date_added']  = 'Дата Добавления';
 $_['column_description'] = 'Описание';
 $_['column_points']      = 'Бонусные баллы';
 

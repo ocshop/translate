@@ -1,15 +1,22 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['heading_title']    = 'Coupons Report';
+$_['heading_title']    = 'Отчет по купонам';
 
 // Text
-$_['text_list']        = 'Coupon List';
+$_['text_list']        = 'Список Купонов';
 
 // Column
-$_['column_name']      = 'Coupon Name';
+$_['column_name']      = 'Название Купона';
 $_['column_code']      = 'Код';
 $_['column_orders']    = 'Заказы';
-$_['column_total']     = 'Всего';
+$_['column_total']     = 'Итого';
 $_['column_action']    = 'Действие';
 
 // Entry

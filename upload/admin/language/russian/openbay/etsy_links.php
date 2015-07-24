@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Headings
 $_['heading_title']        		= 'Etsy links';
 $_['text_openbay']              = 'OpenBay Pro';
@@ -12,7 +19,7 @@ $_['text_link_saved']           = 'Item has been linked';
 $_['text_no_links']           	= 'You have no products linked to Etsy items';
 
 // Columns
-$_['column_product']			= 'Название товара';
+$_['column_product']			= 'Название Товара';
 $_['column_item_id']			= 'Etsy ID';
 $_['column_store_stock']		= 'Наличие';
 $_['column_etsy_stock']			= 'Etsy Stock';
@@ -20,7 +27,7 @@ $_['column_status']				= 'Link Status';
 $_['column_action']				= 'Действие';
 
 // Entry
-$_['entry_name']				= 'Название товара';
+$_['entry_name']				= 'Название Товара';
 $_['entry_etsy_id']				= 'Etsy item ID';
 
 // Error

@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']					= 'Globalpay Remote';
 
@@ -43,7 +50,7 @@ $_['text_globalpay_remote']			= '<a target="_blank" href="https://resourcecentre
 // Column
 $_['text_column_amount']			= 'Итого';
 $_['text_column_type']				= 'Тип';
-$_['text_column_date_added']		= 'Создан';
+$_['text_column_date_added']		= 'Дата Добавления';
 
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';

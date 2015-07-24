@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Headings
 $_['heading_title']        		= 'Etsy listings';
 $_['text_openbay']              = 'OpenBay Pro';
@@ -37,7 +44,7 @@ $_['column_action']				= 'Действие';
 $_['entry_limit']				= 'Page limit';
 $_['entry_status']				= 'Статус';
 $_['entry_keywords']			= 'Ключевые слова';
-$_['entry_name']				= 'Название товара';
+$_['entry_name']				= 'Название Товара';
 $_['entry_etsy_id']				= 'Etsy item ID';
 
 // Help

@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']					= 'Revise eBay listing';
 $_['text_openbay']					= 'OpenBay Pro';
@@ -17,7 +24,7 @@ $_['text_listing_info']             = 'Listing information';
 $_['button_view']					= 'View listing';
 $_['button_remove']					= 'Remove link';
 $_['button_end']                    = 'End listing';
-$_['button_retry']					= 'Retry';
+$_['button_retry']					= 'Повтор';
 
 // Entry
 $_['entry_title']					= 'Title';

@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']				 		 = 'G2APay';
 
@@ -54,7 +61,7 @@ $_['text_total_released']		 		 = 'Total released';
 $_['text_transactions']			 		 = 'Операции';
 $_['text_column_amount']		 		 = 'Итого';
 $_['text_column_type']			 		 = 'Тип';
-$_['text_column_date_added']	 		 = 'Added';
+$_['text_column_date_added']	 		 = 'Дата Добавления';
 $_['text_refund_ok']			 		 = 'Refund was successfully requested';
 $_['text_refund_ok_order']		 		 = 'Refund was successfully requested, amount fully refunded';
 

@@ -20,7 +20,7 @@ $_['column_article']    = 'Статья';
 $_['column_author']     = 'Автор';
 $_['column_rating']     = 'Рейтинг';
 $_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Дата';
+$_['column_date_added'] = 'Дата Добавления';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -29,7 +29,7 @@ $_['entry_author']      = 'Автор';
 $_['entry_rating']      = 'Рейтинг';
 $_['entry_status']      = 'Статус';
 $_['entry_text']        = 'Текст';
-$_['entry_date_added']  = 'Дата';
+$_['entry_date_added']  = 'Дата Добавления';
 
 // Help
 $_['help_article']      = '(Автозаполнение)';

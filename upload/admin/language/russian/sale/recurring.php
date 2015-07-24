@@ -1,10 +1,17 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']                        = 'Профили Периодичности';
 
 // Text
 $_['text_success']                         = 'Настройки успешно изменены!';
-$_['text_list']                            = 'Recurring Profile List';
+$_['text_list']                            = 'Список Профилей Переодичности';
 $_['text_add']                             = 'Добавить';
 $_['text_edit']                            = 'Редактирование';
 $_['text_payment_profiles']                = 'Профили Периодичности';
@@ -15,8 +22,8 @@ $_['text_status_suspended']                = 'Заморожен';
 $_['text_status_expired']                  = 'Истек';
 $_['text_status_pending']                  = 'Ожидает';
 $_['text_transactions']                    = 'Операции';
-$_['text_cancel_confirm']                  = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
-$_['text_transaction_date_added']          = 'Добавлено';
+$_['text_cancel_confirm']                  = 'Удаление профиля не может быть отменено! Вы уверены?';
+$_['text_transaction_date_added']          = 'Дата Добавления';
 $_['text_transaction_payment'] 			   = 'Платеж';
 $_['text_transaction_outstanding_payment'] = 'Непоступивший платеж';
 $_['text_transaction_skipped']             = 'Платеж пропущен';
@@ -28,17 +35,17 @@ $_['text_transaction_outstanding_failed']  = 'Платеж не прошел';
 $_['text_transaction_expired']             = 'Истек';
 
 // Entry
-$_['entry_cancel_payment']                 = 'Cancel Payment';
-$_['entry_order_recurring']                = 'ID';
+$_['entry_cancel_payment']                 = 'Отмена оплаты';
+$_['entry_order_recurring']                = '№';
 $_['entry_order_id']                       = '№ Заказа';
-$_['entry_reference']                      = 'Payment Reference';
-$_['entry_customer']                       = 'Клиент';
-$_['entry_date_added']                     = 'Добавлено';
+$_['entry_reference']                      = 'Способ оплаты';
+$_['entry_customer']                       = 'Покупатель';
+$_['entry_date_added']                     = 'Дата Добавления';
 $_['entry_status']                         = 'Статус';
 $_['entry_type']                           = 'Тип';
 $_['entry_action']                         = 'Действие';
-$_['entry_email']                          = 'Email';
-$_['entry_description']                    = 'Recurring Profile\'s description';
+$_['entry_email']                          = 'E-Mail';
+$_['entry_description']                    = 'Описание Профиля периодического заказа';
 $_['entry_product']                        = 'Товар';
 $_['entry_quantity']                       = 'Количество';
 $_['entry_amount']                         = 'Итого';
@@ -46,6 +53,6 @@ $_['entry_recurring']                      = 'Профиль Периодичн�
 $_['entry_payment_method']                 = 'Способ оплаты';
 
 // Error / Success
-$_['error_not_cancelled']                  = 'Error: %s';
-$_['error_not_found']                      = 'Could not cancel recurring profile';
+$_['error_not_cancelled']                  = 'Ошибка: %s';
+$_['error_not_found']                      = 'Нельзя закрыть регулярный профиль!';
 $_['text_cancelled']                       = 'Регулярный платеж был закрыт';

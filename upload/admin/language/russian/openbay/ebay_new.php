@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']               	= 'New listing';
 $_['text_ebay']               		= 'eBay';
@@ -117,7 +124,7 @@ $_['entry_title']                   = 'Title';
 $_['entry_subtitle']                = 'Sub title';
 $_['entry_description']             = 'Описание';
 $_['entry_profile_load']            = 'Load profile';
-$_['entry_template']                = 'Theme';
+$_['entry_template']                = 'Тематика';
 $_['entry_image_gallery']           = 'Gallery image size';
 $_['entry_image_thumb']             = 'Thumb image size';
 $_['entry_images_supersize']        = 'Supersize images';

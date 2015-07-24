@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 //Headings
 $_['heading_title']                 = 'Login and Pay with Amazon';
 
@@ -51,7 +58,7 @@ $_['text_column_refund_id']			= 'Amazon Refund ID';
 $_['text_column_amount']			= 'Итого';
 $_['text_column_type']				= 'Тип';
 $_['text_column_status']			= 'Статус';
-$_['text_column_date_added']		= 'Добавлено';
+$_['text_column_date_added']		= 'Дата Добавления';
 $_['text_confirm_cancel']			= 'Are you sure you want to cancel the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			= 'Are you sure you want to refund the payment?';

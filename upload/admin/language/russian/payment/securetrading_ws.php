@@ -1,4 +1,11 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 $_['heading_title'] = 'Secure Trading Web Service';
 
 $_['tab_settings'] = 'Настройки';
@@ -61,7 +68,7 @@ $_['entry_minute'] = 'Minute';
 
 $_['column_order_id'] = '№ Заказа';
 $_['column_transaction_reference'] = 'Transaction reference';
-$_['column_customer'] = 'Клиент';
+$_['column_customer'] = 'Покупатель';
 $_['column_total'] = 'Всего';
 $_['column_currency'] = 'Валюта';
 $_['column_settle_status'] = 'Settle status';
