@@ -1,14 +1,21 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']                    = 'Магазины';
 
 // Text
 $_['text_settings']                    = 'Настройки';
 $_['text_success']                     = 'Настройки успешно изменены!';
-$_['text_list']                        = 'Store List';
+$_['text_list']                        = 'Список Магазинов';
 $_['text_add']                         = 'Добавить';
 $_['text_edit']                        = 'Редактирование';
-$_['text_items']                       = 'Items';
+$_['text_items']                       = 'Товары';
 $_['text_tax']                         = 'Налоги';
 $_['text_account']                     = 'Аккаунт';
 $_['text_checkout']                    = 'Оформление заказа';
@@ -18,14 +25,14 @@ $_['text_payment']                     = 'Платёжный адрес';
 
 // Column
 $_['column_name']                      = 'Название Магазина';
-$_['column_url']	                   = 'Store URL';
+$_['column_url']	                   = 'URL магазина';
 $_['column_action']                    = 'Действие';
 
 // Entry
-$_['entry_url']                        = 'Store URL';
+$_['entry_url']                        = 'URL магазина';
 $_['entry_ssl']                        = 'SSL URL';
 $_['entry_name']                       = 'Название Магазина';
-$_['entry_owner']                      = 'Store Owner';
+$_['entry_owner']                      = 'Владелец Магазина';
 $_['entry_address']                    = 'Адрес';
 $_['entry_geocode']                    = 'Геокод';
 $_['entry_email']                      = 'E-Mail';
@@ -35,91 +42,91 @@ $_['entry_image']                      = 'Изображение';
 $_['entry_open']                       = 'Режим работы';
 $_['entry_comment']                    = 'Комментарий';
 $_['entry_location']                   = 'Местонахождение';
-$_['entry_meta_title']                 = 'Meta Title';
-$_['entry_meta_description']           = 'Meta Tag Description';
-$_['entry_meta_keyword']               = 'Meta Tag Keywords';
-$_['entry_layout']                     = 'Default Layout';
-$_['entry_template']                   = 'Template';
+$_['entry_meta_title']                 = 'Мета-тег Title';
+$_['entry_meta_description']           = 'Мета-тег Description';
+$_['entry_meta_keyword']               = 'Мета-тег Keywords';
+$_['entry_layout']                     = 'Макет по умолчанию';
+$_['entry_template']                   = 'Шаблон';
 $_['entry_country']                    = 'Страна';
 $_['entry_zone']                       = 'Регион / Область';
 $_['entry_language']                   = 'Язык';
 $_['entry_currency']                   = 'Валюта';
-$_['entry_product_limit'] 	           = 'Default Items Per Page (Catalog)';
-$_['entry_product_description_length'] = 'List Description Limit (Catalog)';
-$_['entry_tax']                        = 'Display Prices With Tax';
-$_['entry_tax_default']                = 'Use Store Tax Address';
-$_['entry_tax_customer']               = 'Use Customer Tax Address';
+$_['entry_product_limit'] 	           = 'Лимит товаров (Витрина)';
+$_['entry_product_description_length'] = 'Количество символов (Витрина)';
+$_['entry_tax']                        = 'Отображать цены с налогом';
+$_['entry_tax_default']                = 'Налоговый Адрес Магазина';
+$_['entry_tax_customer']               = 'Налоговый Адрес Покупателя';
 $_['entry_customer_group']             = 'Группа Покупателей';
 $_['entry_customer_group_display']     = 'Группы Покупателей';
-$_['entry_customer_price']             = 'Login Display Prices';
-$_['entry_account']                    = 'Account Terms';
-$_['entry_cart_weight']                = 'Display Weight on Cart Page';
-$_['entry_checkout_guest']             = 'Оформить заказ без регистрации';
-$_['entry_checkout']                   = 'Checkout Terms';
-$_['entry_order_status']               = 'Статус';
-$_['entry_stock_display']              = 'Display Stock';
-$_['entry_stock_checkout']             = 'Stock Checkout';
-$_['entry_logo']                       = 'Store Logo';
-$_['entry_icon']                       = 'Icon';
-$_['entry_image_category']             = 'Category Image Size';
-$_['entry_image_thumb']                = 'Product Image Thumb Size';
-$_['entry_image_popup']                = 'Product Image Popup Size';
-$_['entry_image_product']              = 'Product Image List Size';
-$_['entry_image_additional']           = 'Additional Product Image Size';
-$_['entry_image_related']              = 'Related Product Image Size';
-$_['entry_image_compare']              = 'Compare Image Size';
-$_['entry_image_wishlist']             = 'Wish List Image Size';
-$_['entry_image_cart']                 = 'Cart Image Size';
-$_['entry_image_location']             = 'Store Image Size';
+$_['entry_customer_price']             = 'Показывать цены после авторизации';
+$_['entry_account']                    = 'Подтверждение при регистрации';
+$_['entry_cart_weight']                = 'Показывать вес на странице корзины';
+$_['entry_checkout_guest']             = 'Оформление заказа без регистрации';
+$_['entry_checkout']                   = 'Подтверждение при заказе';
+$_['entry_order_status']               = 'Статус Заказа';
+$_['entry_stock_display']              = 'Показывать остаток на складе';
+$_['entry_stock_checkout']             = 'Заказ при нехватке на складе';
+$_['entry_logo']                       = 'Логотип';
+$_['entry_icon']                       = 'Иконка';
+$_['entry_image_category']             = 'Размер изображений категории';
+$_['entry_image_thumb']                = 'Размер большого изображения товара';
+$_['entry_image_popup']                = 'Размер всплывающего изображения товара';
+$_['entry_image_product']              = 'Размер изображений в списке товаров';
+$_['entry_image_additional']           = 'Размер дополнительных изображений товаров';
+$_['entry_image_related']              = 'Размер изображений похожих товаров';
+$_['entry_image_compare']              = 'Размер изображений при сравнении';
+$_['entry_image_wishlist']             = 'Размер изображений в закладках';
+$_['entry_image_cart']                 = 'Размер изображений товаров в корзине';
+$_['entry_image_location']             = 'Размер изображения магазина';
 $_['entry_width']                      = 'Ширина';
 $_['entry_height']                     = 'Высота';
-$_['entry_secure']                     = 'Use SSL';
+$_['entry_secure']                     = 'Использовать SSL';
 
 // Help
-$_['help_url']                         = 'Include the full URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';
-$_['help_ssl']                         = 'SSL URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';
-$_['help_geocode']                     = 'Please enter your store location geocode manually.';
-$_['help_open']                        = 'Fill in your stores opening times.';
-$_['help_comment']                     = 'This field is for any special notes you would like to tell the customer i.e. Store does not accept cheques.';
-$_['help_location']                    = 'The different store locations you have that you want displayed on the contact us form.';
-$_['help_currency']                    = 'Change the default currency. Clear your browser cache to see the change and reset your existing cookie.';
-$_['help_product_limit'] 	           = 'Determines how many catalog items are shown per page (products, categories, etc)';
-$_['help_product_description_length']  = 'In the list view, short description character limit (categories, special etc)';
-$_['help_tax_default']                 = 'Use the store address to calculate taxes if no one is logged in. You can choose to use the store address for the customers shipping or payment address.';
-$_['help_tax_customer']                = 'Use the customers default address when they login to calculate taxes. You can choose to use the default address for the customers shipping or payment address.';
-$_['help_customer_group']              = 'Default customer group.';
-$_['help_customer_group_display']      = 'Display customer groups that new customers can select to use such as wholesale and business when signing up.';
-$_['help_customer_price']              = 'Only show prices when a customer is logged in.';
-$_['help_account']                     = 'Forces people to agree to terms before an account can be created.';
-$_['help_checkout_guest']              = 'Allow customers to checkout without creating an account. This will not be available when a downloadable product is in the shopping cart.';
-$_['help_checkout']                    = 'Forces people to agree to terms before an a customer can checkout.';
-$_['help_order_status']                = 'Set the default order status when an order is processed.';
-$_['help_stock_display']               = 'Display stock quantity on the product page.';
-$_['help_stock_checkout']              = 'Allow customers to still checkout if the products they are ordering are not in stock.';
-$_['help_icon']                        = 'The icon should be a PNG that is 16px x 16px.';
-$_['help_secure']                      = 'To use SSL check with your host if a SSL certificate is installed.';
+$_['help_url']                         = 'Включая полный URL к магазину. Добавьте \'/\' в конце. Например: http://wwww.yourdomain.com/path/ не используйте в качестве адреса директорию основного магазина используйте новый домен или суб домен.';
+$_['help_ssl']                         = 'Включая полный URL к магазину. Добавьте \'/\' в конце. Например: http://wwww.yourdomain.com/path/ не используйте в качестве адреса директорию основного магазина используйте новый домен или суб домен.';
+$_['help_geocode']                     = 'Укажите geocode расположение вашего магазина.';
+$_['help_open']                        = 'Укажите время работы магазина.';
+$_['help_comment']                     = 'Это поле для любых специальных пометок, Которые вы хотели сообщить покупателю, например: что магазин не принимает чеки.';
+$_['help_location']                    = 'Местоположения магазинов, которые вы хотите отображать на странице с формой обратной связи.';
+$_['help_currency']                    = 'Измение валюты по умолчанию. Необходимо очистить кэш браузера и сбросить cookie, чтобы увидеть изменения.';
+$_['help_product_limit'] 	           = 'Определяет количество элементов, показываемых на одной странице в каталоге (товары, категории и т.д.)';
+$_['help_product_description_length']  = 'Количество символов краткого описания (категории, специальные и т.д.)';
+$_['help_tax_default']                 = 'Использовать адрес магазина для подсчета налогов для покупателей без авторизации. Вы можете выбрать его в качестве адреса доставки покупателям или как адрес оплаты.';
+$_['help_tax_customer']                = 'Использовать адрес по умолчанию для авторизованного покупателя с целью подсчета налогов. Вы можете выбрать адрес по умолчанию для доставки или оплаты.';
+$_['help_customer_group']              = 'Группа покупателей по умолчанию.';
+$_['help_customer_group_display']      = 'Отображать группы для новых покупателей которые доступны для выбра при регистрации в качестве оптовиков или юридических лиц.';
+$_['help_customer_price']              = 'Показывать цены только зарегистрированнным покупателям.';
+$_['help_account']                     = 'Требовать подтверждение согласия с правилами при регистрации аккаунта.';
+$_['help_checkout_guest']              = 'Позволить покупателям оформлять заказы без регистрации Личного кабинета. Эта функция не будет доступна, если в корзине будут загружаемые в виде файла товары.';
+$_['help_checkout']                    = 'Требовать подтверждение согласия с правилами при оформлении заказа.';
+$_['help_order_status']                = 'Статус заказа по умолчанию.';
+$_['help_stock_display']               = 'Показывать остаток товаров на складе на странице товара.';
+$_['help_stock_checkout']              = 'Разрешить покупателям оформлять заказ, если заказываемых товаров на данный момент нет на складе.';
+$_['help_icon']                        = 'Иконка должна быть PNG размером 16px x 16px.';
+$_['help_secure']                      = 'Для использования SSL убедитесь в том, что на хостинге установлен SSL-сертификат.';
 
 // Error
 $_['error_warning']                    = 'Внимательно проверьте форму на ошибки!';
 $_['error_permission']                 = 'У вас недостаточно прав для внесения изменений!';
 $_['error_name']                       = 'Название должно содержать от 3 до 32 символов!';
-$_['error_owner']                      = 'Store Owner must be between 3 and 64 characters!';
-$_['error_address']                    = 'Store Address must be between 10 and 256 characters!';
+$_['error_owner']                      = 'Имя владельца магазина должно содержать от 3 до 64 символов!';
+$_['error_address']                    = 'Адрес магазина должен содержать от 10 до 256 символов!';
 $_['error_email']                      = 'E-Mail адрес введен неверно!';
 $_['error_telephone']                  = 'Номер телефона должен содержать от 3 до 32 символов!';
-$_['error_url']                        = 'Store URL required!';
-$_['error_meta_title']                 = 'Title must be between 3 and 32 characters!';
-$_['error_limit']       	           = 'Limit required!';
-$_['error_customer_group_display']     = 'You must include the default customer group if you are going to use this feature!';
-$_['error_image_thumb']                = 'Product Image Thumb Size dimensions required!';
-$_['error_image_popup']                = 'Product Image Popup Size dimensions required!';
-$_['error_image_product']              = 'Product List Size dimensions required!';
-$_['error_image_category']             = 'Category List Size dimensions required!';
-$_['error_image_additional']           = 'Additional Product Image Size dimensions required!';
-$_['error_image_related']              = 'Related Product Image Size dimensions required!';
-$_['error_image_compare']              = 'Compare Image Size dimensions required!';
-$_['error_image_wishlist']             = 'Wish List Image Size dimensions required!';
-$_['error_image_cart']                 = 'Cart Image Size dimensions required!';
-$_['error_image_location']             = 'Store Image Size dimensions required!';
-$_['error_default']                    = 'Warning: You can not delete your default store!';
-$_['error_store']                      = 'Warning: This Store cannot be deleted as it is currently assigned to %s orders!';
+$_['error_url']                        = 'Необходим URL магазина!';
+$_['error_meta_title']                 = 'Мета-тег Title должен содержать от 3 до 32 символов!';
+$_['error_limit']       	           = 'Укажите лимиты!';
+$_['error_customer_group_display']     = 'Вы должны включить группу покупателей по умолчанию, если собираетесь использовать эту опцию!';
+$_['error_image_thumb']                = 'Необходимо установить размер большого изображения товара!';
+$_['error_image_popup']                = 'Необходимо установить размер всплывающего изображения товара!';
+$_['error_image_product']              = 'Необходимо установить размер изображения в списке товаров!';
+$_['error_image_category']             = 'Необходимо установить размер изображения категорий!';
+$_['error_image_additional']           = 'Необходимо установить размер дополнительных изображений товаров!';
+$_['error_image_related']              = 'Необходимо установить размер изображения похожих товаров!';
+$_['error_image_compare']              = 'Необходимо установить размер изображений при сравнении!';
+$_['error_image_wishlist']             = 'Необходимо установить размер изображений в закладках!';
+$_['error_image_cart']                 = 'Необходимо установить размер изображений товаров в корзине!';
+$_['error_image_location']             = 'Необходимо установить размер изображения магазина!';
+$_['error_default']                    = 'Нельзя удалить основной магазин!';
+$_['error_store']                      = 'Этот магазин нельзя удалить, поскольку он назначен к %s заказам!';

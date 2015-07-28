@@ -13,7 +13,7 @@ $_['text_ebay']                         = 'eBay';
 
 //Tabs
 $_['tab_returns']          				= 'Возврат товара';
-$_['tab_template']         				= 'Template';
+$_['tab_template']         				= 'Шаблон';
 $_['tab_gallery']          				= 'Gallery';
 $_['tab_settings']         				= 'Настройки';
 

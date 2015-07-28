@@ -15,7 +15,7 @@ $_['text_success']     = 'Список просмотренных товаров
 
 // Column
 $_['column_name']      = 'Название Товара';
-$_['column_model']     = 'Модель';
+$_['column_model']     = 'Код Товара';
 $_['column_viewed']    = 'Просмотров';
 $_['column_percent']   = 'Процент';
 

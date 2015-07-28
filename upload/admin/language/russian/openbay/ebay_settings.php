@@ -53,7 +53,7 @@ $_['text_edit']						= 'Редактирование';
 
 // Entry
 $_['entry_status']					= 'Статус';
-$_['entry_token']					= 'Token';
+$_['entry_token']					= 'Токен';
 $_['entry_secret']					= 'Secret';
 $_['entry_string1']					= 'Encryption string 1';
 $_['entry_string2']					= 'Encryption string 2';

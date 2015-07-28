@@ -1,15 +1,22 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
-$_['text_search_options']           = 'Search Options';
+$_['text_search_options']           = 'Опции поиска';
 $_['text_catalog']                  = 'Каталог';
-$_['text_customers']                = 'Покупатели';
+$_['text_customers']                = 'Пользователи';
 $_['text_orders']                   = 'Заказы';
 $_['text_products']                 = 'Товары';
 $_['text_categories']               = 'Категории';
 $_['text_manufacturers']            = 'Производители';
-$_['text_catalog_placeholder']      = 'Name, Model, SKU';
-$_['text_customers_placeholder']    = 'First Name, Last Name, E-Mail';
-$_['text_orders_placeholder']       = 'Order Id, Invoice No, First Name, Last Name, E-mail';
+$_['text_catalog_placeholder']      = 'Название, Код Товара, SKU';
+$_['text_customers_placeholder']    = 'Фамилия, Имя, E-Mail';
+$_['text_orders_placeholder']       = 'Номер Заказа, Номер счета, Фамилия, Имя, E-mail';
 $_['text_search_placeholder']       = 'Поиск';
-$_['text_no_result']                = '- No Result -';
-$_['text_order_id']                 = 'Order ID: ';
+$_['text_no_result']                = '- Нет Результатов -';
+$_['text_order_id']                 = 'Номер Заказа: ';
