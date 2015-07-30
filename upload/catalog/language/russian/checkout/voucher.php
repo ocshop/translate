@@ -7,13 +7,13 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Использовать Подарочный сертификат';
+$_['heading_title'] = 'Использовать подарочный сертификат';
 
 // Text
 $_['text_success']  = 'Подарочный сертификат успешно применен!';
 
 // Entry
-$_['entry_voucher'] = 'Введите код вашего Подарочного сертификата';
+$_['entry_voucher'] = 'Введите код вашего подарочного сертификата';
 
 // Error
 $_['error_voucher'] = 'Подарочный сертификат недействителен или уже был использован!';

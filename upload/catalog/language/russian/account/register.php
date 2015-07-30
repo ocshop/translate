@@ -1,16 +1,23 @@
 <?php
+// *	@copyright	OCSHOP.CMS \ ocshop.net 2011 - 2015.
+// *	@demo	http://ocshop.net
+// *	@blog	http://ocshop.info
+// *	@forum	http://forum.ocshop.info
+// *	@source		See SOURCE.txt for source and other copyright.
+// *	@license	GNU General Public License version 3; see LICENSE.txt
+
 // Heading
 $_['heading_title']        = 'Регистрация';
 
 // Text
 $_['text_account']         = 'Аккаунт';
 $_['text_register']        = 'Регистрация';
-$_['text_account_already'] = 'If you already have an account with us, please login at the <a href="%s">login page</a>.';
-$_['text_your_details']    = 'Ваша учетная запись';
+$_['text_account_already'] = 'Если Вы уже зарегистрированы, перейдите на страницу <a href="%s">входа в систему</a>.';
+$_['text_your_details']    = 'Контактные данные';
 $_['text_your_address']    = 'Ваш Адрес';
-$_['text_newsletter']      = 'Рассылка';
+$_['text_newsletter']      = 'Рассылка новостей';
 $_['text_your_password']   = 'Ваш пароль';
-$_['text_agree']           = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree']           = 'Я прочитал и согласен с условиями <a href="%s" class="agree"><b>%s</b></a>';
 
 // Entry
 $_['entry_customer_group'] = 'Группа Покупателей';
@@ -26,7 +33,7 @@ $_['entry_postcode']       = 'Почтовый индекс';
 $_['entry_city']           = 'Город';
 $_['entry_country']        = 'Страна';
 $_['entry_zone']           = 'Регион / Область';
-$_['entry_newsletter']     = 'Подписаться';
+$_['entry_newsletter']     = 'Получать новости на E-Mail';
 $_['entry_password']       = 'Пароль';
 $_['entry_confirm']        = 'Подтвердите пароль';
 
