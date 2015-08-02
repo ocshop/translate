@@ -27,8 +27,8 @@ $_['column_action']      	 = 'Действие';
 // Entry
 $_['entry_name']             = 'Название Производителя';
 $_['entry_description']      = 'Описание';
-$_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_h1'] 	     = 'HTML Tag H1';
+$_['entry_meta_title'] 	     = 'Мета-тег Title';
+$_['entry_meta_h1'] 	     = 'HTML-тег H1';
 $_['entry_meta_keyword'] 	 = 'Мета-тег Keywords';
 $_['entry_meta_description'] = 'Мета-тег Description';
 $_['entry_store']            = 'Магазины';
