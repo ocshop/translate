@@ -13,7 +13,6 @@ $_['heading_title']              = 'Заказы';
 $_['text_list']                  = 'Список Заказов';
 $_['text_add']                   = 'Добавить Заказ';
 $_['text_edit']                  = 'Редактирование';
-$_['text_ip_add']                = 'Вы должны добавить Ваш IP %s в список API по умолчанию.';
 $_['text_order_detail']          = 'Детали заказа';
 $_['text_customer_detail']       = 'Покупатель';
 $_['text_option']                = 'Опции';
@@ -42,8 +41,6 @@ $_['text_ip']                    = 'IP адрес';
 $_['text_forwarded_ip']          = 'Переадресованный IP';
 $_['text_user_agent']            = 'Броузер (User Agent)';
 $_['text_accept_language']       = 'Используемый Язык';
-
-
 $_['text_order_id']              = '№ заказа:';
 $_['text_fax']                   = 'Факс:';
 $_['text_website']               = 'Веб-сайт:';
@@ -55,15 +52,12 @@ $_['text_ean']                   = 'EAN:';
 $_['text_jan']                   = 'JAN:';
 $_['text_isbn']                  = 'ISBN:';
 $_['text_mpn']                   = 'MPN:';
-
-
 $_['text_missing']               = 'Потерянные Заказы';
 $_['text_default']               = 'По умолчанию';
 $_['text_product']               = 'Добавить Товар(ы)';
 $_['text_voucher']               = 'Добавить подарочный сертификат';
 $_['text_shipping']              = 'Доставка';
 $_['text_contact']               = 'Контакт';
-
 $_['text_reward_added']          = 'Бонусные баллы добавлены!';
 $_['text_reward_removed']        = 'Бонусные баллы удалены!';
 $_['text_commission_added']      = 'Комисиия добавлена!';
