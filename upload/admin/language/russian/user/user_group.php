@@ -7,20 +7,20 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Группы Пользователей';
+$_['heading_title']     = 'Группы пользователей';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Список Групп Пользователей';
+$_['text_list']         = 'Список групп пользователей';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
-$_['column_name']       = 'Название Группы Пользователей';
+$_['column_name']       = 'Название группы пользователей';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Название Группы Пользователей';
+$_['entry_name']        = 'Название группы пользователей';
 $_['entry_access']      = 'Разрешён просмотр';
 $_['entry_modify']      = 'Разрешено внесение изменений';
 

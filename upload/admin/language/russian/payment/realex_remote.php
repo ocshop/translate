@@ -50,7 +50,7 @@ $_['text_realex_remote']			= '<a target="_BLANK" href="http://www.realexpayments
 // Column
 $_['text_column_amount']			= 'Итого';
 $_['text_column_type']				= 'Тип';
-$_['text_column_date_added']		= 'Дата Добавления';
+$_['text_column_date_added']		= 'Дата добавления';
 
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';

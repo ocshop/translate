@@ -12,7 +12,7 @@ $_['heading_title']                    = 'Магазины';
 // Text
 $_['text_settings']                    = 'Настройки';
 $_['text_success']                     = 'Настройки успешно изменены!';
-$_['text_list']                        = 'Список Магазинов';
+$_['text_list']                        = 'Список магазинов';
 $_['text_add']                         = 'Добавить';
 $_['text_edit']                        = 'Редактирование';
 $_['text_items']                       = 'Товары';
@@ -24,14 +24,14 @@ $_['text_shipping']                    = 'Адрес доставки';
 $_['text_payment']                     = 'Платёжный адрес';
 
 // Column
-$_['column_name']                      = 'Название Магазина';
+$_['column_name']                      = 'Название магазина';
 $_['column_url']	                   = 'URL магазина';
 $_['column_action']                    = 'Действие';
 
 // Entry
 $_['entry_url']                        = 'URL магазина';
 $_['entry_ssl']                        = 'SSL URL';
-$_['entry_name']                       = 'Название Магазина';
+$_['entry_name']                       = 'Название магазина';
 $_['entry_owner']                      = 'Владелец Магазина';
 $_['entry_address']                    = 'Адрес';
 $_['entry_geocode']                    = 'Геокод';
@@ -54,16 +54,16 @@ $_['entry_currency']                   = 'Валюта';
 $_['entry_product_limit'] 	           = 'Лимит товаров (Витрина)';
 $_['entry_product_description_length'] = 'Количество символов (Витрина)';
 $_['entry_tax']                        = 'Отображать цены с налогом';
-$_['entry_tax_default']                = 'Налоговый Адрес Магазина';
-$_['entry_tax_customer']               = 'Налоговый Адрес Покупателя';
-$_['entry_customer_group']             = 'Группа Покупателей';
-$_['entry_customer_group_display']     = 'Группы Покупателей';
+$_['entry_tax_default']                = 'Налоговый адрес магазина';
+$_['entry_tax_customer']               = 'Налоговый адрес покупателя';
+$_['entry_customer_group']             = 'Группа покупателей';
+$_['entry_customer_group_display']     = 'Группы покупателей';
 $_['entry_customer_price']             = 'Показывать цены после авторизации';
 $_['entry_account']                    = 'Подтверждение при регистрации';
 $_['entry_cart_weight']                = 'Показывать вес на странице корзины';
 $_['entry_checkout_guest']             = 'Оформление заказа без регистрации';
 $_['entry_checkout']                   = 'Подтверждение при заказе';
-$_['entry_order_status']               = 'Статус Заказа';
+$_['entry_order_status']               = 'Статус заказа';
 $_['entry_stock_display']              = 'Показывать остаток на складе';
 $_['entry_stock_checkout']             = 'Заказ при нехватке на складе';
 $_['entry_logo']                       = 'Логотип';

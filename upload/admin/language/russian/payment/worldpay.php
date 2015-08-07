@@ -75,7 +75,7 @@ $_['text_total_released']		 = 'Total released';
 $_['text_transactions']			 = 'Операции';
 $_['text_column_amount']		 = 'Итого';
 $_['text_column_type']			 = 'Тип';
-$_['text_column_date_added']	 = 'Дата Добавления';
+$_['text_column_date_added']	 = 'Дата добавления';
 
 $_['text_confirm_refund']		 = 'Are you sure you want to refund the payment?';
 

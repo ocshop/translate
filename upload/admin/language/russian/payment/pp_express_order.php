@@ -28,7 +28,7 @@ $_['column_amount']					= 'Итого';
 $_['column_type']					= 'Payment type';
 $_['column_status']					= 'Статус';
 $_['column_pend_reason']			= 'Pending reason';
-$_['column_date_added']				= 'Дата Добавления';
+$_['column_date_added']				= 'Дата добавления';
 $_['column_action']					= 'Действие';
 
 // Button

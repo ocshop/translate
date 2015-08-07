@@ -11,19 +11,19 @@ $_['heading_title']          = 'Регионы';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';
-$_['text_list']              = 'Список Регионов';
+$_['text_list']              = 'Список регионов';
 $_['text_add']               = 'Добавить';
 $_['text_edit']              = 'Редактирование';
 
 // Column
-$_['column_name']            = 'Название Региона';
-$_['column_code']            = 'Код Региона';
+$_['column_name']            = 'Название региона';
+$_['column_code']            = 'Код региона';
 $_['column_country']         = 'Страна';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Название Региона';
-$_['entry_code']             = 'Код Региона';
+$_['entry_name']             = 'Название региона';
+$_['entry_code']             = 'Код региона';
 $_['entry_country']          = 'Страна';
 $_['entry_status']           = 'Статус';
 

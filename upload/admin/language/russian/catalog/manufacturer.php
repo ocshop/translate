@@ -11,7 +11,7 @@ $_['heading_title']      	 = 'Производители';
 
 // Text
 $_['text_success']       	 = 'Настройки успешно изменены!';
-$_['text_list']          	 = 'Список Производителей';
+$_['text_list']          	 = 'Список производителей';
 $_['text_add']           	 = 'Добавить';
 $_['text_edit']          	 = 'Редактирование';
 $_['text_default']       	 = 'По умолчанию';
@@ -19,13 +19,13 @@ $_['text_percent']       	 = 'Процент';
 $_['text_amount']        	 = 'Фиксированная сумма';
 
 // Column
-$_['column_name']        	 = 'Название Производителя';
+$_['column_name']        	 = 'Название производителя';
 $_['column_sort_order']  	 = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
 $_['column_action']      	 = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Название Производителя';
+$_['entry_name']             = 'Название производителя';
 $_['entry_description']      = 'Описание';
 $_['entry_meta_title'] 	     = 'Мета-тег Title';
 $_['entry_meta_h1'] 	     = 'HTML-тег H1';

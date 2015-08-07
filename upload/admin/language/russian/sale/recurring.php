@@ -7,14 +7,14 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']                        = 'Профили Периодичности';
+$_['heading_title']                        = 'Профили периодичности';
 
 // Text
 $_['text_success']                         = 'Настройки успешно изменены!';
-$_['text_list']                            = 'Список Профилей Переодичности';
+$_['text_list']                            = 'Список профилей переодичности';
 $_['text_add']                             = 'Добавить';
 $_['text_edit']                            = 'Редактирование';
-$_['text_payment_profiles']                = 'Профили Периодичности';
+$_['text_payment_profiles']                = 'Профили периодичности';
 $_['text_status_active']                   = 'Включен';
 $_['text_status_inactive']                 = 'Выключен';
 $_['text_status_cancelled']                = 'Отменен';
@@ -23,7 +23,7 @@ $_['text_status_expired']                  = 'Истек';
 $_['text_status_pending']                  = 'Ожидает';
 $_['text_transactions']                    = 'Операции';
 $_['text_cancel_confirm']                  = 'Удаление профиля нельзя отменить! Вы уверены?';
-$_['text_transaction_date_added']          = 'Дата Добавления';
+$_['text_transaction_date_added']          = 'Дата добавления';
 $_['text_transaction_payment'] 			   = 'Платеж';
 $_['text_transaction_outstanding_payment'] = 'Непоступивший платеж';
 $_['text_transaction_skipped']             = 'Платеж пропущен';
@@ -40,16 +40,16 @@ $_['entry_order_recurring']                = '№';
 $_['entry_order_id']                       = '№ Заказа';
 $_['entry_reference']                      = 'Способ оплаты';
 $_['entry_customer']                       = 'Покупатель';
-$_['entry_date_added']                     = 'Дата Добавления';
+$_['entry_date_added']                     = 'Дата добавления';
 $_['entry_status']                         = 'Статус';
 $_['entry_type']                           = 'Тип';
 $_['entry_action']                         = 'Действие';
 $_['entry_email']                          = 'E-Mail';
-$_['entry_description']                    = 'Описание Профиля периодического заказа';
+$_['entry_description']                    = 'Описание профиля периодического заказа';
 $_['entry_product']                        = 'Товар';
 $_['entry_quantity']                       = 'Количество';
 $_['entry_amount']                         = 'Итого';
-$_['entry_recurring']                      = 'Профиль Периодичности';
+$_['entry_recurring']                      = 'Профиль периодичности';
 $_['entry_payment_method']                 = 'Способ оплаты';
 
 // Error / Success

@@ -11,39 +11,39 @@ $_['heading_title']       = 'Купоны';
 
 // Text
 $_['text_success']        = 'Настройки успешно изменены!';
-$_['text_list']           = 'Список Купонов';
+$_['text_list']           = 'Список купонов';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';
 $_['text_percent']        = 'Процент';
 $_['text_amount']         = 'Фиксированная сумма';
 
 // Column
-$_['column_name']         = 'Название Купона';
+$_['column_name']         = 'Название купона';
 $_['column_code']         = 'Код';
 $_['column_discount']     = 'Скидка';
-$_['column_date_start']   = 'Дата Начала';
-$_['column_date_end']     = 'Дата Окончания';
+$_['column_date_start']   = 'Дата начала';
+$_['column_date_end']     = 'Дата окончания';
 $_['column_status']       = 'Статус';
 $_['column_order_id']     = '№ Заказа';
 $_['column_customer']     = 'Покупатель';
 $_['column_amount']       = 'Итого';
-$_['column_date_added']   = 'Дата Добавления';
+$_['column_date_added']   = 'Дата добавления';
 $_['column_action']       = 'Действие';
 
 // Entry
-$_['entry_name']          = 'Название Купона';
+$_['entry_name']          = 'Название купона';
 $_['entry_code']          = 'Код';
 $_['entry_type']          = 'Тип';
 $_['entry_discount']      = 'Скидка';
-$_['entry_logged']        = 'Авторизация Покупателя';
-$_['entry_shipping']      = 'Бесплатная Доставка';
+$_['entry_logged']        = 'Авторизация покупателя';
+$_['entry_shipping']      = 'Бесплатная доставка';
 $_['entry_total']         = 'Сумма';
 $_['entry_category']      = 'Категории';
 $_['entry_product']       = 'Товары';
-$_['entry_date_start']    = 'Дата Начала';
-$_['entry_date_end']      = 'Дата Окончания';
-$_['entry_uses_total']    = 'Количество Применений Купона';
-$_['entry_uses_customer'] = 'Количество Применений Одним Покупателем';
+$_['entry_date_start']    = 'Дата начала';
+$_['entry_date_end']      = 'Дата окончания';
+$_['entry_uses_total']    = 'Количество применений купона';
+$_['entry_uses_customer'] = 'Количество применений одним покупателем';
 $_['entry_status']        = 'Статус';
 
 // Help

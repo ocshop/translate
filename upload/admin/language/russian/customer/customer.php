@@ -11,28 +11,28 @@ $_['heading_title']         = 'Покупатели';
 
 // Text
 $_['text_success']          = 'Настройки успешно изменены!';
-$_['text_list']             = 'Список Покупателей';
+$_['text_list']             = 'Список покупателей';
 $_['text_add']              = 'Добавить';
 $_['text_edit']             = 'Редактирование';
 $_['text_default']          = 'По умолчанию';
 $_['text_balance']          = 'Баланс';
 
 // Column
-$_['column_name']           = 'Имя Покупателя';
+$_['column_name']           = 'Имя покупателя';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа Покупателей';
+$_['column_customer_group'] = 'Группа покупателей';
 $_['column_status']         = 'Статус';
-$_['column_date_added']     = 'Дата Добавления';
+$_['column_date_added']     = 'Дата добавления';
 $_['column_comment']        = 'Комментарий';
 $_['column_description']    = 'Описание';
 $_['column_amount']         = 'Итого';
-$_['column_points']         = 'Бонусные Баллы';
+$_['column_points']         = 'Бонусные баллы';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Общая сумма';
 $_['column_action']         = 'Действие';
 
 // Entry
-$_['entry_customer_group']  = 'Группа Покупателей';
+$_['entry_customer_group']  = 'Группа покупателей';
 $_['entry_firstname']       = 'Имя';
 $_['entry_lastname']        = 'Фамилия';
 $_['entry_email']           = 'E-Mail';
@@ -56,9 +56,9 @@ $_['entry_comment']         = 'Комментарий';
 $_['entry_description']     = 'Описание';
 $_['entry_amount']          = 'Итого';
 $_['entry_points']          = 'Бонусные баллы';
-$_['entry_name']            = 'Имя Покупателя';
+$_['entry_name']            = 'Имя покупателя';
 $_['entry_ip']              = 'IP';
-$_['entry_date_added']      = 'Дата Добавления';
+$_['entry_date_added']      = 'Дата добавления';
 
 // Help
 $_['help_safe']             = 'Установите значение Настоящий, в том случае если он был ошибочно определен системой по борьбе с мошенничеством';

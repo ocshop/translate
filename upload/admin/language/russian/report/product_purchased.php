@@ -10,18 +10,18 @@
 $_['heading_title']     = 'Отчет по купленным товарам';
 
 // Text
-$_['text_list']         = 'Список Купленных Товаров';
+$_['text_list']         = 'Список купленных товаров';
 $_['text_all_status']   = 'Все статусы';
 
 // Column
-$_['column_date_start'] = 'Дата Начала';
-$_['column_date_end']   = 'Дата Окончания';
-$_['column_name']       = 'Название Товара';
-$_['column_model']      = 'Код Товара';
+$_['column_date_start'] = 'Дата начала';
+$_['column_date_end']   = 'Дата окончания';
+$_['column_name']       = 'Название товара';
+$_['column_model']      = 'Код товара';
 $_['column_quantity']   = 'Количество';
 $_['column_total']      = 'Итого';
 
 // Entry
-$_['entry_date_start']  = 'Дата Начала';
-$_['entry_date_end']    = 'Дата Окончания';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';
 $_['entry_status']      = 'Статус';

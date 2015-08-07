@@ -38,5 +38,5 @@ $_['text_list']					= 'Order list';
 $_['entry_carrier']             = 'Carrier';
 $_['entry_tracking_no']         = 'Tracking';
 $_['entry_other']               = 'Other';
-$_['entry_date_added']          = 'Дата Добавления';
+$_['entry_date_added']          = 'Дата добавления';
 $_['entry_order_channel']       = 'Order channel';

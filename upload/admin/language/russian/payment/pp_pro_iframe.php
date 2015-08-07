@@ -42,7 +42,7 @@ $_['text_coupon_amount']			= 'Coupon amount';
 $_['text_coupon_currency']			= 'Coupon currency';
 $_['text_loyalty_disc_amt']			= 'Loyalty card disc amount';
 $_['text_loyalty_currency']			= 'Loyalty card currency';
-$_['text_options_name']				= 'Опции' name';
+$_['text_options_name']				= 'Опции name';
 $_['text_tax_amt']					= 'Tax amount';
 $_['text_currency_code']			= 'Currency code';
 $_['text_amount']					= 'Итого';
@@ -121,7 +121,7 @@ $_['column_amount']					= 'Итого';
 $_['column_type']					= 'Payment type';
 $_['column_status']					= 'Статус';
 $_['column_pend_reason']			= 'Pending reason';
-$_['column_date_added']				= 'Дата Добавления';
+$_['column_date_added']				= 'Дата добавления';
 $_['column_action']					= 'Действие';
 
 // Tab

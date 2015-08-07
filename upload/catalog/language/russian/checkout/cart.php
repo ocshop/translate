@@ -35,8 +35,8 @@ $_['text_payment_until_canceled_description'] 	= 'Стоимость: %s; Пер
 
 // Column
 $_['column_image']          					= 'Изображение';
-$_['column_name']           					= 'Название Товара';
-$_['column_model']          					= 'Код Товара';
+$_['column_name']           					= 'Название товара';
+$_['column_model']          					= 'Код товара';
 $_['column_quantity']       					= 'Количество';
 $_['column_price']          					= 'Цена за единицу товара';
 $_['column_total']          					= 'Всего';

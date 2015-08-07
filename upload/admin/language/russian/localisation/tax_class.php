@@ -7,25 +7,25 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Налоговые Классы';
+$_['heading_title']     = 'Налоговые классы';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Список Налоговых Классов';
+$_['text_list']         = 'Список налоговых классов';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 $_['text_shipping']     = 'Адрес доставки';
 $_['text_payment']      = 'Платёжный адрес';
-$_['text_store']        = 'Адрес Магазина';
+$_['text_store']        = 'Адрес магазина';
 
 // Column
-$_['column_title']      = 'Название Налогового Класса';
+$_['column_title']      = 'Название налогового класса';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_title']       = 'Название Налогового Класса';
+$_['entry_title']       = 'Название налогового класса';
 $_['entry_description'] = 'Описание';
-$_['entry_rate']        = 'Ставка Налога';
+$_['entry_rate']        = 'Ставка налога';
 $_['entry_based']       = 'Основана на';
 $_['entry_geo_zone']    = 'Географическая зона';
 $_['entry_priority']    = 'Приоритет';

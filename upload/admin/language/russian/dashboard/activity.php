@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']                = 'Последняя Активность';
+$_['heading_title']                = 'Последняя активность';
 
 // Text
 $_['text_customer_address_add']    = '<a href="customer_id=%d">%s</a> - добавлен новый адрес.';

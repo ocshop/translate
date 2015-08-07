@@ -33,13 +33,13 @@ $_['text_total_released']			= 'Total released';
 $_['text_transactions']				= 'Операции';
 $_['text_column_amount']			= 'Итого';
 $_['text_column_type']				= 'Тип';
-$_['text_column_date_added']		= 'Дата Добавления';
+$_['text_column_date_added']		= 'Дата добавления';
 $_['text_confirm_void']				= 'Are you sure you want to void the payment?';
 $_['text_confirm_release']			= 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 
 // Entry
-$_['entry_account_name']			= 'Имя счета';
+$_['entry_account_name']			= 'Название счета';
 $_['entry_account_id']				= 'Account ID';
 $_['entry_secret_key']				= 'Secret Key';
 $_['entry_test']					= 'Test Mode';

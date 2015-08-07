@@ -7,10 +7,10 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Отчет Партнерской Активности';
+$_['heading_title']     = 'Отчет партнерской активности';
 
 // Text
-$_['text_list']         = 'Список Партнерской Активности';
+$_['text_list']         = 'Список партнерской активности';
 $_['text_edit']         = '<a href="affiliate_id=%d">%s</a> - обновлена информация аккаунта.';
 $_['text_forgotten']    = '<a href="affiliate_id=%d">%s</a> - запрос нового пароля.';
 $_['text_login']        = '<a href="affiliate_id=%d">%s</a> - выполнен вход.';
@@ -22,10 +22,10 @@ $_['text_register']     = '<a href="affiliate_id=%d">%s</a> - зарегистр
 $_['column_affiliate']  = 'Партнер';
 $_['column_comment']    = 'Комментарий';
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Дата Добавления';
+$_['column_date_added'] = 'Дата добавления';
 
 // Entry
 $_['entry_affiliate']   = 'Партнер';
 $_['entry_ip']          = 'IP';
-$_['entry_date_start']  = 'Дата Начала';
-$_['entry_date_end']    = 'Дата Окончания';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';

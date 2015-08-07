@@ -48,14 +48,14 @@ $_['text_month']                     = 'Месяц';
 $_['text_year']                      = 'Год';
 
 // Column
-$_['column_name']                    = 'Название Товара';
-$_['column_model']                   = 'Код Товара';
+$_['column_name']                    = 'Название товара';
+$_['column_model']                   = 'Код товара';
 $_['column_quantity']                = 'Количество';
 $_['column_price']                   = 'Цена за единицу товара';
 $_['column_total']                   = 'Всего';
 
 // Entry
-$_['entry_email_address']            = 'E-Mail Адрес';
+$_['entry_email_address']            = 'E-Mail адрес';
 $_['entry_email']                    = 'E-Mail';
 $_['entry_password']                 = 'Пароль';
 $_['entry_confirm']                  = 'Подтвердите пароль';
@@ -65,7 +65,7 @@ $_['entry_telephone']                = 'Телефон';
 $_['entry_fax']                      = 'Факс';
 $_['entry_address']                  = 'Выберите адрес';
 $_['entry_company']                  = 'Компания';
-$_['entry_customer_group']           = 'Группа Покупателей';
+$_['entry_customer_group']           = 'Группа покупателей';
 $_['entry_address_1']                = 'Адрес 1';
 $_['entry_address_2']                = 'Адрес 2';
 $_['entry_postcode']                 = 'Почтовый индекс';

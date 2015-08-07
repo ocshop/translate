@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Отзывы';
+$_['heading_title']     = 'Отзывы блога';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
@@ -20,7 +20,7 @@ $_['column_article']    = 'Статья';
 $_['column_author']     = 'Автор';
 $_['column_rating']     = 'Рейтинг';
 $_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Дата Добавления';
+$_['column_date_added'] = 'Дата добавления';
 $_['column_action']     = 'Действие';
 
 // Entry
@@ -29,7 +29,7 @@ $_['entry_author']      = 'Автор';
 $_['entry_rating']      = 'Рейтинг';
 $_['entry_status']      = 'Статус';
 $_['entry_text']        = 'Текст';
-$_['entry_date_added']  = 'Дата Добавления';
+$_['entry_date_added']  = 'Дата добавления';
 
 // Help
 $_['help_article']      = '(Автозаполнение)';

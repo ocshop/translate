@@ -7,21 +7,21 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Группы Характеристик';
+$_['heading_title']     = 'Группы характеристик';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Список Групы Характеристик';
+$_['text_list']         = 'Список групп характеристик';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
-$_['column_name']       = 'Название Группы Характеристик';
+$_['column_name']       = 'Название группы характеристик';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Название Группы Характеристик';
+$_['entry_name']        = 'Название группы характеристик';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Error

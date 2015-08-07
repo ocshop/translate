@@ -7,23 +7,23 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Единицы Веса';
+$_['heading_title']    = 'Единицы веса';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
-$_['text_list']        = 'Список Единиц Веса';
+$_['text_list']        = 'Список единиц веса';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';
 
 // Column
-$_['column_title']     = 'Название Единицы Веса';
-$_['column_unit']      = 'Единица Веса';
+$_['column_title']     = 'Название единицы веса';
+$_['column_unit']      = 'Единица веса';
 $_['column_value']     = 'Значение';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_title']      = 'Название Единицы Веса';
-$_['entry_unit']       = 'Единица Веса';
+$_['entry_title']      = 'Название единицы веса';
+$_['entry_unit']       = 'Единица веса';
 $_['entry_value']      = 'Значение';
 
 // Help

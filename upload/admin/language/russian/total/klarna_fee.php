@@ -10,7 +10,7 @@
 $_['heading_title']    = 'Klarna Fee';
 
 // Text
-$_['text_total']       = 'Учитывать в Заказе';
+$_['text_total']       = 'Учитывать в заказе';
 $_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 $_['text_sweden']      = 'Sweden';

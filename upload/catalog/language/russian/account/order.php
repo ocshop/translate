@@ -10,12 +10,12 @@
 $_['heading_title']         = 'История заказов';
 
 // Text
-$_['text_account']          = 'Личный Кабинет';
+$_['text_account']          = 'Личный кабинет';
 $_['text_order']            = 'Заказ';
 $_['text_order_detail']     = 'Детали заказа';
 $_['text_invoice_no']       = '№ Счета:';
 $_['text_order_id']         = '№ заказа:';
-$_['text_date_added']       = 'Дата Добавления:';
+$_['text_date_added']       = 'Дата добавления:';
 $_['text_shipping_address'] = 'Адрес доставки';
 $_['text_shipping_method']  = 'Способ доставки:';
 $_['text_payment_address']  = 'Платёжный адрес';
@@ -30,13 +30,13 @@ $_['text_error']            = 'Запрошенный заказ не найде
 $_['column_order_id']       = '№ Заказа';
 $_['column_product']        = 'Количество Товаров';
 $_['column_customer']       = 'Покупатель';
-$_['column_name']           = 'Название Товара';
-$_['column_model']          = 'Код Товара';
+$_['column_name']           = 'Название товара';
+$_['column_model']          = 'Код товара';
 $_['column_quantity']       = 'Количество';
 $_['column_price']          = 'Цена';
 $_['column_total']          = 'Всего';
 $_['column_action']         = 'Действие';
-$_['column_date_added']     = 'Дата Добавления';
+$_['column_date_added']     = 'Дата добавления';
 $_['column_status']         = 'Статус';
 $_['column_comment']        = 'Комментарий';
 

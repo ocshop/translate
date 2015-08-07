@@ -20,7 +20,7 @@ $_['text_latest']       = 'Новинки';
 $_['text_random']       = 'Random';
 
 // Entry
-$_['entry_name']        = 'Название Модуля';
+$_['entry_name']        = 'Название модуля';
 $_['entry_username']    = 'eBay username';
 $_['entry_keywords']    = 'Search Keywords';
 $_['entry_description'] = 'Include Description Search';

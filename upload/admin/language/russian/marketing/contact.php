@@ -12,20 +12,20 @@ $_['heading_title']        = 'Почта';
 // Text
 $_['text_success']         = 'Ваше сообщение отправлено!';
 $_['text_sent']            = 'Ваше сообщение было успешно отправлено %s из %s получателям!';
-$_['text_list']            = 'Список Рассылки';
+$_['text_list']            = 'Список рассылки';
 $_['text_default']         = 'По умолчанию';
-$_['text_newsletter']      = 'Подписчики на Новости';
-$_['text_customer_all']    = 'Все Покупатели';
-$_['text_customer_group']  = 'Группа Покупателей';
+$_['text_newsletter']      = 'Подписчики на новости';
+$_['text_customer_all']    = 'Все покупатели';
+$_['text_customer_group']  = 'Группа покупателей';
 $_['text_customer']        = 'Покупатели';
-$_['text_affiliate_all']   = 'Все Партнёры';
+$_['text_affiliate_all']   = 'Все партнёры';
 $_['text_affiliate']       = 'Партнёры';
 $_['text_product']         = 'Товары';
 
 // Entry
 $_['entry_store']          = 'От';
 $_['entry_to']             = 'Кому';
-$_['entry_customer_group'] = 'Группа Покупателей';
+$_['entry_customer_group'] = 'Группа покупателей';
 $_['entry_customer']       = 'Покупатель';
 $_['entry_affiliate']      = 'Партнёр';
 $_['entry_product']        = 'Товары';

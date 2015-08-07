@@ -11,18 +11,18 @@ $_['heading_title']     = 'Языки';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Список Языков';
+$_['text_list']         = 'Список языков';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
-$_['column_name']       = 'Название Языка';
+$_['column_name']       = 'Название языка';
 $_['column_code']       = 'Код';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Название Языка';
+$_['entry_name']        = 'Название языка';
 $_['entry_code']        = 'Код';
 $_['entry_locale']      = 'Кодировка';
 $_['entry_image']       = 'Изображение';

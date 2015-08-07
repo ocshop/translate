@@ -34,24 +34,24 @@ $_['column_action']             = 'Действие';
 
 $_['column_custom_name']        = 'Название';
 $_['column_custom_link']        = 'Ссылка';
-$_['column_category_name']      = 'Название Категории';
-$_['column_product_name']       = 'Название Товара';
-$_['column_manufacturer_name']  = 'Название Производителя';
-$_['column_information_name']   = 'Название Статьи';
+$_['column_category_name']      = 'Название категории';
+$_['column_product_name']       = 'Название товара';
+$_['column_manufacturer_name']  = 'Название производителя';
+$_['column_information_name']   = 'Название статьи';
 
 // Entry
 $_['entry_name']                = 'Название';
 $_['entry_link']                = 'Ссылка';
 $_['entry_columns']             = 'Столбцов';
-$_['entry_sort_order']          = 'Порядок Сортировки';
+$_['entry_sort_order']          = 'Порядок сортировки';
 $_['entry_store']         		= 'Магазин';
 
 // Buttons
-$_['button_custom']             = 'Добавить произвольную Ссылку в Меню';
-$_['button_categories']         = 'Добавить Категорию в Меню';
-$_['button_products']           = 'Добавить Товар в Меню';
-$_['button_manufacturers']      = 'Добавить Производителя в Меню';
-$_['button_informations']       = 'Добавить Статью в Меню';
+$_['button_custom']             = 'Добавить произвольную ссылку в меню';
+$_['button_categories']         = 'Добавить категорию в меню';
+$_['button_products']           = 'Добавить товар в меню';
+$_['button_manufacturers']      = 'Добавить производителя в меню';
+$_['button_informations']       = 'Добавить статью в меню';
 
 
 // Error

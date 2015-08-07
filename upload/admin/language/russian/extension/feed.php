@@ -7,14 +7,14 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Каналы Продвижения';
+$_['heading_title']    = 'Каналы продвижения';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
-$_['text_list']        = 'Список Каналов Продвижения';
+$_['text_list']        = 'Список каналов продвижения';
 
 // Column
-$_['column_name']      = 'Название Канала Продвижения';
+$_['column_name']      = 'Название канала продвижения';
 $_['column_status']    = 'Статус';
 $_['column_action']    = 'Действие';
 

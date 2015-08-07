@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = ' Посетители Онлайн';
+$_['heading_title'] = ' Посетители онлайн';
 
 // Text
 $_['text_view']     = 'Подробнее...';

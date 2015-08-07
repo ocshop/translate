@@ -11,26 +11,26 @@ $_['heading_title']       = 'Возвраты товаров';
 
 // Text
 $_['text_success']        = 'Настройки успешно изменены!';
-$_['text_list']           = 'Список Возврата Товаров';
+$_['text_list']           = 'Список возврата товаров';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';
 $_['text_opened']         = 'Открыто';
 $_['text_unopened']       = 'Не распакован';
 $_['text_order']          = 'Информация о заказе';
 $_['text_product']        = 'Информация о товаре и причина возврата';
-$_['text_history']        = 'Добавить Историю Возврата';
+$_['text_history']        = 'Добавить историю возврата';
 
 // Column
 $_['column_return_id']     = '№ Запроса на возврат';
 $_['column_order_id']      = '№ Заказа';
 $_['column_customer']      = 'Покупатель';
 $_['column_product']       = 'Товар';
-$_['column_model']         = 'Код Товара';
+$_['column_model']         = 'Код товара';
 $_['column_status']        = 'Статус';
-$_['column_date_added']    = 'Дата Добавления';
-$_['column_date_modified'] = 'Дата Обновления';
+$_['column_date_added']    = 'Дата добавления';
+$_['column_date_modified'] = 'Дата обновления';
 $_['column_comment']       = 'Комментарий';
-$_['column_notify']        = 'Покупатель Уведомлен';
+$_['column_notify']        = 'Покупатель уведомлен';
 $_['column_action']        = 'Действие';
 
 // Entry
@@ -42,17 +42,17 @@ $_['entry_lastname']      = 'Фамилия';
 $_['entry_email']         = 'E-Mail';
 $_['entry_telephone']     = 'Телефон';
 $_['entry_product']       = 'Товар';
-$_['entry_model']         = 'Код Товара';
+$_['entry_model']         = 'Код товара';
 $_['entry_quantity']      = 'Количество';
 $_['entry_opened']        = 'Открыто';
 $_['entry_comment']       = 'Комментарий';
-$_['entry_return_reason'] = 'Причина Возврата';
-$_['entry_return_action'] = 'Действия по Возврата';
-$_['entry_return_status'] = 'Статус Возврата';
-$_['entry_notify']        = 'Покупатель Уведомлен';
+$_['entry_return_reason'] = 'Причина возврата';
+$_['entry_return_action'] = 'Действия по возврату';
+$_['entry_return_status'] = 'Статус возврата';
+$_['entry_notify']        = 'Покупатель уведомлен';
 $_['entry_return_id']     = '№ Запроса на возврат';
-$_['entry_date_added']    = 'Дата Добавления';
-$_['entry_date_modified'] = 'Дата Обновления';
+$_['entry_date_added']    = 'Дата добавления';
+$_['entry_date_modified'] = 'Дата обновления';
 
 // Help
 $_['help_product']        = '(Автозаполнение)';

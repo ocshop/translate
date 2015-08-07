@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']					= 'Поиск Транзакции';
+$_['heading_title']					= 'Поиск транзакции';
 
 // Column
 $_['tbl_column_date']				= 'Дата';

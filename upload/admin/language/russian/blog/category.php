@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']          = 'Категории';
+$_['heading_title']          = 'Категории блога';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';

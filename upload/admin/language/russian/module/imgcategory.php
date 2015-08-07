@@ -10,9 +10,9 @@
 $_['heading_title'] 	  = 'Категории (IMG)';
 
 // Text
-$_['entry_name']          = 'Название Модуля';
-$_['entry_category']      = 'Дочерняя Категория';
-$_['entry_root_category'] = '- Главная Категория -';
+$_['entry_name']          = 'Название модуля';
+$_['entry_category']      = 'Дочерняя категория';
+$_['entry_root_category'] = '- Главная категория -';
 $_['text_module']         = 'Модули';
 $_['text_success']        = 'Настройки успешно изменены!';
 $_['text_edit']           = 'Редактирование';

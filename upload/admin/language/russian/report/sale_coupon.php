@@ -10,15 +10,15 @@
 $_['heading_title']    = 'Отчет по купонам';
 
 // Text
-$_['text_list']        = 'Список Купонов';
+$_['text_list']        = 'Список купонов';
 
 // Column
-$_['column_name']      = 'Название Купона';
+$_['column_name']      = 'Название купона';
 $_['column_code']      = 'Код';
 $_['column_orders']    = 'Заказы';
 $_['column_total']     = 'Итого';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_date_start'] = 'Дата Начала';
-$_['entry_date_end']   = 'Дата Окончания';
+$_['entry_date_start'] = 'Дата начала';
+$_['entry_date_end']   = 'Дата окончания';

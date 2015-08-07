@@ -11,19 +11,19 @@ $_['heading_title']          = 'Характеристики';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';
-$_['text_list']              = 'Список Характеристик';
+$_['text_list']              = 'Список характеристик';
 $_['text_add']               = 'Добавить';
 $_['text_edit']              = 'Редактирование';
 
 // Column
-$_['column_name']            = 'Название Характеристики';
-$_['column_attribute_group'] = 'Группа Характеристик';
+$_['column_name']            = 'Название характеристики';
+$_['column_attribute_group'] = 'Группа характеристик';
 $_['column_sort_order']      = 'Порядок сортировки';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']            = 'Название Характеристики';
-$_['entry_attribute_group'] = 'Группа Характеристик';
+$_['entry_name']            = 'Название характеристики';
+$_['entry_attribute_group'] = 'Группа характеристик';
 $_['entry_sort_order']      = 'Порядок сортировки';
 
 // Error

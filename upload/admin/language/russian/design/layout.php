@@ -11,7 +11,7 @@ $_['heading_title']       = 'Макеты';
 
 // Text
 $_['text_success']        = 'Настройки успешно изменены!';
-$_['text_list']           = 'Список Макетов';
+$_['text_list']           = 'Список макетов';
 $_['text_add']            = 'Добавить';
 $_['text_edit']           = 'Редактирование';
 $_['text_default']        = 'По умолчанию';
@@ -21,11 +21,11 @@ $_['text_column_left']    = 'Левая колонка';
 $_['text_column_right']   = 'Правая колонка';
 
 // Column
-$_['column_name']         = 'Название Макета';
+$_['column_name']         = 'Название макета';
 $_['column_action']       = 'Действие';
 
 // Entry
-$_['entry_name']          = 'Название Макета';
+$_['entry_name']          = 'Название макета';
 $_['entry_store']         = 'Магазин';
 $_['entry_route']         = 'Путь';
 $_['entry_module']        = 'Модуль';

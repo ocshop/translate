@@ -10,7 +10,7 @@
 $_['heading_title']      = 'История выплат';
 
 // Column
-$_['column_date_added']  = 'Дата Добавления';
+$_['column_date_added']  = 'Дата добавления';
 $_['column_description'] = 'Описание';
 $_['column_amount']      = 'Сумма (%s)';
 

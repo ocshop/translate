@@ -7,11 +7,11 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']         = 'Настраиваемые Поля';
+$_['heading_title']         = 'Настраиваемые поля';
 
 // Text
 $_['text_success']          = 'Настройки успешно изменены!';
-$_['text_list']             = 'Список Настраеваемых Полей';
+$_['text_list']             = 'Список настраеваемых полей';
 $_['text_add']              = 'Добавить';
 $_['text_edit']             = 'Редактирование';
 $_['text_choose']           = 'Выбор';
@@ -29,19 +29,19 @@ $_['text_account']          = 'Аккаунт';
 $_['text_address']          = 'Адрес';
 
 // Column
-$_['column_name']           = 'Название Настраеваемого Поля';
+$_['column_name']           = 'Название настраеваемого поля';
 $_['column_location']       = 'Расположение';
 $_['column_type']           = 'Тип';
 $_['column_sort_order']     = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
 // Entry
-$_['entry_name']            = 'Название Настраеваемого Поля';
+$_['entry_name']            = 'Название настраеваемого поля';
 $_['entry_location']        = 'Расположение';
 $_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Значение';
 $_['entry_custom_value']    = 'Значение поля';
-$_['entry_customer_group']  = 'Группа Покупателей';
+$_['entry_customer_group']  = 'Группа покупателей';
 $_['entry_required']        = 'Необходимо';
 $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Порядок сортировки';

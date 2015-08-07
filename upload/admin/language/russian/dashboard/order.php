@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = ' Всего Заказов';
+$_['heading_title'] = ' Всего заказов';
 
 // Text
 $_['text_view']     = 'Подробнее...';

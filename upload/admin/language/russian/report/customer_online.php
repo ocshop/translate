@@ -7,18 +7,18 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Онлайн Посетители';
+$_['heading_title']     = 'Покупатели онлайн';
 
 // Text
-$_['text_list']         = 'Список Онлайн Посетителей';
+$_['text_list']         = 'Список онлайн покупателей';
 $_['text_guest']        = 'Гость';
 
 // Column
 $_['column_ip']         = 'IP';
 $_['column_customer']   = 'Покупатель';
 $_['column_url']        = 'Последняя посещенная страница';
-$_['column_referer']    = 'Откуда Пришёл';
-$_['column_date_added'] = 'Последний Клик';
+$_['column_referer']    = 'Откуда пришёл';
+$_['column_date_added'] = 'Последний клик';
 $_['column_action']     = 'Действие';
 
 // Entry

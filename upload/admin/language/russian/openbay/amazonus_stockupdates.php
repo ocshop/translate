@@ -15,8 +15,8 @@ $_['text_amazon']						= 'Amazon US';
 $_['text_empty']                    	= 'Нет данных!';
 
 // Entry
-$_['entry_date_start']               	= 'Дата Начала';
-$_['entry_date_end']                 	= 'Дата Окончания';
+$_['entry_date_start']               	= 'Дата начала';
+$_['entry_date_end']                 	= 'Дата окончания';
 
 // Column
 $_['column_ref']                      	= 'Ref';

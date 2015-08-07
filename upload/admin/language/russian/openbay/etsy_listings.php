@@ -44,7 +44,7 @@ $_['column_action']				= 'Действие';
 $_['entry_limit']				= 'Page limit';
 $_['entry_status']				= 'Статус';
 $_['entry_keywords']			= 'Ключевые слова';
-$_['entry_name']				= 'Название Товара';
+$_['entry_name']				= 'Название товара';
 $_['entry_etsy_id']				= 'Etsy item ID';
 
 // Help

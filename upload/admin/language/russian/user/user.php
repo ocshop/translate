@@ -11,19 +11,19 @@ $_['heading_title']     = 'Пользователи';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Список Пользователей';
+$_['text_list']         = 'Список пользователей';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_username']   = 'Логин';
 $_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Дата Добавления';
+$_['column_date_added'] = 'Дата добавления';
 $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_username']   	= 'Логин';
-$_['entry_user_group'] 	= 'Группа Пользователей';
+$_['entry_user_group'] 	= 'Группа пользователей';
 $_['entry_password']   	= 'Пароль';
 $_['entry_confirm']    	= 'Подтвердить';
 $_['entry_firstname']  	= 'Имя';

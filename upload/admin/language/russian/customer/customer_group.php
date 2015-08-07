@@ -7,23 +7,23 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Группы Покупателей';
+$_['heading_title']     = 'Группы покупателей';
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
-$_['text_list']         = 'Список Групп Покупателей';
+$_['text_list']         = 'Список групп покупателей';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
-$_['column_name']       = 'Название Группы Покупателей';
+$_['column_name']       = 'Название группы покупателей';
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Название Группы Покупателей';
+$_['entry_name']        = 'Название группы покупателей';
 $_['entry_description'] = 'Описание';
-$_['entry_approval']    = 'Подтверждение Новых Покупателей';
+$_['entry_approval']    = 'Подтверждение новых покупателей';
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help

@@ -7,13 +7,13 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']        = 'Установка Расширений';
+$_['heading_title']        = 'Установка модулей';
 
 // Text
 $_['text_success']         = 'Модуль успешно установлен!';
 $_['text_unzip']           = 'Распаковка файлов!';
 $_['text_ftp']             = 'Копирование файлов!';
-$_['text_sql']             = 'Обновление Базы Данных!';
+$_['text_sql']             = 'Обновление базы данных!';
 $_['text_xml']             = 'Применение модификатора!';
 $_['text_php']             = 'Выполнение PHP!';
 $_['text_remove']          = 'Удаление временных файлов!';
@@ -25,7 +25,7 @@ $_['entry_overwrite']      = 'Файлы, которые будут переза
 $_['entry_progress']       = 'Процесс';
 
 // Help
-$_['help_upload']          = 'Расширение модификатора или модуля должно быть ".ocmod.zip" или ".ocmod.xml".';
+$_['help_upload']          = 'Расширение модификатора или модуля должно быть .ocmod.zip или .ocmod.xml';
 
 // Error
 $_['error_permission']     = 'У вас недостаточно прав для внесения изменений!';

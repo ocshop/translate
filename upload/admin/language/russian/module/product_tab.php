@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']       = 'Модуль Табы';
+$_['heading_title']       = 'Модуль табы';
 
 // Text
 $_['text_module']         = 'Модули';

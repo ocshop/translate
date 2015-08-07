@@ -7,10 +7,10 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']       = 'Отчет Активности Покупателей';
+$_['heading_title']       = 'Отчет активности покупателей';
 
 // Text
-$_['text_list']           = 'Список Активности Покупателей';
+$_['text_list']           = 'Список активности покупателей';
 $_['text_address_add']    = '<a href="customer_id=%d">%s</a> - добавлен новый адрес.';
 $_['text_address_edit']   = '<a href="customer_id=%d">%s</a> - обновлены адреса.';
 $_['text_address_delete'] = '<a href="customer_id=%d">%s</a> - удален один из адресов.';
@@ -28,10 +28,10 @@ $_['text_order_guest']    = '%s <a href="order_id=%d"> - создал новый
 $_['column_customer']     = 'Покупатель';
 $_['column_comment']      = 'Комментарий';
 $_['column_ip']           = 'IP';
-$_['column_date_added']   = 'Дата Добавления';
+$_['column_date_added']   = 'Дата добавления';
 
 // Entry
 $_['entry_customer']      = 'Покупатель';
 $_['entry_ip']            = 'IP';
-$_['entry_date_start']    = 'Дата Начала';
-$_['entry_date_end']      = 'Дата Окончания';
+$_['entry_date_start']    = 'Дата начала';
+$_['entry_date_end']      = 'Дата окончания';

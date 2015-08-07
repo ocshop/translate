@@ -12,11 +12,11 @@ $_['heading_title']    = 'Менеджер изображений';
 // Text
 $_['text_uploaded']    = 'Файл загружен!';
 $_['text_directory']   = 'Директория создана!';
-$_['text_delete']      = 'Файл или Директория удалена!';
+$_['text_delete']      = 'Файл или директория удалена!';
 
 // Entry
 $_['entry_search']     = 'Поиск..';
-$_['entry_folder']     = 'Новая Папка';
+$_['entry_folder']     = 'Новая папка';
 
 // Error
 $_['error_permission'] = 'Доступ Запрещен!';

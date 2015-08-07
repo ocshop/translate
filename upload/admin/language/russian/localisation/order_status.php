@@ -7,20 +7,20 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Статус Заказов';
+$_['heading_title']    = 'Статус заказов';
 
 // Text
 $_['text_success']     = 'Настройки успешно изменены!';
-$_['text_list']        = 'Список Статусов Заказов';
+$_['text_list']        = 'Список статусов заказов';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';
 
 // Column
-$_['column_name']      = 'Название Статуса Заказов';
+$_['column_name']      = 'Название статуса заказов';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_name']       = 'Название Статуса Заказов';
+$_['entry_name']       = 'Название статуса заказов';
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

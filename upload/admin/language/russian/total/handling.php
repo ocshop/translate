@@ -7,10 +7,10 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Оплата обработки заказа';
+$_['heading_title']    = 'Плата за обработку заказа';
 
 // Text
-$_['text_total']       = 'Учитывать в Заказе';
+$_['text_total']       = 'Учитывать в заказе';
 $_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 

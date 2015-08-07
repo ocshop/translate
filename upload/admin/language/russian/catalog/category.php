@@ -11,20 +11,20 @@ $_['heading_title']          = 'Категории';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';
-$_['text_list']              = 'Список Категорий';
+$_['text_list']              = 'Список категорий';
 $_['text_add']               = 'Добавить';
 $_['text_edit']              = 'Редактирование';
 $_['text_default']           = 'По умолчанию';
 $_['text_category_total']    = 'Всего категорий: ';
 
 // Column
-$_['column_name']            = 'Название Категории';
+$_['column_name']            = 'Название категории';
 $_['column_sort_order']      = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_name']             = 'Название Категории';
+$_['entry_name']             = 'Название категории';
 $_['entry_description']      = 'Описание';
 $_['entry_meta_title'] 	     = 'Мета-тег Title';
 $_['entry_meta_h1'] 	     = 'HTML-тег H1';

@@ -11,22 +11,22 @@ $_['heading_title']           = 'Страны';
 
 // Text
 $_['text_success']            = 'Настройки успешно изменены!';
-$_['text_list']               = 'Список Стран';
+$_['text_list']               = 'Список стран';
 $_['text_add']                = 'Добавить';
 $_['text_edit']               = 'Редактирование';
 
 // Column
-$_['column_name']             = 'Название Страны';
+$_['column_name']             = 'Название страны';
 $_['column_iso_code_2']       = 'Код ISO (2)';
 $_['column_iso_code_3']       = 'Код ISO (3)';
 $_['column_action']           = 'Действие';
 
 // Entry
-$_['entry_name']              = 'Название Страны';
+$_['entry_name']              = 'Название страны';
 $_['entry_iso_code_2']        = 'Код ISO (2)';
 $_['entry_iso_code_3']        = 'Код ISO (3)';
-$_['entry_address_format']    = 'Формат Адреса';
-$_['entry_postcode_required'] = 'Индекс Обязателен';
+$_['entry_address_format']    = 'Формат адреса';
+$_['entry_postcode_required'] = 'Индекс обязателен';
 $_['entry_status']            = 'Статус';
 
 // Help

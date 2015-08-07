@@ -7,9 +7,9 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_subject']       = '%s - Dозврат обновлен %s';
+$_['text_subject']       = '%s - Возврат обновлен %s';
 $_['text_return_id']     = '№ запроса на возврат:';
-$_['text_date_added']    = 'Дата Возврата';
-$_['text_return_status'] = 'Актуальное состояние Вашего возврата:';
-$_['text_comment']       = 'Комментарии к Вашему возврату:';
+$_['text_date_added']    = 'Дата возврата';
+$_['text_return_status'] = 'Актуальное состояние вашего возврата:';
+$_['text_comment']       = 'Комментарии к вашему возврату:';
 $_['text_footer']        = 'Если у Вас есть какие-либо вопросы, ответьте на это сообщение.';

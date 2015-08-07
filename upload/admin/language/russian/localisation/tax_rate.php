@@ -11,26 +11,26 @@ $_['heading_title']        = 'Налоговые ставки';
 
 // Text
 $_['text_success']         = 'Настройки успешно изменены!';
-$_['text_list']            = 'Список Налоговых Ставок';
+$_['text_list']            = 'Список налоговых ставок';
 $_['text_add']             = 'Добавить';
 $_['text_edit']            = 'Редактирование';
 $_['text_percent']         = 'Процент';
 $_['text_amount']          = 'Фиксированная сумма';
 
 // Column
-$_['column_name']          = 'Название Налога';
-$_['column_rate']          = 'Ставка Налога';
+$_['column_name']          = 'Название налога';
+$_['column_rate']          = 'Ставка налога';
 $_['column_type']          = 'Тип';
-$_['column_geo_zone']      = 'Географическая Зона';
-$_['column_date_added']    = 'Дата Добавления';
-$_['column_date_modified'] = 'Дата Обновления';
+$_['column_geo_zone']      = 'Географическая зона';
+$_['column_date_added']    = 'Дата добавления';
+$_['column_date_modified'] = 'Дата обновления';
 $_['column_action']        = 'Действие';
 
 // Entry
-$_['entry_name']           = 'Название Налога';
-$_['entry_rate']           = 'Ставка Налога';
+$_['entry_name']           = 'Название налога';
+$_['entry_rate']           = 'Ставка налога';
 $_['entry_type']           = 'Тип';
-$_['entry_customer_group'] = 'Группа Покупателей';
+$_['entry_customer_group'] = 'Группа покупателей';
 $_['entry_geo_zone']       = 'Географическая зона';
 
 // Error

@@ -10,17 +10,17 @@
 $_['heading_title']     = 'Отчет по комиссиям партнеров';
 
 // Text
-$_['text_list']         = 'Список партнерской Комиссии';
+$_['text_list']         = 'Список партнерской комиссии';
 
 // Column
-$_['column_affiliate']  = 'Имя Партнера';
+$_['column_affiliate']  = 'Имя партнера';
 $_['column_email']      = 'E-Mail';
 $_['column_status']     = 'Статус';
 $_['column_commission'] = 'Комиссия';
-$_['column_orders']     = 'Кол-во Заказов';
+$_['column_orders']     = 'Кол-во заказов';
 $_['column_total']      = 'Итого';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_date_start']  = 'Дата Начала';
-$_['entry_date_end']    = 'Дата Окончания';
+$_['entry_date_start']  = 'Дата начала';
+$_['entry_date_end']    = 'Дата окончания';

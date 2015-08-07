@@ -10,18 +10,18 @@
 $_['heading_title']         = 'Отчет по бонусным баллам покупателя';
 
 // Text
-$_['text_list']             = 'Список Бонусных Баллов';
+$_['text_list']             = 'Список бонусных баллов';
 
 // Column
-$_['column_customer']       = 'Имя Покупателя';
+$_['column_customer']       = 'Имя покупателя';
 $_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа Покупателей';
+$_['column_customer_group'] = 'Группа покупателей';
 $_['column_status']         = 'Статус';
 $_['column_points']         = 'Бонусные баллы';
-$_['column_orders']         = 'Кол-во Заказов';
+$_['column_orders']         = 'Кол-во заказов';
 $_['column_total']          = 'Итого';
 $_['column_action']         = 'Действие';
 
 // Entry
-$_['entry_date_start']      = 'Дата Начала';
-$_['entry_date_end']        = 'Дата Окончания';
+$_['entry_date_start']      = 'Дата начала';
+$_['entry_date_end']        = 'Дата окончания';
