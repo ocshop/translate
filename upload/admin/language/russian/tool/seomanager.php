@@ -15,6 +15,7 @@ $_['text_success_clear'] 	= 'Кэш SEO URL успешно сброшен!';
 $_['text_default']      	= 'По умолчанию';
 $_['text_module']			= 'Модули';
 $_['button_clear_cache'] 	= 'Сбросить кэш';
+$_['button_insert'] 		= 'Добавить';
 
 // Column
 $_['column_query']       	= 'Ссылка';

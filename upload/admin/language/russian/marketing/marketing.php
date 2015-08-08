@@ -16,7 +16,7 @@ $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
 
 // Column
-$_['column_name']       = 'Название компании';
+$_['column_name']       = 'Название кампании';
 $_['column_code']       = 'Код';
 $_['column_clicks']     = 'Клики';
 $_['column_orders']     = 'Заказы';
@@ -24,8 +24,8 @@ $_['column_date_added'] = 'Дата добавления';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Название компании';
-$_['entry_description'] = 'Описание компании';
+$_['entry_name']        = 'Название кампании';
+$_['entry_description'] = 'Описание кампании';
 $_['entry_code']        = 'Код отслеживания';
 $_['entry_example']     = 'Примеры';
 $_['entry_date_added']  = 'Дата добавления';

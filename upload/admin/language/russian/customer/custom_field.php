@@ -29,14 +29,14 @@ $_['text_account']          = 'Аккаунт';
 $_['text_address']          = 'Адрес';
 
 // Column
-$_['column_name']           = 'Название настраеваемого поля';
+$_['column_name']           = 'Название настраиваемого поля';
 $_['column_location']       = 'Расположение';
 $_['column_type']           = 'Тип';
 $_['column_sort_order']     = 'Порядок сортировки';
 $_['column_action']         = 'Действие';
 
 // Entry
-$_['entry_name']            = 'Название настраеваемого поля';
+$_['entry_name']            = 'Название настраиваемого поля';
 $_['entry_location']        = 'Расположение';
 $_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Значение';
