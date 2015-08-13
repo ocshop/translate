@@ -7,10 +7,10 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_success']       = 'Ваши покупатели успешно изменены';
+$_['text_success']       = 'Ваші покупці успішно змінені'; ua
 
 // Error
-$_['error_permission']   = 'Вы не имеете разрешения на доступ к API!';
+$_['error_permission']   = 'Ви не маєте дозволу на доступ до API!'; ua
 $_['error_firstname']    = 'Ім’я повинно бути від 1 до 32 символів!'; ua
 $_['error_lastname']     = 'Прізвище повинно бути від 1 до 32 символів!'; ua
 $_['error_email']        = 'E-Mail введено невірно!'; ua
