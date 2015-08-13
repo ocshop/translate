@@ -7,9 +7,9 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Выход из Кабинета Партнера';
+$_['heading_title'] = 'Вихід з Кабінету Партнера'; ua
 
 // Text
-$_['text_message']  = '<p>Вы вышли из Кабинета Партнера.</p>';
-$_['text_account']  = 'Кабинет Партнера';
+$_['text_message']  = '<p>Ви вийшли з Кабінету Партнера.</p>'; ua
+$_['text_account']  = 'Кабінет Партнера'; ua
 $_['text_logout']   = 'Вихід'; ua

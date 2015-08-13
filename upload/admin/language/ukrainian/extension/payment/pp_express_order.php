@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_payment_info']				= 'Платёжные реквизиты';
+$_['text_payment_info']				= 'Платіжні реквізити'; ua
 $_['text_capture_status']			= 'Capture status';
 $_['text_amount_auth']				= 'Amount authorised';
 $_['text_amount_captured']			= 'Amount captured';

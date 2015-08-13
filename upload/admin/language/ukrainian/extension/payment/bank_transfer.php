@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']		 = 'Банковский перевод';
+$_['heading_title']		 = 'Банківський переказ'; ua
 
 // Text
 $_['text_payment']		 = 'Оплата';

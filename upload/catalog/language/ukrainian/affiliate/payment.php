@@ -7,25 +7,25 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']             = 'Способ оплаты';
+$_['heading_title']             = 'Спосіб оплати'; ua
 
 // Text
 $_['text_account']              = 'Особистий Кабінет'; ua
 $_['text_payment']              = 'Платіж'; ua
-$_['text_your_payment']         = 'Платёжные реквизиты';
+$_['text_your_payment']         = 'Платіжні реквізити'; ua
 $_['text_your_password']        = 'Ваш пароль'; ua
-$_['text_cheque']               = 'Чек';
-$_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Банковский перевод';
+$_['text_cheque']               = 'Чек'; ua
+$_['text_paypal']               = 'PayPal'; ua
+$_['text_bank']                 = 'Банківський переказ'; ua
 $_['text_success']              = 'Ваш обліковий запис був успішно оновлений!'; ua
 
 // Entry
-$_['entry_tax']                 = 'Налоговый код (ИНН)';
-$_['entry_payment']             = 'Способ оплаты';
-$_['entry_cheque']              = 'Чек, Имя получателя платежа';
-$_['entry_paypal']              = 'PayPal Email аккаунт';
-$_['entry_bank_name']           = 'Наименование банка';
-$_['entry_bank_branch_number']  = 'ABA/BSB номер (номер отделения)';
-$_['entry_bank_swift_code']     = 'SWIFT код';
-$_['entry_bank_account_name']   = 'Название счета';
-$_['entry_bank_account_number'] = 'Номер счета';
+$_['entry_tax']                 = 'Податковий код (ІПН)'; ua
+$_['entry_payment']             = 'Спосіб оплати'; ua
+$_['entry_cheque']              = 'Чек, Ім’я одержувача платежу'; ua
+$_['entry_paypal']              = 'PayPal E-Mail аккаунт'; ua
+$_['entry_bank_name']           = 'Назва банку'; ua
+$_['entry_bank_branch_number']  = 'ABA/BSB номер (номер відділення)'; ua
+$_['entry_bank_swift_code']     = 'SWIFT код'; ua
+$_['entry_bank_account_name']   = 'Назва рахунку'; ua
+$_['entry_bank_account_number'] = 'Номер рахунку'; ua

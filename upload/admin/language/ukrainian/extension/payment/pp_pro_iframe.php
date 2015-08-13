@@ -15,7 +15,7 @@ $_['text_edit']                     = 'Редактирование';
 $_['text_pp_pro_iframe']			= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			= 'Authorization';
 $_['text_sale']						= 'Sale';
-$_['text_payment_info']				= 'Платёжные реквизиты';
+$_['text_payment_info']				= 'Платіжні реквізити'; ua
 $_['text_capture_status']			= 'Capture status';
 $_['text_amount_auth']				= 'Amount authorised';
 $_['text_amount_captured']			= 'Amount captured';
@@ -101,7 +101,7 @@ $_['text_protect_elig']				= 'Protection eligibility';
 $_['text_protect_elig_type']		= 'Protection eligibility type';
 $_['text_store_id']					= 'Store ID';
 $_['text_terminal_id']				= 'Terminal ID';
-$_['text_invoice_number']			= 'Номер счета';
+$_['text_invoice_number']			= 'Номер рахунку'; ua
 $_['text_custom']					= 'Custom';
 $_['text_note']						= 'Note';
 $_['text_sales_tax']				= 'Sales tax';

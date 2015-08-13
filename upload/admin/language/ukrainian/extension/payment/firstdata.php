@@ -27,7 +27,7 @@ $_['text_settle_delayed']			 = 'Pre auth';
 $_['text_success_void']				 = 'Transaction has been voided';
 $_['text_success_capture']			 = 'Transaction has been captured';
 $_['text_firstdata']				 = '<img src="view/image/payment/firstdata.png" alt="First Data" title="First Data" style="border: 1px solid #EEEEEE;" />';
-$_['text_payment_info']				 = 'Платёжные реквизиты';
+$_['text_payment_info']				 = 'Платіжні реквізити'; ua
 $_['text_capture_status']			 = 'Payment captured';
 $_['text_void_status']				 = 'Payment voided';
 $_['text_order_ref']				 = 'Order ref';

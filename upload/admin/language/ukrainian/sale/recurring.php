@@ -38,7 +38,7 @@ $_['text_transaction_expired']             = 'Протерміновано'; ua
 $_['entry_cancel_payment']                 = 'Отмена оплаты';
 $_['entry_order_recurring']                = '№';
 $_['entry_order_id']                       = '№ Замовлення'; ua
-$_['entry_reference']                      = 'Способ оплаты';
+$_['entry_reference']                      = 'Спосіб оплати'; ua
 $_['entry_customer']                       = 'Покупець'; ua
 $_['entry_date_added']                     = 'Дата додавання'; ua
 $_['entry_status']                         = 'Статус'; ua
@@ -50,7 +50,7 @@ $_['entry_product']                        = 'Товар'; ua
 $_['entry_quantity']                       = 'Кількість'; ua
 $_['entry_amount']                         = 'Всього'; ua
 $_['entry_recurring']                      = 'Профиль периодичности';
-$_['entry_payment_method']                 = 'Способ оплаты';
+$_['entry_payment_method']                 = 'Спосіб оплати'; ua
 
 // Error / Success
 $_['error_not_cancelled']                  = 'Помилка: %s'; ua

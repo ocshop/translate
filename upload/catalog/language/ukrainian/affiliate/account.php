@@ -7,15 +7,15 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']        = 'Партнерcкий раздел';
+$_['heading_title']        = 'Партнерський розділ'; ua
 
 // Text
-$_['text_account']         = 'Кабинет Партнера';
+$_['text_account']         = 'Кабінет Партнера'; ua
 $_['text_my_account']      = 'Мій обліковий запис'; ua
-$_['text_my_tracking']     = 'Мои рефералы';
-$_['text_my_transactions'] = 'История выплат';
-$_['text_edit']            = 'Редактировать учетную запись';
-$_['text_password']        = 'Изменить пароль';
-$_['text_payment']         = 'Изменить платежные реквизиты';
-$_['text_tracking']        = 'Реферальный код';
-$_['text_transaction']     = 'Посмотреть историю выплат';
+$_['text_my_tracking']     = 'Мої реферали'; ua
+$_['text_my_transactions'] = 'Історія виплат'; ua
+$_['text_edit']            = 'Редагувати обліковий запис'; ua
+$_['text_password']        = 'Змінити пароль'; ua
+$_['text_payment']         = 'Змінити платіжні реквізити'; ua
+$_['text_tracking']        = 'Реферальний код'; ua
+$_['text_transaction']     = 'Подивитися історію виплат'; ua

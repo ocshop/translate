@@ -7,21 +7,21 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']             = 'Партнерская программа';
+$_['heading_title']             = 'Партнерська програма'; ua
 
 // Text
-$_['text_account']              = 'Кабинет Партнера';
+$_['text_account']              = 'Кабінет Партнера'; ua
 $_['text_register']             = 'Регистрация Партнера';
-$_['text_account_already']      = 'Если у вас уже есть учетная запись партнера, пожалуйста <a href="%s">Войдите</a>.';
-$_['text_signup']               = 'Для создания учетной записи партнера необходимо заполнить форму регистрации:';
+$_['text_account_already']      = 'Якщо у вас вже є партнерський логін, будь ласка перейдіть на сторінку <a href="%s">входу в систему</a>.'; ua
+$_['text_signup']               = 'Для створення облікового запису партнера необхідно заповнити форму реєстрації:'; ua
 $_['text_your_details']         = 'Ваш обліковий запис'; ua
 $_['text_your_address']         = 'Ваша адреса'; ua
-$_['text_payment']              = 'Платёжные реквизиты';
+$_['text_payment']              = 'Платіжні реквізити'; ua
 $_['text_your_password']        = 'Ваш пароль'; ua
-$_['text_cheque']               = 'Чек';
-$_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Банковский перевод';
-$_['text_agree']                = 'Я прочитал <a href="%s" class="agree"><b>%s</b></a> и согласен с условиями';
+$_['text_cheque']               = 'Чек'; ua
+$_['text_paypal']               = 'PayPal'; ua
+$_['text_bank']                 = 'Банківський переказ'; ua
+$_['text_agree']                = 'Я прочитав <a href="%s" class="agree"><b>%s</b></a> і згоден з умовами'; ua
 
 // Entry
 $_['entry_firstname']           = 'Ім’я'; ua
@@ -37,15 +37,15 @@ $_['entry_postcode']            = 'Поштовий індекс'; ua
 $_['entry_city']                = 'Місто'; ua
 $_['entry_country']             = 'Країна'; ua
 $_['entry_zone']                = 'Регіон / Область'; ua
-$_['entry_tax']                 = 'Налоговый код (ИНН)';
-$_['entry_payment']             = 'Способ оплаты';
-$_['entry_cheque']              = 'Чек, Имя получателя платежа';
-$_['entry_paypal']              = 'PayPal Email аккаунт';
-$_['entry_bank_name']           = 'Наименование банка';
-$_['entry_bank_branch_number']  = 'ABA/BSB номер (номер отделения)';
-$_['entry_bank_swift_code']     = 'SWIFT код';
-$_['entry_bank_account_name']   = 'Название счета';
-$_['entry_bank_account_number'] = 'Номер счета';
+$_['entry_tax']                 = 'Податковий код (ІПН)'; ua
+$_['entry_payment']             = 'Спосіб оплати'; ua
+$_['entry_cheque']              = 'Чек, Ім’я одержувача платежу'; ua
+$_['entry_paypal']              = 'PayPal E-Mail аккаунт'; ua
+$_['entry_bank_name']           = 'Назва банку'; ua
+$_['entry_bank_branch_number']  = 'ABA/BSB номер (номер відділення)'; ua
+$_['entry_bank_swift_code']     = 'SWIFT код'; ua
+$_['entry_bank_account_name']   = 'Назва рахунку'; ua
+$_['entry_bank_account_number'] = 'Номер рахунку'; ua
 $_['entry_password']            = 'Пароль'; ua
 $_['entry_confirm']             = 'Підтвердження пароля'; ua
 
@@ -62,4 +62,4 @@ $_['error_city']                = 'Назва міста має бути від 
 $_['error_country']             = 'Будь ласка, вкажіть країну!'; ua
 $_['error_zone']                = 'Будь ласка, вкажіть регіон / область!'; ua
 $_['error_postcode']            = 'Індекс повинен бути від 2 до 10 символів!'; ua
-$_['error_agree']               = 'Вы должны быть согласны с условиями %s!';
+$_['error_agree']               = 'Ви повинні бути згодні з умовами %s!'; ua

@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Моя информация';
+$_['heading_title']     = 'Моя інформація'; ua
 
 // Text
 $_['text_account']      = 'Особистий Кабінет'; ua

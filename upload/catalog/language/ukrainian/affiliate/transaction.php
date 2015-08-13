@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']      = 'История выплат';
+$_['heading_title']      = 'Історія виплат'; ua
 
 // Column
 $_['column_date_added']  = 'Дата додавання'; ua
@@ -15,7 +15,7 @@ $_['column_description'] = 'Опис'; ua
 $_['column_amount']      = 'Сума (%s)'; ua
 
 // Text
-$_['text_account']       = 'Кабинет Партнера';
-$_['text_transaction']   = 'Выплаты';
+$_['text_account']       = 'Кабінет Партнера'; ua
+$_['text_transaction']   = 'Виплати'; ua
 $_['text_balance']       = 'Ваш поточний баланс:'; ua
-$_['text_empty']         = 'У Вас не было выплат!';
+$_['text_empty']         = 'У Вас не було виплат!'; ua

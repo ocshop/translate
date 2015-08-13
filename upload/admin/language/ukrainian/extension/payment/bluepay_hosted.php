@@ -23,7 +23,7 @@ $_['text_release_ok_order']    = 'Release was successful';
 $_['text_rebate_ok']           = 'Rebate was successful';
 $_['text_rebate_ok_order']     = 'Rebate was successful, order status updated to rebated';
 $_['text_void_ok']             = 'Void was successful, order status updated to voided';
-$_['text_payment_info']        = 'Платёжные реквизиты';
+$_['text_payment_info']        = 'Платіжні реквізити'; ua
 $_['text_release_status']			= 'Payment released';
 $_['text_void_status']				= 'Payment voided';
 $_['text_rebate_status']			= 'Payment rebated';
@@ -39,7 +39,7 @@ $_['text_confirm_release']			= 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 
 // Entry
-$_['entry_account_name']			= 'Название счета';
+$_['entry_account_name']			= 'Назва рахунку'; ua
 $_['entry_account_id']				= 'Account ID';
 $_['entry_secret_key']				= 'Secret Key';
 $_['entry_test']					= 'Test Mode';

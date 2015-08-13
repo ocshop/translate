@@ -19,7 +19,7 @@ $_['entry_username'] = 'Логин';
 $_['entry_password'] = 'Пароль'; ua
 
 // Button
-$_['button_login']   = 'Войти';
+$_['button_login']   = 'Вхід'; ua
 
 // Error
 $_['error_login']    = 'Такой логин и/или пароль не существует!';

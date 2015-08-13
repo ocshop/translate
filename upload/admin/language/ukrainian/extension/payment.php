@@ -14,7 +14,7 @@ $_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Список способов оплаты';
 
 // Column
-$_['column_name']       = 'Способ оплаты';
+$_['column_name']       = 'Спосіб оплати'; ua
 $_['column_status']     = 'Статус'; ua
 $_['column_sort_order'] = 'Порядок сортировки';
 $_['column_action']     = 'Дія'; ua
