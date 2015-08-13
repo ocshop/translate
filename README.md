@@ -1,4 +1,4 @@
-# Перевод для OCSHOP.CMS, OpenCart, OcStore.
+# Русский Перевод для OCSHOP.CMS 2.0.3.2, OpenCart, OcStore.
 
 ## Скачать OCSHOP.CMS.
 
