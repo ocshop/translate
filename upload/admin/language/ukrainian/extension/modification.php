@@ -18,9 +18,9 @@ $_['text_list']         = 'Список модификаторов';
 $_['column_name']       = 'Название модификатора';
 $_['column_author']     = 'Автор';
 $_['column_version']    = 'Версия';
-$_['column_status']     = 'Статус';
-$_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_status']     = 'Статус'; ua
+$_['column_date_added'] = 'Дата додавання'; ua
+$_['column_action']     = 'Дія'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

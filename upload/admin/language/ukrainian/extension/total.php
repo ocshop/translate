@@ -15,9 +15,9 @@ $_['text_list']         = 'Учитывать в заказе';
 
 // Column
 $_['column_name']       = 'Учитывать в заказе';
-$_['column_status']     = 'Статус';
+$_['column_status']     = 'Статус'; ua
 $_['column_sort_order'] = 'Порядок сортировки';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

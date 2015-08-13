@@ -24,7 +24,7 @@ $_['text_netherlands'] = 'The Netherlands';
 $_['entry_total']      = 'Order Total';
 $_['entry_fee']        = 'Invoice Fee';
 $_['entry_tax_class']  = 'Класс налога';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error

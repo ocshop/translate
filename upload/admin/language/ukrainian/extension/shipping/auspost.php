@@ -15,14 +15,14 @@ $_['text_success']       = 'Настройки успешно изменены!'
 $_['text_edit']          = 'Редактирование';
 
 // Entry
-$_['entry_postcode']     = 'Почтовый индекс';
+$_['entry_postcode']     = 'Поштовий індекс'; ua
 $_['entry_express']      = 'Express Postage';
 $_['entry_standard']     = 'Standard Postage';
 $_['entry_display_time'] = 'Display Delivery Time';
 $_['entry_weight_class'] = 'Единица измерения веса';
 $_['entry_tax_class']    = 'Класс налога';
 $_['entry_geo_zone']     = 'Географическая зона';
-$_['entry_status']       = 'Статус';
+$_['entry_status']       = 'Статус'; ua
 $_['entry_sort_order']   = 'Порядок сортировки';
 
 // Help

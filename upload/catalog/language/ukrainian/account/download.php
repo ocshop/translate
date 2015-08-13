@@ -7,15 +7,15 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Файлы для скачивания';
+$_['heading_title']     = 'Файли для скачування'; ua
 
 // Text
-$_['text_account']      = 'Личный кабинет';
-$_['text_downloads']    = 'Файлы для скачивания';
-$_['text_empty']        = 'Нет доступных файлов для скачивания!';
+$_['text_account']      = 'Особистий Кабінет'; ua
+$_['text_downloads']    = 'Файли для скачування'; ua
+$_['text_empty']        = 'Немає доступних файлів для скачування!'; ua
 
 // Column
-$_['column_order_id']   = '№ Заказа';
-$_['column_name']       = 'Название';
-$_['column_size']       = 'Размер';
-$_['column_date_added'] = 'Дата добавления';
+$_['column_order_id']   = '№ Замовлення'; ua
+$_['column_name']       = 'Назва'; ua
+$_['column_size']       = 'Розмір'; ua
+$_['column_date_added'] = 'Дата додавання'; ua

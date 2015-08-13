@@ -12,7 +12,7 @@ $_['text_openbay']                      = 'OpenBay Pro';
 $_['text_ebay']                         = 'eBay';
 
 //Tabs
-$_['tab_returns']          				= 'Возврат товара';
+$_['tab_returns']          				= 'Повернення товару'; ua
 $_['tab_template']         				= 'Шаблон';
 $_['tab_gallery']          				= 'Gallery';
 $_['tab_settings']         				= 'Настройки';
@@ -87,13 +87,13 @@ $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 wi
 //General profile options
 $_['text_profile_name']         		= 'Name';
 $_['text_profile_default']      		= 'По умолчанию';
-$_['text_profile_type']         		= 'Тип';
-$_['text_profile_desc']         		= 'Описание';
-$_['text_profile_action']       		= 'Действие';
+$_['text_profile_type']         		= 'Тип'; ua
+$_['text_profile_desc']         		= 'Опис'; ua
+$_['text_profile_action']       		= 'Дія'; ua
 
 // Profile types
 $_['text_type_shipping']       			= 'Доставка';
-$_['text_type_returns']       			= 'Возврат товара';
+$_['text_type_returns']       			= 'Повернення товару'; ua
 $_['text_type_template']       			= 'Template &amp; gallery';
 $_['text_type_general']       			= 'General settings';
 

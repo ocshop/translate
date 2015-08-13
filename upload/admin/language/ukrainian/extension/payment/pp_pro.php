@@ -22,10 +22,10 @@ $_['entry_password']				= 'API Password';
 $_['entry_signature']				= 'API Signature';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method:';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help

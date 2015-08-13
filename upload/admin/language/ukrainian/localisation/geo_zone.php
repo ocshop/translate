@@ -17,14 +17,14 @@ $_['text_edit']          = 'Редактирование';
 
 // Column
 $_['column_name']        = 'Название географической зоны';
-$_['column_description'] = 'Описание';
-$_['column_action']      = 'Действие';
+$_['column_description'] = 'Опис'; ua
+$_['column_action']      = 'Дія'; ua
 
 // Entry
 $_['entry_name']         = 'Название географической зоны';
-$_['entry_description']  = 'Описание';
-$_['entry_country']      = 'Страна';
-$_['entry_zone']         = 'Регион / Область';
+$_['entry_description']  = 'Опис'; ua
+$_['entry_country']      = 'Країна'; ua
+$_['entry_zone']         = 'Регіон / Область'; ua
 
 // Error
 $_['error_permission']   = 'У вас недостаточно прав для внесения изменений!';

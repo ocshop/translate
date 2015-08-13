@@ -20,7 +20,7 @@ $_['entry_banner']     = 'Баннер';
 $_['entry_dimension']  = 'Размеры (Ширина x Высота)';
 $_['entry_width']      = 'Ширина';
 $_['entry_height']     = 'Высота';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

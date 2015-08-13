@@ -17,7 +17,7 @@ $_['text_list']        = 'Список модулей';
 
 // Column
 $_['column_name']      = 'Название модуля';
-$_['column_action']    = 'Действие';
+$_['column_action']    = 'Дія'; ua
 
 // Entry
 $_['entry_code']       = 'Модуль';

@@ -14,7 +14,7 @@ $_['text_model']               = 'Код Товара:';
 $_['text_reward']              = 'Бонусные баллы:';
 $_['text_points']              = 'Цена в бонусных баллах:';
 $_['text_stock']               = 'Наличие:';
-$_['text_instock']             = 'В наличии';
+$_['text_instock']             = 'В наявності'; ua
 $_['text_tax']                 = 'Без НДС:';
 $_['text_discount']            = ' или больше ';
 $_['text_option']              = 'Доступные варианты';
@@ -40,14 +40,14 @@ $_['text_year']                = 'Год';
 
 // Entry
 $_['entry_qty']                = 'Кол-во';
-$_['entry_name']               = 'Ваше имя';
+$_['entry_name']               = 'Ваше ім’я'; ua
 $_['entry_review']             = 'Ваш отзыв';
 $_['entry_rating']             = 'Рейтинг';
 $_['entry_good']               = 'Хорошо';
 $_['entry_bad']                = 'Плохо';
 
 // Tabs
-$_['tab_description']          = 'Описание';
+$_['tab_description']          = 'Опис'; ua
 $_['tab_attribute']            = 'Характеристики';
 $_['tab_review']               = 'Отзывов (%s)';
 

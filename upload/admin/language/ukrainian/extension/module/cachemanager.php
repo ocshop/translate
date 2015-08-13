@@ -22,8 +22,8 @@ $_['button_clearcache']           = 'Удалить кэш изображени�
 $_['button_clearsystemcache']     = 'Удалить системный кэш';
 
 // Column
-$_['column_description']          = 'Описание';
-$_['column_action']     	      = 'Действие';
+$_['column_description']          = 'Опис'; ua
+$_['column_action']     	      = 'Дія'; ua
 
 // Entry
 $_['image_description']       	  = 'Удаление кэш файлов изображений:';

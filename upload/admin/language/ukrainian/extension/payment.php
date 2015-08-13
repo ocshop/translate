@@ -15,9 +15,9 @@ $_['text_list']         = 'Список способов оплаты';
 
 // Column
 $_['column_name']       = 'Способ оплаты';
-$_['column_status']     = 'Статус';
+$_['column_status']     = 'Статус'; ua
 $_['column_sort_order'] = 'Порядок сортировки';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

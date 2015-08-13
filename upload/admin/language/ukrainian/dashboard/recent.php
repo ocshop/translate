@@ -11,8 +11,8 @@ $_['heading_title']     = 'Последнии заказы';
 
 // Column
 $_['column_order_id']   = '№';
-$_['column_customer']   = 'Покупатель';
-$_['column_status']     = 'Статус';
+$_['column_customer']   = 'Покупець'; ua
+$_['column_status']     = 'Статус'; ua
 $_['column_total']      = 'Сумма';
-$_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_date_added'] = 'Дата додавання'; ua
+$_['column_action']     = 'Дія'; ua

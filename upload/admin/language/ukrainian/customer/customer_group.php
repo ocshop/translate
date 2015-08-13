@@ -18,11 +18,11 @@ $_['text_edit']         = 'Редактирование';
 // Column
 $_['column_name']       = 'Название группы покупателей';
 $_['column_sort_order'] = 'Порядок сортировки';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія'; ua
 
 // Entry
 $_['entry_name']        = 'Название группы покупателей';
-$_['entry_description'] = 'Описание';
+$_['entry_description'] = 'Опис'; ua
 $_['entry_approval']    = 'Подтверждение новых покупателей';
 $_['entry_sort_order']  = 'Порядок сортировки';
 

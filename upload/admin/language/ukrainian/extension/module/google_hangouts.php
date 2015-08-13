@@ -16,7 +16,7 @@ $_['text_edit']        = 'Редактирование';
 
 // Entry
 $_['entry_code']       = 'Код Google Talk';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 
 // Help
 $_['help_code']        = '<a href="https://developers.google.com/+/hangouts/button" target="_blank">Создайте кнопку Google Hangout</a>, скопируйте и вставьте сгенерированный код в текстовое поле.';

@@ -19,12 +19,12 @@ $_['text_ip_list']       = 'Список антифрод IP';
 // Column
 $_['column_ip']          = 'IP';
 $_['column_total']       = 'Всего покупателей';
-$_['column_date_added']  = 'Дата добавления';
-$_['column_action']      = 'Действие';
+$_['column_date_added']  = 'Дата додавання'; ua
+$_['column_action']      = 'Дія'; ua
 
 // Entry
 $_['entry_ip']           = 'IP';
-$_['entry_status']       = 'Статус';
+$_['entry_status']       = 'Статус'; ua
 $_['entry_order_status'] = 'Статус заказа';
 
 // Help

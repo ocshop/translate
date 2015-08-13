@@ -24,7 +24,7 @@ $_['help_issue']				= '(только для Maestro и Solo карт)';
 // Text
 $_['text_result']				= 'Result: ';
 $_['text_approval_code']		= 'Approval code: ';
-$_['text_reference_number']		= 'Сноска: ';
+$_['text_reference_number']		= 'Сноска: '; ua
 $_['text_card_number_ref']		= 'Card last 4 digits: xxxx ';
 $_['text_card_brand']			= 'Card brand: ';
 $_['text_response_code']		= 'Response code: ';

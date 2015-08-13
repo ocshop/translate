@@ -16,7 +16,7 @@ $_['text_edit']        = 'Редактирование';
 
 // Entry
 $_['entry_geo_zone']   = 'Географическая зона';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error

@@ -7,17 +7,17 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']  = 'Смена пароля';
+$_['heading_title']  = 'Зміна пароля'; ua
 
 // Text
-$_['text_account']   = 'Личный кабинет';
-$_['text_password']  = 'Ваш пароль';
-$_['text_success']   = 'Ваш пароль успешно изменен!';
+$_['text_account']   = 'Особистий Кабінет'; ua
+$_['text_password']  = 'Ваш пароль'; ua
+$_['text_success']   = 'Ваш пароль успішно змінений!'; ua
 
 // Entry
-$_['entry_password'] = 'Пароль';
-$_['entry_confirm']  = 'Подтвердите пароль';
+$_['entry_password'] = 'Пароль'; ua
+$_['entry_confirm']  = 'Підтвердження пароля'; ua
 
 // Error
-$_['error_password'] = 'Пароль должен содержать от 4 до 20 символов!';
-$_['error_confirm']  = 'Пароли не совпадают!';
+$_['error_password'] = 'Пароль повинен бути від 4 до 20 символів!'; ua
+$_['error_confirm']  = 'Паролі не співпадають!'; ua

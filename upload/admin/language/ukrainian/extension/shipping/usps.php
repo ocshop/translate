@@ -62,7 +62,7 @@ $_['entry_user_id']         = 'User ID';
 $_['entry_postcode']        = 'Zip Code';
 $_['entry_domestic']        = 'Domestic Services';
 $_['entry_international']   = 'International Services';
-$_['entry_size']            = 'Размер';
+$_['entry_size']            = 'Розмір'; ua
 $_['entry_container']       = 'Container';
 $_['entry_machinable']      = 'Machinable';
 $_['entry_dimension']       = 'Размеры (Д х Ш х В)';
@@ -74,7 +74,7 @@ $_['entry_display_weight']  = 'Display Delivery Weight';
 $_['entry_weight_class']    = 'Единица измерения веса';
 $_['entry_tax']             = 'Класс налога';
 $_['entry_geo_zone']        = 'Географическая зона';
-$_['entry_status']          = 'Статус';
+$_['entry_status']          = 'Статус'; ua
 $_['entry_sort_order']      = 'Порядок сортировки';
 $_['entry_debug']      		= 'Debug Mode';
 

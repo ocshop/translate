@@ -10,7 +10,7 @@
 $_['heading_title']					= 'Globalpay Remote';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified Globalpay account details!';
 $_['text_edit']                     = 'Редактирование';
 $_['text_card_type']				= 'Тип карты';
@@ -41,25 +41,25 @@ $_['text_rebate_status']			= 'Payment rebated';
 $_['text_order_ref']				= 'Order ref';
 $_['text_order_total']				= 'Total authorised';
 $_['text_total_captured']			= 'Total captured';
-$_['text_transactions']				= 'Операции';
+$_['text_transactions']				= 'Операції'; ua
 $_['text_confirm_void']				= 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
 $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
 $_['text_globalpay_remote']			= '<a target="_blank" href="https://resourcecentre.globaliris.com/getting-started.php?id=OpenCart"><img src="view/image/payment/globalpay.png" alt="Globalpay" title="Globalpay" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Column
-$_['text_column_amount']			= 'Итого';
-$_['text_column_type']				= 'Тип';
-$_['text_column_date_added']		= 'Дата добавления';
+$_['text_column_amount']			= 'Всього'; ua
+$_['text_column_type']				= 'Тип'; ua
+$_['text_column_date_added']		= 'Дата додавання'; ua
 
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';
 $_['entry_secret']					= 'Shared secret';
 $_['entry_rebate_password']			= 'Rebate password';
-$_['entry_total']					= 'Всего';
+$_['entry_total']					= 'Всього'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_debug']					= 'Debug logging';
 $_['entry_auto_settle']				= 'Settlement type';
 $_['entry_tss_check']				= 'TSS checks';
@@ -86,7 +86,7 @@ $_['help_card_data_status']			= 'Logs last 4 cards digits, expire, name, type an
 // Tab
 $_['tab_api']					    = 'API Details';
 $_['tab_account']				    = 'Accounts';
-$_['tab_order_status']				= 'Статус';
+$_['tab_order_status']				= 'Статус'; ua
 $_['tab_payment']					= 'Payment Settings';
 
 // Button

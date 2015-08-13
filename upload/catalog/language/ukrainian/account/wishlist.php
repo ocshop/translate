@@ -7,21 +7,21 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Мои закладки';
+$_['heading_title'] = 'Мої закладки'; ua
 
 // Text
-$_['text_account']  = 'Личный кабинет';
-$_['text_instock']  = 'В наличии';
-$_['text_wishlist'] = 'Закладки (%s)';
-$_['text_login']    = 'Необходимо войти в <a href="%s">Личный Кабинет</a> или <a href="%s">создать учетную запись</a>, чтобы сохранить товар <a href="%s">%s</a> в свои <a href="%s">закладки</a>!';
-$_['text_success']  = 'Товар <a href="%s">%s</a> был добавлен в <a href="%s">закладки</a>!';
-$_['text_remove']   = 'Закладки успешно обновлены!';
-$_['text_empty']    = 'Ваши закладки пусты.';
+$_['text_account']  = 'Особистий Кабінет'; ua
+$_['text_instock']  = 'В наявності'; ua
+$_['text_wishlist'] = 'Закладки (%s)'; ua
+$_['text_login']    = 'Необхідно увійти в <a href="%s">Особистий Кабінет</a> або <a href="%s">створити обліковий запис</a>, щоб зберегти товар <a href="%s">%s</a> в свої <a href="%s">закладки</a>!'; ua
+$_['text_success']  = 'Товар <a href="%s">%s</a> був доданий в <a href="%s">закладки</a>!'; ua
+$_['text_remove']   = 'Закладки успішно оновлені!'; ua
+$_['text_empty']    = 'Ваші закладки порожні'; ua
 
 // Column
-$_['column_image']  = 'Изображение';
-$_['column_name']   = 'Название товара';
-$_['column_model']  = 'Код товара';
-$_['column_stock']  = 'Наличие';
-$_['column_price']  = 'Цена за единицу товара';
-$_['column_action'] = 'Действие';
+$_['column_image']  = 'Зображення'; ua
+$_['column_name']   = 'Назва товару'; ua
+$_['column_model']  = 'Код товару'; ua
+$_['column_stock']  = 'Наявність'; ua
+$_['column_price']  = 'Ціна за одиницю товару'; ua
+$_['column_action'] = 'Дія'; ua

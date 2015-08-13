@@ -19,7 +19,7 @@ $_['text_edit']               = 'Редактирование';
 $_['column_name']             = 'Название страны';
 $_['column_iso_code_2']       = 'Код ISO (2)';
 $_['column_iso_code_3']       = 'Код ISO (3)';
-$_['column_action']           = 'Действие';
+$_['column_action']           = 'Дія'; ua
 
 // Entry
 $_['entry_name']              = 'Название страны';
@@ -27,7 +27,7 @@ $_['entry_iso_code_2']        = 'Код ISO (2)';
 $_['entry_iso_code_3']        = 'Код ISO (3)';
 $_['entry_address_format']    = 'Формат адреса';
 $_['entry_postcode_required'] = 'Индекс обязателен';
-$_['entry_status']            = 'Статус';
+$_['entry_status']            = 'Статус'; ua
 
 // Help
 $_['help_address_format']     = 'Имя = {firstname}<br />Фамилия = {lastname}<br />Компания = {company}<br />Адрес 1 = {address_1}<br />Адрес 2 = {address_2}<br />Город = {city}<br />Индекс = {postcode}<br />Регион = {zone}<br />Код региона = {zone_code}<br />Страна = {country}';

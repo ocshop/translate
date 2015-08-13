@@ -22,7 +22,7 @@ $_['entry_display_insurance'] = 'Display Insurance';
 $_['entry_display_time']      = 'Display Delivery Time';
 $_['entry_tax_class']         = 'Класс налога';
 $_['entry_geo_zone']          = 'Географическая зона';
-$_['entry_status']            = 'Статус';
+$_['entry_status']            = 'Статус'; ua
 $_['entry_sort_order']        = 'Порядок сортировки';
 
 // Help

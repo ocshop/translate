@@ -10,12 +10,12 @@
 $_['heading_title']      = 'История выплат';
 
 // Column
-$_['column_date_added']  = 'Дата добавления';
-$_['column_description'] = 'Описание';
-$_['column_amount']      = 'Сумма (%s)';
+$_['column_date_added']  = 'Дата додавання'; ua
+$_['column_description'] = 'Опис'; ua
+$_['column_amount']      = 'Сума (%s)'; ua
 
 // Text
 $_['text_account']       = 'Кабинет Партнера';
 $_['text_transaction']   = 'Выплаты';
-$_['text_balance']       = 'Ваш текущий баланс:';
+$_['text_balance']       = 'Ваш поточний баланс:'; ua
 $_['text_empty']         = 'У Вас не было выплат!';

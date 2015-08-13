@@ -20,15 +20,15 @@ $_['column_name']       = 'Название кампании';
 $_['column_code']       = 'Код';
 $_['column_clicks']     = 'Клики';
 $_['column_orders']     = 'Заказы';
-$_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_date_added'] = 'Дата додавання'; ua
+$_['column_action']     = 'Дія'; ua
 
 // Entry
 $_['entry_name']        = 'Название кампании';
 $_['entry_description'] = 'Описание кампании';
 $_['entry_code']        = 'Код отслеживания';
 $_['entry_example']     = 'Примеры';
-$_['entry_date_added']  = 'Дата добавления';
+$_['entry_date_added']  = 'Дата додавання'; ua
 
 // Help
 $_['help_code']         = 'Код отслеживания, который используется для отслеживания рекламных кампаний.';

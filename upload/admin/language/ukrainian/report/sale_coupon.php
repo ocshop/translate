@@ -16,8 +16,8 @@ $_['text_list']        = 'Список купонов';
 $_['column_name']      = 'Название купона';
 $_['column_code']      = 'Код';
 $_['column_orders']    = 'Заказы';
-$_['column_total']     = 'Итого';
-$_['column_action']    = 'Действие';
+$_['column_total']     = 'Всього'; ua
+$_['column_action']    = 'Дія'; ua
 
 // Entry
 $_['entry_date_start'] = 'Дата начала';

@@ -23,17 +23,17 @@ $_['column_code']         = 'Код';
 $_['column_discount']     = 'Скидка';
 $_['column_date_start']   = 'Дата начала';
 $_['column_date_end']     = 'Дата окончания';
-$_['column_status']       = 'Статус';
-$_['column_order_id']     = '№ Заказа';
-$_['column_customer']     = 'Покупатель';
-$_['column_amount']       = 'Итого';
-$_['column_date_added']   = 'Дата добавления';
-$_['column_action']       = 'Действие';
+$_['column_status']       = 'Статус'; ua
+$_['column_order_id']     = '№ Замовлення'; ua
+$_['column_customer']     = 'Покупець'; ua
+$_['column_amount']       = 'Всього'; ua
+$_['column_date_added']   = 'Дата додавання'; ua
+$_['column_action']       = 'Дія'; ua
 
 // Entry
 $_['entry_name']          = 'Название купона';
 $_['entry_code']          = 'Код';
-$_['entry_type']          = 'Тип';
+$_['entry_type']          = 'Тип'; ua
 $_['entry_discount']      = 'Скидка';
 $_['entry_logged']        = 'Авторизация покупателя';
 $_['entry_shipping']      = 'Бесплатная доставка';
@@ -44,7 +44,7 @@ $_['entry_date_start']    = 'Дата начала';
 $_['entry_date_end']      = 'Дата окончания';
 $_['entry_uses_total']    = 'Количество применений купона';
 $_['entry_uses_customer'] = 'Количество применений одним покупателем';
-$_['entry_status']        = 'Статус';
+$_['entry_status']        = 'Статус'; ua
 
 // Help
 $_['help_code']           = 'Код, который покупатель вводит для получения скидки.';

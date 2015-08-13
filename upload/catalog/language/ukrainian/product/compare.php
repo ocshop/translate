@@ -10,14 +10,14 @@
 $_['heading_title']     = 'Сравнение товаров';
 
 // Text
-$_['text_product']      = 'Описание';
-$_['text_name']         = 'Товар';
-$_['text_image']        = 'Изображение';
-$_['text_price']        = 'Цена';
-$_['text_model']        = 'Код товара';
+$_['text_product']      = 'Опис'; ua
+$_['text_name']         = 'Товар'; ua
+$_['text_image']        = 'Зображення'; ua
+$_['text_price']        = 'Ціна'; ua
+$_['text_model']        = 'Код товару'; ua
 $_['text_manufacturer'] = 'Производитель';
-$_['text_availability'] = 'Наличие';
-$_['text_instock']      = 'В наличии';
+$_['text_availability'] = 'Наявність'; ua
+$_['text_instock']      = 'В наявності'; ua
 $_['text_rating']       = 'Рейтинг';
 $_['text_reviews']      = 'На основе %s отзывов.';
 $_['text_summary']      = 'Краткое описание';

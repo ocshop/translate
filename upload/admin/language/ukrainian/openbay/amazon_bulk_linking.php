@@ -30,10 +30,10 @@ $_['text_es'] 						= 'Spain';
 
 // Column
 $_['column_asin'] 					= 'ASIN';
-$_['column_price'] 					= 'Цена';
+$_['column_price'] 					= 'Ціна'; ua
 $_['column_name'] 					= 'Name';
 $_['column_sku'] 					= 'SKU';
-$_['column_quantity'] 				= 'Количество';
+$_['column_quantity'] 				= 'Кількість'; ua
 $_['column_combination'] 			= 'Combination';
 
 // Error

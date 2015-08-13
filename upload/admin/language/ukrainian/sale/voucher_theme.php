@@ -17,12 +17,12 @@ $_['text_edit']         = 'Редактирование';
 
 // Column
 $_['column_name']       = 'Название тематики';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія'; ua
 
 // Entry
 $_['entry_name']        = 'Название тематики';
 $_['entry_description'] = 'Описание тематики';
-$_['entry_image']       = 'Изображение';
+$_['entry_image']       = 'Зображення'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

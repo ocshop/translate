@@ -10,7 +10,7 @@
 $_['heading_title']            = 'BluePay Hosted Form';
 
 // Text
-$_['text_payment']             = 'Платеж';
+$_['text_payment']             = 'Платіж'; ua
 $_['text_success']             = 'Настройки успешно изменены!';
 $_['text_edit']                = 'Редактирование';
 $_['text_bluepay_hosted'] = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Hosted Form" title="BluePay Hosted Form" style="border: 1px solid #EEEEEE;" /></a>';
@@ -30,10 +30,10 @@ $_['text_rebate_status']			= 'Payment rebated';
 $_['text_order_ref']				= 'Order ref';
 $_['text_order_total']				= 'Total authorised';
 $_['text_total_released']			= 'Total released';
-$_['text_transactions']				= 'Операции';
-$_['text_column_amount']			= 'Итого';
-$_['text_column_type']				= 'Тип';
-$_['text_column_date_added']		= 'Дата добавления';
+$_['text_transactions']				= 'Операції'; ua
+$_['text_column_amount']			= 'Всього'; ua
+$_['text_column_type']				= 'Тип'; ua
+$_['text_column_date_added']		= 'Дата додавання'; ua
 $_['text_confirm_void']				= 'Are you sure you want to void the payment?';
 $_['text_confirm_release']			= 'Are you sure you want to release the payment?';
 $_['text_confirm_rebate']			= 'Are you sure you want to rebate the payment?';
@@ -46,10 +46,10 @@ $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
 $_['entry_card_amex']				= 'Amex';
 $_['entry_card_discover']			= 'Discover';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 $_['entry_debug']					= 'Debug logging';
 

@@ -15,10 +15,10 @@ $_['text_success']       = 'Настройки успешно изменены!'
 $_['text_edit']        	 = 'Редактирование';
 
 // Entry
-$_['entry_status']       = 'Статус:';
+$_['entry_status']       = 'Статус:'; ua
 $_['entry_data_feed']    = 'Адрес:';
 $_['entry_shopname']     = 'Название магазина:';
-$_['entry_company']      = 'Компания:';
+$_['entry_company']      = 'Компанія:'; ua
 $_['entry_category']     = 'Категории:';
 $_['entry_currency']     = 'Валюта предложений:';
 $_['entry_in_stock']     = 'Статус &quot;В наличии&quot;:';

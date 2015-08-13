@@ -11,7 +11,7 @@ $_['heading_title']					 = 'First Data EMEA Web Service API';
 
 // Text
 $_['text_firstdata_remote']			 = '<img src="view/image/payment/firstdata.png" alt="First Data" title="First Data" style="border: 1px solid #EEEEEE;" />';
-$_['text_payment']					 = 'Платеж';
+$_['text_payment']					 = 'Платіж'; ua
 $_['text_success']					 = 'Success: You have modified First Data account details!';
 $_['text_edit']                      = 'Редактирование';
 $_['text_card_type']				 = 'Тип карты';
@@ -38,10 +38,10 @@ $_['text_refund_status']			 = 'Payment refunded';
 $_['text_order_ref']				 = 'Order ref';
 $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
-$_['text_transactions']				 = 'Операции';
-$_['text_column_amount']			 = 'Итого';
-$_['text_column_type']				 = 'Тип';
-$_['text_column_date_added']		 = 'Дата добавления';
+$_['text_transactions']				 = 'Операції'; ua
+$_['text_column_amount']			 = 'Всього'; ua
+$_['text_column_type']				 = 'Тип'; ua
+$_['text_column_date_added']		 = 'Дата додавання'; ua
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			 = 'Are you sure you want to refund the payment?';
@@ -53,11 +53,11 @@ $_['entry_certificate_key_pw']		 = 'Private key password';
 $_['entry_certificate_ca_path']		 = 'CA path';
 $_['entry_merchant_id']				 = 'Store ID';
 $_['entry_user_id']					 = 'User ID';
-$_['entry_password']				 = 'Пароль';
-$_['entry_total']					 = 'Всего';
+$_['entry_password']				 = 'Пароль'; ua
+$_['entry_total']					 = 'Всього'; ua
 $_['entry_sort_order']				 = 'Порядок сортировки';
 $_['entry_geo_zone']				 = 'Географическая зона';
-$_['entry_status']					 = 'Статус';
+$_['entry_status']					 = 'Статус'; ua
 $_['entry_debug']					 = 'Debug logging';
 $_['entry_auto_settle']				 = 'Settlement type';
 $_['entry_status_success_settled']	 = 'Success - settled';
@@ -78,7 +78,7 @@ $_['help_settle']					 = 'If you use pre-auth you must complete a post-auth acti
 
 // Tab
 $_['tab_account']					 = 'API info';
-$_['tab_order_status']				 = 'Статус';
+$_['tab_order_status']				 = 'Статус'; ua
 $_['tab_payment']					 = 'Payment settings';
 
 // Button

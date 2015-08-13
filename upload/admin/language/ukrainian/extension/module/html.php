@@ -17,8 +17,8 @@ $_['text_edit']         = 'Редактирование';
 // Entry
 $_['entry_name']        = 'Название модуля';
 $_['entry_title']       = 'Заголовок';
-$_['entry_description'] = 'Описание';
-$_['entry_status']      = 'Статус';
+$_['entry_description'] = 'Опис'; ua
+$_['entry_status']      = 'Статус'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

@@ -18,14 +18,14 @@ $_['text_edit']              = 'Редактирование';
 // Column
 $_['column_name']            = 'Название региона';
 $_['column_code']            = 'Код региона';
-$_['column_country']         = 'Страна';
-$_['column_action']          = 'Действие';
+$_['column_country']         = 'Країна'; ua
+$_['column_action']          = 'Дія'; ua
 
 // Entry
 $_['entry_name']             = 'Название региона';
 $_['entry_code']             = 'Код региона';
-$_['entry_country']          = 'Страна';
-$_['entry_status']           = 'Статус';
+$_['entry_country']          = 'Країна'; ua
+$_['entry_status']           = 'Статус'; ua
 
 // Error
 $_['error_permission']       = 'У вас недостаточно прав для внесения изменений!';

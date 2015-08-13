@@ -7,25 +7,25 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']      = 'Учетная запись';
+$_['heading_title']      = 'Обліковий запис'; ua
 
 // Text
-$_['text_account']       = 'Личный кабинет';
-$_['text_edit']          = 'Редактировать информацию';
-$_['text_your_details']  = 'Ваша учетная запись';
-$_['text_success']       = 'Ваша учетная запись была успешно обновлена!';
+$_['text_account']       = 'Особистий Кабінет'; ua
+$_['text_edit']          = 'Редагувати інформацію'; ua
+$_['text_your_details']  = 'Ваш обліковий запис'; ua
+$_['text_success']       = 'Ваш обліковий запис був успішно оновлений!'; ua
 
 // Entry
-$_['entry_firstname']    = 'Имя';
-$_['entry_lastname']     = 'Фамилия';
-$_['entry_email']        = 'E-Mail';
-$_['entry_telephone']    = 'Телефон';
-$_['entry_fax']          = 'Факс';
+$_['entry_firstname']    = 'Ім’я'; ua
+$_['entry_lastname']     = 'Прізвище:'; ua
+$_['entry_email']        = 'E-Mail'; ua
+$_['entry_telephone']    = 'Телефон'; ua
+$_['entry_fax']          = 'Факс'; ua
 
 // Error
-$_['error_exists']       = 'Такой E-Mail уже зарегистрирован!';
-$_['error_firstname']    = 'Имя должно содержать от 1 до 32 символов!';
-$_['error_lastname']     = 'Фамилия должна содержать от 1 до 32 символов!';
-$_['error_email']        = 'E-Mail адрес введен неверно!';
-$_['error_telephone']    = 'Номер телефона должен содержать от 3 до 32 символов!';
-$_['error_custom_field'] = '%s необходим!';
+$_['error_exists']       = 'Такий E-Mail вже зареєстрований!'; ua
+$_['error_firstname']    = 'Ім’я повинно бути від 1 до 32 символів!'; ua
+$_['error_lastname']     = 'Прізвище повинно бути від 1 до 32 символів!'; ua
+$_['error_email']        = 'E-Mail введено невірно!'; ua
+$_['error_telephone']    = 'Номер телефону повинен бути від 3 до 32 символів!'; ua
+$_['error_custom_field'] = '%s необхідний!'; ua

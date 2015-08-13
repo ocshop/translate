@@ -68,8 +68,8 @@ $_['text_error']                              = 'Error:';
 // Entry
 $_['entry_key']                               = 'MaxMind License Key';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Статус';
-$_['entry_status']                            = 'Статус';
+$_['entry_order_status']                      = 'Статус'; ua
+$_['entry_status']                            = 'Статус'; ua
 
 // Help
 $_['help_score']                              = 'The higher the score the more likely the order is fraudulent. Set a score between 0 - 100.';

@@ -24,23 +24,23 @@ $_['text_profile']			= 'Профиль периодичности';
 $_['text_trial']			= 'Триал профиль';
 
 // Entry
-$_['entry_name']			= 'Название';
-$_['entry_price']			= 'Цена';
+$_['entry_name']			= 'Назва'; ua
+$_['entry_price']			= 'Ціна'; ua
 $_['entry_duration']		= 'Продолжительность';
 $_['entry_cycle']			= 'Цикл';
 $_['entry_frequency']		= 'Частота';
-$_['entry_trial_price']		= 'Цена';
+$_['entry_trial_price']		= 'Ціна'; ua
 $_['entry_trial_duration']	= 'Продолжительность';
-$_['entry_trial_status']	= 'Статус';
+$_['entry_trial_status']	= 'Статус'; ua
 $_['entry_trial_cycle']	    = 'Цикл';
 $_['entry_trial_frequency']	= 'Частота';
-$_['entry_status']			= 'Статус';
+$_['entry_status']			= 'Статус'; ua
 $_['entry_sort_order']		= 'Порядок сортировки';
 
 // Column
-$_['column_name']			= 'Название';
+$_['column_name']			= 'Назва'; ua
 $_['column_sort_order']	    = 'Порядок сортировки';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія'; ua
 
 // Error
 $_['error_warning']         = 'Внимательно проверьте форму на ошибки!';

@@ -18,15 +18,15 @@ $_['text_default']       = 'По умолчанию';
 
 // Column
 $_['column_name']        = 'Название баннера';
-$_['column_status']      = 'Статус';
-$_['column_action']      = 'Действие';
+$_['column_status']      = 'Статус'; ua
+$_['column_action']      = 'Дія'; ua
 
 // Entry
 $_['entry_name']         = 'Название баннера';
 $_['entry_title']        = 'Заголовок';
 $_['entry_link']         = 'Ссылка';
-$_['entry_image']        = 'Изображение';
-$_['entry_status']       = 'Статус';
+$_['entry_image']        = 'Зображення'; ua
+$_['entry_status']       = 'Статус'; ua
 $_['entry_sort_order']   = 'Порядок сортировки';
 
 // Error

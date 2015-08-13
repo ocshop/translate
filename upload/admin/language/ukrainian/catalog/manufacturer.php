@@ -22,21 +22,21 @@ $_['text_amount']        	 = 'Фиксированная сумма';
 $_['column_name']        	 = 'Название производителя';
 $_['column_sort_order']  	 = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
-$_['column_action']      	 = 'Действие';
+$_['column_action']      	 = 'Дія'; ua
 
 // Entry
 $_['entry_name']             = 'Название производителя';
-$_['entry_description']      = 'Описание';
+$_['entry_description']      = 'Опис'; ua
 $_['entry_meta_title'] 	     = 'Мета-тег Title';
 $_['entry_meta_h1'] 	     = 'HTML-тег H1';
 $_['entry_meta_keyword'] 	 = 'Мета-тег Keywords';
 $_['entry_meta_description'] = 'Мета-тег Description';
 $_['entry_store']            = 'Магазины';
 $_['entry_keyword']    	     = 'SEO URL';
-$_['entry_image']    	     = 'Изображение';
+$_['entry_image']    	     = 'Зображення'; ua
 $_['entry_sort_order']  	 = 'Порядок сортировки';
 $_['entry_noindex']          = 'Индексация';
-$_['entry_type']        	 = 'Тип';
+$_['entry_type']        	 = 'Тип'; ua
 
 // Help
 $_['help_keyword']       	 = 'Должно быть уникальным на всю систему, без пробелов и спецсимволов';

@@ -15,8 +15,8 @@ $_['text_list']        = 'Список мошенников';
 
 // Column
 $_['column_name']      = 'Имя мошенника';
-$_['column_status']    = 'Статус';
-$_['column_action']    = 'Действие';
+$_['column_status']    = 'Статус'; ua
+$_['column_action']    = 'Дія'; ua
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

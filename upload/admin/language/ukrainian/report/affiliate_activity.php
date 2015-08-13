@@ -20,9 +20,9 @@ $_['text_register']     = '<a href="affiliate_id=%d">%s</a> - зарегистр
 
 // Column
 $_['column_affiliate']  = 'Партнер';
-$_['column_comment']    = 'Комментарий';
+$_['column_comment']    = 'Коментар'; ua
 $_['column_ip']         = 'IP';
-$_['column_date_added'] = 'Дата добавления';
+$_['column_date_added'] = 'Дата додавання'; ua
 
 // Entry
 $_['entry_affiliate']   = 'Партнер';

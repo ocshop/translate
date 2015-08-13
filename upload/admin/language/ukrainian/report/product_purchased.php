@@ -16,12 +16,12 @@ $_['text_all_status']   = 'Все статусы';
 // Column
 $_['column_date_start'] = 'Дата начала';
 $_['column_date_end']   = 'Дата окончания';
-$_['column_name']       = 'Название товара';
-$_['column_model']      = 'Код товара';
-$_['column_quantity']   = 'Количество';
-$_['column_total']      = 'Итого';
+$_['column_name']       = 'Назва товару'; ua
+$_['column_model']      = 'Код товару'; ua
+$_['column_quantity']   = 'Кількість'; ua
+$_['column_total']      = 'Всього'; ua
 
 // Entry
 $_['entry_date_start']  = 'Дата начала';
 $_['entry_date_end']    = 'Дата окончания';
-$_['entry_status']      = 'Статус';
+$_['entry_status']      = 'Статус'; ua

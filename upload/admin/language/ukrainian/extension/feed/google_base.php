@@ -15,7 +15,7 @@ $_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 
 // Entry
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 $_['entry_data_feed']  = 'Адрес';
 
 // Error

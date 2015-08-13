@@ -40,9 +40,9 @@ $_['entry_start_selling'] 			= 'Start Selling';
 
 // Column
 $_['column_name'] 					= 'Name';
-$_['column_image'] 					= 'Изображение';
-$_['column_model'] 					= 'Код товара';
-$_['column_status'] 				= 'Статус';
+$_['column_image'] 					= 'Зображення'; ua
+$_['column_model'] 					= 'Код товару'; ua
+$_['column_status'] 				= 'Статус'; ua
 $_['column_matches']				= 'Matches';
 $_['column_result'] 				= 'Result';
 

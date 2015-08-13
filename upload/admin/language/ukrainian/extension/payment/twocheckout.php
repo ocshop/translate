@@ -10,7 +10,7 @@
 $_['heading_title']					= '2Checkout';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified 2Checkout account details!';
 $_['text_edit']                     = 'Редактирование';
 $_['text_twocheckout']				= '<a href="https://www.2checkout.com/2co/affiliate?affiliate=1596408" target="_blank"><img src="view/image/payment/2checkout.png" alt="2Checkout" title="2Checkout" style="border: 1px solid #EEEEEE;" /></a>';
@@ -20,10 +20,10 @@ $_['entry_account']					= '2Checkout Account ID';
 $_['entry_secret']					= 'Secret Word';
 $_['entry_display']					= 'Direct Checkout';
 $_['entry_test']					= 'Test Mode';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help

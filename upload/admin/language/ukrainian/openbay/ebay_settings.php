@@ -52,7 +52,7 @@ $_['text_success']					= 'Your settings have been saved';
 $_['text_edit']						= 'Редактирование';
 
 // Entry
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_token']					= 'Токен';
 $_['entry_secret']					= 'Secret';
 $_['entry_string1']					= 'Encryption string 1';

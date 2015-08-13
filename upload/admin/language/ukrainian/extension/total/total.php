@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Всего';
+$_['heading_title']    = 'Всього'; ua
 
 // Text
 $_['text_total']       = 'Учитывать в заказе';
@@ -15,7 +15,7 @@ $_['text_success']     = 'Настройки успешно изменены!';
 $_['text_edit']        = 'Редактирование';
 
 // Entry
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Error

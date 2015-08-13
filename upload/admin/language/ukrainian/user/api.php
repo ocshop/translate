@@ -18,17 +18,17 @@ $_['text_ip']              = 'Вы можете создать список IP �
 
 // Column
 $_['column_name']          = 'Название API';
-$_['column_status']        = 'Статус';
-$_['column_date_added']    = 'Дата добавления';
+$_['column_status']        = 'Статус'; ua
+$_['column_date_added']    = 'Дата додавання'; ua
 $_['column_date_modified'] = 'Дата обновления';
 $_['column_token']         = 'Токен';
 $_['column_ip']            = 'IP';
-$_['column_action']        = 'Действие';
+$_['column_action']        = 'Дія'; ua
 
 // Entry
 $_['entry_name']           = 'Название API';
 $_['entry_key']            = 'Ключ API';
-$_['entry_status']         = 'Статус';
+$_['entry_status']         = 'Статус'; ua
 $_['entry_ip']             = 'IP';
 
 // Error

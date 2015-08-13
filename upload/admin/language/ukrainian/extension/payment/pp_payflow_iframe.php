@@ -11,7 +11,7 @@ $_['heading_title']					= 'PayPal Payflow Pro iFrame';
 $_['heading_refund']				= 'Refund';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified PayPal Payflow Pro iFrame account details!';
 $_['text_edit']                     = 'Редактирование';
 $_['text_pp_payflow_iframe']		= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -34,31 +34,31 @@ $_['help_checkout_method']			= 'Please use Redirect method if do not have SSL in
 // Column
 $_['column_transaction_id']			= 'Transaction ID';
 $_['column_transaction_type']		= 'Transaction Type';
-$_['column_amount']					= 'Итого';
+$_['column_amount']					= 'Всього'; ua
 $_['column_time']					= 'Время';
 $_['column_actions']				= 'Actions';
 
 // Tab
 $_['tab_settings']					= 'Настройки';
-$_['tab_order_status']				= 'Статус';
+$_['tab_order_status']				= 'Статус'; ua
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 
 // Entry
 $_['entry_vendor']					= 'Vendor';
 $_['entry_user']					= 'User';
-$_['entry_password']				= 'Пароль';
+$_['entry_password']				= 'Пароль'; ua
 $_['entry_partner']					= 'Partner';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 $_['entry_transaction_id']			= 'Transaction ID';
 $_['entry_full_refund']				= 'Full refund';
-$_['entry_amount']					= 'Итого';
-$_['entry_message']					= 'Сообщение';
+$_['entry_amount']					= 'Всього'; ua
+$_['entry_message']					= 'Повідомлення'; ua
 $_['entry_ipn_url']					= 'IPN URL';
 $_['entry_checkout_method']			= 'Checkout Method';
 $_['entry_debug']					= 'Debug mode';
@@ -68,7 +68,7 @@ $_['entry_refund_amount']			= 'Refund Amount';
 $_['entry_capture_status']			= 'Capture Status';
 $_['entry_void']					= 'Void';
 $_['entry_capture']					= 'Capture';
-$_['entry_transactions']			= 'Операции';
+$_['entry_transactions']			= 'Операції'; ua
 $_['entry_complete_capture']		= 'Complete Capture';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status:';
 $_['entry_completed_status']		= 'Completed Status:';

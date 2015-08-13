@@ -20,7 +20,7 @@ $_['entry_product']    = 'Товары';
 $_['entry_limit']      = 'Лимит';
 $_['entry_width']      = 'Ширина';
 $_['entry_height']     = 'Высота';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 
 // Help
 $_['help_product']     = '(Автозаполнение)';

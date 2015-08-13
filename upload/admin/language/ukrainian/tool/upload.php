@@ -14,15 +14,15 @@ $_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Список загрузок';
 
 // Column
-$_['column_name']       = 'Название';
+$_['column_name']       = 'Назва'; ua
 $_['column_filename']   = 'Имя файла';
-$_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_date_added'] = 'Дата додавання'; ua
+$_['column_action']     = 'Дія'; ua
 
 // Entry
-$_['entry_name']        = 'Название';
+$_['entry_name']        = 'Назва'; ua
 $_['entry_filename']    = 'Имя файла';
-$_['entry_date_added'] 	= 'Дата добавления';
+$_['entry_date_added'] 	= 'Дата додавання'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

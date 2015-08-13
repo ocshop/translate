@@ -21,11 +21,11 @@ $_['text_category_total']    = 'Всего категорий: ';
 $_['column_name']            = 'Название категории';
 $_['column_sort_order']      = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
-$_['column_action']          = 'Действие';
+$_['column_action']          = 'Дія'; ua
 
 // Entry
 $_['entry_name']             = 'Название категории';
-$_['entry_description']      = 'Описание';
+$_['entry_description']      = 'Опис'; ua
 $_['entry_meta_title'] 	     = 'Мета-тег Title';
 $_['entry_meta_h1'] 	     = 'HTML-тег H1';
 $_['entry_meta_keyword'] 	 = 'Мета-тег Keywords';
@@ -34,11 +34,11 @@ $_['entry_keyword']          = 'SEO URL';
 $_['entry_parent']           = 'Родительская категория';
 $_['entry_filter']           = 'Фильтры';
 $_['entry_store']            = 'Магазины';
-$_['entry_image']            = 'Изображение';
+$_['entry_image']            = 'Зображення'; ua
 $_['entry_top']              = 'Главное меню';
 $_['entry_column']           = 'Столбцы';
 $_['entry_sort_order']       = 'Порядок сортировки';
-$_['entry_status']           = 'Статус';
+$_['entry_status']           = 'Статус'; ua
 $_['entry_noindex']          = 'Индексация';
 $_['entry_layout']           = 'Изменить макет';
 

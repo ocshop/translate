@@ -30,7 +30,7 @@ $_['entry_width']       = 'Ширина';
 $_['entry_height']      = 'Высота';
 $_['entry_site']   		= 'eBay Site';
 $_['entry_sort']   		= 'Sort by';
-$_['entry_status']   	= 'Статус';
+$_['entry_status']   	= 'Статус'; ua
 
 // Error
 $_['error_permission']  = 'У вас недостаточно прав для внесения изменений!';

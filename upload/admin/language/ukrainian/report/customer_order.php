@@ -15,15 +15,15 @@ $_['text_all_status']       = 'Все статусы';
 
 // Column
 $_['column_customer']       = 'Имя покупателя';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Группа покупателей';
-$_['column_status']         = 'Статус';
+$_['column_email']          = 'E-Mail'; ua
+$_['column_customer_group'] = 'Група покупців:'; ua
+$_['column_status']         = 'Статус'; ua
 $_['column_orders']         = 'Кол-во заказов';
 $_['column_products']       = 'Кол-во товаров';
-$_['column_total']          = 'Итого';
-$_['column_action']         = 'Действие';
+$_['column_total']          = 'Всього'; ua
+$_['column_action']         = 'Дія'; ua
 
 // Entry
 $_['entry_date_start']      = 'Дата начала';
 $_['entry_date_end']        = 'Дата окончания';
-$_['entry_status']          = 'Статус';
+$_['entry_status']          = 'Статус'; ua

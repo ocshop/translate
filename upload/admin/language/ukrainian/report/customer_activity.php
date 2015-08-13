@@ -25,13 +25,13 @@ $_['text_order_account']  = '<a href="customer_id=%d">%s</a> <a href="order_id=%
 $_['text_order_guest']    = '%s <a href="order_id=%d"> - создал новый заказ</a>.';
 
 // Column
-$_['column_customer']     = 'Покупатель';
-$_['column_comment']      = 'Комментарий';
+$_['column_customer']     = 'Покупець'; ua
+$_['column_comment']      = 'Коментар'; ua
 $_['column_ip']           = 'IP';
-$_['column_date_added']   = 'Дата добавления';
+$_['column_date_added']   = 'Дата додавання'; ua
 
 // Entry
-$_['entry_customer']      = 'Покупатель';
+$_['entry_customer']      = 'Покупець'; ua
 $_['entry_ip']            = 'IP';
 $_['entry_date_start']    = 'Дата начала';
 $_['entry_date_end']      = 'Дата окончания';

@@ -10,7 +10,7 @@
 $_['heading_title']					= 'Web Payment Software';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified Web Payment Software account details!';
 $_['text_edit']                     = 'Редактирование';
 $_['text_web_payment_software']		= '<a href="http://www.web-payment-software.com/" target="_blank"><img src="view/image/payment/wps-logo.jpg" alt="Web Payment Software" title="Web Payment Software" style="border: 1px solid #EEEEEE;" /></a>';
@@ -24,10 +24,10 @@ $_['entry_login']					= 'Merchant ID';
 $_['entry_key']						= 'Merchant Key';
 $_['entry_mode']					= 'Transaction Mode';
 $_['entry_method']					= 'Transaction Method';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help

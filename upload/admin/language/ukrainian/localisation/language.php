@@ -19,15 +19,15 @@ $_['text_edit']         = 'Редактирование';
 $_['column_name']       = 'Название языка';
 $_['column_code']       = 'Код';
 $_['column_sort_order'] = 'Порядок сортировки';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія'; ua
 
 // Entry
 $_['entry_name']        = 'Название языка';
 $_['entry_code']        = 'Код';
 $_['entry_locale']      = 'Кодировка';
-$_['entry_image']       = 'Изображение';
+$_['entry_image']       = 'Зображення'; ua
 $_['entry_directory']   = 'Директория';
-$_['entry_status']      = 'Статус';
+$_['entry_status']      = 'Статус'; ua
 $_['entry_sort_order']  = 'Порядок сортировки';
 
 // Help

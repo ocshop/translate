@@ -45,12 +45,12 @@ $_['text_refurbished'] 					= 'Refurbished';
 $_['error_permission']         			= 'You do not have access to this module';
 
 // Entry
-$_['entry_status']                 		= 'Статус';
+$_['entry_status']                 		= 'Статус'; ua
 $_['entry_token']                    	= 'Токен';
 $_['entry_string1']              		= 'Encryption String 1';
 $_['entry_string2']              		= 'Encryption String 2';
 $_['entry_import_tax']               	= 'Tax for imported items';
-$_['entry_customer_group']           	= 'Группа покупателей';
+$_['entry_customer_group']           	= 'Група покупців:'; ua
 $_['entry_tax_percentage']           	= 'Modify price';
 $_['entry_default_condition']        	= 'Default product condition type';
 $_['entry_marketplace_default']			= 'Default marketplace';

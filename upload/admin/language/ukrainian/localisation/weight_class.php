@@ -19,7 +19,7 @@ $_['text_edit']        = 'Редактирование';
 $_['column_title']     = 'Название единицы веса';
 $_['column_unit']      = 'Единица веса';
 $_['column_value']     = 'Значение';
-$_['column_action']    = 'Действие';
+$_['column_action']    = 'Дія'; ua
 
 // Entry
 $_['entry_title']      = 'Название единицы веса';

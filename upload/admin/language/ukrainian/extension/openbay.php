@@ -68,8 +68,8 @@ $_['text_confirm_backup']				= 'Ensure that you have a full backup before contin
 
 // Column
 $_['column_name']          				= 'Plugin name';
-$_['column_status']        				= 'Статус';
-$_['column_action']        				= 'Действие';
+$_['column_status']        				= 'Статус'; ua
+$_['column_action']        				= 'Дія'; ua
 
 // Entry
 $_['entry_patch']            			= 'Manual update patch';

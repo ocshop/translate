@@ -14,12 +14,12 @@ $_['text_list']         = 'Список партнерской комиссии'
 
 // Column
 $_['column_affiliate']  = 'Имя партнера';
-$_['column_email']      = 'E-Mail';
-$_['column_status']     = 'Статус';
+$_['column_email']      = 'E-Mail'; ua
+$_['column_status']     = 'Статус'; ua
 $_['column_commission'] = 'Комиссия';
 $_['column_orders']     = 'Кол-во заказов';
-$_['column_total']      = 'Итого';
-$_['column_action']     = 'Действие';
+$_['column_total']      = 'Всього'; ua
+$_['column_action']     = 'Дія'; ua
 
 // Entry
 $_['entry_date_start']  = 'Дата начала';

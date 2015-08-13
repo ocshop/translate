@@ -29,8 +29,8 @@ $_['text_create']  				= 'Create a new Etsy listing';
 
 // Entry
 $_['entry_title']      			= 'Product title';
-$_['entry_description']     	= 'Описание';
-$_['entry_price']      			= 'Цена';
+$_['entry_description']     	= 'Опис'; ua
+$_['entry_price']      			= 'Ціна'; ua
 $_['entry_non_taxable']     	= 'Non taxable';
 $_['entry_category']     		= 'Top category';
 $_['entry_sub_category']    	= 'Sub category';

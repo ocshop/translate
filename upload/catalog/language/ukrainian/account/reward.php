@@ -7,15 +7,15 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']      = 'Бонусные баллы';
+$_['heading_title']      = 'Бонусні бали'; ua
 
 // Column
-$_['column_date_added']  = 'Дата добавления';
-$_['column_description'] = 'Описание';
-$_['column_points']      = 'Бонусные баллы';
+$_['column_date_added']  = 'Дата додавання'; ua
+$_['column_description'] = 'Опис'; ua
+$_['column_points']      = 'Бонусні бали'; ua
 
 // Text
-$_['text_account']       = 'Личный кабинет';
-$_['text_reward']        = 'Бонусные баллы';
-$_['text_total']         = 'Накоплено бонусных баллов:';
-$_['text_empty']         = 'У Вас нет бонусных баллов!';
+$_['text_account']       = 'Особистий Кабінет'; ua
+$_['text_reward']        = 'Бонусні бали'; ua
+$_['text_total']         = 'Накопилось бонусних балів:'; ua
+$_['text_empty']         = 'У Вас немає бонусних балів!'; ua

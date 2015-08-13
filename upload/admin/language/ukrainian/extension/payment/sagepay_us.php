@@ -10,17 +10,17 @@
 $_['heading_title']					= 'Sage Payment Solutions (US)';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified SagePay account details!';
 $_['text_edit']                     = 'Редактирование';
 
 // Entry
 $_['entry_merchant_id']				= 'Merchant ID';
 $_['entry_merchant_key']			= 'Merchant Key';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help

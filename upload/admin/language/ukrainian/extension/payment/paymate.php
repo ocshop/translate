@@ -10,19 +10,19 @@
 $_['heading_title']					= 'Paymate';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified Paymate account details!';
 $_['text_edit']                     = 'Редактирование';
 $_['text_paymate']					= '<img src="view/image/payment/paymate.png" alt="Paymate" title="Paymate" style="border: 1px solid #EEEEEE;" />';
 
 // Entry
 $_['entry_username']				= 'Paymate Username';
-$_['entry_password']				= 'Пароль';
+$_['entry_password']				= 'Пароль'; ua
 $_['entry_test']					= 'Test Mode';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help

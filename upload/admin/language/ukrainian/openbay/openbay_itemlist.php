@@ -36,7 +36,7 @@ $_['text_status_amazonus_notlinked'] 	= 'Amazon US not linked';
 $_['text_processing']       			= 'Обработка';
 $_['text_category_missing'] 			= 'Missing category';
 $_['text_variations'] 					= 'variations';
-$_['text_variations_stock'] 			= 'Наличие';
+$_['text_variations_stock'] 			= 'Наявність'; ua
 $_['text_min']                      	= 'Min';
 $_['text_max']                      	= 'Max';
 $_['text_option']                   	= 'Опции';
@@ -44,15 +44,15 @@ $_['text_list']              			= 'Product List';
 
 // Entry
 $_['entry_title'] 						= 'Title';
-$_['entry_model'] 						= 'Код товара';
+$_['entry_model'] 						= 'Код товару'; ua
 $_['entry_manufacturer'] 				= 'Производитель';
-$_['entry_status'] 						= 'Статус';
+$_['entry_status'] 						= 'Статус'; ua
 $_['entry_status_marketplace'] 			= 'Marketplace status';
 $_['entry_stock_range'] 				= 'Stock range';
 $_['entry_category'] 					= 'Категории';
 $_['entry_populated'] 					= 'Populated';
 $_['entry_sku'] 						= 'SKU';
-$_['entry_description'] 				= 'Описание';
+$_['entry_description'] 				= 'Опис'; ua
 
 // Button
 $_['button_error_fix']              	= 'Fix errors';

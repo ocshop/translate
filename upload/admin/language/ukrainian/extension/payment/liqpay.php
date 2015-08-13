@@ -20,11 +20,11 @@ $_['text_liqpay']		 = '<img src="view/image/payment/liqpay.png" alt="LIQPAY" tit
 // Entry
 $_['entry_merchant']	 = 'ID Продавца';
 $_['entry_signature']	 = 'Подпись';
-$_['entry_type']		 = 'Тип';
+$_['entry_type']		 = 'Тип'; ua
 $_['entry_total']		 = 'Нижняя граница';
 $_['entry_order_status'] = 'Статус заказа после оплаты';
 $_['entry_geo_zone']	 = 'Географическая зона';
-$_['entry_status']		 = 'Статус';
+$_['entry_status']		 = 'Статус'; ua
 $_['entry_sort_order']	 = 'Порядок сортировки';
 
 // Help

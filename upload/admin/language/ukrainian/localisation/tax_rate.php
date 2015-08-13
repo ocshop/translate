@@ -20,17 +20,17 @@ $_['text_amount']          = 'Фиксированная сумма';
 // Column
 $_['column_name']          = 'Название налога';
 $_['column_rate']          = 'Ставка налога';
-$_['column_type']          = 'Тип';
+$_['column_type']          = 'Тип'; ua
 $_['column_geo_zone']      = 'Географическая зона';
-$_['column_date_added']    = 'Дата добавления';
+$_['column_date_added']    = 'Дата додавання'; ua
 $_['column_date_modified'] = 'Дата обновления';
-$_['column_action']        = 'Действие';
+$_['column_action']        = 'Дія'; ua
 
 // Entry
 $_['entry_name']           = 'Название налога';
 $_['entry_rate']           = 'Ставка налога';
-$_['entry_type']           = 'Тип';
-$_['entry_customer_group'] = 'Группа покупателей';
+$_['entry_type']           = 'Тип'; ua
+$_['entry_customer_group'] = 'Група покупців:'; ua
 $_['entry_geo_zone']       = 'Географическая зона';
 
 // Error

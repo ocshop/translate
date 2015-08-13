@@ -14,17 +14,17 @@ $_['text_success']      = 'Настройки успешно изменены!';
 $_['text_list']         = 'Список налоговых классов';
 $_['text_add']          = 'Добавить';
 $_['text_edit']         = 'Редактирование';
-$_['text_shipping']     = 'Адрес доставки';
-$_['text_payment']      = 'Платёжный адрес';
+$_['text_shipping']     = 'Адреса доставки'; ua
+$_['text_payment']      = 'Платіжна адреса'; ua
 $_['text_store']        = 'Адрес магазина';
 
 // Column
 $_['column_title']      = 'Название налогового класса';
-$_['column_action']     = 'Действие';
+$_['column_action']     = 'Дія'; ua
 
 // Entry
 $_['entry_title']       = 'Название налогового класса';
-$_['entry_description'] = 'Описание';
+$_['entry_description'] = 'Опис'; ua
 $_['entry_rate']        = 'Ставка налога';
 $_['entry_based']       = 'Основана на';
 $_['entry_geo_zone']    = 'Географическая зона';

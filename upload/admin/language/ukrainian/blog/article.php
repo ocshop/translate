@@ -19,9 +19,9 @@ $_['text_default']           = 'Основной магазин';
 // Column
 $_['column_name']            = 'Название статьи';
 $_['column_image']           = 'Изображения';
-$_['column_status']          = 'Статус';
+$_['column_status']          = 'Статус'; ua
 $_['column_noindex']         = 'Индекс';
-$_['column_action']          = 'Действие';
+$_['column_action']          = 'Дія'; ua
 
 // Entry
 $_['entry_name']             = 'Название статьи';
@@ -33,7 +33,7 @@ $_['entry_meta_description'] = 'Мета-тег Description';
 $_['entry_keyword']          = 'SEO URL';
 $_['entry_store']            = 'Магазины';
 $_['entry_image']            = 'Изображение статьи';
-$_['entry_status']           = 'Статус';
+$_['entry_status']           = 'Статус'; ua
 $_['entry_noindex']          = 'Индексация';
 $_['entry_sort_order']       = 'Порядок сортировки';
 $_['entry_category']         = 'Показывать в категориях';

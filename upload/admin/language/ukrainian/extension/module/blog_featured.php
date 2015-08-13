@@ -20,7 +20,7 @@ $_['entry_article']    = 'Статьи';
 $_['entry_limit']      = 'Лимит';
 $_['entry_width']      = 'Ширина';
 $_['entry_height']     = 'Высота';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 
 // Help
 $_['help_article']     = '(Автодополнение)';

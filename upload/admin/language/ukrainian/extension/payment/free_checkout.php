@@ -16,7 +16,7 @@ $_['text_edit']          = 'Редактирование';
 
 // Entry
 $_['entry_order_status'] = 'Статус заказа после оплаты';
-$_['entry_status']		 = 'Статус';
+$_['entry_status']		 = 'Статус'; ua
 $_['entry_sort_order']	 = 'Порядок сортировки';
 
 // Error

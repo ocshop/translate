@@ -16,7 +16,7 @@ $_['text_signup']      = 'Перейдите <a href="https://www.google.com/rec
 // Entry
 $_['entry_key']        = 'Ключ сайта';
 $_['entry_secret']     = 'Секретный ключ';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

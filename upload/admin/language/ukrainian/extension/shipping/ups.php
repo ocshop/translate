@@ -63,7 +63,7 @@ $_['text_today_express_saver']     = 'UPS Today Express Saver';
 // Entry
 $_['entry_key']                    = 'Access Key';
 $_['entry_username']               = 'Username';
-$_['entry_password']               = 'Пароль';
+$_['entry_password']               = 'Пароль'; ua
 $_['entry_pickup']                 = 'Pickup Method';
 $_['entry_packaging']              = 'Packaging Type';
 $_['entry_classification']         = 'Customer Classification Code';
@@ -85,7 +85,7 @@ $_['entry_height']                 = 'Высота';
 $_['entry_width']                  = 'Ширина';
 $_['entry_tax_class']              = 'Класс налога';
 $_['entry_geo_zone']               = 'Географическая зона';
-$_['entry_status']                 = 'Статус';
+$_['entry_status']                 = 'Статус'; ua
 $_['entry_sort_order']             = 'Порядок сортировки';
 $_['entry_debug']      			   = 'Debug Mode';
 

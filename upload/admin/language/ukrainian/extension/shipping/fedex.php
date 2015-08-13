@@ -51,10 +51,10 @@ $_['text_account_rate']                        = 'Account Rate';
 
 // Entry
 $_['entry_key']                                = 'Key';
-$_['entry_password']                           = 'Пароль';
+$_['entry_password']                           = 'Пароль'; ua
 $_['entry_account']                            = 'Номер счета';
 $_['entry_meter']                              = 'Meter Number';
-$_['entry_postcode']                           = 'Почтовый индекс';
+$_['entry_postcode']                           = 'Поштовий індекс'; ua
 $_['entry_test']                               = 'Test Mode';
 $_['entry_service']                            = 'Services';
 $_['entry_dimension']                          = 'Box Dimensions (L x W x H)';
@@ -70,7 +70,7 @@ $_['entry_display_weight']                     = 'Display Delivery Weight';
 $_['entry_weight_class']                       = 'Единица измерения веса';
 $_['entry_tax_class']                          = 'Класс налога';
 $_['entry_geo_zone']                           = 'Географическая зона';
-$_['entry_status']                             = 'Статус';
+$_['entry_status']                             = 'Статус'; ua
 $_['entry_sort_order']                         = 'Порядок сортировки';
 
 // Help

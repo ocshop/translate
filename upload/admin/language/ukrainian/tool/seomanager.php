@@ -20,7 +20,7 @@ $_['button_insert'] 		= 'Добавить';
 // Column
 $_['column_query']       	= 'Ссылка';
 $_['column_keyword']       	= 'SEO URL';
-$_['column_action']     	= 'Действие';
+$_['column_action']     	= 'Дія'; ua
 
 // Error
 $_['error_permission']  	= 'У вас недостаточно прав для внесения изменений!';

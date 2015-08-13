@@ -22,21 +22,21 @@ $_['text_merchantid']               	= 'Merchant ID';
 $_['text_change_merchantid']        	= 'Change';
 $_['text_allowed']                  	= 'Allowed';
 $_['text_not_allowed']              	= 'Not Allowed';
-$_['text_price']              			= 'Цена';
+$_['text_price']              			= 'Ціна'; ua
 $_['text_name']              			= 'Name';
-$_['text_description']              	= 'Описание';
+$_['text_description']              	= 'Опис'; ua
 $_['text_order_frequency']          	= 'Order import frequency';
 $_['text_bulk_listing']             	= 'Bulk Listing';
 $_['text_product_listings']         	= 'Listings per month';
 
 // Columns
 $_['column_name']                     	= 'Name';
-$_['column_description']              	= 'Описание';
+$_['column_description']              	= 'Опис'; ua
 $_['column_order_frequency']          	= 'Order import frequency';
 $_['column_bulk_listing']             	= 'Bulk Listing';
 $_['column_product_listings']         	= 'Listings per month';
-$_['column_price']                    	= 'Цена';
+$_['column_price']                    	= 'Ціна'; ua
 
 // Buttons
 $_['button_change_plan']              	= 'Change plan';
-$_['button_register']                 	= 'Регистрация';
+$_['button_register']                 	= 'Реєстрація'; ua

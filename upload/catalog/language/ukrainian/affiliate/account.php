@@ -11,7 +11,7 @@ $_['heading_title']        = 'Партнерcкий раздел';
 
 // Text
 $_['text_account']         = 'Кабинет Партнера';
-$_['text_my_account']      = 'Моя учетная запись';
+$_['text_my_account']      = 'Мій обліковий запис'; ua
 $_['text_my_tracking']     = 'Мои рефералы';
 $_['text_my_transactions'] = 'История выплат';
 $_['text_edit']            = 'Редактировать учетную запись';

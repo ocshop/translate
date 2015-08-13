@@ -20,7 +20,7 @@ $_['column_title']         = 'Название валюты';
 $_['column_code']          = 'Код';
 $_['column_value']         = 'Значение';
 $_['column_date_modified'] = 'Дата обновления';
-$_['column_action']        = 'Действие';
+$_['column_action']        = 'Дія'; ua
 
 // Entry
 $_['entry_title']          = 'Название валюты';
@@ -29,7 +29,7 @@ $_['entry_value']          = 'Значение';
 $_['entry_symbol_left']    = 'Символ слева';
 $_['entry_symbol_right']   = 'Символ справа';
 $_['entry_decimal_place']  = 'Количество знаков после запятой';
-$_['entry_status']         = 'Статус';
+$_['entry_status']         = 'Статус'; ua
 
 // Help
 $_['help_code']            = 'Не изменяйте, если это ваша валюта по умолчанию. Код должен быть стандартным, см. <a href="http://www.xe.com/iso4217.php" target="_blank">список ISO кодов</a>.';

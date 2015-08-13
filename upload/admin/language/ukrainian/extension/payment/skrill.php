@@ -16,7 +16,7 @@ $_['text_edit']               = 'Редактирование';
 $_['text_skrill']	     	  = '<a href="https://www.moneybookers.com/partners/?p=OpenCart" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
-$_['entry_email']			  = 'E-Mail';
+$_['entry_email']			  = 'E-Mail'; ua
 $_['entry_secret']		      = 'Secret';
 $_['entry_total']			  = 'Нижняя граница';
 $_['entry_order_status']	  = 'Статус заказа после оплаты';
@@ -25,7 +25,7 @@ $_['entry_canceled_status']	  = 'Статус отмененного заказ�
 $_['entry_failed_status']	  = 'Статус ошибочного заказа';
 $_['entry_chargeback_status'] = 'Статус заказа при возврате средств';
 $_['entry_geo_zone']		  = 'Географическая зона';
-$_['entry_status']			  = 'Статус';
+$_['entry_status']			  = 'Статус'; ua
 $_['entry_sort_order']		  = 'Порядок сортировки';
 
 // Help

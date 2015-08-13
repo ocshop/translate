@@ -25,25 +25,25 @@ $_['text_file']             = 'Файл';
 $_['text_date']             = 'Дата';
 $_['text_datetime']         = 'Дата и время';
 $_['text_time']             = 'Время';
-$_['text_account']          = 'Аккаунт';
+$_['text_account']          = 'Особистий Кабінет'; ua
 $_['text_address']          = 'Адрес';
 
 // Column
 $_['column_name']           = 'Название настраиваемого поля';
 $_['column_location']       = 'Расположение';
-$_['column_type']           = 'Тип';
+$_['column_type']           = 'Тип'; ua
 $_['column_sort_order']     = 'Порядок сортировки';
-$_['column_action']         = 'Действие';
+$_['column_action']         = 'Дія'; ua
 
 // Entry
 $_['entry_name']            = 'Название настраиваемого поля';
 $_['entry_location']        = 'Расположение';
-$_['entry_type']            = 'Тип';
+$_['entry_type']            = 'Тип'; ua
 $_['entry_value']           = 'Значение';
 $_['entry_custom_value']    = 'Значение поля';
-$_['entry_customer_group']  = 'Группа покупателей';
+$_['entry_customer_group']  = 'Група покупців:'; ua
 $_['entry_required']        = 'Необходимо';
-$_['entry_status']          = 'Статус';
+$_['entry_status']          = 'Статус'; ua
 $_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help

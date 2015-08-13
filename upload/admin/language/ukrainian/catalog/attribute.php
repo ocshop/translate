@@ -19,7 +19,7 @@ $_['text_edit']              = 'Редактирование';
 $_['column_name']            = 'Название характеристики';
 $_['column_attribute_group'] = 'Группа характеристик';
 $_['column_sort_order']      = 'Порядок сортировки';
-$_['column_action']          = 'Действие';
+$_['column_action']          = 'Дія'; ua
 
 // Entry
 $_['entry_name']            = 'Название характеристики';

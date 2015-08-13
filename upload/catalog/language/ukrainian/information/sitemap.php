@@ -11,12 +11,12 @@ $_['heading_title']    = 'Карта сайта';
 
 // Text
 $_['text_special']     = 'Акции';
-$_['text_account']     = 'Личный кабинет';
+$_['text_account']     = 'Особистий Кабінет'; ua
 $_['text_edit']        = 'Личная информация';
-$_['text_password']    = 'Пароль';
-$_['text_address']     = 'Мои адреса';
-$_['text_history']     = 'История заказа';
-$_['text_download']    = 'Файлы для скачивания';
+$_['text_password']    = 'Пароль'; ua
+$_['text_address']     = 'Мої Адреси'; ua
+$_['text_history']     = 'Історія замовлення'; ua
+$_['text_download']    = 'Файли для скачування'; ua
 $_['text_cart']        = 'Корзина покупок';
 $_['text_checkout']    = 'Оформление заказа';
 $_['text_search']      = 'Поиск';

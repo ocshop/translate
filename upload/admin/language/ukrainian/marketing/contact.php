@@ -16,7 +16,7 @@ $_['text_list']            = 'Список рассылки';
 $_['text_default']         = 'По умолчанию';
 $_['text_newsletter']      = 'Подписчики на новости';
 $_['text_customer_all']    = 'Все покупатели';
-$_['text_customer_group']  = 'Группа покупателей';
+$_['text_customer_group']  = 'Група покупців:'; ua
 $_['text_customer']        = 'Покупатели';
 $_['text_affiliate_all']   = 'Все партнёры';
 $_['text_affiliate']       = 'Партнёры';
@@ -25,12 +25,12 @@ $_['text_product']         = 'Товары';
 // Entry
 $_['entry_store']          = 'От';
 $_['entry_to']             = 'Кому';
-$_['entry_customer_group'] = 'Группа покупателей';
-$_['entry_customer']       = 'Покупатель';
+$_['entry_customer_group'] = 'Група покупців:'; ua
+$_['entry_customer']       = 'Покупець'; ua
 $_['entry_affiliate']      = 'Партнёр';
 $_['entry_product']        = 'Товары';
 $_['entry_subject']        = 'Тема';
-$_['entry_message']        = 'Сообщение';
+$_['entry_message']        = 'Повідомлення'; ua
 
 // Help
 $_['help_customer']       = '(Автозаполнение)';

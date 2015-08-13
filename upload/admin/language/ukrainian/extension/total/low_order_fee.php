@@ -18,7 +18,7 @@ $_['text_edit']        = 'Редактирование';
 $_['entry_total']      = 'Сумма заказа';
 $_['entry_fee']        = 'Плата';
 $_['entry_tax_class']  = 'Класс налога';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 // Help

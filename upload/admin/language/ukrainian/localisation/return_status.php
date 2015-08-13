@@ -17,7 +17,7 @@ $_['text_edit']        = 'Редактирование';
 
 // Column
 $_['column_name']      = 'Название статуса возврата';
-$_['column_action']    = 'Действие';
+$_['column_action']    = 'Дія'; ua
 
 // Entry
 $_['entry_name']       = 'Название статуса возврата';

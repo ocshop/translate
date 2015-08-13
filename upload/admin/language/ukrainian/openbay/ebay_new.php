@@ -95,16 +95,16 @@ $_['text_compatible']        		= 'Compatible options';
 $_['text_loading_compatibility']    = 'Loading compatibility options';
 
 // Column
-$_['column_stock_total']      		= 'В наличии';
+$_['column_stock_total']      		= 'В наявності'; ua
 $_['column_stock_col_qty']          = 'To list';
 $_['column_stock_col_qty_reserve']  = 'Reserved';
 $_['column_price_ex_tax']           = 'Excluding tax';
 $_['column_price_inc_tax']          = 'Including tax';
 $_['column_stock_col_comb']         = 'Combination';
-$_['column_price']          		= 'Цена';
+$_['column_price']          		= 'Ціна'; ua
 $_['column_stock_col_enabled']      = 'Включено';
-$_['column_thumb']      			= 'Изображение';
-$_['column_img_size']      			= 'Размер';
+$_['column_thumb']      			= 'Зображення'; ua
+$_['column_img_size']      			= 'Розмір'; ua
 $_['column_template_image']         = 'Template image';
 $_['column_ebay_image']         	= 'eBay image';
 $_['column_main_ebay_image']        = 'Main eBay image';
@@ -122,7 +122,7 @@ $_['entry_search_catalog']          = 'Search eBay catalog:';
 $_['entry_catalog']            		= 'Use default image';
 $_['entry_title']                   = 'Title';
 $_['entry_subtitle']                = 'Sub title';
-$_['entry_description']             = 'Описание';
+$_['entry_description']             = 'Опис'; ua
 $_['entry_profile_load']            = 'Load profile';
 $_['entry_template']                = 'Тематика';
 $_['entry_image_gallery']           = 'Gallery image size';
@@ -131,7 +131,7 @@ $_['entry_images_supersize']        = 'Supersize images';
 $_['entry_images_gallery_plus']     = 'Gallery plus';
 $_['text_stock_matrix']             = 'Stock matrix';
 $_['entry_qty']                     = 'Quantity to list';
-$_['entry_price']             		= 'Цена';
+$_['entry_price']             		= 'Ціна'; ua
 $_['entry_tax_inc']                 = 'Tax included';
 $_['entry_offers']                  = 'Allow buyers to make offers';
 $_['entry_private']                 = 'Private listing';
@@ -157,10 +157,10 @@ $_['entry_vin']   					= 'Vehicle Identification Number';
 // Tab
 $_['tab_feature']              		= 'Features';
 $_['tab_ebay_catalog']              = 'eBay catalog';
-$_['tab_description']          		= 'Описание';
+$_['tab_description']          		= 'Опис'; ua
 $_['tab_price']                		= 'Price &amp; details';
-$_['tab_payment']              		= 'Платеж';
-$_['tab_returns']              		= 'Возврат товара';
+$_['tab_payment']              		= 'Платіж'; ua
+$_['tab_returns']              		= 'Повернення товару'; ua
 
 // Help
 $_['help_quantity_reserve']         = 'Enter a lower amount if you want to maintain a lower stock level on eBay';

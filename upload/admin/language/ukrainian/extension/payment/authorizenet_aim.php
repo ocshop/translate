@@ -10,7 +10,7 @@
 $_['heading_title']         = 'Authorize.Net (AIM)';
 
 // Text
-$_['text_payment']          = 'Платеж';
+$_['text_payment']          = 'Платіж'; ua
 $_['text_success']          = 'Настройки успешно изменены!';
 $_['text_edit']             = 'Редактирование';
 $_['text_test']             = 'Test';
@@ -26,10 +26,10 @@ $_['entry_hash']            = 'MD5 Hash';
 $_['entry_server']          = 'Transaction Server';
 $_['entry_mode']            = 'Transaction Mode';
 $_['entry_method']          = 'Transaction Method';
-$_['entry_total']           = 'Всего';
-$_['entry_order_status']    = 'Статус';
+$_['entry_total']           = 'Всього'; ua
+$_['entry_order_status']    = 'Статус'; ua
 $_['entry_geo_zone']        = 'Географическая зона';
-$_['entry_status']          = 'Статус';
+$_['entry_status']          = 'Статус'; ua
 $_['entry_sort_order']      = 'Порядок сортировки';
 
 // Help

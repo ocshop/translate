@@ -7,15 +7,15 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']      = 'История финансовых операций';
+$_['heading_title']      = 'Історія фінансових операцій'; ua
 
 // Column
-$_['column_date_added']  = 'Дата добавления';
-$_['column_description'] = 'Описание';
-$_['column_amount']      = 'Сумма (%s)';
+$_['column_date_added']  = 'Дата додавання'; ua
+$_['column_description'] = 'Опис'; ua
+$_['column_amount']      = 'Сума (%s)'; ua
 
 // Text
-$_['text_account']       = 'Личный кабинет';
-$_['text_transaction']   = 'Финансовые операции';
-$_['text_total']         = 'Ваш текущий баланс:';
-$_['text_empty']         = 'Не было финансовых операций!';
+$_['text_account']       = 'Особистий Кабінет'; ua
+$_['text_transaction']   = 'Фінансові операції'; ua
+$_['text_total']         = 'Ваш поточний баланс:'; ua
+$_['text_empty']         = 'Не було фінансових операцій!'; ua

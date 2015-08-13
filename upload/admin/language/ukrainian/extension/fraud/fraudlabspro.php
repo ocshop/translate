@@ -34,7 +34,7 @@ $_['text_email_blacklist']                    = 'Email Blacklist';
 $_['text_credit_card_blacklist']              = 'Credit Card Blacklist';
 $_['text_score']                              = 'FraudLabsPro Score';
 $_['text_status']                             = 'FraudLabs Pro Status';
-$_['text_message']                            = 'Сообщение';
+$_['text_message']                            = 'Повідомлення'; ua
 $_['text_transaction_id']                     = 'Transaction ID';
 $_['text_credits']                     		  = 'Баланс';
 $_['text_error']                              = 'Error:';
@@ -43,10 +43,10 @@ $_['text_flp_merchant_area']                  = 'Please login to <a href="http:/
 
 
 // Entry
-$_['entry_status']                            = 'Статус';
+$_['entry_status']                            = 'Статус'; ua
 $_['entry_key']                               = 'API Key';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Статус';
+$_['entry_order_status']                      = 'Статус'; ua
 $_['entry_review_status']                     = 'Review Status';
 $_['entry_approve_status']                    = 'Approve Status';
 $_['entry_reject_status']                     = 'Reject Status';

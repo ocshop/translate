@@ -21,12 +21,12 @@ $_['entry_client_id']      = 'Client ID';
 $_['entry_secret']         = 'Secret';
 $_['entry_sandbox']        = 'Sandbox Mode';
 $_['entry_debug']          = 'Debug Logging';
-$_['entry_customer_group'] = 'Группа покупателей';
+$_['entry_customer_group'] = 'Група покупців:'; ua
 $_['entry_button']         = 'Button Colour';
 $_['entry_seamless']       = 'Allow "Seamless Checkout"';
 $_['entry_locale']         = 'Locale';
 $_['entry_return_url']     = 'Return URL';
-$_['entry_status']         = 'Статус';
+$_['entry_status']         = 'Статус'; ua
 
 //Help
 $_['help_sandbox']         = 'Use sandbox (testing) environment?';

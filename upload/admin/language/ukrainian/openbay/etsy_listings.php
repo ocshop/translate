@@ -38,13 +38,13 @@ $_['column_listing_qty']		= 'Listing quantity';
 $_['column_store_qty']			= 'Store quantity';
 $_['column_status']				= 'Status message';
 $_['column_link_status']		= 'Link status';
-$_['column_action']				= 'Действие';
+$_['column_action']				= 'Дія'; ua
 
 // Entry
 $_['entry_limit']				= 'Page limit';
-$_['entry_status']				= 'Статус';
+$_['entry_status']				= 'Статус'; ua
 $_['entry_keywords']			= 'Ключевые слова';
-$_['entry_name']				= 'Название товара';
+$_['entry_name']				= 'Назва товару'; ua
 $_['entry_etsy_id']				= 'Etsy item ID';
 
 // Help

@@ -22,7 +22,7 @@ $_['text_column_right']   = 'Правая колонка';
 
 // Column
 $_['column_name']         = 'Название макета';
-$_['column_action']       = 'Действие';
+$_['column_action']       = 'Дія'; ua
 
 // Entry
 $_['entry_name']          = 'Название макета';

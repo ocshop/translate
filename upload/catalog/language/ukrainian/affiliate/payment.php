@@ -10,14 +10,14 @@
 $_['heading_title']             = 'Способ оплаты';
 
 // Text
-$_['text_account']              = 'Аккаунт';
-$_['text_payment']              = 'Платеж';
+$_['text_account']              = 'Особистий Кабінет'; ua
+$_['text_payment']              = 'Платіж'; ua
 $_['text_your_payment']         = 'Платёжные реквизиты';
-$_['text_your_password']        = 'Ваш пароль';
+$_['text_your_password']        = 'Ваш пароль'; ua
 $_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Банковский перевод';
-$_['text_success']              = 'Ваша учетная запись была успешно обновлена!';
+$_['text_success']              = 'Ваш обліковий запис був успішно оновлений!'; ua
 
 // Entry
 $_['entry_tax']                 = 'Налоговый код (ИНН)';

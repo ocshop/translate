@@ -15,7 +15,7 @@ $_['text_signup']      = 'Войдите в Ваш <a href="http://www.google.co
 
 // Entry
 $_['entry_code']       = 'Код Google Analytics';
-$_['entry_status']     = 'Статус';
+$_['entry_status']     = 'Статус'; ua
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

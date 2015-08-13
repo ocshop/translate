@@ -10,7 +10,7 @@
 $_['text_title']				= 'Credit / Debit card (First Data)';
 
 // Button
-$_['button_confirm']			= 'Продолжить';
+$_['button_confirm']			= 'Продовжити'; ua
 
 // Text
 $_['text_new_card']				= 'New card';

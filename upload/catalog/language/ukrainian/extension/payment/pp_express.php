@@ -11,7 +11,7 @@ $_['express_text_title']      = 'Подтверждение заказа';
 
 // Text
 $_['text_title']              = 'PayPal Express (включая Кредитные и Дебетовые карты)';
-$_['button_continue']         = 'Продолжить';
+$_['button_continue']         = 'Продовжити'; ua
 $_['text_cart']               = 'Корзина покупок';
 $_['text_shipping_updated']   = 'Доставка обновлена';
 $_['text_trial']              = 'Сумма: %s; Периодичность: %s %s; Кол-во платежей: %s, Далее ';

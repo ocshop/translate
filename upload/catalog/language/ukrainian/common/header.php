@@ -8,16 +8,16 @@
 
 // Text
 $_['text_home']          = 'Главная';
-$_['text_wishlist']      = 'Закладки (%s)';
+$_['text_wishlist']      = 'Закладки (%s)'; ua
 $_['text_shopping_cart'] = 'Корзина';
 $_['text_category']      = 'Категории';
-$_['text_account']       = 'Личный кабинет';
-$_['text_register']      = 'Регистрация';
-$_['text_login']         = 'Авторизация';
-$_['text_order']         = 'История заказа';
-$_['text_transaction']   = 'Операции';
-$_['text_download']      = 'Файлы для скачивания';
-$_['text_logout']        = 'Выход';
+$_['text_account']       = 'Особистий Кабінет'; ua
+$_['text_register']      = 'Реєстрація'; ua
+$_['text_login']         = 'Вхід'; ua
+$_['text_order']         = 'Історія замовлення'; ua
+$_['text_transaction']   = 'Операції'; ua
+$_['text_download']      = 'Файли для скачування'; ua
+$_['text_logout']        = 'Вихід'; ua
 $_['text_checkout']      = 'Оформление заказа';
 $_['text_search']        = 'Поиск';
 $_['text_all']           = 'Смотреть Все';

@@ -33,7 +33,7 @@ $_['entry_button_colour'] = 'Button Colour';
 $_['entry_button_size'] = 'Button Size';
 $_['entry_layout'] = 'Layout';
 $_['entry_position'] = 'Расположение';
-$_['entry_status'] = 'Статус';
+$_['entry_status'] = 'Статус'; ua
 $_['entry_sort_order'] = 'Порядок сортировки';
 
 //Error

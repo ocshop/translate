@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Файлы для скачивания';
+$_['heading_title']     = 'Файли для скачування'; ua
 
 // Text
 $_['text_success']      = 'Настройки успешно изменены!';
@@ -17,12 +17,12 @@ $_['text_edit']         = 'Редактирование';
 $_['text_upload']       = 'Файл успешно загружен!';
 
 // Column
-$_['column_name']       = 'Название';
-$_['column_date_added'] = 'Дата добавления';
-$_['column_action']     = 'Действие';
+$_['column_name']       = 'Назва'; ua
+$_['column_date_added'] = 'Дата додавання'; ua
+$_['column_action']     = 'Дія'; ua
 
 // Entry
-$_['entry_name']        = 'Название';
+$_['entry_name']        = 'Назва'; ua
 $_['entry_filename']    = 'Имя файла';
 $_['entry_mask']        = 'Маска';
 

@@ -10,35 +10,35 @@
 $_['heading_title']     = 'Моя информация';
 
 // Text
-$_['text_account']      = 'Аккаунт';
-$_['text_edit']         = 'Редактировать информацию';
-$_['text_your_details'] = 'Ваша учетная запись';
-$_['text_your_address'] = 'Ваш Адрес';
-$_['text_success']      = 'Ваша учетная запись была успешно обновлена!';
+$_['text_account']      = 'Особистий Кабінет'; ua
+$_['text_edit']         = 'Редагувати інформацію'; ua
+$_['text_your_details'] = 'Ваш обліковий запис'; ua
+$_['text_your_address'] = 'Ваша адреса'; ua
+$_['text_success']      = 'Ваш обліковий запис був успішно оновлений!'; ua
 
 // Entry
-$_['entry_firstname']   = 'Имя';
-$_['entry_lastname']    = 'Фамилия';
-$_['entry_email']       = 'E-Mail';
-$_['entry_telephone']   = 'Телефон';
-$_['entry_fax']         = 'Факс';
-$_['entry_company']     = 'Компания';
+$_['entry_firstname']   = 'Ім’я'; ua
+$_['entry_lastname']    = 'Прізвище:'; ua
+$_['entry_email']       = 'E-Mail'; ua
+$_['entry_telephone']   = 'Телефон'; ua
+$_['entry_fax']         = 'Факс'; ua
+$_['entry_company']     = 'Компанія'; ua
 $_['entry_website']     = 'Веб-сайт';
-$_['entry_address_1']   = 'Адрес 1';
-$_['entry_address_2']   = 'Адрес 2';
-$_['entry_postcode']    = 'Почтовый индекс';
-$_['entry_city']        = 'Город';
-$_['entry_country']     = 'Страна';
-$_['entry_zone']        = 'Регион / Область';
+$_['entry_address_1']   = 'Адреса 1'; ua
+$_['entry_address_2']   = 'Адреса 2'; ua
+$_['entry_postcode']    = 'Поштовий індекс'; ua
+$_['entry_city']        = 'Місто'; ua
+$_['entry_country']     = 'Країна'; ua
+$_['entry_zone']        = 'Регіон / Область'; ua
 
 // Error
-$_['error_exists']      = 'Такой E-Mail уже зарегистрирован!';
-$_['error_firstname']   = 'Имя должно содержать от 1 до 32 символов!';
-$_['error_lastname']    = 'Фамилия должна содержать от 1 до 32 символов!';
-$_['error_email']       = 'E-Mail адрес введен неверно!';
-$_['error_telephone']   = 'Номер телефона должен содержать от 3 до 32 символов!';
-$_['error_address_1']   = 'Адрес должен содержать от 3 до 128 символов!';
-$_['error_city']        = 'Название города должно содержать от 2 до 128 символов!';
-$_['error_country']     = 'Пожалуйста, укажите страну!';
-$_['error_zone']        = 'Пожалуйста, укажите регион / область!';
-$_['error_postcode']    = 'Индекс должен содержать от 2 до 10 символов!';
+$_['error_exists']      = 'Такий E-Mail вже зареєстрований!'; ua
+$_['error_firstname']   = 'Ім’я повинно бути від 1 до 32 символів!'; ua
+$_['error_lastname']    = 'Прізвище повинно бути від 1 до 32 символів!'; ua
+$_['error_email']       = 'E-Mail введено невірно!'; ua
+$_['error_telephone']   = 'Номер телефону повинен бути від 3 до 32 символів!'; ua
+$_['error_address_1']   = 'Адреса повинна бути від 3 до 128 символів!'; ua
+$_['error_city']        = 'Назва міста має бути від 2 до 128 символів!'; ua
+$_['error_country']     = 'Будь ласка, вкажіть країну!'; ua
+$_['error_zone']        = 'Будь ласка, вкажіть регіон / область!'; ua
+$_['error_postcode']    = 'Індекс повинен бути від 2 до 10 символів!'; ua

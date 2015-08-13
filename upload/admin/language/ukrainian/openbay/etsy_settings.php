@@ -13,10 +13,10 @@ $_['text_etsy']                 = 'Etsy';
 
 // Text
 $_['text_success']     			= 'Настройки успешно изменены!';
-$_['text_status']         		= 'Статус';
+$_['text_status']         		= 'Статус'; ua
 $_['text_account_ok']  			= 'Connection to Etsy OK';
 $_['text_api_other']            = 'Связи';
-$_['text_token_register']       = 'Регистрация';
+$_['text_token_register']       = 'Реєстрація'; ua
 $_['text_api_ok']       		= 'API connection OK';
 $_['text_pull_orders']    		= 'Pull orders';
 $_['text_sync_settings']    	= 'Sync settings';

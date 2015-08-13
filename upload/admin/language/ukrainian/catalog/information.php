@@ -20,11 +20,11 @@ $_['text_default']           = 'По умолчанию';
 $_['column_title']           = 'Название статьи';
 $_['column_sort_order']	     = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
-$_['column_action']          = 'Действие';
+$_['column_action']          = 'Дія'; ua
 
 // Entry
 $_['entry_title']            = 'Название статьи';
-$_['entry_description']      = 'Описание';
+$_['entry_description']      = 'Опис'; ua
 $_['entry_store']            = 'Магазины';
 $_['entry_meta_title'] 	     = 'Мета-тег Title';
 $_['entry_meta_h1'] 	     = 'HTML-тег H1';
@@ -32,7 +32,7 @@ $_['entry_meta_keyword'] 	 = 'Мета-тег Keywords';
 $_['entry_meta_description'] = 'Мета-тег Description';
 $_['entry_keyword']          = 'SEO URL';
 $_['entry_bottom']           = 'Отображить в футере';
-$_['entry_status']           = 'Статус';
+$_['entry_status']           = 'Статус'; ua
 $_['entry_noindex']          = 'Индексация';
 $_['entry_sort_order']       = 'Порядок сортировки';
 $_['entry_layout']           = 'Изменить макет';

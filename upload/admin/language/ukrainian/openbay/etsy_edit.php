@@ -21,8 +21,8 @@ $_['text_edit']  				= 'Редактирование';
 
 // Entry
 $_['entry_title']      			= 'Product title';
-$_['entry_description']     	= 'Описание';
-$_['entry_price']      			= 'Цена';
+$_['entry_description']     	= 'Опис'; ua
+$_['entry_price']      			= 'Ціна'; ua
 $_['entry_state']      			= 'State';
 
 // Errors

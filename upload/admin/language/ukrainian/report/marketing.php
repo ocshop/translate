@@ -18,7 +18,7 @@ $_['column_campaign']  	= 'Название компании';
 $_['column_code']      	= 'Код';
 $_['column_clicks']    	= 'Клики';
 $_['column_orders']    	= 'Кол-во заказов';
-$_['column_total']     	= 'Итого';
+$_['column_total']     	= 'Всього'; ua
 
 // Entry
 $_['entry_date_start'] 	= 'Дата начала';

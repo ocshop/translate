@@ -16,7 +16,7 @@ $_['text_menu_enable']          = 'Использовать в качестве 
 
 $_['text_new_menu_item']        = 'Новый пункт меню';
 $_['text_category']             = 'Категория';
-$_['text_product']              = 'Товар';
+$_['text_product']              = 'Товар'; ua
 $_['text_manufacturer']         = 'Производитель';
 $_['text_information']          = 'Статья';
 $_['text_custom']               = 'Произвольные ссылки';
@@ -25,22 +25,22 @@ $_['text_confirm']				= 'Вы уверены?';
 $_['text_menu_title']           = 'Структура меню';
 $_['text_menu_description']     = 'Расположите элементы в желаемом порядке путём перетаскивания. Можно также щёлкнуть на стрелку справа от элемента, чтобы открыть дополнительные настройки.';
 $_['text_sub_item'] 	        = 'дочерний элемент';
-$_['text_menu_name'] 	        = 'Название';
+$_['text_menu_name'] 	        = 'Назва'; ua
 $_['text_menu_link'] 	        = 'Ссылка';
 
 // Column
 $_['column_sort_order']         = 'Порядок сортировки';
-$_['column_action']             = 'Действие';
+$_['column_action']             = 'Дія'; ua
 
-$_['column_custom_name']        = 'Название';
+$_['column_custom_name']        = 'Назва'; ua
 $_['column_custom_link']        = 'Ссылка';
 $_['column_category_name']      = 'Название категории';
-$_['column_product_name']       = 'Название товара';
+$_['column_product_name']       = 'Назва товару'; ua
 $_['column_manufacturer_name']  = 'Название производителя';
 $_['column_information_name']   = 'Название статьи';
 
 // Entry
-$_['entry_name']                = 'Название';
+$_['entry_name']                = 'Назва'; ua
 $_['entry_link']                = 'Ссылка';
 $_['entry_columns']             = 'Столбцов';
 $_['entry_sort_order']          = 'Порядок сортировки';

@@ -34,16 +34,16 @@ $_['text_payment_description'] 	              	= 'Стоимость: %s; Пер
 $_['text_payment_until_canceled_description'] 	= 'Стоимость: %s; Периодичность: %d %s; Кол-во платежей: до отмены';
 
 // Column
-$_['column_image']          					= 'Изображение';
-$_['column_name']           					= 'Название товара';
-$_['column_model']          					= 'Код товара';
-$_['column_quantity']       					= 'Количество';
-$_['column_price']          					= 'Цена за единицу товара';
-$_['column_total']          					= 'Всего';
+$_['column_image']          					= 'Зображення'; ua
+$_['column_name']           					= 'Назва товару'; ua
+$_['column_model']          					= 'Код товару'; ua
+$_['column_quantity']       					= 'Кількість'; ua
+$_['column_price']          					= 'Ціна за одиницю товару'; ua
+$_['column_total']          					= 'Всього'; ua
 
 // Error
 $_['error_stock']            					= 'Товары, отмеченные ***, недоступны в нужном количестве или отсутствуют на складе!';
 $_['error_minimum']          					= 'Минимальное количество для заказа товара %s составляет %s!';
-$_['error_required']         					= '%s необходим!';
+$_['error_required']         					= '%s необхідний!'; ua
 $_['error_product']          					= 'Ваша корзина пуста!';
 $_['error_recurring_required'] 					= 'Необходимо выбрать переодичность платежа!';

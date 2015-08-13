@@ -22,10 +22,10 @@ $_['column_date_start'] = 'Дата начала';
 $_['column_date_end']   = 'Дата окончания';
 $_['column_title']      = 'Название доставки';
 $_['column_orders']     = 'Кол-во заказов';
-$_['column_total']      = 'Итого';
+$_['column_total']      = 'Всього'; ua
 
 // Entry
 $_['entry_date_start']  = 'Дата начала';
 $_['entry_date_end']    = 'Дата окончания';
 $_['entry_group']       = 'Сортировать по';
-$_['entry_status']      = 'Статус';
+$_['entry_status']      = 'Статус'; ua

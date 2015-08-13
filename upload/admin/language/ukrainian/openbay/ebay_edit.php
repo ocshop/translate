@@ -39,9 +39,9 @@ $_['entry_stock_matrix_inactive']	= 'Stock matrix (inactive)';
 $_['column_sku']					= 'SKU';
 $_['column_stock_listed']			= 'Listed';
 $_['column_stock_reserve']			= 'Reserve';
-$_['column_stock_total']			= 'В наличии';
-$_['column_price']					= 'Цена';
-$_['column_status']					= 'Включен';
+$_['column_stock_total']			= 'В наявності'; ua
+$_['column_price']					= 'Ціна'; ua
+$_['column_status']					= 'Включений'; ua
 $_['column_add']					= 'Добавить';
 $_['column_combination']			= 'Combination';
 

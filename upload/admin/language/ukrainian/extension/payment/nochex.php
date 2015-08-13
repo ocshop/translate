@@ -10,7 +10,7 @@
 $_['heading_title']					= 'NOCHEX';
 
 // Text
-$_['text_payment']					= 'Платеж';
+$_['text_payment']					= 'Платіж'; ua
 $_['text_success']					= 'Success: You have modified NOCHEX account details!';
 $_['text_edit']                     = 'Редактирование';
 $_['text_nochex']					= '<a href="https://secure.nochex.com/apply/merchant_info.aspx?partner_id=172198798" target="_blank"><img src="view/image/payment/nochex.png" alt="NOCHEX" title="NOCHEX" style="border: 1px solid #EEEEEE;" /></a>';
@@ -18,15 +18,15 @@ $_['text_seller']					= 'Seller / Personal Account';
 $_['text_merchant']					= 'Merchant Account';
 
 // Entry
-$_['entry_email']					= 'E-Mail';
+$_['entry_email']					= 'E-Mail'; ua
 $_['entry_account']					= 'Account Type';
 $_['entry_merchant']				= 'Merchant ID';
 $_['entry_template']				= 'Pass Template';
 $_['entry_test']					= 'Test';
-$_['entry_total']					= 'Всего';
-$_['entry_order_status']			= 'Статус';
+$_['entry_total']					= 'Всього'; ua
+$_['entry_order_status']			= 'Статус'; ua
 $_['entry_geo_zone']				= 'Географическая зона';
-$_['entry_status']					= 'Статус';
+$_['entry_status']					= 'Статус'; ua
 $_['entry_sort_order']				= 'Порядок сортировки';
 
 // Help
