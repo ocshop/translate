@@ -7,13 +7,15 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
+$_['text_analytics']                   = 'Аналитикс';
 $_['text_affiliate']                   = 'Партнёрская программа';
 $_['text_api']                         = 'API';
 $_['text_attribute']                   = 'Характеристики';
 $_['text_attribute_group']             = 'Группы характеристик';
 $_['text_backup']                      = 'Бэкап / Восстановление';
-$_['text_banner']                      = 'Банеры';
+$_['text_banner']                      = 'Баннеры';
 $_['text_menu']                        = 'Меню';
+$_['text_captcha']                     = 'Капча';
 $_['text_catalog']                     = 'Каталог';
 $_['text_category']                    = 'Категории';
 $_['text_country']                     = 'Страны';
