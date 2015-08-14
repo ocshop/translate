@@ -12,9 +12,9 @@ $_['heading_title'] 	= 'Товары';
 // Tab
 $_['tab_latest'] 		= 'Новинки';
 $_['tab_bestseller'] 	= 'Лидеры продаж';
-$_['tab_featured'] 		= 'Рекомендуем';
+$_['tab_featured'] 		= 'Рекомендуємо'; ua
 $_['tab_special'] 		= 'Акции';
 
 // Text
 $_['text_reviews']  	= 'На основе %s отзывов.';
-$_['text_tax']      	= 'Без НДС:';
+$_['text_tax']      	= 'Без ПДВ:'; ua

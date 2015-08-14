@@ -11,7 +11,7 @@ $_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
 $_['text_credit_card']			= 'Информация платежной карты';
 $_['text_start_date']			= '(если известно)';
 $_['text_issue']				= '(только для Maestro и Solo карт)';
-$_['text_wait']					= 'Пожалуйста, подождите!';
+$_['text_wait']					= 'Будь ласка, зачекайте!'; ua
 
 // Entry
 $_['entry_cc_owner']			= 'Card Owner:';

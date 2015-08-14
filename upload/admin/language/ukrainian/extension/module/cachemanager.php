@@ -15,7 +15,7 @@ $_['text_edit']         		  = 'Редактирование';
 $_['text_success']      		  = 'Кэш удален!';
 $_['text_success_img']         	  = 'Кэш изображений удален!';
 $_['text_success_system']      	  = 'Системный кэш удален!';
-$_['text_default']      		  = 'По умолчанию';
+$_['text_default']      		  = 'За замовчуванням'; ua
 
 $_['button_clearallcache']        = 'Удалить весь кэш';
 $_['button_clearcache']           = 'Удалить кэш изображений';

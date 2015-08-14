@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Рекомендуем';
+$_['heading_title'] = 'Рекомендуємо'; ua
 
 // Text
-$_['text_tax']      = 'Без НДС:';
+$_['text_tax']      = 'Без ПДВ:'; ua

@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Последние статьи';
+$_['heading_title']    = 'Останні Статті'; ua
 
 // Text
 $_['text_module']      = 'Модули';

@@ -86,7 +86,7 @@ $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 wi
 
 //General profile options
 $_['text_profile_name']         		= 'Name';
-$_['text_profile_default']      		= 'По умолчанию';
+$_['text_profile_default']      		= 'За замовчуванням'; ua
 $_['text_profile_type']         		= 'Тип'; ua
 $_['text_profile_desc']         		= 'Опис'; ua
 $_['text_profile_action']       		= 'Дія'; ua

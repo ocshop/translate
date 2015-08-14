@@ -7,5 +7,5 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Категории Статей';
+$_['heading_title'] = 'Категорії Статей'; ua
 ?>

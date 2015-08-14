@@ -7,19 +7,19 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_refine']       = 'Выберите подкатегорию';
+$_['text_refine']       = 'Оберіть підкатегорію'; ua
 $_['text_product']      = 'Товары';
-$_['text_error']        = 'Категория не найдена!';
+$_['text_error']        = 'Категорія не знайдена!'; ua
 $_['text_empty']        = 'В этой категории нет товаров.';
 $_['text_quantity']     = 'Кол-во:';
 $_['text_manufacturer'] = 'Производитель:';
 $_['text_model']        = 'Код Товара:';
 $_['text_points']       = 'Бонусные баллы:';
 $_['text_price']        = 'Цена:';
-$_['text_tax']          = 'Без НДС:';
+$_['text_tax']          = 'Без ПДВ:'; ua
 $_['text_compare']      = 'Сравнение товаров (%s)';
-$_['text_sort']         = 'Сортировка:';
-$_['text_default']      = 'По умолчанию';
+$_['text_sort']         = 'Сортування:'; ua
+$_['text_default']      = 'За замовчуванням'; ua
 $_['text_name_asc']     = 'Название (А - Я)';
 $_['text_name_desc']    = 'Название (Я - А)';
 $_['text_price_asc']    = 'Цена (низкая &gt; высокая)';

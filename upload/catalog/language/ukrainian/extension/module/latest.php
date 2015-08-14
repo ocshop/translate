@@ -10,4 +10,4 @@
 $_['heading_title'] = 'Новинки';
 
 // Text
-$_['text_tax']      = 'Без НДС:';
+$_['text_tax']      = 'Без ПДВ:'; ua

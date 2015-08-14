@@ -9,7 +9,7 @@
 // Text
 $_['text_title']				= 'Кредитные и Дебетовые карты';
 $_['text_credit_card']			= 'Информация платежной карты';
-$_['text_wait']					= 'Пожалуйста, подождите!';
+$_['text_wait']					= 'Будь ласка, зачекайте!'; ua
 $_['text_result']				= 'Result';
 $_['text_message']				= 'Повідомлення'; ua
 $_['text_cvn_result']			= 'CVN result';

@@ -12,7 +12,7 @@ $_['heading_title']                    = 'Настройки блога';
 // Text
 $_['text_success']                     = 'Настройки успешно изменены!';
 $_['text_edit']                        = 'Настройки';
-$_['text_article']                     = 'Статьи';
+$_['text_article']                     = 'Статті'; ua
 $_['text_review']                      = 'Отзывы';
 
 // Entry

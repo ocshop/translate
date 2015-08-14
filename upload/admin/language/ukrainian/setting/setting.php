@@ -26,7 +26,7 @@ $_['text_shipping']                    = 'Адреса доставки'; ua
 $_['text_payment']                     = 'Платіжна адреса'; ua
 $_['text_mail']                        = 'Почта';
 $_['text_smtp']                        = 'SMTP';
-$_['text_seo_url'] 					   = 'По умолчанию';
+$_['text_seo_url'] 					   = 'За замовчуванням'; ua
 $_['text_seo_pro']					   = 'SeoPro';
 $_['text_howtosms']          	       = 'Инструкция настройки';
 

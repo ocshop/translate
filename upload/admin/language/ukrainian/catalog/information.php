@@ -7,14 +7,14 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']          = 'Статьи';
+$_['heading_title']          = 'Статті'; ua
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';
 $_['text_list']              = 'Список cтатей';
 $_['text_add']               = 'Добавить';
 $_['text_edit']              = 'Редактирование';
-$_['text_default']           = 'По умолчанию';
+$_['text_default']           = 'За замовчуванням'; ua
 
 // Column
 $_['column_title']           = 'Название статьи';

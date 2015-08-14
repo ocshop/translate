@@ -16,7 +16,7 @@ $_['text_edit']        = 'Редактирование';
 
 // Entry
 $_['entry_name']       = 'Название модуля';
-$_['entry_article']    = 'Статьи';
+$_['entry_article']    = 'Статті'; ua
 $_['entry_limit']      = 'Лимит';
 $_['entry_width']      = 'Ширина';
 $_['entry_height']     = 'Высота';

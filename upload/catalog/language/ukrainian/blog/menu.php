@@ -7,5 +7,5 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_blog']          = 'Блог';
-$_['text_all']           = 'Смотреть Весь';
+$_['text_blog']          = 'Блог'; ua
+$_['text_all']           = 'Дивитися Весь'; ua

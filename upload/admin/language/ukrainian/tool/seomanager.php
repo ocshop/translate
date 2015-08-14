@@ -12,7 +12,7 @@ $_['heading_title']     	= 'SEO Менеджер';
 // Text
 $_['text_success']      	= 'SEO URL успешно обновлены!';
 $_['text_success_clear'] 	= 'Кэш SEO URL успешно сброшен!';
-$_['text_default']      	= 'По умолчанию';
+$_['text_default']      	= 'За замовчуванням'; ua
 $_['text_module']			= 'Модули';
 $_['button_clear_cache'] 	= 'Сбросить кэш';
 $_['button_insert'] 		= 'Добавить';

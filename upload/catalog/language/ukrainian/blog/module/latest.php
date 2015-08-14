@@ -7,10 +7,10 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Последние Статьи';
-$_['text_views'] 	= 'Просмотров:';
-$_['button_more']   = 'подробнее';
+$_['heading_title'] = 'Останні Статті'; ua
+$_['text_views'] 	= 'Переглядів:'; ua
+$_['button_more']   = 'детальніше'; ua
 
 // Text
-$_['text_reviews']  = 'На основании %s отзывов.';
+$_['text_reviews']  = 'На підставі %s відгуків.'; ua
 ?>
