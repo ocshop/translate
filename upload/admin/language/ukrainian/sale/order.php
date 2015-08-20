@@ -115,6 +115,7 @@ $_['entry_amount']               = 'Всього'; ua
 $_['entry_affiliate']            = 'Партнер';
 $_['entry_order_status']         = 'Статус'; ua
 $_['entry_notify']               = 'Уведомить покупателя';
+$_['entry_override']             = 'Переопределение';
 $_['entry_comment']              = 'Коментар'; ua
 $_['entry_currency']             = 'Валюта';
 $_['entry_shipping_method']      = 'Способ доставки';
@@ -126,6 +127,9 @@ $_['entry_order_id']             = '№ Замовлення'; ua
 $_['entry_total']                = 'Всього'; ua
 $_['entry_date_added']           = 'Дата додавання'; ua
 $_['entry_date_modified']        = 'Дата обновления';
+
+// Help
+$_['help_override']              = 'Если заказы блокируется от изменения статуса заказа расширением по борьбе с мошенничеством включить переопределение.';
 
 // Error
 $_['error_warning']              = 'Внимательно проверьте форму на ошибки!';
