@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']             = 'Партнёрская программа';
+$_['heading_title']             = 'Партнерська програма'; ua
 
 // Text
 $_['text_success']              = 'Настройки успешно изменены!';

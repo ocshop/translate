@@ -16,7 +16,7 @@ $_['tbl_column_email']				= 'E-Mail'; ua
 $_['tbl_column_name']				= 'Ім’я'; ua
 $_['tbl_column_transid']			= 'ID транзакции';
 $_['tbl_column_status']				= 'Статус'; ua
-$_['tbl_column_currency']			= 'Валюта';
+$_['tbl_column_currency']			= 'Валюта'; ua
 $_['tbl_column_amount']				= 'Всього'; ua
 $_['tbl_column_fee']				= 'Бесплатно';
 $_['tbl_column_netamt']				= 'Чистая сумма';
@@ -25,7 +25,7 @@ $_['tbl_column_action']				= 'Дія'; ua
 // Text
 $_['text_pp_express']				= 'PayPal Express (включая Кредитные и Дебетовые карты)';
 $_['text_date_search']				= 'Поиск по дате';
-$_['text_searching']				= 'Поиск';
+$_['text_searching']				= 'Пошук'; ua
 $_['text_name']						= 'Ім’я'; ua
 $_['text_buyer_info']				= 'Информация о покупателе';
 $_['text_view']						= 'Перегляд'; ua

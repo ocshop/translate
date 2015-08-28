@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']     = 'Поиск';
+$_['heading_title']     = 'Пошук'; ua
 $_['heading_tag']		= 'По тегу - ';
 
 // Text
@@ -37,5 +37,5 @@ $_['text_model_desc']   = 'Код Товара (Я - А)';
 $_['text_limit']        = 'Показать:';
 
 // Entry
-$_['entry_search']      = 'Поиск';
+$_['entry_search']      = 'Пошук'; ua
 $_['entry_description'] = 'Искать в описании товаров';

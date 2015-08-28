@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Подарочные сертификаты';
+$_['heading_title']    = 'Подарункові сертифікати'; ua
 
 // Text
 $_['text_total']       = 'Учитывать в заказе';

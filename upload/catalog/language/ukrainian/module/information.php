@@ -7,8 +7,8 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Информация';
+$_['heading_title'] = 'Інформація'; ua
 
 // Text
-$_['text_contact']  = 'Связаться с нами';
-$_['text_sitemap']  = 'Карта сайта';
+$_['text_contact']  = 'Зв’язатися з нами'; ua
+$_['text_sitemap']  = 'Мапа сайту'; ua

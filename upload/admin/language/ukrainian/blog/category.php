@@ -11,14 +11,14 @@ $_['heading_title']          = 'Категории блога';
 
 // Text
 $_['text_success']           = 'Настройки успешно изменены!';
-$_['text_list']              = 'Категории';
+$_['text_list']              = 'Категорії'; ua
 $_['text_add']      	     = 'Добавить';
 $_['text_edit']     	     = 'Редактирование';
 $_['text_default']           = 'Основной магазин';
 $_['text_category_total']    = 'Всего категорий: ';
 
 // Column
-$_['column_name']            = 'Категории';
+$_['column_name']            = 'Категорії'; ua
 $_['column_sort_order']      = 'Порядок сортировки';
 $_['column_noindex']         = 'Индексация';
 $_['column_action']          = 'Дія'; ua

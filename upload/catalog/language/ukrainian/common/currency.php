@@ -7,4 +7,4 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_currency'] = 'Валюта';
+$_['text_currency'] = 'Валюта'; ua

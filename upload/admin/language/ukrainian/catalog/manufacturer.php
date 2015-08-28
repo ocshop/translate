@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']      	 = 'Производители';
+$_['heading_title']      	 = 'Виробники'; ua
 
 // Text
 $_['text_success']       	 = 'Настройки успешно изменены!';

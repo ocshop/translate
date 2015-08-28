@@ -13,7 +13,7 @@ $_['heading_title'] 	= 'Товары';
 $_['tab_latest'] 		= 'Новинки';
 $_['tab_bestseller'] 	= 'Лидеры продаж';
 $_['tab_featured'] 		= 'Рекомендуємо'; ua
-$_['tab_special'] 		= 'Акции';
+$_['tab_special'] 		= 'Акції'; ua
 
 // Text
 $_['text_reviews']  	= 'На основе %s отзывов.';

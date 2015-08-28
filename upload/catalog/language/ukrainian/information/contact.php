@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']  = 'Связаться с нами';
+$_['heading_title']  = 'Зв’язатися з нами'; ua
 
 // Text
 $_['text_location']  = 'Наше местонахождение';

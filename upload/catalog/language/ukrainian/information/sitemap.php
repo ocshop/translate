@@ -7,10 +7,10 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Карта сайта';
+$_['heading_title']    = 'Мапа сайту'; ua
 
 // Text
-$_['text_special']     = 'Акции';
+$_['text_special']     = 'Акції'; ua
 $_['text_account']     = 'Особистий Кабінет'; ua
 $_['text_edit']        = 'Личная информация';
 $_['text_password']    = 'Пароль'; ua
@@ -19,6 +19,6 @@ $_['text_history']     = 'Історія замовлення'; ua
 $_['text_download']    = 'Файли для скачування'; ua
 $_['text_cart']        = 'Кошик покупок'; ua
 $_['text_checkout']    = 'Оформлення замовлення'; ua
-$_['text_search']      = 'Поиск';
-$_['text_information'] = 'Информация';
-$_['text_contact']     = 'Связаться с нами';
+$_['text_search']      = 'Пошук'; ua
+$_['text_information'] = 'Інформація'; ua
+$_['text_contact']     = 'Зв’язатися з нами'; ua
