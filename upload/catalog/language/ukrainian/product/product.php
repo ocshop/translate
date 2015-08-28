@@ -28,15 +28,15 @@ $_['text_success']             = 'Спасибо за ваш отзыв. Он п
 $_['text_related']             = 'Рекомендуемые товары';
 $_['text_tags']                = 'Теги:';
 $_['text_error']               = 'Товар не найден!';
-$_['text_payment_recurring']   = 'Платежный профиль';
+$_['text_payment_recurring']   = 'Платіжний профіль'; ua
 $_['text_trial_description']   = 'Сумма: %s; Периодичность: %d %s; Кол-во платежей: %d, Далее ';;
 $_['text_payment_description'] = 'Сумма: %s; Периодичность:  %d %s; Кол-во платежей:  %d ';
 $_['text_payment_cancel']      = 'Сумма: %s; Периодичность:  %d %s(s) ; Кол-во платежей: до отмены';
-$_['text_day']                 = 'День';
-$_['text_week']                = 'Неделя';
-$_['text_semi_month']          = 'Полмесяца';
-$_['text_month']               = 'Месяц';
-$_['text_year']                = 'Год';
+$_['text_day']                 = 'День'; ua
+$_['text_week']                = 'Тиждень'; ua
+$_['text_semi_month']          = 'Півмісяця'; ua
+$_['text_month']               = 'Місяць'; ua
+$_['text_year']                = 'Рік'; ua
 
 // Entry
 $_['entry_qty']                = 'Кол-во';

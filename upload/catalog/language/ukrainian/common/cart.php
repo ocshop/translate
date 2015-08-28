@@ -7,8 +7,8 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_items']     = 'Товаров: %s (%s)';
-$_['text_empty']     = 'Ваша корзина пуста!';
+$_['text_items']     = 'Товарів: %s (%s)'; ua
+$_['text_empty']     = 'Ваш кошик порожній!'; ua
 $_['text_cart']      = 'Посмотреть корзину';
-$_['text_checkout']  = 'Оформление заказа';
-$_['text_recurring'] = 'Платежный профиль';
+$_['text_checkout']  = 'Оформлення замовлення'; ua
+$_['text_recurring'] = 'Платіжний профіль'; ua

@@ -21,9 +21,9 @@ $_['text_recent']                  = 'Последнии заказы';
 $_['text_order']                   = 'Заказы';
 $_['text_customer']                = 'Покупатели';
 $_['text_day']                     = 'Сегодня';
-$_['text_week']                    = 'Неделя';
-$_['text_month']                   = 'Месяц';
-$_['text_year']                    = 'Год';
+$_['text_week']                    = 'Тиждень'; ua
+$_['text_month']                   = 'Місяць'; ua
+$_['text_year']                    = 'Рік'; ua
 $_['text_view']                    = 'Подробнее...';
 
 // Error

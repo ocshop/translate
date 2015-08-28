@@ -18,6 +18,6 @@ $_['text_order']         = 'Історія замовлення'; ua
 $_['text_transaction']   = 'Операції'; ua
 $_['text_download']      = 'Файли для скачування'; ua
 $_['text_logout']        = 'Вихід'; ua
-$_['text_checkout']      = 'Оформление заказа';
+$_['text_checkout']      = 'Оформлення замовлення'; ua
 $_['text_search']        = 'Поиск';
 $_['text_all']           = 'Смотреть Все';

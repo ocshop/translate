@@ -12,11 +12,11 @@ $_['express_text_title']      = 'Подтверждение заказа';
 // Text
 $_['text_title']              = 'PayPal Express (включая Кредитные и Дебетовые карты)';
 $_['button_continue']         = 'Продовжити'; ua
-$_['text_cart']               = 'Корзина покупок';
+$_['text_cart']               = 'Кошик покупок'; ua
 $_['text_shipping_updated']   = 'Доставка обновлена';
 $_['text_trial']              = 'Сумма: %s; Периодичность: %s %s; Кол-во платежей: %s, Далее ';
 $_['text_recurring']          = 'Сумма: %s Периодичность: %s %s';
-$_['text_recurring_item']     = 'Периодические платежи';
+$_['text_recurring_item']     = 'Періодичні платежі'; ua
 $_['text_length']             = ' Кол-во платежей: %s';
 
 // Entry

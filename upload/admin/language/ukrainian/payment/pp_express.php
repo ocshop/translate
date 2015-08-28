@@ -61,7 +61,7 @@ $_['entry_page_colour']				 = 'Page background colour';
 $_['tab_general']					 = 'Основное';
 $_['tab_api']				         = 'API Details';
 $_['tab_order_status']				 = 'Статус'; ua
-$_['tab_checkout']					 = 'Оформление заказа';
+$_['tab_checkout']					 = 'Оформлення замовлення'; ua
 
 // Help
 $_['help_ipn']						 = 'Required for subscriptions';
