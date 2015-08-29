@@ -27,7 +27,7 @@ $_['tab_developer']						= 'Developer';
 // Text
 $_['text_dashboard']         			= 'Панель состояния';
 $_['text_success']         				= 'Success: Settings have been saved';
-$_['text_products']          			= 'Товары';
+$_['text_products']          			= 'Товари'; ua
 $_['text_orders']          				= 'Заказы';
 $_['text_manage']          				= 'Manage';
 $_['text_help']                     	= 'Help';

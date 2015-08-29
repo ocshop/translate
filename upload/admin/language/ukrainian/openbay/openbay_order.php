@@ -18,7 +18,7 @@ $_['button_update']           	= 'Обновить';
 // Column
 $_['column_channel']        	= 'Order Channel';
 $_['column_additional']     	= 'Additional info';
-$_['column_comments']      		= 'Дополнительная информация';
+$_['column_comments']      		= 'Додаткова інформація'; ua
 $_['column_notify']        		= 'Notify';
 
 // Text

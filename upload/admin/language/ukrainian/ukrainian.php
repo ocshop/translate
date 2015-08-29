@@ -104,7 +104,7 @@ $_['button_currency']               = 'Обновить курсы валют';
 $_['button_apply']                  = 'Применить';
 
 // Tab
-$_['tab_address']                   = 'Адрес';
+$_['tab_address']                   = 'Адреса'; ua
 $_['tab_additional']                = 'Дополнительные';
 $_['tab_admin']                     = 'Администратор';
 $_['tab_attribute']                 = 'Характеристики';
@@ -128,7 +128,7 @@ $_['tab_local']                     = 'Локализация';
 $_['tab_mail']                      = 'Почта';
 $_['tab_module']                    = 'Модуль';
 $_['tab_payment']                   = 'Детали оплаты';
-$_['tab_product']                   = 'Товары';
+$_['tab_product']                   = 'Товари'; ua
 $_['tab_reward']                    = 'Бонусні бали'; ua
 $_['tab_shipping']                  = 'Детали доставки';
 $_['tab_total']                     = 'Итоги';

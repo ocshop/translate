@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading 
-$_['heading_title'] 	= 'Товары';
+$_['heading_title'] 	= 'Товари'; ua
 
 // Tab
 $_['tab_latest'] 		= 'Новинки';

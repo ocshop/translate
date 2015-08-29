@@ -16,7 +16,7 @@ $_['text_edit']        = 'Редактирование';
 
 // Entry
 $_['entry_status']     = 'Статус'; ua
-$_['entry_data_feed']  = 'Адрес';
+$_['entry_data_feed']  = 'Адреса'; ua
 
 // Error
 $_['error_permission'] = 'У вас недостаточно прав для внесения изменений!';

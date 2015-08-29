@@ -7,4 +7,4 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_error'] = 'Информационная страница не найдена!';
+$_['text_error'] = 'Інформаційна сторінка не знайдена!'; ua

@@ -7,6 +7,6 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_subject']  = '%s - Новый Пароль';
-$_['text_greeting'] = 'Новый пароль был запрошен от %s.';
-$_['text_password'] = 'Ваш новый пароль:';
+$_['text_subject']  = '%s - новий пароль'; ua
+$_['text_greeting'] = 'Новий пароль був запитаний від %s.'; ua
+$_['text_password'] = 'Ваш новий пароль:'; ua

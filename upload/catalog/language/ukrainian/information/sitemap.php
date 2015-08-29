@@ -12,7 +12,7 @@ $_['heading_title']    = 'Мапа сайту'; ua
 // Text
 $_['text_special']     = 'Акції'; ua
 $_['text_account']     = 'Особистий Кабінет'; ua
-$_['text_edit']        = 'Личная информация';
+$_['text_edit']        = 'Особиста інформація'; ua
 $_['text_password']    = 'Пароль'; ua
 $_['text_address']     = 'Мої Адреси'; ua
 $_['text_history']     = 'Історія замовлення'; ua

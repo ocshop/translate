@@ -8,7 +8,7 @@
 
 // Text
 $_['text_refine']       = 'Оберіть підкатегорію'; ua
-$_['text_product']      = 'Товары';
+$_['text_product']      = 'Товари'; ua
 $_['text_error']        = 'Категорія не знайдена!'; ua
 $_['text_empty']        = 'В этой категории нет товаров.';
 $_['text_quantity']     = 'Кол-во:';

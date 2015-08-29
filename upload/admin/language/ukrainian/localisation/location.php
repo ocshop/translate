@@ -15,22 +15,22 @@ $_['text_list']        = 'Список адресов магазинов';
 $_['text_add']         = 'Добавить';
 $_['text_edit']        = 'Редактирование';
 $_['text_default']     = 'За замовчуванням'; ua
-$_['text_time']        = 'Режим работы';
+$_['text_time']        = 'Режим роботи'; ua
 $_['text_geocode']     = 'Геокод не применен по следующим причинам:';
 
 // Column
 $_['column_name']      = 'Название магазина';
-$_['column_address']   = 'Адрес';
+$_['column_address']   = 'Адреса'; ua
 $_['column_action']    = 'Дія'; ua
 
 // Entry
 $_['entry_name']       = 'Название магазина';
-$_['entry_address']    = 'Адрес';
+$_['entry_address']    = 'Адреса'; ua
 $_['entry_geocode']    = 'Геокод';
 $_['entry_telephone']  = 'Телефон'; ua
 $_['entry_fax']        = 'Факс'; ua
 $_['entry_image']      = 'Зображення'; ua
-$_['entry_open']       = 'Режим работы';
+$_['entry_open']       = 'Режим роботи'; ua
 $_['entry_comment']    = 'Коментар'; ua
 
 // Help

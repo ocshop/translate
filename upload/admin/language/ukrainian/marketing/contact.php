@@ -20,7 +20,7 @@ $_['text_customer_group']  = 'Група покупців:'; ua
 $_['text_customer']        = 'Покупатели';
 $_['text_affiliate_all']   = 'Все партнёры';
 $_['text_affiliate']       = 'Партнёры';
-$_['text_product']         = 'Товары';
+$_['text_product']         = 'Товари'; ua
 
 // Entry
 $_['entry_store']          = 'От';
@@ -28,7 +28,7 @@ $_['entry_to']             = 'Кому';
 $_['entry_customer_group'] = 'Група покупців:'; ua
 $_['entry_customer']       = 'Покупець'; ua
 $_['entry_affiliate']      = 'Партнёр';
-$_['entry_product']        = 'Товары';
+$_['entry_product']        = 'Товари'; ua
 $_['entry_subject']        = 'Тема';
 $_['entry_message']        = 'Повідомлення'; ua
 

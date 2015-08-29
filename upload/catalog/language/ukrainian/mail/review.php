@@ -7,9 +7,9 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Text
-$_['text_subject']	= '%s - Отзыв о Товаре';
-$_['text_waiting']	= 'Новые отзывы ожидают вашей проверки.';
-$_['text_product']	= 'Товар: %s';
+$_['text_subject']	= '%s - Відгук про товар'; ua
+$_['text_waiting']	= 'Нові відгуки очікують вашої перевірки.'; ua
+$_['text_product']	= 'Товар: %s'; ua
 $_['text_reviewer']	= 'Відгук залишив: %s'; ua
 $_['text_rating']	= 'Оцінка: %s'; ua
 $_['text_review']	= 'Відгук:'; ua

@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title'] = 'Запрашиваемая страница не найдена!';
+$_['heading_title'] = 'Запитувана сторінка не знайдена!'; ua
 
 // Text
-$_['text_error']    = 'Запрашиваемая страница не найдена!';
+$_['text_error']    = 'Запитувана сторінка не знайдена!'; ua

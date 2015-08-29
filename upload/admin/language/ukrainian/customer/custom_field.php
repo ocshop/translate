@@ -26,7 +26,7 @@ $_['text_date']             = 'Дата';
 $_['text_datetime']         = 'Дата и время';
 $_['text_time']             = 'Время';
 $_['text_account']          = 'Особистий Кабінет'; ua
-$_['text_address']          = 'Адрес';
+$_['text_address']          = 'Адреса'; ua
 
 // Column
 $_['column_name']           = 'Название настраиваемого поля';
