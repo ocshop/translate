@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading 
-$_['heading_title'] = 'Популярные Товары';
+$_['heading_title'] = 'Популярні товари'; ua
 
 // Text
 $_['text_reviews']  = 'На підставі %s відгуків.'; ua 

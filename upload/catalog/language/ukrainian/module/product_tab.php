@@ -10,11 +10,11 @@
 $_['heading_title'] 	= 'Товари'; ua
 
 // Tab
-$_['tab_latest'] 		= 'Новинки';
-$_['tab_bestseller'] 	= 'Лидеры продаж';
+$_['tab_latest'] 		= 'Новинки'; ua
+$_['tab_bestseller'] 	= 'Лідери продажу'; ua
 $_['tab_featured'] 		= 'Рекомендуємо'; ua
 $_['tab_special'] 		= 'Акції'; ua
 
 // Text
-$_['text_reviews']  	= 'На основе %s отзывов.';
+$_['text_reviews']  	= 'На підставі %s відгуків.'; ua
 $_['text_tax']      	= 'Без ПДВ:'; ua

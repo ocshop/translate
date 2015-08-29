@@ -16,7 +16,7 @@ $_['text_edit']        	= 'Редактирование';
 $_['text_list']         = 'Layout List';
 $_['text_register']     = 'You need to register and enable OpenBay Pro for eBay!';
 $_['text_about'] 		= 'The eBay display module allows you to display products from your eBay account directly on your website.';
-$_['text_latest']       = 'Новинки';
+$_['text_latest']       = 'Новинки'; ua
 $_['text_random']       = 'Random';
 
 // Entry

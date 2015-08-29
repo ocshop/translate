@@ -7,7 +7,7 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']    = 'Фильтр';
+$_['heading_title']    = 'Фільтр'; ua
 
 // Text
 $_['text_module']      = 'Модули';
