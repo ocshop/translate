@@ -13,4 +13,4 @@ $_['heading_title'] = 'Капча'; ua
 $_['entry_captcha'] = 'Введіть код в поле нижче'; ua
 
 // Error
-$_['error_captcha'] = 'Невірно введений код з картинки!'; ua
+$_['error_captcha'] = 'Невірно введений код!'; ua
