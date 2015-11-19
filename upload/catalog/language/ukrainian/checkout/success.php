@@ -7,7 +7,8 @@
 // *	@license	GNU General Public License version 3; see LICENSE.txt
 
 // Heading
-$_['heading_title']        = 'Ваше замовлення сформоване!'; ua
+$_['heading_title']          = 'Ваше замовлення #%s сформоване!'; ua
+$_['heading_title_customer'] = 'Ваше замовлення #%s сформоване!'; ua
 
 // Text
 $_['text_basket']          = 'Кошик покупок'; ua
