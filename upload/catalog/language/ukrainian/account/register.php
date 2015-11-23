@@ -49,6 +49,7 @@ $_['error_postcode']       = 'Індекс повинен бути від 2 до
 $_['error_country']        = 'Будь ласка, вкажіть країну!'; ua
 $_['error_zone']           = 'Будь ласка, вкажіть регіон / область!'; ua
 $_['error_custom_field']   = '%s необхідний!'; ua
+$_['error_custom_field_validate'] = '%s Недійсний!'; ua
 $_['error_password']       = 'Пароль повинен бути від 4 до 20 символів!'; ua
 $_['error_confirm']        = 'Паролі не співпадають!'; ua
 $_['error_agree']          = 'Ви повинні прочитати і погодиться з %s!'; ua
